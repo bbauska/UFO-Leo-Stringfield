@@ -1,12 +1,12 @@
-UFO CRASH RETRIEVALS 
+## UFO CRASH RETRIEVALS 
 
-STATUS REPORT V IS THE COVERUP LID LIFTING? 
+# STATUS REPORT V IS THE COVERUP LID LIFTING? 
 
-By Leonard H. Stringfield January 1989 
+### By Leonard H. Stringfield January 1989 
 
-# UFO Crash/Retrievals: Is The Coverup Lid Lifting? Status Report V By Leonard H. Stringfield 
+### UFO Crash/Retrievals: Is The Coverup Lid Lifting? Status Report V By Leonard H. Stringfield 
 
-###### Prologue 
+### Prologue 
 
 At this writing, many issues of controversey hang over UFO research. Some have caused bitter differences 
 between team members; some can backfire and smear the image of objective research itself. In the middle 
@@ -97,8 +97,6 @@ importantly, some provided new backup information for cases cited in inj: pre-
 A seemingly stupid question when we hear so many lurid<sup>tales</sup> about abductions, alien underground 
 installations, genetic manipulation, animal 
 
-###### 151 
-
 viously published status reports. Most rewarding was the timely emergence of persons serving in covert 
 positions with substantive information in key areas of my work. Reflecting back, I see in them parallels 
 to the medical sources in. 1978 who surfaced and shared graphic descriptive anatomical details of the alien 
@@ -106,7 +104,7 @@ body for release in Status Report 11, The UFO Crash/Retrieval Syndrome. As a mat
 information remains to this day analogous to most reports of alien encounters and is much like the 
 computerized rendition shown in October 1988, on the TV documentary, The UFO Coverup. 
 
-###### Tabloids 
+### Tabloids 
 
 Proof? Of course not. Getting close to it? Perhaps. And, yes, I'm aware of the adroit arts of disinformation. 
 While I see no evidence of devious game-playing in my current input, nor in some of the material received 
@@ -187,11 +185,9 @@ True, that some of the best made plans go awry, and true, that some entries in m
 weaknesses and some, based on new information, have become questionable. An example is Case A-2, Status 
 Report M. However, the mainstream 
 
-1 52 
+### crash in Mexico." 
 
-###### crash in Mexico." 
-
-##### Something unidentified crashed into a heavily wooded mountain in the township of St. Geniez, France, 
+### Something unidentified crashed into a heavily wooded mountain in the township of St. Geniez, France, 
 March 18, 1972. According to witnesses it caused brush fires over a forty acre area. 
 
 CASE 5) Something unidentified crashed into a heavily wooded mountain in the township of St. Geniez, France, 
@@ -263,7 +259,7 @@ a location near saying. JA never heard more about Paris." the saucer or the bodi
 emphasized that his report remember reading a brief item in a was not conclusive and investigations San 
 Diego newspaper about the were still in progress. Listed were 
 
-###### Texas-Mexico 
+### Texas-Mexico 
 
 CASE 4) With the confusion among researchers over the number, locations and dates for several alleged UFO crashes 
 on the Texas border with Mexico — and in Mexico — Tom Deuley, who<sup>heads the MUFON</sup> team in Texas, wrote 
@@ -347,9 +343,6 @@ metallic fragments from the debris to prove it.
 Time went by without further contact. But I felt that something was strange, something amiss about the case. 
 Concerned, I got in touch with a former Air Force intelligence officer who had the "right" connections, and 
 asked if he could help throw light on the affair. Two days later, he called back to relate that he had been in 
-
-###### 154 
-
 touch with the "right" person and ed to crash/retrievals and I mentiin a building in a certain section that 
 was told that there had been "no sigoned the alleged crash in Brown they were to "let it burn." A sign nificant 
 UFO sightings in that area for County. "Oh yes," said my knowlread, "No Fire Trucks Allowed." 1-b the past year." 
@@ -397,11 +390,7 @@ the base and access to same in case of emergency, he and crew were instructed th
 In April of 1988, a researcher, joined by a person knowledgeable of military intelligence operations, visited 
 my home to discuss an abduction case. Inevitably, the conversation drift- 
 
-155 
-
 ## UFO Crash/Retrievals: Is the Coverup Lid Lifting? Status Report V By Leonard H. Stringfield 
-
-###### Part 11 
 
 From my perspective the official coverup and the way it was controlled seemed as effective as ever up to the Fall 
 of 1987. Both the Kentucky and Ohio incidents described in Part 1 which involved civilians, show that anything 
@@ -440,7 +429,8 @@ by the PASU group, it may be upfront with Roswell.
 As Case B-1, the incident originally was reviewed in Status Report II by Clark McClelland but, at that time, 
 save for knowing that something had crashed and was retrieved, there was some uncertainty about the nature of 
 the object. The Air Force, of course, explained it away as a meteorite; others suggested space debris. Gordon, 
-however, accepted neither explanation as more information and FOIA data surfaced. In the spirit of<sup>cooper-</sup> ation, he kept me informed. 
+however, accepted neither explanation as more information and FOIA data surfaced. In the spirit 
+of<sup>cooper-</sup> ation, he kept me informed. 
 
 Then, in 1987, by good fortune. Stan met "Pete" who showed up at a PASU UFO exhibit at a local mall. Having 
 feared<sup>ridiculefor</sup> 12 years, he finally decided to tell his story. It be- 
@@ -450,15 +440,34 @@ help in the search for something that crashed in a wooded area, possibly an airc
 said, was when the crash site was located, they found instead of an aircraft, something else — a large acorn-
 shaped object embedded deep into the ground. 
 
-Armed with Pete's new information. Gordon published the full Kecksburg story, in great detail, in Pursuit, the final quarter 1987 issue. In this lengthy paper he reports the UFO's flight pattern across several states, tells of the firsthand experiences of local residents who saw the fireball crash and of others who witnessed the sudden, incursive "takeover" by the military to perform the retrieval operation. According to Gordon, many of the local citizens viewed the action as constituting a state of martial law, and comments, "Many were influenced enough by their contacts with military or local authorities to the effect that they refused to discuss what they saw or were told even to this day." 
+Armed with Pete's new information. Gordon published the full Kecksburg story, in great detail, in 
+Pursuit, the final quarter 1987 issue. In this lengthy paper he reports the UFO's flight pattern 
+across several states, tells of the firsthand experiences of local residents who saw the fireball 
+crash and of others who witnessed the sudden, incursive "takeover" by the military to perform the 
+retrieval operation. According to Gordon, many of the local citizens viewed the action as constituting 
+a state of martial law, and comments, "Many were influenced enough by their contacts with military 
+or local authorities to the effect that they refused to discuss what they saw or were told even to 
+this day." 
 
-More being chased from the crash site by the retrieval team, Pete and companions had a closehand look at the semi-submerged mystery object. To them, it appeared that the object had descended in about a 30 degree angle and had broken tree limbs and knocked down a 15 to 20-foot high tree beioce impacting. The trench was about 25 feet long and at the greatest depth about 7 feet. Puzzling was that there were no signs of fire. The size of the acorn-shaped UFO — without windows or seams — could not be determined because of its submergence, but it was estimated to have been about 7 feet high and 
+More being chased from the crash site by the retrieval team, Pete and companions had a closehand 
+look at the semi-submerged mystery object. To them, it appeared that the object had descended in 
+about a 30 degree angle and had broken tree limbs and knocked down a 15 to 20-foot high tree 
+beioce impacting. The trench was about 25 feet long and at the greatest depth about 7 feet. 
+Puzzling was that there were no signs of fire. The size of the acorn-shaped UFO — without 
+windows or seams — could not be determined because of its submergence, but it was estimated 
+to have been about 7 feet high and 
 
 156 
 
-case that should cause skeptics to think twice before they impugn the existence of UFOs or the plausibility of the extraterrestrial hypothesis. 
+case that should cause skeptics to think twice before they impugn the existence of UFOs or the 
+plausibility of the extraterrestrial hypothesis. 
 
-Though most of Roswell's firsthand sources were civilian, the overall evidence supporting this "nut-and-bolt" incident is massive. Of significance, ironically, is the report that news of the UFO's discovery at the base slipped out in an "uncleared" press release by the PIO, 1st Lt. Walter Haut. Had it not been for a fast and effective coverup, the full story once in public domain could have rewritten what we know as history. Having been informed, perhaps mankind in his philosophical and geopolitical pursuits would have chosen a wiser course. 
+Though most of Roswell's firsthand sources were civilian, the overall evidence supporting this 
+"nut-and-bolt" incident is massive. Of significance, ironically, is the report that news of the 
+UFO's discovery at the base slipped out in an "uncleared" press release by the PIO, 1st Lt. 
+Walter Haut. Had it not been for a fast and effective coverup, the full story once in public 
+domain could have rewritten what we know as history. Having been informed, perhaps mankind in 
+his philosophical and geopolitical pursuits would have chosen a wiser course. 
 
 ###### Author Leonard H. Stringfield 
 
@@ -470,7 +479,9 @@ Pete, in trying to give a better description of the craft, said that it gave him
 beach ball pushed in and, toward the bottom, there was a ring or bumper. like structure about 8 to 10 inches 
 wide that seemed to cover the circumference of the object. On this bumper, he said, which was raised up off 
 the surface, was a writing that looked like Egyptian hieroglyphics. He remembered the characters of broken 
-and straight lines, dots, rectangles and circles. As a machinist for 25 years and familiar with<sup>metals,</sup> solid and liquid, he<sup>said,</sup> "Never in my life have I seen the color of that metal in any shape or form." 
+and straight lines, dots, rectangles and circles. As a machinist for 25 years and familiar with<sup>metals,
+</sup> solid and liquid, he<sup>said,</sup> "Never in my life have I seen the color of that metal in any 
+shape or form." 
 
 There is much, much more to Gordon's article. like his learning later that Air Force records showed that 
 NORAD's Space Detection and Tracking System did not have any space junk reentering Earth's atmosphere that 
@@ -596,7 +607,11 @@ Marcattilio, a MUFON investigator in New Jersey, the source, "Mr. S," whom he kn
 employment, told him that he heard the rumors about the incident and on his own time tried to round up the 
 facts. But he got nowhere and learned that all records, tapes, everything, had been destroyed. He was also 
 advised to stop snooping. When Marcattilio later tried to get more details from "Mr. S" he "seemed very nervous 
-and refused to talk about it." In September 1988 a new<sup>source</sup> with convincing credentials<sup>called</sup> me about the incident.<sup>As</sup> a MUFON State Section Director in New Jersey and presently serving<sup>as</sup> vice<sup>presi-</sup> dent of the Air Force Association, he was in January 1978 an intelligence officer with rank of major at McGuire AFB. Although not a witness to the retrieval operations, he was in a key position to put the twos-and-twos 
+and refused to talk about it." In September 1988 a new<sup>source</sup> with convincing credentials<sup>called</sup> 
+me about the incident.<sup>As</sup> a MUFON State Section Director in New Jersey and presently serving<sup>as</sup> 
+vice<sup>presi-</sup> dent of the Air Force Association, he was in January 1978 an intelligence officer with rank 
+of major at McGuire AFB. Although not a witness to the retrieval operations, he was in a key position to put the 
+twos-and-twos 
 
 together enough to give credence to the story told by Morse. His letter of September 6th to me, in part, 
 follows: "... I attempted to recall as best I could the report of the alien being shot on the base back 
@@ -656,20 +671,16 @@ to fill me in on the situation show that such incidents, if true, but he avoided
 to explain to a Assuming this was an alien, I wonder benighted public. Thus, the coverup. how he got lost from his 
 craft?" 
 
-###### El Yunque Yunque 
+### El Yunque Yunque 
 
 The answer to my source's quesEl Yunque Yunque tion comes from still another officer allegedly on the scene in 
 early JanuCASE 13) Had I known when I was ary during a phase of significant UFO touring San Juan in Puerto Rico 
 activity over the two large military March 7, 1984 that a UFO had compounds. During this phase, I was crashed on 
 February 19 into the 
 
-###### 159 
-
 I was told one of the craft had malfunctioned and crash-landed. One survivor, lost and starving, managed to reach 
 the outer perimeter near a guard post at Ft. Dix and was shot by an MP. 
-
 when he tried to reach the area his car suddenly went dead. 
-
 mountainous region of El Yunque and, had I gone there, I would have found units of the military retrieval team 
 still active. 
 
@@ -725,11 +736,6 @@ costs.
 CASE 14) John Lear, MUFON State Director for Nevada, undaunted in his pursuit of people, anywhere, to get 
 UFO facts, has extensively lectured and made several radio and TV 
 
-
-
-<!-- Start of picture text -->
-160<br><!-- End of picture text -->
-
 Ordered to disrobe, they were issued white smocks and combat boots for security purposes. Mike was then 
 escorted into the installation where he saw a disc-shaped craft about 30 feet in diameter contained in a 
 heavy net suspended from a large crane. 
@@ -778,7 +784,7 @@ He<sup>com-</sup> mented, "I could have thrown a loot.
 
 visual differences of anatomical sizes and heights. 
 
-###### FBI? 
+### FBI? 
 
 CASE 15) For those of us in research who wonder Or worry about the rigors of coverup, effective for so long, 
 the suspicion remains that the reason for it must be compelling; in fact, so compelling that it may explain 
@@ -790,7 +796,7 @@ of service in an Eastern state. Through the cooperation of John Ford, head of th
 I first received word August 5. 1988, that his source had information concerning a crashed disc and the 
 recovery of seven bodies in a western state, which in some way 
 
-###### also involved the FBI. 
+### also involved the FBI. 
 
 Filling Ford's request for a notarized statement, insuring his source's anonymity, I then received his 
 videotaped interview with him. After viewing this, which firmly established the former officer's credentials, 
@@ -803,153 +809,332 @@ in the night for urgent medical needs died suddenly of 'cancer" three weeks late
 according to my informant, he observed that the talkative agent was booted under the table by his 
 companion. The subject was dropped and nothing was said about the FBI's role in the affair. 
 
-Sudden and accidental death stories I've heard before. Never finding any substantiation, I relegated them to a quirk of orchestrated propaganda, probably a scare tactic to intimidate potential whistle-blowers. 
+Sudden and accidental death stories I've heard before. Never finding any substantiation, I relegated 
+them to a quirk of orchestrated propaganda, probably a scare tactic to intimidate potential whistle-
+blowers. 
 
-###### 161 
+However, reports of suspicious deaths, darkly and deeply linked to UFOs, persist and continue to 
+cause speculation. Word comes from Gordon Creighton, editor of the informative Flying Saucer Review, 
+who notes a possible deathly tie-in with the U.S. "Star Wars" program. Quoting his letter of November 
+15, 1988, in part, as follows: "... Here in Britain 22 scientists have recently either taken their 
+own lives or died in very strange or mysterious circumstances. And it seems that most, or all, of 
+them were engaged in British work on behalf of, or related to, the U.S. "Star Wars" program. The 
+British government, it seems, was trying to hush it up. But, press statements here say that the U.S. 
+government had put our govern• ment on the spot and demanded full enquiry. So quite clearly, it is 
+either the Russians or THEM." 
 
-However, reports of suspicious deaths, darkly and deeply linked to UFOs, persist and continue to cause speculation. Word comes from Gordon Creighton, editor of the informative Flying Saucer Review, who notes a possible deathly tie-in with the U.S. "Star Wars" program. Quoting his letter of November 15, 1988, in part, as follows: "... Here in Britain 22 scientists have recently either taken their own lives or died in very strange or mysterious circumstances. And it seems that most, or all, of them were engaged in British work on behalf of, or related to, the U.S. "Star Wars" program. The British government, it seems, was trying to hush it up. But, press statements here say that the U.S. government had put our govern• ment on the spot and demanded full enquiry. So quite clearly, it is either the Russians or THEM." 
+As many researchers have surmised, "Star Wars," obstensibly conceived as a defensive system against 
+Russian missile attack, may have had from its beginning a "defensive" UFO connection. Whatever the 
+case, a "mock test" in September 1988, of an earth-penetrating warhead --- much like "Star Wars" 
+in reverse — was conducted at the Tonapah Test Range in Nevada. While announced as a proposed super-
+weapon designed to destroy Russian underground command centers dug in solid rock down to 1000 meters, 
+some UFO analysts believe that the real target is not Russian but another adversary down deep in 
+cavernous installations in Nevada and New Mexico. 
 
-As many researchers have surmised, "Star Wars," obstensibly conceived as a defensive system against Russian missile attack, may have had from its beginning a "defensive" UFO connection. Whatever the case, a "mock test" in September 1988, of an earth-penetrating warhead --- much like "Star Wars" in reverse — was conducted at the Tonapah Test Range in Nevada. While announced as a proposed super-weapon designed to destroy Russian underground command centers dug in solid rock down to 1000 meters, some UFO analysts believe that the real target is not Russian but another adversary down deep in cavernous installations in Nevada and New Mexico. 
+retrieval events must be reckoned with. They may have at least a peripheral pertinence to fears, 
+causing suicide or extreme security measures to maintain a monstrous coverup, 
 
-retrieval events must be reckoned with. They may have at least a peripheral pertinence to fears, causing suicide or extreme security measures to maintain a monstrous coverup, 
+At this writing (early December, 1988) I have four other sources with UFO crash/retrieval information 
+not included in this report. Most, as far as 1 know, are in positions to throw strong light on the 
+humanoid factor and other phases of retrieval operations, which could confirm informalion already 
+cited in my previous papers. But, at this stage, in some instances dependent on intermediaries, I 
+find the material to be either too fragmentary or too sensitive to even hint at as to its nature. 
 
-At this writing (early December, 1988) I have four other sources with UFO crash/retrieval information not included in this report. Most, as far as 1 know, are in positions to throw strong light on the humanoid factor and other phases of retrieval operations, which could confirm informalion already cited in my previous papers. But, at this stage, in some instances dependent on intermediaries, I find the material to be either too fragmentary or too sensitive to even hint at as to its nature. 
+The material herein was originally intended as an article updating my work for publication in the 
+MUFON UFO Journal early in 1989. As I drafted my copy, however, I soon realized that I had enough 
+for a 2. part article, also to be released separately as Status Report V. 
 
-The material herein was originally intended as an article updating my work for publication in the MUFON UFO Journal early in 1989. As I drafted my copy, however, I soon realized that I had enough for a 2. part article, also to be released separately as Status Report V. 
+According to the Pentagon the proposed earth-penetrating warhead is "urgently needed." According 
+to the rumormills, an alien race, the "grays," in their fortressecl underground laboratories, are 
+genetically experimenting with the human race. Even more ominous, rumors say that their intransigence 
+today may lead to new perils tomorrow. 
 
-According to the Pentagon the proposed earth-penetrating warhead is "urgently needed." According to the rumormills, an alien race, the "grays," in their fortressecl underground laboratories, are genetically experimenting with the human race. Even more ominous, rumors say that their intransigence today may lead to new perils tomorrow. 
-
-It is beyond the scope of this paper to speculate on all the sinister machinations attributed to the alien superrace, but news of the British death syndrome and my awareness of other suspicious deaths and disappearances allegedly connected to UFO crash and 
-
-162 
+It is beyond the scope of this paper to speculate on all the sinister machinations attributed to the 
+alien superrace, but news of the British death syndrome and my awareness of other suspicious deaths 
+and disappearances allegedly connected to UFO crash and 
 
 ### UFO CRASH/RETRIEVALS: THE CONCEPT OF PROOF 
 
 #### By Leonard H. Stringfield (Cincinnati, Ohio) 
 
-As I emphasised in my article Crashed Disc Reports And Dead Crew Reports: The Very Nub Of The UFO Phenomenon (FSR 36/3), the world expert in the investigation of this aspect of our problem is quite unquestionably the great pioneer Leonard Stringfield who, with such impressive tenacity, has hung on for all these years, constantly attacking the crucial question of the crashed craft and producing so far a total of six Status Reports on his Findings. Of these six Reports, FSR was able to reproduce the first two in their entirety and in the days to come we shall do our best to add more. As I have also repeatedly emphasised, had we had the means and the funds and the pages available, we would have reproduced far more by now. Status Report No. VI is still available from Mr. Stringfield, and we have already advertised it on the inside front cover of FSR 36/4. Status Reports Nos. III, IV, and V are also still available from him. (See details below.) 
+As I emphasised in my article Crashed Disc Reports And Dead Crew Reports: The Very Nub Of The UFO 
+Phenomenon (FSR 36/3), the world expert in the investigation of this aspect of our problem is quite 
+unquestionably the great pioneer Leonard Stringfield who, with such impressive tenacity, has hung 
+on for all these years, constantly attacking the crucial question of the crashed craft and producing 
+so far a total of six Status Reports on his Findings. Of these six Reports, FSR was able to reproduce 
+the first two in their entirety and in the days to come we shall do our best to add more. As I have 
+also repeatedly emphasised, had we had the means and the funds and the pages available, we would have 
+reproduced far more by now. Status Report No. VI is still available from Mr. Stringfield, and we have 
+already advertised it on the inside front cover of FSR 36/4. Status Reports Nos. III, IV, and V are 
+also still available from him. (See details below.) 
 
-The present article has already appeared, in April 1990, in the U.S. magazine For The People, and Mr. Stringfield has also authorised us to reprint it and has sent me this copy. I feel sure that it will serve as a useful introduction to the 'Crashed Disc Problem' for the many newer or younger FSR readers who are still insufficiently aware of the strong case that has been assembled. EDITOR 
+The present article has already appeared, in April 1990, in the U.S. magazine For The People, and Mr. 
+Stringfield has also authorised us to reprint it and has sent me this copy. I feel sure that it will 
+serve as a useful introduction to the 'Crashed Disc Problem' for the many newer or younger FSR readers 
+who are still insufficiently aware of the strong case that has been assembled. EDITOR 
 
-roof! In mundane affairs, such as in our judicial system, the word proof may be used flexibly as confirmation for any moot legal pissue. Not so in LIFOlogy. Proof here, as confirmation that a saucer-like alien craft exists, is highly interpretable and manipulative. In the judgment of the media and most members of the scientific community, testimonial evidence by reliable witnesses, who claim close encounters with unidentified alien craft, is critically challenged as illusory or it is ignored. It is not proof, say the pundits. Well, it's been that way since Ken Arnold who saw nine saucer-like things while flying over Mt. Rainier in 1947. But it was the saucer crash and recovery near Roswell, New Mexico, that same year, that really brought the iron lid of secrecy down on the subject. The incident was officially dismissed, and poof went the proof. 
+roof! In mundane affairs, such as in our judicial system, the word proof may be used flexibly as 
+confirmation for any moot legal pissue. Not so in LIFOlogy. Proof here, as confirmation that a 
+saucer-like alien craft exists, is highly interpretable and manipulative. In the judgment of the 
+media and most members of the scientific community, testimonial evidence by reliable witnesses, 
+who claim close encounters with unidentified alien craft, is critically challenged as illusory or 
+it is ignored. It is not proof, say the pundits. Well, it's been that way since Ken Arnold who 
+saw nine saucer-like things while flying over Mt. Rainier in 1947. But it was the saucer crash 
+and recovery near Roswell, New Mexico, that same year, that really brought the iron lid of secrecy 
+down on the subject. The incident was officially dismissed, and poof went the proof. 
 
-Since Roswell. where an alien craft and dead crew members were retrieved by the military, secrecy has prevailed. Because of this censorship, no one, without a top-secret, "need-to-know" credential, is privileged to see the evidence. Despite secrecy, however, a few of us in research do have the sworn testimony of many credible witnesses who have leaked out bits and pieces of information about the Roswell incident and other covert retrieval operations. I am, proudly, among the privileged to have, at this time of writing, 38 firsthand, independent sources who claim to have been in a key position during retrieval events and to have seen the alien craft and/or the cadavers. 
+Since Roswell. where an alien craft and dead crew members were retrieved by the military, secrecy 
+has prevailed. Because of this censorship, no one, without a top-secret, "need-to-know" credential, 
+is privileged to see the evidence. Despite secrecy, however, a few of us in research do have the 
+sworn testimony of many credible witnesses who have leaked out bits and pieces of information about 
+the Roswell incident and other covert retrieval operations. I am, proudly, among the privileged to 
+have, at this time of writing, 38 firsthand, independent sources who claim to have been in a key 
+position during retrieval events and to have seen the alien craft and/or the cadavers. 
 
-Still other types of evidence — or, proof if you will are abundant from military pilots, Intelligence personnel and even scientists in-the-know, most. of whom will not allow their identities to be known for fear of reprisals. And, there are thousands of others of our responsible citizenry who know from personal experiences that a real UFO exists and that it is a structured craft of probable extraterrestrial origin. Each in his own way is aware of the "proofs" but, when trying to prove it to the media, for instance, their testimony is not proof. Proof, thus, is a much battered word. 
+Still other types of evidence — or, proof if you will are abundant from military pilots, Intelligence 
+personnel and even scientists in-the-know, most. of whom will not allow their identities to be known 
+for fear of reprisals. And, there are thousands of others of our responsible citizenry who know from 
+personal experiences that a real UFO exists and that it is a structured craft of probable extraterrestrial 
+origin. Each in his own way is aware of the "proofs" but, when trying to prove it to the media, for 
+instance, their testimony is not proof. Proof, thus, is a much battered word. 
 
-Now let's take a look-see at some of the hidden evidence, based on my own investigations. It may not be the proof-positive we all seek, but I feel comfortable knowing that some of it may someday be revealed as fact — and backed by proof. 
+Now let's take a look-see at some of the hidden evidence, based on my own investigations. It may not0 
+be the proof-positive we all seek, but I feel comfortable knowing that some of it may someday be 
+revealed as fact — and backed by proof. 
 
-Out of the 38 firsthand witness cases written up in my series of Status Reports, or on file, I believe that five stand out above the rest. They are described briefly as follows: 
+Out of the 38 firsthand witness cases written up in my series of Status Reports, or on file, I 
+believe that five stand out above the rest. They are described briefly as follows: 
 
-###### Case I 
+### Case I 
 
-Hardly enough can be said in praise for my medical sources cited so often in my Status Reports. Introduced to me through a close research friend who knew the "right" people, a doctor, a noted haematologist, who had allegedly performed an autopsy on an alien body, agreed in due course to share with me, under strict conditions, bits and pieces of its descriptive features. 
+Hardly enough can be said in praise for my medical sources cited so often in my Status Reports. Introduced 
+to me through a close research friend who knew the "right" people, a doctor, a noted haematologist, who had 
+allegedly performed an autopsy on an alien body, agreed in due course to share with me, under strict 
+conditions, bits and pieces of its descriptive features. 
 
 While the doctor's "authoritative" information was helpful in opening doors to new sources, 
 
-163 
+and as a stimulus for me in my drive for higher standards in my work, the reason for his co-operative 
+gesture was never explained to me. 
 
-and as a stimulus for me in my drive for higher standards in my work, the reason for his co-operative gesture was never explained to me. 
+It was at the high point of my C/R work in July 1979, after a year of "negotiations", that I received 
+from the doctor, in the mail, a surprisingly informative statement detailing in layman's language the 
+head-to-toe anatomy of the alien and, returning with it, with corrective comments, my own drawing of a 
+hypothetical being submitted by me earlier for his critical review. See the doctor's analytical paper 
+published in Status Report II, The UFO Crash/Retrieval Syndrome. 
 
-It was at the high point of my C/R work in July 1979, after a year of "negotiations", that I received from the doctor, in the mail, a surprisingly informative statement detailing in layman's language the head-to-toe anatomy of the alien and, returning with it, with corrective comments, my own drawing of a hypothetical being submitted by me earlier for his critical review. See the doctor's analytical paper published in Status Report II, The UFO Crash/Retrieval Syndrome. 
+Thanks to the doctor's colleague, a biochemist whom I got to know well, and who had also been in a 
+position to view the alien tissue under microscope, a dialogue was limitedly maintained. But. hard 
+times took over in late 1980, when most of my sources dried up. As though orchestrated, I was told 
+at that time, through the colleague, that no more information about the alien could be released. 
 
-Thanks to the doctor's colleague, a biochemist whom I got to know well, and who had also been in a position to view the alien tissue under microscope, a dialogue was limitedly maintained. But. hard times took over in late 1980, when most of my sources dried up. As though orchestrated, I was told at that time, through the colleague, that no more information about the alien could be released. 
+I have had reasons to believe that my medical sources, from the beginning, were given the "nod" to 
+provide general or limited information about the alien for a reason — maybe as a test to determine 
+public reaction, and to ascertain how UFO research might digest it. 
 
-I have had reasons to believe that my medical sources, from the beginning, were given the "nod" to provide general or limited information about the alien for a reason — maybe as a test to determine public reaction, and to ascertain how UFO research might digest it. 
+The source and his colleague both held key staff positions at a major hospital in the Eastern USA 
+during the interlude of co-operation. The risks were too great to play games of charade. Trust was 
+a factor in all our dealings then, and still is. 
 
-The source and his colleague both held key staff positions at a major hospital in the Eastern USA during the interlude of co-operation. The risks were too great to play games of charade. Trust was a factor in all our dealings then, and still is. 
+### Case 11 
 
-###### Case 11 
+My source, a pilot in the Air National Guard, claimed he had witnessed "by accident", while on duty, 
+three humanoid corpses which had been flown to Wright-Patterson AFB from a UFO crash site in Arizona 
+in 1953. He gave me this confidential information following my talk before the Cincinnati Chapter of 
+World Wings, a pilots' organisation, at Lunken Airport in 1977, just after my book Situation Red, The 
+UFO Siege was published. Discreetly, he took me to the large map room, pointed to an isolated spot and 
+said, "There's approximately where the saucer crashed." 
 
-My source, a pilot in the Air National Guard, claimed he had witnessed "by accident", while on duty, three humanoid corpses which had been flown to Wright-Patterson AFB from a UFO crash site in Arizona in 1953. He gave me this confidential information following my talk before the Cincinnati Chapter of World Wings, a pilots' organisation, at Lunken Airport in 1977, just after my book Situation Red, The UFO Siege was published. Discreetly, he took me to the large map room, pointed to an isolated spot and said, "There's approximately where the saucer crashed." 
+According to the pilot, the bodies, four feet tall and typical of other described specimens, were crated 
+individually in small hastily-constructed wooden boxes. While the lids were being temporarily opened by 
+the overseeing officer, possibly to check the condition of his cargo, the pilot also got a glimpse of a 
+plastic liner separating the body from a bed of dry ice, probably to prevent epidermis damage. 
 
-According to the pilot, the bodies, four feet tall and typical of other described specimens, were crated individually in small hastily-constructed wooden boxes. While the lids were being temporarily opened by the overseeing officer, possibly to check the condition of his cargo, the pilot also got a glimpse of a plastic liner separating the body from a bed of dry ice, probably to prevent epidermis damage. 
+They were not human or simian, he stressed, as he had observed them from a distance of 12 feet under 
+strong hangar lights. Later that night, while billeted in the same barracks with officers of the 
+flight crew who had transported the secret cargo, he got confirmation of the UFO crash and other 
+details of the retrieval operation. 
 
-They were not human or simian, he stressed, as he had observed them from a distance of 12 feet under strong hangar lights. Later that night, while billeted in the same barracks with officers of the 
+In August 1978 I requested an affidavit, on tape, describing his experience. He declined because 
+of his oath of secrecy. I then asked for a statement for possible posthumous use, to which he 
+responded that he would have to check with his Security Officer. The answer from the Security 
+Officer "You have seen nothing, heard nothing, and as sure as shit you can sign nothing." That 
+was the final ward from my source. He and his family suddenly became inaccessible, leaving no 
+forwarding address or new phone number. 
 
-flight crew who had transported the secret cargo, he got confirmation of the UFO crash and other details of the retrieval operation. 
+### Case III 
 
-In August 1978 I requested an affidavit, on tape, describing his experience. He declined because of his oath of secrecy. I then asked for a statement for possible posthumous use, to which he responded that he would have to check with his Security Officer. The answer from the Security Officer "You have seen nothing, heard nothing, and as sure as shit you can sign nothing." That was the final ward from my source. He and his family suddenly became inaccessible, leaving no forwarding address or new phone number. 
+This encounter with cadavers at WrightPatterson involved an Air Police sergeant who, in 1973, was 
+called out for special duty at night. Blindfolded, he was driven to an area on the Base and escorted 
+down a flight of steps and led to a location where, free of his blindfold, he was given specific 
+instructions to stand guard. It was a busy area for a while, with medics bustling in and out of 
+the room he guarded. It was during this phase that he had a good glimpse of three small bodies on 
+a table. They were not human. 
 
-###### Case III 
+The credibility for this case is not that the anatomy described by the sergeant is analogous to 
+others, but the manner in which I got his admission as a witness to the event. For many months I 
+had to be content with a secondhand source, the sergeant's own wife. Her response to my numerous 
+attempts to talk with her husband got only adamant refusals. My break came months later. The wife 
+had become ill and was unable to help. However, I had managed beforehand to obtain details of her 
+husband's place of work, his on-duty hours, and even his coffee-break periods. It was on a break 
+when I got through to him by telephone. I explained my research objectives and assured him anonymity. 
+His only response was silence. 
 
-This encounter with cadavers at WrightPatterson involved an Air Police sergeant who, in 1973, was called out for special duty at night. Blindfolded, he was driven to an area on the Base and escorted down a flight of steps and led to a location where, free of his blindfold, he was given specific instructions to stand guard. It was a busy area for a while, with medics bustling in and out of the room he guarded. It was during this phase that he had a good glimpse of three small bodies on a table. They were not human. 
+But he suddenly came alive when I changed my tactics and began to relate details of the creature's 
+anatomy, which, I emphasised, had come from a medical doctor who had performed an autopsy on an 
+alien body. This was the clincher and, after a brief pause, I asked him if what he had seen was 
+similar to my description. He answered "yes". After another pause, he mentioned some additional 
+details about the head which, except for a "short fuzz" he observed on the crown, were identical 
+to the doctor's. 
 
-The credibility for this case is not that the anatomy described by the sergeant is analogous to others, but the manner in which I got his admission as a witness to the event. For many months I had to be content with a secondhand source, the sergeant's own wife. Her response to my numerous attempts to talk with her husband got only adamant refusals. My break came months later. The wife had become ill and was unable to help. However, I had managed beforehand to obtain details of her husband's place of work, his on-duty hours, and even his coffee-break periods. It was on a break when I got through to him by telephone. I explained my research objectives and assured him anonymity. His only response was silence. 
+Auer another and longer pause, I thanked him and, saying no more, we hung up. I could have pressed 
+for more information at the time, or tried again at a later date, but I didn't I don't think he 
+would have given me a chance, and, feeling his uneasiness, I was satisfied with this simple 
+admission of having been on the scene at a historic event. 
 
-But he suddenly came alive when I changed my tactics and began to relate details of the creature's anatomy, which, I emphasised, had come from a medical doctor who had performed an autopsy on an alien body. This was the clincher and, after a brief pause, I asked him if what he had seen was similar to my description. He answered "yes". After another pause, he mentioned some additional details about the head which, except for a "short fuzz" he observed on the crown, were identical to the doctor's. 
+### Case IV 
 
-Auer another and longer pause, I thanked him and, saying no more, we hung up. I could have pressed for more information at the time, or tried again at a later date, but I didn't I don't think he would have given me a chance, and, feeling his uneasiness, I was satisfied with this simple admission of having been on the scene at a historic event. 
+Thanks to my son-in-lawjeffrey Sparks, who, in 1978, was art Assistant Professor at St. Leo's 
+College, Dade City, Florida, I gained a knowledgeable informant and another wi mess of the 
+humanoids at Wright-Patterson AFB. 
 
-164 
+Jeff used to talk openly on campus about my research, which brought forth a number of UFO reports 
+from students, but one fortuitous day, while visiting the College's finance office, he got into a 
+discussion about the work of my daughter, a registered nurse at a hospital near campus, which had 
+led to my research in UFOs. Eyes opened when he revealed my acquaintance with the doctor who 
+performed the autopsy, and when he went on to describe the anatomy he got a prompt response. 
+"He's right!", spoke up a member of the office staff. Later, when work resumed, this man called 
+Jeff aside, to elaborate on his own computer work in Army Intelligence, and on having had the 
+privilege in 1966 to see nine alien bodies stored underground at Wright-Patterson. 
 
-###### Case IV 
+In a matter of days I was in touch with Jeff's source. It was obvious that this man had a keen 
+awareness of the military posture relative to UFOs; their crashes, when and where; the method 
+of recovery, using a specially trained task force of "Blue Berets", and much more. But he was 
+also wise enough, for the usual security reasons, not to say much on some sensitive issues that 
+I brought up. One significant point he made was about NORAD's use of a sophisticated electronic 
+system able to detect a malfunctioning UFO and follow its trajectory flight to the point of crash. 
+In this case, he said, a special unit of "Blue Berets" took over the recovery. 
 
-Thanks to my son-in-lawjeffrey Sparks, who, in 1978, was art Assistant Professor at St. Leo's College, Dade City, Florida, I gained a knowledgeable informant and another wi mess of the humanoids at Wright-Patterson AFB. 
+Once again, my source described the bodies as small with big heads, just as others had done who 
+had had the opportunity to see them. And, just like so many others, my source soon vanished into 
+oblivion. No more contact, no new phone number, no forwarding address.... 
 
-Jeff used to talk openly on campus about my research, which brought forth a number of UFO reports from students, but one fortuitous day, while visiting the College's finance office, he got into a discussion about the work of my daughter, a registered nurse at a hospital near campus, which had led to my research in UFOs. Eyes opened when he revealed my acquaintance with the doctor who performed the autopsy, and when he went on to describe the anatomy he got a prompt response. "He's right!", spoke up a member of the office staff. Later, when work resumed, this man called Jeff aside, to elaborate on his own computer work in Army Intelligence, and on having had the privilege in 1966 to see nine alien bodies stored underground at Wright-Patterson. 
+### Case V 
 
-In a matter of days I was in touch with Jeff's source. It was obvious that this man had a keen awareness of the military posture relative to UFOs; their crashes, when and where; the method of recovery, using a specially trained task force of "Blue Berets", and much more. But he was also wise enough, for the usual security reasons, not to say much on some sensitive issues that I brought up. One significant point he made was about NORAD's use of a sophisticated electronic system able to detect a malfunctioning UFO and follow its trajectory flight to the point of crash. In this case, he said, a special unit of "Blue Berets" took over the recovery. 
+Complete coverage of The Fatal Encounter at R. Dix-McGuire: A Case Study, appears in Status Report 
+1V published in MUFON Proceedings, 1985. This case, above all others, remains in my active file, 
+but while lacking in proof, it has amassed so much qualitative evidence that the hunt is on for 
+new back-up sources. 
 
-Once again, my source described the bodies as small with big heads, just as others had done who had had the opportunity to see them. And, just like so many others, my source soon vanished into oblivion. No more contact, no new phone number, no forwarding address.... 
+Remarkably, my prime source, a former sergeant in the Air Security Police who 'disappeared" for 
+three years after his initial contact, and resurfaced to impart additional substantive<sup>
+information</sup> has, since 1987, taken safe residence overseas. According to my source, referred 
+to as Jeffrey Morse, he stood guard at a gate of the McGuire AFB in New Jersey, on January 18, 1978, 
+having been dispatched there after an alien intruder had been shot and 
 
-###### Case V 
+wounded by an MP at Ft. Dix, the adjacent army base. Said Morse, the creature had somehow crossed 
+the fence into McGuire and fell dead on an abandoned airstrip — not far from an atomic storage area. 
+That fatal night, UFOs were in the area, he said, and were confirmed by radar. Both bases went on 
+the alert. 
 
-Complete coverage of The Fatal Encounter at R. Dix-McGuire: A Case Study, appears in Status Report 1V published in MUFON Proceedings, 1985. This case, above all others, remains in my active file, but while lacking in proof, it has amassed so much qualitative evidence that the hunt is on for new back-up sources. 
+To review the complete story, including the events that followed in the life of Morse, is beyond 
+the scope of this paper. However, it serves the reader to know the basic details of the incident, 
+described in Morse's initial letter to me in 1980: It all began, said Morse, when he was stationed 
+on the Island of Okinawa, Japan, following upon his transfer there after the incident. There, by 
+chance, he heard a replay of my interview, discussing UFO crashes, on a Los Angeles radio station 
+carried by Army Forces Far Eastern Radio Network in July 1980. Lucky for my research.... But unlucky 
+for Morse. Once out of the service, he became the victim of surveillance, which he later said included 
+seizure of some of his mail. As for myself, I finally gave up writing to him.... Three years later, 
+in December 1983, after renewed attempts by me to reach him, Morse, feeling safe, decided to call me. 
+This was to begin an exchange of correspondence and phone calls providing new details about the 
+incident and about his subsequent interrogation at Wright-Patterson by Air Force Intelligence. 
 
-Remarkably, my prime source, a former sergeant in the Air Security Police who 'disappeared" for three years after his initial contact, and resurfaced to impart additional substantive<sup>information</sup> has, since 1987, taken safe residence overseas. According to my source, referred to as Jeffrey Morse, he stood guard at a gate of the McGuire AFB in New Jersey, on January 18, 1978, having been dispatched there after an alien intruder had been shot and 
+Also, during this "safe" period I received from Morse a so-called "back office" copy of the official 
+form Incident/Complaint Report, which was channelled to the usual higher echelons on the Base and 
+elsewhere. In the blocked section, designating Evidence, was this terse statement: "One body of 
+unknown origin released to the care of OSI District Commander and special recovery team from 
+Wright-Patterson AFB." 
 
-wounded by an MP at Ft. Dix, the adjacent army base. Said Morse, the creature had somehow crossed the fence into McGuire and fell dead on an abandoned airstrip — not far from an atomic storage area. That fatal night, UFOs were in the area, he said, and were confirmed by radar. Both bases went on the alert. 
+During 1984, Morse experienced renewed surveillance, and to his disappointment was turned down on 
+a sought-after government job in law enforcement, and the reason for it, he was told by a Justice 
+Department official, was "your disclosures to Suingfield". Refusing to compromise himself and accept 
+a later offer to review more favourably his work status if he would deny his story, he instead 
+departed for work overseas. Before his departure, fortunately, I had managed to arrange for 
+Richard Hall, my research confidant for many years, to meet with him for an evaluation of the 
+Fort Dix-McGuire episode and, more importantly, of Morse himself. Hall, following two meetings 
+with Morse, said summanly, in part: "...Personally, he was well-groomed, friendly, relaxed and 
+articulate. He spoke confidently and without hesitation in answer to questions, and did not 
+come across as someone who had concocted a tall tale and might contradict himself or get caught 
+in a trap if he weren't careful. He showed no mannerisms that would betray any obviotts psychoses 
+or 'hang up'...overall, I detected 
+nothing in his manner, or story, to cause scepticism. To the contrary, he seemed very credible to 
+inc Pending further investigation, I would tend to give him very high marks..." 
 
-To review the complete story, including the events that followed in the life of Morse, is beyond the scope of this paper. However, it serves the reader to know the basic details of the incident, described in Morse's initial letter to me in 1980: It all began, said Morse, when he was stationed on the Island of Okinawa, Japan, following upon his transfer there after the incident. There, by chance, he heard a replay of my interview, discussing UFO crashes, on a Los Angeles radio station carried by Army Forces Far Eastern Radio Network in July 1980. Lucky for my research.... But unlucky for Morse. Once out of the service, he became the victim of surveillance, which he later said included seizure of some of his mail. As for myself, I finally gave up writing to him.... Three years later, in December 1983, after renewed attempts by me to reach him, Morse, feeling safe, decided to call me. This was to begin an exchange of correspondence and phone calls providing new details about the incident and about his subsequent interrogation at Wright-Patterson by Air Force Intelligence. 
+Since my release of Status Repair IV, I have had the names of the officers involved at McGuire AFB, 
+and in the interrogation at Wright-Patterson, checked and authenticated at the National Personnel 
+Records Center in St. Louis, Missouri. That was a plus if there were any doubts. 
 
-Also, during this "safe" period I received from Morse a so-called "back office" copy of the official form Incident/Complaint Report, which was channelled to the usual higher echelons on the Base and elsewhere. In the blocked section, designating Evidence, was this terse statement: "One body of unknown origin released to the care of OSI District Commander and special recovery team from Wright-Patterson AFB." 
+In 1988 my efforts and patience in seeking backup testimony for the Fort Dix fatal encounter came 
+from two new sources, One was a former Air Force major who had served as deputy director of Intelligence 
+of the 21st Air Force at the McGuireAir Force Base. One of his duties was to brief the base commander, 
+Major General Tom Sadler. The full story of his role appears in my Status Report V, but the main point 
+I wish to make here is that he was aware of the incident. The details, however, were so secret — on a 
+need-to-know basis — that they were confined to General Sadler only from the colonel who commanded the 
+security police unit directly involved in the retrieval operation. My other source, working covertly 
+for one of the Intelligence agencies, was also directly involved, haring been summoned to the Base for 
+his expertise. 
 
-During 1984, Morse experienced renewed surveillance, and to his disappointment was turned down on a sought-after government job in law enforcement, and the reason for it, he was told by a Justice Department official, was "your disclosures to Suingfield". Refusing to compromise himself and accept a later offer to review more favourably his work status if he would deny his story, he instead departed for work overseas. Before his departure, fortunately, I had managed to arrange for Richard Hall, my research confidant for many years, to meet with him for an evaluation of the Fort Dix-McGuire episode and, more importantly, of Morse himself. Hall, following two meetings with Morse, said summanly, in part: "...Personally, he was well-groomed, friendly, relaxed and articulate. He spoke confidently and without hesitation in answer to questions, and did not come across as someone who had concocted a tall tale and might contradict himself or get caught in a trap if he weren't careful. He showed no mannerisms that would betray any obviotts psychoses or 'hang up'...overall, I detected 
+I have accumulated in my specialised research of UFO crash/retrievals. In my series of monographs, or 
+status reports, I have published information from many sources who claim to have firsthand knowledge 
+of alien artefacts and/or captive deceased crew members in Government custody. 
 
-###### 165 
-
-nothing in his manner, or story, to cause scepticism. To the contrary, he seemed very credible to inc Pending further investigation, I would tend to give him very high marks..." 
-
-Since my release of Status Repair IV, I have had the names of the officers involved at McGuire AFB, and in the interrogation at Wright-Patterson, checked and authenticated at the National Personnel Records Center in St. Louis, Missouri. That was a plus if there were any doubts. 
-
-In 1988 my efforts and patience in seeking backup testimony for the Fort Dix fatal encounter came from two new sources, One was a former Air Force major who had served as deputy director of Intelligence of the 21st Air Force at the McGuireAir Force Base. One of his duties was to brief the base commander, Major General Tom Sadler. The full story of his role appears in my Status Report V, but the main point I wish to make here is that he was aware of the incident. The details, however, were so secret — on a need-to-know basis — that they were confined to General Sadler only from the colonel who commanded the security police unit directly involved in the retrieval operation. My other source, working covertly for one of the Intelligence agencies, was also directly involved, haring been summoned to the Base for his expertise. 
-
-I have accumulated in my specialised research of UFO crash/retrievals. In my series of monographs, or status reports, I have published information from many sources who claim to have firsthand knowledge of alien artefacts and/or captive deceased crew members in Government custody. 
-
-Since Roswell, the real UFO status quo has been hushed. It's a long story, beyond the scope of this paper. But, there are occasional signs that the lid of the cover-up is loosening. Under that proverbial lid is the proof —a much battered word. 
-
-+++. 
+Since Roswell, the real UFO status quo has been hushed. It's a long story, beyond the scope of this 
+paper. But, there are occasional signs that the lid of the cover-up is loosening. Under that proverbial 
+lid is the proof —a much battered word. 
 
 The foregoing cases, abbreviated in this article, are but a small portion of the overall evidence 
 
-166 
+### UFO Crash/Retrievals and the ET Connection 
 
-#### UFO Crash/Retrievals and the ET Connection 
+#### Leonard H. Stringfield (1993) 
 
-Leonard H. Stringfield (1993) 
+Hopefully we are a step closer to breaching the proverbial wall of secrecy by releasing this 
+story, which chronicles an alleged major event that may represent a rewarding breakthrough for 
+mankind's right-to-know. 
 
-Hopefully we are a step closer to breaching the proverbial wall of secrecy by releasing this story, which chronicles an alleged major event that may represent a rewarding breakthrough for mankind's right-to-know. 
+Although details at this time are scant, the two sources responsible for the story are credibly 
+recognized in scientific circles. One, who is acting as intermediary for the prime source, a 
+longtime friend and colleague, is a professor of physics at a major Midwest university. 
 
-Although details at this time are scant, the two sources responsible for the story are credibly recognized in scientific circles. One, who is acting as intermediary for the prime source, a longtime friend and colleague, is a professor of physics at a major Midwest university. 
+The prime source is a highly educated individual with a strong scientific background, who must remain 
+anonymous for obvious reasons. He chose to take his friend into his confidence to relate that he had 
+at an unspecified time a one-on-one, face-to-face meeting with a live extraterrestrial entity under 
+prearranged conditions. 
 
-The prime source is a highly educated individual with a strong scientific background, who must remain anonymous for obvious reasons. He chose to take his friend into his confidence to relate that he had at an unspecified time a one-on-one, face-to-face meeting with a live extraterrestrial entity under prearranged conditions. 
+As recorded in my book, The Inner Sanctum, Status Report VI (published September 1991), contact with 
+my source began with the investigation of a UFO crash/retrieval incident, which gave us the opportunity 
+to work closely for many months, building a lasting mutual trust in our research endeavors. 
 
-As recorded in my book, The Inner Sanctum, Status Report VI (published September 1991), contact with my source began with the investigation of a UFO crash/retrieval incident, which gave us the opportunity to work closely for many months, building a lasting mutual trust in our research endeavors. 
+This relationship was exemplified in March of 1990, when my friend called to alert me that sensitive 
+information would follow by mail. His edited letter stated in part: 
 
-This relationship was exemplified in March of 1990, when my friend called to alert me that sensitive information would follow by mail. His edited letter stated in part: 
+#### Dear Len: 
 
-###### Dear Len: 
+Here are the details of my friend's experience with a live EBE (extraterrestrial biological entity) 
+in the 1970s. I thought it best if I didn't say anything over the phone about my writing this letter. 
 
-Here are the details of my friend's experience with a live EBE (extraterrestrial biological entity) in the 1970s. I thought it best if I didn't say anything over the phone about my writing this letter. 
-
-First of all, I trust this individual about as much as one can trust anyone, to the extent that if he is lying to me, I really don't know who I can believe. He was asked by officials (either government or military, I don't know which) to meet with the extraterrestrial in order to attempt to communicate telepathically with it. 
+First of all, I trust this individual about as much as one can trust anyone, to the extent that if he i
+s lying to me, I really don't know who I can believe. He was asked by officials (either government or 
+military, I don't know which) to meet with the extraterrestrial in order to attempt to communicate 
+telepathically with it. 
 
 I asked him where they keep it, and he gave me an answer that - while vague - did tell me where. 
 
-He also said that the military had devised some kind of electrostatic barrier for study of the limits of signal ranges at a specified location where dialogue took place. 
+He also said that the military had devised some kind of electrostatic barrier for study of the limits of 
+signal ranges at a specified location where dialogue took place. 
 
-He told me an interesting thing about the crystal communicator that the EBE had there. He didn't see it himself, but spoke to someone who had seen it. 
+He told me an interesting thing about the crystal communicator that the EBE had there. He didn't see it 
+himself, but spoke to someone who had seen it. 
 
 Apparently, each event that happens leaves behind some kind of bio-gravity trace, like the infrared trace 
 we might leave for a few days if we walk across a field. 
@@ -960,8 +1145,6 @@ from the past. It can coordinate traces from specific events and show them in th
 
 Well, Len, that's about it. If you have any questions about any of this, I will be glad to try to answer 
 them. I think I have told you all of the details 
-
-167 
 
 I know, but if I think of anything else, I'll let you know. As we discussed previously, please don't 
 mention these details to anyone. 
@@ -1011,11 +1194,11 @@ possibly through electronic or [psychic] surveillance.
 My contact would not say how he was brought in, and would not say when their meeting occurred. He would 
 only say that he has been cooperating with the government since 1973. 
 
-The extraterrestrial was not captured, and there was no intercept mission. Rather, it was part of an exchange program. 
+The extraterrestrial was not captured, and there was no intercept mission. Rather, it was part of an exchange 
+program.
 
-My contact would not say when the exchange took place. Their ship (and others) operates out of both east and west coast areas, which accounts for the confusion among UFO researchers. 
-
-168 
+My contact would not say when the exchange took place. Their ship (and others) operates out of both 
+east and west coast areas, which accounts for the confusion among UFO researchers. 
 
 My contact said that we benefited far more from the exchange program (with the "higher" or ethical ETs) than 
 they did. 
@@ -1067,10 +1250,8 @@ the claims of genetic manipulation or fetus-snatching?
 
 Perhaps such practices, employed by one or all of the greys, can be objectively explained as scientific, ethical, 
 or non-hostile. But for now, there are too many "gray 
-
-169 
-
-areas," overall, which may involve a hidden and more sinister agenda. My friend's story, with the illustrious credentials 
+areas," overall, which may involve a hidden and more sinister agenda. My friend's story, with the 
+illustrious credentials 
 of his source, is extraordinary. For both stories to surface, despite anonymity, is an example of courage when you 
 consider they are not in lockstep with the mainstream of scientific rationale. 
 
