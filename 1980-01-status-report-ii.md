@@ -1,52 +1,143 @@
-UFO CRASH RETRIEVALS 
+# UFO CRASH RETRIEVALS 
 
-STATUS REPORT II 
+## STATUS REPORT II
 
-THE UFO CRASH/RETRIEVAL SYNDROME NEW SOURCES, NEW DATA 
+## THE UFO CRASH/RETRIEVAL SYNDROME NEW SOURCES, NEW DATA 
 
-By Leonard H. Stringfield 
+### By Leonard H. Stringfield 
 
-January 1980 
+### January 1980 
 
-35 
-
-# PART I: THE FIRSTHAND WITNESS REPORT: A STUDY OF HUMANOIDS AND THE ANONYMOUS HUMAN FACTOR 
+## PART I: THE FIRSTHAND WITNESS REPORT: A STUDY OF HUMANOIDS AND THE ANONYMOUS HUMAN FACTOR 
 
 Absence of evidence is not evidence of absence - Anonymous 
 
-Time passing will not erase from my mind a climacteric of events so strange and sobering that the world I thought I knew would never again seem the same. 
+Time passing will not erase from my mind a climacteric of events so strange and sobering that the world 
+I thought I knew would never again seem the same. 
 
-It all began with the publication of my book, Situation Red, The UFO Siege (Doubleday, 1977) in which I made references to reported crashes of UFOs and the recovered alien bodies. In surprising response, information relative to "retrievals" surfaced from new sources. This led me to July 29, 1978, the day! stepped up to the, lectern as guest speaker at the MUFON ninth annual Symposium in Dayton, Ohio, to deliver my paper, "Retrievals of the Third Kind," pointedly subtitled, "A Case Study of Alleged UFOs and Occupants in Military Custody." 
+It all began with the publication of my book, Situation Red, The UFO Siege (Doubleday, 1977) in which 
+I made references to reported crashes of UFOs and the recovered alien bodies. In surprising response, 
+information relative to "retrievals" surfaced from new sources. This led me to July 29, 1978, the day! 
+stepped up to the, lectern as guest speaker at the MUFON ninth annual Symposium in Dayton, Ohio, to 
+deliver my paper, "Retrievals of the Third Kind," pointedly subtitled, "A Case Study of Alleged UFOs 
+and Occupants in Military Custody." 
 
-Since Dayton, new informants continue to emerge; people, like my earlier firsthand contacts, who want no open, active part in UFO research. Independent from each other, they, ever so cautiously, share sensitive information about their alleged roles in a retrieval operation, or claim to have been in an authoritative position to have seen the deceased humanoid entities under a variety of "need to know" circumstances. One of my most enduring and informative contacts is medical; others formerly served in the C.I.A. and in key positions of the military. Indeed, the knowledge I have gained since my book from diverse, creditable sources is extraordinary. It is beyond the scope of this paper to review all the behind-the-scene events prior to and since the Dayton affair. However, I hasten to say that what began as a simple research report, featuring an update on alleged or legendary retrievals of crashed saucers and little men, soon gave way to a venture into seeming fantasy. The more I probed into old and new leads the deeper I became enmeshed in an inconsistent world of real peopie on one end; and on the other, the unreal tales they told. 
+Since Dayton, new informants continue to emerge; people, like my earlier firsthand contacts, who want no 
+open, active part in UFO research. Independent from each other, they, ever so cautiously, share 
+sensitive information about their alleged roles in a retrieval operation, or claim to have been in an 
+authoritative position to have seen the deceased humanoid entities under a variety of "need to know" 
+circumstances. One of my most enduring and informative contacts is medical; others formerly served in 
+the C.I.A. and in key positions of the military. Indeed, the knowledge I have gained since my book from 
+diverse, creditable sources is extraordinary. It is beyond the scope of this paper to review all the 
+behind-the-scene events prior to and since the Dayton affair. However, I hasten to say that what began 
+as a simple research report, featuring an update on alleged or legendary retrievals of crashed saucers 
+and little men, soon gave way to a venture into seeming fantasy. The more I probed into old and new 
+leads the deeper I became enmeshed in an inconsistent world of real peopie on one end; and on the 
+other, the unreal tales they told. 
 
-Just as unreal, or so it seems, were some of my own experiences during these probes. One, no longer a hushed incident, was my close encounter with a "phantom" force at the Dayton symposium. There, before going on stage my life was twice threatened. On both occasions word came through an intermediary, once by phone at 4:30 a.m. on July 29; the other by physical confrontation just moments<sup>before my</sup> address. Uninformed of the threats, I spoke for nearly 2 hours. However, the moment I finished I was suddenly whisked off stage by three armed plainclothesmen with walkie talkies, escorted to the Stouffer Hotel, where I held a prearranged press conference, then again escorted to my room which, not of my choosing, was in the process of being changed with a lady tenant on the far end of the hotel. I was advised not to reveal my new room number to anyone and not to leave its premises. In effect, until dinnertime I was detained, incommunicado. I missed everyone I had arranged to see, including a medical person with information. 
+Just as unreal, or so it seems, were some of my own experiences during these probes. One, no longer a 
+hushed incident, was my close encounter with a "phantom" force at the Dayton symposium. There, before 
+going on stage my life was twice threatened. On both occasions word came through an intermediary, once 
+by phone at 4:30 a.m. on July 29; the other by physical confrontation just moments<sup>before my</sup> 
+address. Uninformed of the threats, I spoke for nearly 2 hours. However, the moment I finished I was 
+suddenly whisked off stage by three armed plainclothesmen with walkie talkies, escorted to the Stouffer 
+Hotel, where I held a prearranged press conference, then again escorted to my room which, not of my 
+choosing, was in the process of being changed with a lady tenant on the far end of the hotel. I was 
+advised not to reveal my new room number to anyone and not to leave its premises. In effect, until 
+dinnertime I was detained, incommunicado. I missed everyone I had arranged to see, including a medical 
+person with information. 
 
-A real threat, or a scare tactic? To this day it is unclear if! was being protected from a lunatic adversary, or, if the whole episode was a ploy to deflect potential informants in the audience from reaching me. I had indications beforehand, while preparing my "Retrieval" paper that someone connected with the C.I.A. was concerned about some of my sensitive material and how far I might go with it. He advised that the use of some data in my possession could be risky and for my own safety I "should always stay in crowds." Months later, the same C.I.A. employee, who had been helpful in many ways, said he had the answer for the threats in Dayton. Investigation, he said, showed that it was all a part of the shenanigans of a movie studio who possessed secret documents and film about the retrieved craft and entities, and fearing that I would steal their thunder before their release date, they tried to intimidate me into cancelling my talk. 
+A real threat, or a scare tactic? To this day it is unclear if! was being protected from a lunatic 
+adversary, or, if the whole episode was a ploy to deflect potential informants in the audience from 
+reaching me. I had indications beforehand, while preparing my "Retrieval" paper that someone connected 
+with the C.I.A. was concerned about some of my sensitive material and how far I might go with it. He 
+advised that the use of some data in my possession could be risky and for my own safety I "should 
+always stay in crowds." Months later, the same C.I.A. employee, who had been helpful in many ways, 
+said he had the answer for the threats in Dayton. Investigation, he said, showed that it was all a 
+part of the shenanigans of a movie studio who possessed secret documents and film about the retrieved 
+craft and entities, and fearing that I would steal their thunder before their release date, they tried 
+to intimidate me into cancelling my talk. 
 
-Whatever the intent of my would-be-assailant or of the Intelligence Community, my role and objectives in research have since changed. To me, the key to truth lies in what we may call the UFO crash/ retrieval syndrome. Lights in the sky, close encounters of all kinds, and even the grotesquerie of abduction cases have all lost priority. Time, with its influx of new data from new and old reliable sources, now affirms my belief that beyond my fingertips and perhaps forever unreachable, is the evidence extraordinaire<sup>—</sup> the<sup>alien cadavers and the craft. In</sup> my opinion, if all the officially suppressed information were released suddenly in one package<sup>it</sup> could<sup>have</sup> an unpredictable psychological but a profound philosophical impact on mankind. But, no matter how it would<sup>be</sup> released, I also believe that the human mind has been so conditioned to stress since World War II that a worldwide Wellesian panic is not likely. 
+Whatever the intent of my would-be-assailant or of the Intelligence Community, my role and objectives in 
+research have since changed. To me, the key to truth lies in what we may call the UFO crash/ retrieval 
+syndrome. Lights in the sky, close encounters of all kinds, and even the grotesquerie of abduction cases 
+have all lost priority. Time, with its influx of new data from new and old reliable sources, now affirms 
+my belief that beyond my fingertips and perhaps forever unreachable, is the evidence extraordinaire<sup>—</sup> 
+the<sup>alien cadavers and the craft. In</sup> my opinion, if all the officially suppressed information were 
+released suddenly in one package<sup>it</sup> could<sup>have</sup> an unpredictable psychological but a 
+profound philosophical impact on mankind. But, no matter how it would<sup>be</sup> released, I also believe 
+that the human mind has been so conditioned to stress since World War II that a worldwide Wellesian panic 
+is not likely. 
 
-For the record, no one in UFO research, the<sup>media or the scientific community has been privy to</sup> share certain portions of my cumulative data; thus they,<sup>understandably,remain skeptical. The whole story of my</sup> experience in this endeavor may never be told, mainly because of the sensitivity of some of the names, places, and subject matter. To stress a point in summary: I know, firsthand, that<sup>mycontinued</sup> quest for UFO crash/ retrieval information is a venture that can be as risky and frustrating as<sup>itisrewarding.</sup> 
+For the record, no one in UFO research, the<sup>media or the scientific community has been privy to</sup> 
+share certain portions of my cumulative data; thus they,<sup>understandably,remain skeptical. The whole 
+story of my</sup> experience in this endeavor may never be told, mainly because of the sensitivity of 
+some of the names, places, and subject matter. To stress a point in summary: I know, firsthand, 
+that<sup>mycontinued</sup> quest for UFO crash/ retrieval information is a venture that can be as risky 
+and frustrating as<sup>itisrewarding.</sup> 
 
 37 
 
-Through patience, keeping confidences, and playing the game in a posture of low profile, I feel at this writing that I have progressed substantially since my first paper in gathering new, vital, and corroborative information. Unlike my first paper, this one draws principally on information collected from firsthand sources. Status Report II, will not attempt to correct a number of errors that appeared<sup>in my first</sup> paper.<sup>However, it</sup> is important for the record that exceptions should be made relative to three of the original Abstracts: In Abstract #1, the year of the incident should be corrected to read, 1950 instead of<sup>1948.</sup> Other amended data concerning this case I understand will be revealed by researcher Todd Zechel, through other media. In Abstract # 8, the retrieval incident dated 1973 should be corrected to read 1953. In Abstract #21, Seymour-Johnson, a Navy Training Station, should be corrected to read SeymourJohnson Air Force Base, located in Goldsboro, North Carolina, instead of Norfolk,<sup>Virginia.</sup> My goal, of course, in this phase of research, is to obtain information from the firsthand source.<sup>Such prime</sup> material, used in this monograph, is specified as Class "A," and is recorded as Cases<sup>A-1</sup> through A-10 in the text. New leads, or other pertinent material, are presented as Class "B," which are recorded as Items<sup>B-1</sup> through B-14. 
+Through patience, keeping confidences, and playing the game in a posture of low profile, I feel at this 
+writing that I have progressed substantially since my first paper in gathering new, vital, and corroborative 
+information. Unlike my first paper, this one draws principally on information collected from firsthand 
+sources. Status Report II, will not attempt to correct a number of errors that appeared<sup>in my 
+first</sup> paper.<sup>However, it</sup> is important for the record that exceptions should be made 
+relative to three of the original Abstracts: In Abstract #1, the year of the incident should be 
+corrected to read, 1950 instead of<sup>1948.</sup> Other amended data concerning this case I 
+understand will be revealed by researcher Todd Zechel, through other media. In Abstract # 8, the 
+retrieval incident dated 1973 should be corrected to read 1953. In Abstract #21, Seymour-Johnson, 
+a Navy Training Station, should be corrected to read SeymourJohnson Air Force Base, located in 
+Goldsboro, North Carolina, instead of Norfolk,<sup>Virginia.</sup> My goal, of course, in this 
+phase of research, is to obtain information from the firsthand source.<sup>Such prime</sup> material, 
+used in this monograph, is specified as Class "A," and is recorded as Cases<sup>A-1</sup> through A-10 
+in the text. New leads, or other pertinent material, are presented as Class "B," which are recorded as 
+Items<sup>B-1</sup> through B-14. 
 
-It should be noted that many abstracts appearing in my first paper, "Retrievals of the Third Kind," are of the Class B type and are not included for review in this monograph. 
+It should be noted that many abstracts appearing in my first paper, "Retrievals of the Third Kind," are 
+of the Class B type and are not included for review in this monograph. 
 
 ## CASE A-1 
 
-During the summer of 1977 I was asked by a local business executive, a former Naval Intelligence Officer, to speak on the UFO at the September 1st meeting of the Cincinnati Chapter of the World Wings held in the Administration Building of Cincinnati's Lunken Airport. During the Question and Answer period, following my talk, one member of a group of 25 pilots arose and brought up the legendary subject of recovered alien UFOs and occupants. His comment, I thought, indicated that he was unusually well-informed on the matter,<sup>so I</sup> asked that he standby for a chat later. When the crowd finally disassembled he led me to the privacy of a back room which was dominated by a huge topographical map of the United States. 
+During the summer of 1977 I was asked by a local business executive, a former Naval Intelligence Officer, 
+to speak on the UFO at the September 1st meeting of the Cincinnati Chapter of the World Wings held in the 
+Administration Building of Cincinnati's Lunken Airport. During the Question and Answer period, following 
+my talk, one member of a group of 25 pilots arose and brought up the legendary subject of recovered alien 
+UFOs and occupants. His comment, I thought, indicated that he was unusually well-informed on the matter,<sup>so 
+I</sup> asked that he standby for a chat later. When the crowd finally disassembled he led me to the privacy 
+of a back room which was dominated by a huge topographical map of the United States. 
 
-Staring at the map he said bluntly, "I have seen the bodies." Still looking at the map and noting<sup>my</sup> protracted silence, he pointed vaguely to an area inside the State of Arizona. "There's approximately where the saucer crashed," he said. "It was in a desert area, but I don't know the exact location. I'm almost positive it happened in 1953." 
+Staring at the map he said bluntly, "I have seen the bodies." Still looking at the map and noting<sup>my</sup> 
+protracted silence, he pointed vaguely to an area inside the State of Arizona. "There's approximately where the 
+saucer crashed," he said. "It was in a desert area, but I don't know the exact location. I'm almost positive it 
+happened in 1953." 
 
-The pilot was my first encounter with a firsthand witness. As he stood at the map with a straight-on glance, he impressed me as a person who is sincere and forthright, possessing a no-nonsense character. "I saw the bodies at Wright-Patterson," he said."! was in the right place at the right time when the crates arrived at<sup>night by</sup> DC-7." 
+The pilot was my first encounter with a firsthand witness. As he stood at the map with a straight-on glance, he 
+impressed me as a person who is sincere and forthright, possessing a no-nonsense character. "I saw the bodies 
+at Wright-Patterson," he said."! was in the right place at the right time when the crates arrived at<sup>night 
+by</sup> DC-7." 
 
-As we lingered at the map he recalled that he had stood inside a hangar at a distance of about 12 feet, peering at five crates on a forklift. In his judgement, the crates appeared to be hastily constructed and were made of wood. In three of these, little humanoids appearing to be 4 feet tall, were lying unshrouded on a fabric, which he explained prevented freeze burn from the dry ice packed beneath. As a number of Air Police stood silent guard nearby the crates, he managed to get a reasonably good but brief glimpse of the humanoid features. He recalls that their heads were hairless and narrow, and by human standards were disproportionately large, with skin that looked brown under the hangar lights above. The eyes seemed to be open, the mouth small, and nose, if any, was indistinct. The arms were positioned down alongside their bodies, but the hands and feet, he said, were indistinct. When asked about their attire, he said they appeared to be wearing tight-fitting dark suits, and, because of the tight-fitting suit, there was one revealing feature — a surprising feature. One of the humanoids appeared to him to be female. He said, "Either one of the aliens had an exceedingly muscular chest or the bumps were a female's breasts." Later, he learned from one of the crew members, with whom he bunked at the barracks, that the body of one of the aliens was believed to be that of a female. 
+As we lingered at the map he recalled that he had stood inside a hangar at a distance of about 12 feet, 
+peering at five crates on a forklift. In his judgement, the crates appeared to be hastily constructed and 
+were made of wood. In three of these, little humanoids appearing to be 4 feet tall, were lying unshrouded 
+on a fabric, which he explained prevented freeze burn from the dry ice packed beneath. As a number of Air 
+Police stood silent guard nearby the crates, he managed to get a reasonably good but brief glimpse of the 
+humanoid features. He recalls that their heads were hairless and narrow, and by human standards were 
+disproportionately large, with skin that looked brown under the hangar lights above. The eyes seemed to 
+be open, the mouth small, and nose, if any, was indistinct. The arms were positioned down alongside their 
+bodies, but the hands and feet, he said, were indistinct. When asked about their attire, he said they 
+appeared to be wearing tight-fitting dark suits, and, because of the tight-fitting suit, there was one 
+revealing feature — a surprising feature. One of the humanoids appeared to him to be female. He said, 
+"Either one of the aliens had an exceedingly muscular chest or the bumps were a female's breasts." Later, 
+he learned from one of the crew members, with whom he bunked at the barracks, that the body of one of the 
+aliens was believed to be that of a female. 
 
-My informant also heard from the crew member that one of the entities was still alive aboard the craft when the U.S. military team arrived. Attempts were made to save its life with oxygen, but they were unsuccessful. Another issue, an important one: How was the military able to track the crash? Said my informant: The crew member told him that the UFO was picked up by special tracking equipment at Mt. Palomar in California. My informant claimed that he had later heard a report that the retrieved craft, found intact, was also sent to Wright-Patterson. He had no more details as to when or by what means. 
-
-38 
+My informant also heard from the crew member that one of the entities was still alive aboard the craft when 
+the U.S. military team arrived. Attempts were made to save its life with oxygen, but they were unsuccessful. 
+Another issue, an important one: How was the military able to track the crash? Said my informant: The crew 
+member told him that the UFO was picked up by special tracking equipment at Mt. Palomar in California. My 
+informant claimed that he had later heard a report that the retrieved craft, found intact, was also sent 
+to Wright-Patterson. He had no more details as to when or by what means. 
 
 ## COMMENT: 
 
