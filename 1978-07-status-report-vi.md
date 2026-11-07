@@ -1,8 +1,8 @@
-# RETRIEVALS OF THE THIRD KIND - Part 1
+## RETRIEVALS OF THE THIRD KIND - Part 1
 
 ### A Case Study of Alleged UFOs and Occupants in Military Custody
 
-# Leonard H. Stringfield
+#### Leonard H. Stringfield
 
 ## This contribution to FSR is based on a paper delivered by the author at the MUFON
 
@@ -10,15 +10,24 @@
 
 Cincinnati, Ohio 45227, USA).
 
-SINCE the advent of the UFO dating back to World War Il when there was official recognition of the "foo fighter," one hard fact stands out: the world public at large still disbelieves its existence. Another fact: most of our world's scientific community does not believe in UFOs either, although a small number of its Fellowship today will admit their puzzlement, and sometimes curiosity, over the persistence of UFO reports.
+SINCE the advent of the UFO dating back to World War Il when there was official recognition of the 
+"foo fighter," one hard fact stands out: the world public at large still disbelieves its existence. 
+Another fact: most of our world's scientific community does not believe in UFOs either, although a 
+small number of its Fellowship today will admit their puzzlement, and sometimes curiosity, over the 
+persistence of UFO reports.
 
-For those of us dedicated to serious UFO research, working in all professional levcls, there is no doubt that a real interloper from somewhereexists!
+For those of us dedicated to serious UFO research, working in all professional levcls, there is no 
+doubt that a real interloper from somewhereexists!
 
 ### Knowing this is frustrating. Today, after 31 years of
 
-prodigious effort, our research has failed to discover, or uncover, the real nature of the UFO, its origin or intent- and I hasten to add, to force open the door of alleged official secrecy behind which may be concealed the hard evidence, or, if you will, the extraordinary and sobering proof wehave all sought.
+prodigious effort, our research has failed to discover, or uncover, the real nature of the UFO, 
+its origin or intent- and I hasten to add, to force open the door of alleged official secrecy 
+behind which may be concealed the hard evidence, or, if you will, the extraordinary and sobering 
+proof wehave all sought.
 
-Today, considering the long, evasive history of the UFO,and an equally evasive official posture, our research stands at a critical crossroad. Here we find a
+Today, considering the long, evasive history of the UFO,and an equally evasive official posture, 
+our research stands at a critical crossroad. Here we find a
 
 ### two-way split-off, a growing and sharpening diver-
 
@@ -26,19 +35,23 @@ gence of opinion about the nature and origin of the UFO.
 
 One view entertains the notion that the UFO is a paraphysical or psychical visitant from another realm,
 
-### or of another dimension, and that all the paranornal evidence reportedly associated with the UFO pre-
-
-cludes a simple "nuts and bolts'"physical explanation. This hypothesis, in the view of some researchers, rules out the interplanetary "nuts and bolts'' spaceship.
+### or of another dimension, and that all the paranornal evidence reportedly associated with 
+the UFO precludes a simple "nuts and bolts'"physical explanation. This hypothesis, in the view 
+of some researchers, rules out the interplanetary "nuts and bolts'' spaceship.
 
 The other major hypothesis, and now considered
 
 ### a conservative view, postulates that the UFO is a
 
-structured machine and comes from across the vast reaches of space and time from another solar system. This belief maintains that the extraterrestrial race has, by virtue of its advanced technology, overcome
+structured machine and comes from across the vast reaches of space and time from another solar 
+system. This belief maintains that the extraterrestrial race has, by virtue of its advanced 
+technology, overcome
 
 ### the problem of spatial distance and has developed
 
-great psychical powers by which it can manipulate man's mind when it sees fit to do so. Thus, in this postulation, the reported paranormal events can also be explained.* Ofcourse,there are many other provocative
+great psychical powers by which it can manipulate man's mind when it sees fit to do so. Thus, in this 
+postulation, the reported paranormal events can also be explained.* Ofcourse,there are many other 
+provocative
 
 splinter theories, some interlacing the two major
 
@@ -46,7 +59,12 @@ splinter theories, some interlacing the two major
 
 known facts. Theories are free, and are a dime a dozen.
 
-In its honestendeavour to proceed down either hypothetical path, research today continues to investigate UFO reports, correlate and compute the reported data, computerize photographs, conduct conferences and symposia, and drudge over the 13,000UFO reports released by the Air Force's former Project Bluebook which have been made available for public study at the National Archives in Washington,D.C. Therefore, it is not by accident that UFOresearchers haveprovided for their brethren, a convenient language by which to describe
+In its honestendeavour to proceed down either hypothetical path, research today continues to investigate 
+UFO reports, correlate and compute the reported data, computerize photographs, conduct conferences and 
+symposia, and drudge over the 13,000UFO reports released by the Air Force's former Project Bluebook which 
+have been made available for public study at the National Archives in Washington,D.C. Therefore, it is 
+not by accident that UFOresearchers haveprovided for their brethren, a convenient language by which to 
+describe
 
 ### events and, more specifically, a terminology so that
 
@@ -56,13 +74,17 @@ Speaking of terminology, we borrow a page from the eminent Dr. J. Allen Hynek's 
 
 ### Experience, A Scientific Inguiry. From this major
 
-work, we now have Close Encounters of the First, Second and Third Kind, which are labels covering a hypothetical set of conditions wherein the human witness observes or experiences a UFO at close range. These include physical or electromagnetic effects on a witness or his surroundings, or an encounter with a strange alien being.
+work, we now have Close Encounters of the First, Second and Third Kind, which are labels covering 
+a hypothetical set of conditions wherein the human witness observes or experiences a UFO at close 
+range. These include physical or electromagnetic effects on a witness or his surroundings, or an 
+encounter with a strange alien being.
 
 Popularized bythe movie of the same name
 
 ### "Close Encounter of the Third Kind" has become a
 
-household name. Now anybody and everybody can share in an awareness of these rare and bizarre events. But there is another event of the Alien Third Kind. This is an event known mainly through rumour.
+household name. Now anybody and everybody can share in an awareness of these rare and bizarre events. 
+But there is another event of the Alien Third Kind. This is an event known mainly through rumour.
 
 ### Even knowledgeable researchers admit they know of
 
@@ -70,7 +92,9 @@ it only from shadowy sources, and when they
 
 ### pursued these, they encountered sudden dead ends. 率 [The Editor of FSR and his consultants have long con-
 
-sidered it possible that visitants from extraterrestrial or other regions could be capable of inducing paranormal phenomena, or of projecting images into the minds of human observers, or eoen of influencing or imposing controls on those obseruers, so creating the im-
+sidered it possible that visitants from extraterrestrial or other regions could be capable of inducing 
+paranormal phenomena, or of projecting images into the minds of human observers, or eoen of influencing 
+or imposing controls on those obseruers, so creating the im-
 
 ### pression that, the UFO phenomenon is of a psychic
 
@@ -80,75 +104,139 @@ nature -C.B.] careful. ay through spnsc lied dead ends. ces descnibes TheThind
 
 ### Bee .To bemore precise,I
 
-ra LFOgcdy crashed,and et retneved by military alched to the scene. Acchese immobiized craft and descnbed as humanoid, have
+ra LFOgcdy crashed,and et retneved by military alched to the scene. Acchese immobiized craft and descnbed 
+as humanoid, have
 
 - cstodyat certain military instal.
 
 hoy were studied under the highest casrcs.
 
-for the first time, sufficient data have been assed to lend support to some of the old retrieval ds But looking back to the 1950's, there was rtle or no desire then to pursue the reported claims. Ar that time active researchers, including myself,
+for the first time, sufficient data have been assed to lend support to some of the old retrieval ds But 
+looking back to the 1950's, there was rtle or no desire then to pursue the reported claims. Ar that time 
+active researchers, including myself,
 
 ### did lide more than scoff. We thought we had good
 
 reason.
 
-The cause of this "'scoffing' was one grand hoax. Here, I refer to a book, Behind the Flying Saucers by the late Frank Scully, published in 1950. Briefly, it told about a reported saucer crash in Aztec, New Mexico in 1948. Scully went on to relate that a scientist he had met, had possession of metal artifacts taken from inside the craft which was proof that the saucer was from outer spac. Investigation, however, revealed Scully's scientist to be a fraud. With the book's subsequent exposure as a hoax, which got a lot of publicity, it became unfashionable for any objective researcher to write or talk about crashed UFOs and their alleged "little men."
+The cause of this "'scoffing' was one grand hoax. Here, I refer to a book, Behind the Flying Saucers by 
+the late Frank Scully, published in 1950. Briefly, it told about a reported saucer crash in Aztec, New 
+Mexico in 1948. Scully went on to relate that a scientist he had met, had possession of metal artifacts 
+taken from inside the craft which was proof that the saucer was from outer spac. Investigation, however, 
+revealed Scully's scientist to be a fraud. With the book's subsequent exposure as a hoax, which got a lot 
+of publicity, it became unfashionable for any objective researcher to write or talk about crashed UFOs and 
+their alleged "little men."
 
 Adding fuel to the fire of a condemned book were strong Air Force denials in I954 that a retrieved UFO
 
 ### was in hiding at Wright-Patterson AFB. I remember
 
-callingLt.ColonelJohnOMara,Chiefof Intelligence, at the air base, inquiring about the alleged retrievals. His reply, in part, "Ridiculous!"
+callingLt.ColonelJohnOMara,Chiefof Intelligence, at the air base, inquiring about the alleged retrievals. 
+His reply, in part, "Ridiculous!"
 
-So completely was Scully's retrieval story put down that some researchers today wonder, in retrospect, if the book and/or its exposure were contrived. And, despite denials and the suspicions of research, the crash and retrieval storics persisted. Then, like a bolt from the blue, while preparing the manuscript for my book, Situation Red, The UFO Siege, to be published by Doubleday, some new reliable sources opened up. Then, once again to my surprise, after the release of my book in 1977, still more sources surfaced to talk about what they knew. Then one by one the jig saw pieces began to fit together and a picture emerged.
+So completely was Scully's retrieval story put down that some researchers today wonder, in retrospect, if 
+the book and/or its exposure were contrived. And, despite denials and the suspicions of research, the crash 
+and retrieval storics persisted. Then, like a bolt from the blue, while preparing the manuscript for my book, 
+Situation Red, The UFO Siege, to be published by Doubleday, some new reliable sources opened up. Then, once 
+again to my surprise, after the release of my book in 1977, still more sources surfaced to talk about what 
+they knew. Then one by one the jig saw pieces began to fit together and a picture emerged.
 
-Now, I believe this is the time and certainly the place-Dayton, Ohio, andso closeto Wright- Patterson AFB- that we must face this greatest of issues hcad-on. We must now take a new and honest look at the old rumours. And, we must also take a new look at the possibility of a grand official cover up and why.
+Now, I believe this is the time and certainly the place-Dayton, Ohio, andso closeto Wright- Patterson AFB- 
+that we must face this greatest of issues hcad-on. We must now take a new and honest look at the old rumours. 
+And, we must also take a new look at the possibility of a grand official cover up and why.
 
-If any one of the alleged retrieval incidents is true, or if only one of my informants is telling the truth, then human-kind is in for a shock. The impact of its sudden revelation - or forced admissionthrough
+If any one of the alleged retrieval incidents is true, or if only one of my informants is telling the truth, 
+then human-kind is in for a shock. The impact of its sudden revelation - or forced admissionthrough
 
 ### officialpronouncement, would probably shakeup
 
-man'slifestyle,hisphilosophies andeuenhis economy. And, if it is true that alien humanoids have been retrieved and are held in a preserved state at one or more military installations, then our government, and all consorting governments, responsible for this concealment will have to explain their policy of prolonged secrecy. We may then rightly ask what
+man'slifestyle,hisphilosophies andeuenhis economy. And, if it is true that alien humanoids have been retrieved 
+and are held in a preserved state at one or more military installations, then our government, and all consorting 
+governments, responsible for this concealment will have to explain their policy of prolonged secrecy. We may 
+then rightly ask what
 
 ### else is hidden about the UFO of a more frightening
 
-nature? Probably following any official pronouncement ofthis magnitude, there would be strong public reaction. There would be demands for more hidden facts, and as always, the blame would have to be pinned onto someone, or some agency. Certainly at
+nature? Probably following any official pronouncement ofthis magnitude, there would be strong public reaction. 
+There would be demands for more hidden facts, and as always, the blame would have to be pinned onto someone, 
+or some agency. Certainly at
 
 ### the top of the list would be the military establish-
 
-ment, and other covert intelligence agencies. Also to blame would be the media. Where was their prowess in probing for the truth? It seems strange that some of their audacious members who helped bring down a president failed to reach the right people with the right UFO facts - or, were
+ment, and other covert intelligence agencies. Also to blame would be the media. Where was their prowess in 
+probing for the truth? It seems strange that some of their audacious members who helped bring down a president 
+failed to reach the right people with the right UFO facts - or, were
 
 ### they, too,in certain key areas, a part of the big
 
-cover up? And UFO research, too, can share in some of the blame. Too much disunity among the major research groups is one factor. Perhaps a more concerted action would have carried more weight at critical moments when pressures were put to bear in areas of known cover-up. Also, Perhaps, too much time has been spent by influential researchers looking for a paranormal answer for the UFO. One fact has stood out for years. The average reported UFO appears to be a metallic, structured craft with windows, and, when in a landing position, sometimes uses tripods. While
+cover up? And UFO research, too, can share in some of the blame. Too much disunity among the major research 
+groups is one factor. Perhaps a more concerted action would have carried more weight at critical moments when 
+pressures were put to bear in areas of known cover-up. Also, Perhaps, too much time has been spent by 
+influential researchers looking for a paranormal answer for the UFO. One fact has stood out for years. The 
+average reported UFO appears to be a metallic, structured craft with windows, and, when in a landing position, 
+sometimes uses tripods. While
 
 ### this general description may apply to a vehicle from
 
-any other mysterious realm, it does suggest that the design is more a feat of engineering than of psychical or spiritual manifestation. And now for an academic thought. Is it right or wise for research -or myself - to try and pry open the lid of a possible Pandora's Box? Is it not morally right to know about the crashed UFO and its alien occupants? Is there somcthing sinister about the con tinuing surveillance of Earth? And what, you may ask, is my own opinion of my informants endowed with such powerful testimony? Frankly.cannot refute the credibility of any of my infornants. They are from scattered areas, many of whom I have pursued with great effort. Knowing something about the character of each of them, suggests that none is hoaxing, and, it is difficult to believe that any one of them was a"plant,'and,even if one or two were"plants," what about tne others? And, I may ask, why plant the kind of information that could work against the official position which
+any other mysterious realm, it does suggest that the design is more a feat of engineering than of psychical 
+or spiritual manifestation. And now for an academic thought. Is it right or wise for research -or myself - 
+to try and pry open the lid of a possible Pandora's Box? Is it not morally right to know about the crashed 
+UFO and its alien occupants? Is there somcthing sinister about the con tinuing surveillance of Earth? And 
+what, you may ask, is my own opinion of my informants endowed with such powerful testimony? Frankly.cannot 
+refute the credibility of any of my infornants. They are from scattered areas, many of whom I have pursued 
+with great effort. Knowing something about the character of each of them, suggests that none is hoaxing, and, 
+it is difficult to believe that any one of them was a"plant,'and,even if one or two were"plants," what about 
+tne others? And, I may ask, why plant the kind of information that could work against the official position 
+which
 
 ### is to play down the notion of secrecy about UFOs?
 
-It is with equal candour that I must state that I am not in a providential position to pass a positive or final judgcment on the retrievals stories or on my informants. On this tenuous ground I must allow for some marginal error in observation or tiny flaw in human judgement for cach reported account. However, let me quote an old adage:"Wherever there is smoke there is fire,"and from my position I certainly can see a helluva lot of smoke!
+It is with equal candour that I must state that I am not in a providential position to pass a positive or 
+final judgcment on the retrievals stories or on my informants. On this tenuous ground I must allow for some 
+marginal error in observation or tiny flaw in human judgement for cach reported account. However, let me 
+quote an old adage:"Wherever there is smoke there is fire,"and from my position I certainly can see a helluva 
+lot of smoke!
 
-Now, let me switch from my beliefs to yours and consider what you may think about me relative to my expose. To help guide your appraisal, allow me to state that I personally have neither seen a retrieved UFO, nor parts of one, nor its occupants.
+Now, let me switch from my beliefs to yours and consider what you may think about me relative to my expose. 
+To help guide your appraisal, allow me to state that I personally have neither seen a retrieved UFO, nor 
+parts of one, nor its occupants.
 
-Also, for the record, I do not possess a single affidavit to prove that any one of my informants has seen a retrieved craft or its occupants. I have only their names and their testimony. Unfortunately, I cannot use these names. Anonymity has been reguested and will be respected. The reasons should be obvious to all. In essence, thcrefore, the cases 1 present in this paper without names to back up the informant's testimony can be construed as hearsay.
+Also, for the record, I do not possess a single affidavit to prove that any one of my informants has seen 
+a retrieved craft or its occupants. I have only their names and their testimony. Unfortunately, I cannot 
+use these names. Anonymity has been reguested and will be respected. The reasons should be obvious to 
+all. In essence, thcrefore, the cases 1 present in this paper without names to back up the informant's 
+testimony can be construed as hearsay.
 
-If perchance hearsayis to be my undoing, then I must make my stand on the merits of my own credibility, which I trust has already been established
+If perchance hearsayis to be my undoing, then I must make my stand on the merits of my own credibility, 
+which I trust has already been established
 
 ### in my 29 years of UFO research. You are the judge
 
-and jury. I will now proceed with the testimony of my informants conceming Retrievals of the Third Kind in the following abstracts: ABSTRACT I: UFO down in Mexico, near Laredo, Texas In 1948, according to reports from hazy sources, a UFO with occupants numbering anywhere from one
+and jury. I will now proceed with the testimony of my informants conceming Retrievals of the Third Kind 
+in the following abstracts: ABSTRACT I: UFO down in Mexico, near Laredo, Texas In 1948, according to 
+reports from hazy sources, a UFO with occupants numbering anywhere from one
 
 ## UNITEDSTATES Of AMERICA
 
-to sixteen, had crashed in a desert region of the South Western United States, or Mexico, and was retrieved by U.S. military authorities. But the reports never got beyond rumour because 1948 was the year when Frank Scully's book unloaded an alleged hoax on the public about a crashed UFO at Aztec, New Mexico.t In the fall of 1977 new word of a 1948 crash came to me from a well-informed military source. His information, however, was scanty. He had heard from other "inside" military sources that a metallic disc had crashed somewhere in a desert region. His only
+to sixteen, had crashed in a desert region of the South Western United States, or Mexico, and was 
+retrieved by U.S. military authorities. But the reports never got beyond rumour because 1948 was 
+the year when Frank Scully's book unloaded an alleged hoax on the public about a crashed UFO at 
+Aztec, New Mexico.t In the fall of 1977 new word of a 1948 crash came to me from a well-informed 
+military source. His information, however, was scanty. He had heard from other "inside" military 
+sources that a metallic disc had crashed somewhere in a desert region. His only
 
 ### details indicated that the craft had suffered severe
 
-damage on impact and was retrieved by military units. By coincidence, weeks later in 1977, I was to learn more about a crashed disc occurring in 1948. This came from researcher Todd Zechel, whom I had known since 1975 when he became Research Director of Ground Saucer Watch. Formerly with the National
+damage on impact and was retrieved by military units. By coincidence, weeks later in 1977, I was 
+to learn more about a crashed disc occurring in 1948. This came from researcher Todd Zechel, whom 
+I had known since 1975 when he became Research Director of Ground Saucer Watch. Formerly with the 
+National
 
-t Refer to Gordon Creighton's article "Close Encounters of an Unthinkable and Inadmissible Kind"and particularly to the Section on page 28 wherein he discusses the Scully book. I posssess a Gollancz 1955 edition of the book, and in it the copyright is attnibuted to Frank Scully in 1950, which is also shown as the date of first publication. I can confirm too that Scully gives the date of the Denver lecture as March 8.1950, all of which seems to conflict with Mr. Springfield's 1948 dating-EDITOR/.
+t Refer to Gordon Creighton's article "Close Encounters of an Unthinkable and Inadmissible Kind"and 
+particularly to the Section on page 28 wherein he discusses the Scully book. I posssess a Gollancz 
+1955 edition of the book, and in it the copyright is attnibuted to Frank Scully in 1950, which is 
+also shown as the date of first publication. I can confirm too that Scully gives the date of the 
+Denver lecture as March 8.1950, all of which seems to conflict with Mr. Springfield's 1948 dating-EDITOR/.
 
 ## PNEW YORK.
 
@@ -170,59 +258,93 @@ LARDO.
 
 ## NEWORLEANS
 
-Security Agency,Zechel stated that an Air Force technician told him that his uncle, then a Provost Marshall at Carswell Air Force Base near Ft. Worth, Texas, had taken part in the recovery of the crashed UFO which was described as a metallic disc, 90 feet in diameter.
+Security Agency,Zechel stated that an Air Force technician told him that his uncle, then a Provost 
+Marshall at Carswell Air Force Base near Ft. Worth, Texas, had taken part in the recovery of the 
+crashed UFO which was described as a metallic disc, 90 feet in diameter.
 
-The crash occurred about 30 miles insidethe Mexican border across from Laredo, Texas, and was recovered by U.S. troops after it was tracked on radar screens. The job assigned the Provost Marshall, now a retired colonel, was to cordon off the crash site. The retired colonel, now living in Florida, was tracked down by Zechel. Among other facts revealed by the colonel was that found aboard the craft was one dead alien described as about 4 feet, 6 inches tall, completely hairless, with hands that had no thumbs.
+The crash occurred about 30 miles insidethe Mexican border across from Laredo, Texas, and was 
+recovered by U.S. troops after it was tracked on radar screens. The job assigned the Provost 
+Marshall, now a retired colonel, was to cordon off the crash site. The retired colonel, now 
+living in Florida, was tracked down by Zechel. Among other facts revealed by the colonel was 
+that found aboard the craft was one dead alien described as about 4 feet, 6 inches tall, 
+completely hairless, with hands that had no thumbs.
 
-Zechel learned from his source that the troops involved in the retrieval were warned that if they said a word about the incident they would be the "soriest people around."
+Zechel learned from his source that the troops involved in the retrieval were warned that if 
+they said a word about the incident they would be the "soriest people around."
 
-Continuing his investigation, Zechel pieced together other eyewitnesses to the 1948 crash event. In his statement, Zechel relates the following: "I traced another Air Force colonel, now retired in Harrisburg. Pennsylvania. He had seen the UFO in flight. He was flying an F-94 fighter out of Dias Air Force base in Texas, and was over Albuquerque, New Mexico, when
+Continuing his investigation, Zechel pieced together other eyewitnesses to the 1948 crash 
+event. In his statement, Zechel relates the following: "I traced another Air Force colonel, 
+now retired in Harrisburg. Pennsylvania. He had seen the UFO in flight. He was flying an F-94 
+fighter out of Dias Air Force base in Texas, and was over Albuquerque, New Mexico, when
 
 ### reports came of a UFO on the West Coast, flying
 
 over Washington State. Radars clocked its speed at 2,000 miles per hour.
 
-"It made a 90-degree turn and flew east, over Texas. The colonel, then a captain pilot, actually saw it as it passed. Then suddenly it disappeared from radar screens. At Dias base,the radar operators plotted its course, and decided it had crashed some 30 miles across the Mexican border from Laredo. When the captain got back to base, he and a fellow
+"It made a 90-degree turn and flew east, over Texas. The colonel, then a captain pilot, 
+actually saw it as it passed. Then suddenly it disappeared from radar screens. At Dias 
+base,the radar operators plotted its course, and decided it had crashed some 30 miles 
+across the Mexican border from Laredo. When the captain got back to base, he and a fellow
 
-### pilot got into a small plane and took off over the border after the UFO. When they landed in the desert
+### pilot got into a small plane and took off over the border after the UFO. When they 
+landed in the desert
 
 at the crash site, U.S. troops were there before them.
 
 ### "The craft was covered with a canopy, and the
 
-two pilots were not allowed to see it. They were then called to Washington, D.C. for debriefing and sworn to secrecy about the whole event."
+two pilots were not allowed to see it. They were then called to Washington, D.C. for debriefing 
+and sworn to secrecy about the whole event."
 
-Zechel also traced a U.S. naval intelligence officer who was in Mexico City at the time of the crash. He was rushed to the spot, but got there just as the craft was being loaded on to military trucks.
+Zechel also traced a U.S. naval intelligence officer who was in Mexico City at the time of the 
+crash. He was rushed to the spot, but got there just as the craft was being loaded on to military 
+trucks.
 
-Comment Todd Zechel related to me by phone on March 15, 1978, that additional details pertinent to this 1948
+Comment Todd Zechel related to me by phone on March 15, 1978, that additional details pertinent 
+to this 1948
 
 ### incident will be made known in his forthcoming
 
 book, Under Intelligent Control, to be published in 1978.
 
-Zechel also related that he has a signed affidavit by the retired Air Force Colonel who was involved in the cordoning-off operations.
+Zechel also related that he has a signed affidavit by the retired Air Force Colonel who was involved in 
+the cordoning-off operations.
 
-ABSTRACT II: Retricval of burned-out craft with small dead bodies 1952, the year of a great wave of UFO sightings
+ABSTRACT II: Retricval of burned-out craft with small dead bodies 1952, the year of a great wave of 
+UFO sightings
 
 ### throughout the U.S.A., can also share in the history
 
 of retrieval data.
 
-My information for one known UFO crash incident in 1952 comes from a reliable person in a technical position at a large General Electric plant. His brother, who wishes to be unnamed, was on duty as a radar specialist at Edwards Air Force Base, California, in 1952, when he saw a UFO descending toward Earth at great speed across his radar screen. When the UFO hadbeen confirmed to have crashed, the
+My information for one known UFO crash incident in 1952 comes from a reliable person in a technical 
+position at a large General Electric plant. His brother, who wishes to be unnamed, was on duty as a 
+radar specialist at Edwards Air Force Base, California, in 1952, when he saw a UFO descending toward 
+Earth at great speed across his radar screen. When the UFO hadbeen confirmed to have crashed, the
 
 ### Captain on duty gave him instructions: "You didn't
 
 see any thing!"
 
-A short time later the specialist learmed from base officials that an unidentified craft did crash in a nearby remote desert area. The retrieved craft was more than 50 feet in diameter with a row of windows around its equator.Its metallic surface wasina burned-blackened condition. He also had heard that the craft was occupied by dead humanoid bodies approximately 4½ feet tall.
+A short time later the specialist learmed from base officials that an unidentified craft did crash in 
+a nearby remote desert area. The retrieved craft was more than 50 feet in diameter with a row of windows 
+around its equator.Its metallic surface wasina burned-blackened condition. He also had heard that the 
+craft was occupied by dead humanoid bodies approximately 4½ feet tall.
 
-Also, the specialist recalls that he had heard reports that the damaged craft was held temporarily in a hangar at Edwards Air Force Base before it was shipped by truck to Wright-Patterson Air Force Base. Comment:
+Also, the specialist recalls that he had heard reports that the damaged craft was held temporarily in 
+a hangar at Edwards Air Force Base before it was shipped by truck to Wright-Patterson Air Force Base. 
+Comment:
 
-I had asked my informant if I could discuss this incident with his brother, but when he checked by phone he was reminded that the incident was classified as secret and that the brother would not be in a
+I had asked my informant if I could discuss this incident with his brother, but when he checked by 
+phone he was reminded that the incident was classified as secret and that the brother would not be 
+in a
 
 ### position to disclose further details.
 
-In possible conjunction with this 1952 event, I have talked with two sources who had witnessed a large military vchicle or lo-boy drag, with suspicious cargo under tarpaulin, destined for Wright-Patterson Air Force Base. One observer was quartermaster at Godman Field, Kentucky, when the lo-boy, under heavy guard at night, made a transient stop there.
+In possible conjunction with this 1952 event, I have talked with two sources who had witnessed a large 
+military vchicle or lo-boy drag, with suspicious cargo under tarpaulin, destined for Wright-Patterson 
+Air Force Base. One observer was quartermaster at Godman Field, Kentucky, when the lo-boy, under heavy 
+guard at night, made a transient stop there.
 
 ### Word on the base was that its hidden cargo was a
 
@@ -234,43 +356,57 @@ being transported on a lo-boy into Wright-Patterson
 
 ### AFB in 1952 were a man and his wife, then residing
 
-in Circleville, Ohio. By telephone in 1952, they claimed that while driving their car near the base that traffic was stalled. Escorting the vehicle, they said, was a motorcade of military police.
+in Circleville, Ohio. By telephone in 1952, they claimed that while driving their car near the base that 
+traffic was stalled. Escorting the vehicle, they said, was a motorcade of military police.
 
 ABSTRACT III: Bodies of small ufonauts allegedly seen on truck entering Wright-Patterson AFB.
 
-Additional testimony in support of a crashed UFO incident in 1952 comes from an unquestionable source:IohnSchuessler, Deputy Director of
+Additional testimony in support of a crashed UFO incident in 1952 comes from an unquestionable 
+source:IohnSchuessler, Deputy Director of
 
 ### MUFON, and engineer for McDonnell Douglas at NASA; his data comes from his father and step-
 
-mother, who, equally unquestionable, secured their data in 1968 from an unquestionable first-hand source, who was their neighbour in a small town in Pennsylvania.
+mother, who, equally unquestionable, secured their data in 1968 from an unquestionable first-hand 
+source, who was their neighbour in a small town in Pennsylvania.
 
 According to John Schuessler, his family's close
 
 ### friend was formerly a civilian guard serving at a
 
-Receiving Gate for internal security at Wright-Patterson AFB.While on duty, sometime in 1952, he witnessed a tractor with lo-boy hauling a tarpaulincovered craft into a tight security area at the base.
+Receiving Gate for internal security at Wright-Patterson AFB.While on duty, sometime in 1952, he 
+witnessed a tractor with lo-boy hauling a tarpaulincovered craft into a tight security area at the base.
 
 The guard also had told the Schuesslers that at the
 
-Receiving Gate he witnessed the deceased bodies recovered from the crashed UFO at a site vaguely referred to assomewherein the U.S. Southwest.
+Receiving Gate he witnessed the deceased bodies recovered from the crashed UFO at a site vaguely 
+referred to assomewherein the U.S. Southwest.
 
-The guard described the bodies, packed in crates, as being "little people" or humanoids. It is not known whether the bodies arrived at the same time at the base as the craft on the lo-boy or at another time by other means. One point he did make clear to his Schuessler friends about the area in which he worked:
+The guard described the bodies, packed in crates, as being "little people" or humanoids. It is not 
+known whether the bodies arrived at the same time at the base as the craft on the lo-boy or at 
+another time by other means. One point he did make clear to his Schuessler friends about the area 
+in which he worked:
 
 ### "Everything delivered had to pass by me."
 
-John Schuessler said he tried to follow up to get more information by arranging a meeting with the former guard through the influence of his parents. But, his efforts were futile. Said John:He refused to talk about it, even to me.""
+John Schuessler said he tried to follow up to get more information by arranging a meeting with the 
+former guard through the influence of his parents. But, his efforts were futile. Said John:He refused 
+to talk about it, even to me.""
 
-Comment The brief testimony of the Security Guard at Wright-Patterson AFB, and that of the radar specialist at Edwards AFB (cited in Abstract II) suggests that the official cover-up of vital UFO data is so great that some of it which concerns the captive craft and
+Comment The brief testimony of the Security Guard at Wright-Patterson AFB, and that of the radar 
+specialist at Edwards AFB (cited in Abstract II) suggests that the official cover-up of vital UFO 
+data is so great that some of it which concerns the captive craft and
 
 ### occupants is under a special system of files — and has
 
-always been independent of those maintained by Project Bluebook and, perhapsiswithout classification, so that even the Freedom of Information Act cannot reach them.
+always been independent of those maintained by Project Bluebook and, perhapsiswithout classification, 
+so that even the Freedom of Information Act cannot reach them.
 
 Probably the area in which the Security Guard had
 
 ### served his tenure of duty from the late 1940s to the
 
-mid-1950s, was the same as that referred to by Senator Barry Goldwater in his letter to me dated December 3, 1974, in which he stated .. "I made an
+mid-1950s, was the same as that referred to by Senator Barry Goldwater in his letter to me dated 
+December 3, 1974, in which he stated .. "I made an
 
 ### effort to get into the room at Wright-Patterson where
 
@@ -282,9 +418,13 @@ ABSTRACT IV: UFOcontrol-panelsymbols allegedly seen
 
 now MUFON International Co-ordinator and Editor of MUFON UFO Journal.
 
-### When Hall served as Assistant Director of NICAP he was aware of all communications received by that group. One item received by phone came froma president of a stainless steel company, dated 1957, Coral Cables, Florida. In the same company with this
+### When Hall served as Assistant Director of NICAP he was aware of all communications received by 
+that group. One item received by phone came froma president of a stainless steel company, dated 1957, 
+Coral Cables, Florida. In the same company with this
 
-businessman was Bill Nash, former Pan American Airline pilot. He was well-known in the early years of UFO research for his and co-pilot Bill Fortenberry's outstanding sighting, on July 15,1952, of eight circularbright red UFOs manoeuvring under their aircraft.
+businessman was Bill Nash, former Pan American Airline pilot. He was well-known in the early years 
+of UFO research for his and co-pilot Bill Fortenberry's outstanding sighting, on July 15,1952, of 
+eight circularbright red UFOs manoeuvring under their aircraft.
 
 ### Nash revealed by phone to NICAP that he had
 
@@ -308,11 +448,14 @@ More on Bill Nash: In the March, 1965 issue of
 
 ### Saucer News, published monthly by James W. Mosley
 
-inFort Lee,New Jersey, the following story told about Nash's and Fortenberry's experience during their interrogationby AirForceIntelligence
+inFort Lee,New Jersey, the following story told about Nash's and Fortenberry's experience during their 
+interrogationby AirForceIntelligence
 
 ### following their aerial encounter with UFOs. The
 
-article, entitled "Reconsidering The Mysterious Little Men," by Keith Roberts, quotes Nash as saying: "Before the interview, Fortenberry and I had agreed to ask the Intelligence men if there was any truth behind the rumour that the Air Force had one or
+article, entitled "Reconsidering The Mysterious Little Men," by Keith Roberts, quotes Nash as saying: 
+"Before the interview, Fortenberry and I had agreed to ask the Intelligence men if there was any truth 
+behind the rumour that the Air Force had one or
 
 ### more saucers at Wright-Patterson Field. Bill rem-
 
@@ -320,7 +463,9 @@ embered to ask, and one of the investigators answered, Yes, it is true!' Later, 
 
 ### one room, following separate de-briefings, I rem-
 
-embered to ask the question. All of the investigators opcned the mouth at the same time to answer, but Major Sharp, who was in comrnand, broke in with a quick "NO!' It appeared as if he was telling the others to shut up..
+embered to ask the question. All of the investigators opcned the mouth at the same time to answer, but 
+Major Sharp, who was in comrnand, broke in with a quick "NO!' It appeared as if he was telling the 
+others to shut up..
 
 ### Quoting further from the Saucer News article, "Nash said that an unnamed informant told him that
 
@@ -328,43 +473,90 @@ Life magazine had been briefed by U.S. Intelligence to the effect that the gover
 
 Comment:
 
-First, if it is necessary to establish that Bill Nash was a Pan Am pilot who, with co-pilot Fortenberry, had a significant UFO sighting in1952, researchers will find an account of their encounter fully recorded in an issue of True magazine in 1953. Also, while editor of Orbit in the 1950s, I had an exchange of correspondence with Bill Nash, so he is no figment of the imagination.
+First, if it is necessary to establish that Bill Nash was a Pan Am pilot who, with co-pilot Fortenberry, 
+had a significant UFO sighting in1952, researchers will find an account of their encounter fully recorded 
+in an issue of True magazine in 1953. Also, while editor of Orbit in the 1950s, I had an exchange of 
+correspondence with Bill Nash, so he is no figment of the imagination.
 
-Incidentally, in a telephone comment to NICAP in 1957, Nash said that PanAmcrican Airlines had asked him not to link his company with any more public statements or appearances. In reference to the young lady's disclosures about symbols, or glyphs, appearing inside the UFO, I have heard from another reliable military sourcein 1978 that he had seen photographs showing such markings at Wright- Patterson Air Force Base.
+Incidentally, in a telephone comment to NICAP in 1957, Nash said that PanAmcrican Airlines had asked 
+him not to link his company with any more public statements or appearances. In reference to the young 
+lady's disclosures about symbols, or glyphs, appearing inside the UFO, I have heard from another reliable 
+military sourcein 1978 that he had seen photographs showing such markings at Wright- Patterson Air Force Base.
 
-ABSTRACT V: Claim by radar specialist to have seen film of UFO and dead occupants Mr. T., who holds a high technical position in civilian life today, was aged 20 in the Spring of 1953, and was a radar specialist with secret security clearance. While stationed at Ft. Monmouth, New Jersey in 1953, he and a small select number of radar specialists wcre summoned to view a special film at the base theatre.
+ABSTRACT V: Claim by radar specialist to have seen film of UFO and dead occupants Mr. T., who holds a 
+high technical position in civilian life today, was aged 20 in the Spring of 1953, and was a radar 
+specialist with secret security clearance. While stationed at Ft. Monmouth, New Jersey in 1953, he and 
+a small select number of radar specialists wcre summoned to view a special film at the base theatre.
 
-Without any briefing, the l6 mm movie projector was flicked on, and the film began to roll on the screen, showing the usual flaws and scratches found in combat photography film. Suddenly, without any titles or credits, or music, there appeared a desert scene dominated by a silver disc-shaped object embedded in the sand with a domed section at the top. At the bottom was a hatch or door that was open.
+Without any briefing, the l6 mm movie projector was flicked on, and the film began to roll on the 
+screen, showing the usual flaws and scratches found in combat photography film. Suddenly, without 
+any titles or credits, or music, there appeared a desert scene dominated by a silver disc-shaped 
+object embedded in the sand with a domed section at the top. At the bottom was a hatch or door 
+that was open.
 
 ### In the next scene, Mr. T. recalls seeing 10 to 15
 
 ![image-1](images/image-1.png)
 
-military personnel all dressed in fatigues and all without identification patches, standing around what appeared to be the disabled craft. By judging their height against the UFO, Mr. T. determined that its width was approximately 15 to 20 feet, and that an open hatch or door at the bottom was about 212/ feet wide and perhaps 3 feet high. At this point Mr. T. had no idea of the movie's purpose. I asked about the activity of the personnel? "They were just looking at the object," he said.
+military personnel all dressed in fatigues and all without identification patches, standing around 
+what appeared to be the disabled craft. By judging their height against the UFO, Mr. T. determined 
+that its width was approximately 15 to 20 feet, and that an open hatch or door at the bottom was 
+about 212/ feet wide and perhaps 3 feet high. At this point Mr. T. had no idea of the movie's purpose. 
+I asked about the activity of the personnel? "They were just looking at the object," he said.
 
-Then the movie switched to what appeared to be the interior of the craft. A panel with a few simple levers was shown, and he remembers being impressed by the muted pastel colours and sudden glares of white — a sign of poor photography.
+Then the movie switched to what appeared to be the interior of the craft. A panel with a few simple 
+levers was shown, and he remembers being impressed by the muted pastel colours and sudden glares of 
+white — a sign of poor photography.
 
-Again there was a change of scene. Now in view were two tables, probably taken inside a tent, on which, to his surprise, were dead bodies. Two were on one table, and one on another.
+Again there was a change of scene. Now in view were two tables, probably taken inside a tent, on which, 
+to his surprise, were dead bodies. Two were on one table, and one on another.
 
-Mr. T. said the bodies appeared small by human standards, and most notable were the heads, all looking alike, and all being large compared to their body sizes. They looked mongoloid, he thought, with small noses, mouths and eyes that were shut. He didn't recall seeing ears or hair. The skin, he said, was leathery and ashen in colour. Each wore a tightfitting suit in a pastel colour.
+Mr. T. said the bodies appeared small by human standards, and most notable were the heads, all looking 
+alike, and all being large compared to their body sizes. They looked mongoloid, he thought, with small 
+noses, mouths and eyes that were shut. He didn't recall seeing ears or hair. The skin, he said, was 
+leathery and ashen in colour. Each wore a tightfitting suit in a pastel colour.
 
-The sight of the dead bodies was the end of the movie. Whereas most military movies credit the Signal Corp or some other source, this one "stopped cold," said Mr. T. When the lights came on again in the theatre, the officer in charge stood up and instructed the viewers to "think about the movie," and added firmly: "Don't relate its contents to anyone." Mr. 1'. said in good faith that he didn't even tell his wife who lived near the base.
+The sight of the dead bodies was the end of the movie. Whereas most military movies credit the Signal 
+Corp or some other source, this one "stopped cold," said Mr. T. When the lights came on again in the 
+theatre, the officer in charge stood up and instructed the viewers to "think about the movie," and added 
+firmly: "Don't relate its contents to anyone." Mr. 1'. said in good faith that he didn't even tell his 
+wife who lived near the base.
 
-To Mr. T.'s surprise, two weeks later he was approached by an Intelligence Officer on the base and told: "Forget the movie you saw; it was a hoax."
+To Mr. T.'s surprise, two weeks later he was approached by an Intelligence Officer on the base and told: 
+"Forget the movie you saw; it was a hoax."
 
-Shortly after seeing the movie he heard from a couple of top security officers on the base that a UFO had crashed in New Mexico and had been recovered with its occupants. The date of the crash was 1952, said Mr. T.
+Shortly after seeing the movie he heard from a couple of top security officers on the base that a UFO 
+had crashed in New Mexico and had been recovered with its occupants. The date of the crash was 1952, 
+said Mr. T.
 
-Commented my informant, "The 5-minute long movie certainly was not a Walt Disney production. It was probably shot by an inexperienced cameraman, because it was full of scratches, and had poor colouring and texture."
+Commented my informant, "The 5-minute long movie certainly was not a Walt Disney production. It was 
+probably shot by an inexperienced cameraman, because it was full of scratches, and had poor colouring 
+and texture."
 
-Mr. T., when asked about his interest in UFOs, claimed that neither then nor now was he interested, but he has always been curious about the purpose of that film in relation to his work in radar. Years later, he met an old army acquaintance who also was a radar specialist. To T.'s surprise, he learned from this man that he, too, had seen the same film at another base under the same Similar hush-hush conditions. Comment: Considering the credibility status of my informant, I believe he saw the movie and describes the subject matter to the best of his recollection. Regarding the subject matter, he believes that the crashed craft and the dead bodies were bona fide. It would have been difficult, even for a major Hollywood studio, to have made dummy bodies look so real for use in what was otherwise a make-shift film. And for what morbid purpose? ABSTRACT VI: official investigation of crashed object; armed guard on tiny dead ufonaut
+Mr. T., when asked about his interest in UFOs, claimed that neither then nor now was he interested, 
+but he has always been curious about the purpose of that film in relation to his work in radar. Years 
+later, he met an old army acquaintance who also was a radar specialist. To T.'s surprise, he learned 
+from this man that he, too, had seen the same film at another base under the same Similar hush-hush 
+conditions. Comment: Considering the credibility status of my informant, I believe he saw the movie 
+and describes the subject matter to the best of his recollection. Regarding the subject matter, he 
+believes that the crashed craft and the dead bodies were bona fide. It would have been difficult, 
+even for a major Hollywood studio, to have made dummy bodies look so real for use in what was otherwise 
+a make-shift film. And for what morbid purpose? ABSTRACT VI: official investigation of crashed object; 
+armed guard on tiny dead ufonaut
 
 Research Director for MUFON, Raymond E.
 
-Fowler of Wenham, Massachusetts, watched incredulously as Fritz Werner signed the following affidavit, dated June 7, 1973:
+Fowler of Wenham, Massachusetts, watched incredulously as Fritz Werner signed the following affidavit, 
+dated June 7, 1973:
 
-"I, Fritz Werner, do solemnly swear that, during a special assignment with the U.S. Air Force on May 21, 1953, I assisted in the investigation of a crashed unknown object in the vicinity of Kingman, Arizona.
+"I, Fritz Werner, do solemnly swear that, during a special assignment with the U.S. Air Force on May 21, 
+1953, I assisted in the investigation of a crashed unknown object in the vicinity of Kingman, Arizona.
 
-"The object was constructed of an unfamiliar metal which resembled aluminium. It had impacted 20 inches into the sand without any sign of structural damage. It was oval and about 30 feet in diameter. An entranceway hatch had been vertically lowered and opened. It was about 312/ feet high and 112/ feet wide. I was able to talk briefly with someone on the team who did look inside only briefly. He saw two swivel seats, an oval cabin, and a lot of instruments and displays.
+"The object was constructed of an unfamiliar metal which resembled aluminium. It had impacted 20 inches 
+into the sand without any sign of structural damage. It was oval and about 30 feet in diameter. An 
+entranceway hatch had been vertically lowered and opened. It was about 312/ feet high and 112/ feet 
+wide. I was able to talk briefly with someone on the team who did look inside only briefly. He saw two 
+swivel seats, an oval cabin, and a lot of instruments and displays.
 
 "A tent pitched near the object sheltered the dead remains of the only occupant of the craft. It was about 4 feet tall, with dark brown complexion and it had 2 eyes, 2 nostrils, 2 ears, and a small round mouth. It was clothed in a silvery, metallic suit and wore a skull cap of the same type of material. It wore no face covering or helmet.
 
@@ -1123,15 +1315,37 @@ and United States authorities, they would be released for publication. So far3 t
 
 "Later that summer, a highly placed American who was in touch with Air Force Intelligence and in a position to know the facts about fl ying saucers, admitted to Flying Saucer Review's special correspondent, after trying to shrug off the Mexico City Airport incident as 'mob hysteria,' that a camera does not become hysterical, and that dozens, perhaps hundreds, of pictures were taken that day.
 
-"Having got that far, he revealed that it had been established that these were visitors from another planet. That they were completely friendly — their hovering over defence establishments and airports being taken to mean 'We could blow you all to bits at our leisure if we had any evil intent. ' That they were undoubtedly trying to work out a method of remaining alive in our atmosphere before landing and establishing friendly communications, and that the United States authorities were completely convinced that Earth had nothing to fear from them. That the U.S. Air Force had been ordered to take no action against their craft. 4 "Asked why such emphasis had been imposed on denying their existence, and on censoring reports, the V.I.P. official — who would equal a British Cabinet Minister — said that the U.S.A. wanted her people to concentrate on the real menace, Communism; and not to be distracted by the visitors from outer space.
+"Having got that far, he revealed that it had been established that these were visitors from another 
+planet. That they were completely friendly — their hovering over defence establishments and airports 
+being taken to mean 'We could blow you all to bits at our leisure if we had any evil intent. ' That 
+they were undoubtedly trying to work out a method of remaining alive in our atmosphere before landing 
+and establishing friendly communications, and that the United States authorities were completely 
+convinced that Earth had nothing to fear from them. That the U.S. Air Force had been ordered to take 
+no action against their craft. 4 "Asked why such emphasis had been imposed on denying their existence, 
+and on censoring reports, the V.I.P. official — who would equal a British Cabinet Minister — said that 
+the U.S.A. wanted her people to concentrate on the real menace, Communism; and not to be distracted by 
+the visitors from outer space.
 
-"He went on to say that the Orson Welles broadcast some years ago had demonstrated what reaction might be expected were the true facts generally known: a welter of hysterical nonsense, and a complete disorientation from the tasks in hand. Rumours and speculation would create an atmosphere that the skilled propagandists of the Kremlin would be sure to make the most of.
+"He went on to say that the Orson Welles broadcast some years ago had demonstrated what reaction might 
+be expected were the true facts generally known: a welter of hysterical nonsense, and a complete 
+disorientation from the tasks in hand. Rumours and speculation would create an atmosphere that the 
+skilled propagandists of the Kremlin would be sure to make the most of.
 
-"Questioned about landings, the official admitted that there had actually been contact with the men in the saucers, and that on three occasions there had been landings which had proved disastrous fro the occupants. On each of these occasions breathing the heavily oxygenated atmosphere of this Earth and literally incinerated the visitors from within and had burned them to a crisp.
+"Questioned about landings, the official admitted that there had actually been contact with the men 
+in the saucers, and that on three occasions there had been landings which had proved disastrous fro 
+the occupants. On each of these occasions breathing the heavily oxygenated atmosphere of this Earth 
+and literally incinerated the visitors from within and had burned them to a crisp.
 
-"At Cuernavaco in Mexico later in the summer of 1951, flying saucers came up in a conversation between our Special Correspondent and a group of Mexican professional men. One of them, an engineer engaged in highway construction, said that he had actually helped to load a flying saucer and its dead crew into an American 'Flying Box-Car' aeroplane. The saucer, according to the engineer, had come down in an uninhabited valley in the Sierra Madre, near where his crew were working.
+"At Cuernavaco in Mexico later in the summer of 1951, flying saucers came up in a conversation between 
+our Special Correspondent and a group of Mexican professional men. One of them, an engineer engaged in 
+highway construction, said that he had actually helped to load a flying saucer and its dead crew into 
+an American 'Flying Box-Car' aeroplane. The saucer, according to the engineer, had come down in an 
+uninhabited valley in the Sierra Madre, near where his crew were working.
 
-`Ah, Selior,' he said, 'they were handsome, those little men, with fine features and beautifully formed tiny hands. But there must have been an explosion in their craft, for they were burnt black, and when I touched the face of one of them the skin came off under my finger as though it had been cooked!"
+`Ah, Selior,' he said, 'they were handsome, those little men, with fine features and beautifully 
+formed tiny hands. But there must have been an explosion in their craft, for they were burnt black, 
+and when I touched the face of one of them the skin came off under my finger as though it had been 
+cooked!"
 
 ![image-22](images/image-22.png)
 
@@ -1139,21 +1353,35 @@ and United States authorities, they would be released for publication. So far3 t
 
 Such, then, was the gist of the special report from FSR's correspondent who went to Mexico in 1955 and secured a personal interview with a topranking American V.I.P. regarding the reality of crashed saucers containing small dead beings. But who, you may ask, was this "top-ranking American V.I.P." anyway, and why should one attribute any value whatsoever to such a tale?
 
-The truth as to the identity of the V.I.P. can be revealed, as he is no longer in this world. I contacted FSR's Editor, Derek Dempster, immediately after reading this article in our Journal early in 1956. I asked whether he would kindly tell me, in strict confidence, who the American V.I.P. was?
+The truth as to the identity of the V.I.P. can be revealed, as he is no longer in this world. I contacted 
+FSR's Editor, Derek Dempster, immediately after reading this article in our Journal early in 1956. I asked 
+whether he would kindly tell me, in strict confidence, who the American V.I.P. was?
 
-He replied that it was General George C. Marshall, America's impressive Army Chief of Staff in World War II and, subsequently, the equally brilliant Secretary of State whose name is for ever enshrined in that of the famous Marshall Plan, the unique and unparalleled act of vision and idealism whereby America was able rapidly to see the free nations of Europe on their feet once more, put them firmly on the road to L economic recovery.
+He replied that it was General George C. Marshall, America's impressive Army Chief of Staff in World War 
+II and, subsequently, the equally brilliant Secretary of State whose name is for ever enshrined in that 
+of the famous Marshall Plan, the unique and unparalleled act of vision and idealism whereby America was 
+able rapidly to see the free nations of Europe on their feet once more, put them firmly on the road to 
+L economic recovery.
 
 * * * * *
 
-My recapitulation of events and reports as given in FSR of almost a quarter of a century ago has been long enough, and I am anxious to keep it down to a manageable length. But there is still one more piece of evidence to which I must refer if this extraordinary business of the early FSR reports of crashed UFOs and little dead men is to be grasped in its proper perspective.
+My recapitulation of events and reports as given in FSR of almost a quarter of a century ago has 
+been long enough, and I am anxious to keep it down to a manageable length. But there is still one 
+more piece of evidence to which I must refer if this extraordinary business of the early FSR reports 
+of crashed UFOs and little dead men is to be grasped in its proper perspective.
 
-This final piece of evidence is not merely a report, but a whole book, Behind the Flying Saucers by Frank Scully, an American journalist. Frank Scully was a veteran newspaperman, and his book, first published in the United States in 1950, is, so far as I
+This final piece of evidence is not merely a report, but a whole book, Behind the Flying Saucers by 
+Frank Scully, an American journalist. Frank Scully was a veteran newspaperman, and his book, first 
+published in the United States in 1950, is, so far as I
 
-am aware, probably only the second or maybe the third of all the many hundreds of books that have now been written on the UFO Phenomenon. Victor Gollancz of London produced a British edition of it in that same year, which sold out very rapidly. Gollancz had difficulty in finding a single copy when
+am aware, probably only the second or maybe the third of all the many hundreds of books that have 
+now been written on the UFO Phenomenon. Victor Gollancz of London produced a British edition of it 
+in that same year, which sold out very rapidly. Gollancz had difficulty in finding a single copy when
 
 they decided they would like to re-issue the book in 1955, and this edition too was soon exhausted.
 
-Scully's story was about an electrifying lecture, which he said had been delivered at 12.30 p.m. on March 8, 1950, before a small audience (350 students) at the University of Denver, Colorado.
+Scully's story was about an electrifying lecture, which he said had been delivered at 12.30 p.m. on 
+March 8, 1950, before a small audience (350 students) at the University of Denver, Colorado.
 
 There was no advance publicity for the talk, which was described simply as "confidential and scient-
 
@@ -1167,23 +1395,65 @@ Kohler of Denver, a staff member of a local indep-
 
 endent Rocky Mountain radio station with the call
 
-letters KMYR. As to the identity of the lecturer himself, it does not seem that anyone was overanxious to divulge it at the time, and only after he had gone was it discovered that nobody at the University could say who he was. The local press, when reporting the lecture, simply described him as "an unidentified middle-aged lecturer." Only later, when Scully's book came out in the same year (1950) was it revealed that the lecturer was a famous businessman and personality, Silas M. Newton, a graduate of Yale, a Texan by birth, and one of the great geophysicists of the American oil industry, with a record of successful oil exploration second to none (and a millionaire as a result).
+letters KMYR. As to the identity of the lecturer himself, it does not seem that anyone was 
+overanxious to divulge it at the time, and only after he had gone was it discovered that nobody 
+at the University could say who he was. The local press, when reporting the lecture, simply 
+described him as "an unidentified middle-aged lecturer." Only later, when Scully's book came 
+out in the same year (1950) was it revealed that the lecturer was a famous businessman and 
+personality, Silas M. Newton, a graduate of Yale, a Texan by birth, and one of the great 
+geophysicists of the American oil industry, with a record of successful oil exploration second 
+to none (and a millionaire as a result).
 
-The subject of Newton's astonishing talk to the students was crashed saucers and little dead crews. Newton told his listeners that there had been, up till that date (March 1950), three of these wrecked craft found in the USA, with their dead crews, and that all three machines and the crews had been inspected by scientists with whom he himself was currently associated in geophysical research. He said that the three machines had contained a total of 34 little men measuring between 36 inches and 40 inches in height. The first saucer, said Newton, was found, "less than a year ago," at a place "within 500 miles of Denver."5 It was 99.99 feet in diameter and its cabin was 18 feet wide and 6 feet high. The second machine, 72 feet wide, also contained, like the first one, 16 little dead men who, however, had seemingly not suffered from burns like the crew of the first disc, because they had fair complexions. They had no beard, apart from a fine facial down "resembling peach fuzz."
+The subject of Newton's astonishing talk to the students was crashed saucers and little dead 
+crews. Newton told his listeners that there had been, up till that date (March 1950), three of 
+these wrecked craft found in the USA, with their dead crews, and that all three machines and the 
+crews had been inspected by scientists with whom he himself was currently associated in geophysical 
+research. He said that the three machines had contained a total of 34 little men measuring between 
+36 inches and 40 inches in height. The first saucer, said Newton, was found, "less than a year ago," 
+at a place "within 500 miles of Denver."5 It was 99.99 feet in diameter and its cabin was 18 feet 
+wide and 6 feet high. The second machine, 72 feet wide, also contained, like the first one, 16 
+little dead men who, however, had seemingly not suffered from burns like the crew of the first 
+disc, because they had fair complexions. They had no beard, apart from a fine facial down "resembling 
+peach fuzz."
 
-The third disc, said Newton, measured 36 feet in diameter, and contained only two little corpses. The little men had apparently been alive when it landed, but had died as they tried to emerge from the cabin.
+The third disc, said Newton, measured 36 feet in diameter, and contained only two little corpses. 
+The little men had apparently been alive when it landed, but had died as they tried to emerge from 
+the cabin.
 
-Newton gave a vast amount of detail about the craft and the little men — far too much for me to reproduce here. He described the current theories of the American scientists, namely that the discs were operated magnetically, and he also related how American service personnel had succeeded in looting a great many of the smaller instruments and fittings before the authorities could put a stop to this souvenir-gathering. Those who want to see the story in detail must try to get Scully's book and read it. And that may not be easy, for, unless somebody has the sense to republish it, I predict that it will remain a rare and much-sought item. Indeed, in the light of the material already winkled out of the Pentagon by Ground Saucer Watch under the terms of the American Freedom of Information Act, and in the light of the revelations now made by Mr. Leonard H. Stringfield in the article Retrievals of a Third Kind which follows this, there may be a mad rush soon to get Scully's book — poorly written though it rrfay be, like so much of the UFO literature.
+Newton gave a vast amount of detail about the craft and the little men — far too much for me to 
+reproduce here. He described the current theories of the American scientists, namely that the discs 
+were operated magnetically, and he also related how American service personnel had succeeded in 
+looting a great many of the smaller instruments and fittings before the authorities could put a 
+stop to this souvenir-gathering. Those who want to see the story in detail must try to get Scully's 
+book and read it. And that may not be easy, for, unless somebody has the sense to republish it, I 
+predict that it will remain a rare and much-sought item. Indeed, in the light of the material 
+already winkled out of the Pentagon by Ground Saucer Watch under the terms of the American Freedom 
+of Information Act, and in the light of the revelations now made by Mr. Leonard H. Stringfield in 
+the article Retrievals of a Third Kind which follows this, there may be a mad rush soon to get 
+Scully's book — poorly written though it rrfay be, like so much of the UFO literature.
 
-The Scully book was dynamite, and it naturally created a sensation. It was therefore imperative that Scully be stopped in his tracks, and a feverish and powerful campaign was at once launched to damn and discredit him utterly. That campaign was 100% successful. Today I wager that you will not find a soul anywhere who has a good word to say for Scully. An unscrupulous hoaxer, they all tell us. They know.
+The Scully book was dynamite, and it naturally created a sensation. It was therefore imperative that 
+Scully be stopped in his tracks, and a feverish and powerful campaign was at once launched to damn 
+and discredit him utterly. That campaign was 100% successful. Today I wager that you will not find a 
+soul anywhere who has a good word to say for Scully. An unscrupulous hoaxer, they all tell us. They know.
 
 ![image-23](images/image-23.png)
 
-But, as Stringfield remarks, the job is now seen to have misfired somehow. For, "so completely was Scully 's UFO retrieval story 'put down', that some researchers today have begun to wonder, in retrospect, whether the 'exposure' was not contrived." (Leonard Stringfield, address to MUFON Symposium, July 29, 1978).
+But, as Stringfield remarks, the job is now seen to have misfired somehow. For, "so completely was 
+Scully 's UFO retrieval story 'put down', that some researchers today have begun to wonder, in retrospect, 
+whether the 'exposure' was not contrived." (Leonard Stringfield, address to MUFON Symposium, July 29, 1978).
 
-I have been in correspondence with Mr. Stringfield and we are extremely grateful to him for his permission to use in our Journal the whole of his material published thus far. In a letter dated March 13, 1979, he has informed me moreover that he has now gathered a considerable amount of further evidence since he wrote the paper which he read before the MUFON Symposium last year. lie has at present statements supplied by more than fifty witnesses.
+I have been in correspondence with Mr. Stringfield and we are extremely grateful to him for his permission 
+to use in our Journal the whole of his material published thus far. In a letter dated March 13, 1979, he 
+has informed me moreover that he has now gathered a considerable amount of further evidence since he wrote 
+the paper which he read before the MUFON Symposium last year. lie has at present statements supplied by 
+more than fifty witnesses.
 
-Well, they say "there's no smoke without fire." I suggest that fifty such statements must mean a powerful lot of smoke, and I suggest that the time has come for us to weigh most carefully these extraordinary claims now being made by Leonard Stringfield. It looks as though there may be a real likelihood at last that the whole cover-up will be blown sky-high. If this happens, UFO researchers everywhere will owe a great debt to Leonard Stringfield.
+Well, they say "there's no smoke without fire." I suggest that fifty such statements must mean a powerful 
+lot of smoke, and I suggest that the time has come for us to weigh most carefully these extraordinary 
+claims now being made by Leonard Stringfield. It looks as though there may be a real likelihood at last 
+that the whole cover-up will be blown sky-high. If this happens, UFO researchers everywhere will owe a 
+great debt to Leonard Stringfield.
 
 NOTES AND COMMENTS
 
@@ -1191,11 +1461,23 @@ NOTES AND COMMENTS
 
 2. One may deduce that the corpses had been cremated at the site, and the disc retrieved.
 
-3. The Mexican report from FSR's Special Correspondent presumably dates from some time in 1955, four years after the alleged taking of the numerous photgraphs. Is it necessary for us to add that today, in 1979, there still appears to be no evidence that those pictures have ever been released for publication?
+3. The Mexican report from FSR's Special Correspondent presumably dates from some time in 1955, four 
+years after the alleged taking of the numerous photgraphs. Is it necessary for us to add that today, 
+in 1979, there still appears to be no evidence that those pictures have ever been released for 
+publication?
 
-4. From what we know now about the over-all UFO situation, this idea that all UFO occupants are harmless to mankind would seem to be an extremely dangerous one to embrace. As to the suggestion that Air Force pilots had, or have, been ordered to take no action against UFOs, we now know that there is a mass of evidence to refute this and that airmen have lost their lives when going after UFOs. Perhaps we may conclude that in 1955 somebody in high office still thought that all UFOs were "friendly," but that today they know far too much to fall any more for such a naive idea.
+4. From what we know now about the over-all UFO situation, this idea that all UFO occupants are 
+harmless to mankind would seem to be an extremely dangerous one to embrace. As to the suggestion 
+that Air Force pilots had, or have, been ordered to take no action against UFOs, we now know that 
+there is a mass of evidence to refute this and that airmen have lost their lives when going after 
+UFOs. Perhaps we may conclude that in 1955 somebody in high office still thought that all UFOs were 
+"friendly," but that today they know far too much to fall any more for such a naive idea.
 
-5. This is the UFO which Leonard Stringfield says came down in 1948 at Aztec, New Mexico (Lat. 360 49 N. Long. 1080 59 W.). Stringfield takes it to he the first of the crashed hardware, but I would point out that if Hughic Green's story is true then it cannot be the first, since Green says he heard his radio newsflashes about a crashed saucer in June 1947. the same month as Kenneth Arnold's famous sighting which began it all.
+5. This is the UFO which Leonard Stringfield says came down in 1948 at Aztec, New Mexico (Lat. 360 49 
+N. Long. 1080 59 W.). Stringfield takes it to he the first of the crashed hardware, but I would point 
+out that if Hughic Green's story is true then it cannot be the first, since Green says he heard his 
+radio newsflashes about a crashed saucer in June 1947. the same month as Kenneth Arnold's famous 
+sighting which began it all.
 
 ---
 
