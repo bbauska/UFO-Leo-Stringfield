@@ -1,10 +1,7 @@
-## UFO CRASH RETRIEVALS 
-
-## STATUS REPORT III AMASSING THE EVIDENCE 
-
+# UFO CRASH RETRIEVALS 
+# STATUS REPORT III AMASSING THE EVIDENCE 
 By Leonard H. Stringfield 
-
-### PROLOGUE: THE BIGGEST STORY EVER, NEVER TOLD 
+## PROLOGUE: THE BIGGEST STORY EVER, NEVER TOLD 
 
 Ever since World War H when the first UFOs, dubbed "foo fighters", became officially recognized, the mystery of their origin and intent, has haunted the minds of man. Most ponder the puzzlement skeptically amused; others want to believe and straddle a philosophic fence guessing for answers. As we head into the decade of the 1980's, serious research has not found the answer either, or the proof to qualify an answer, and, officially, the mystery remains ostensibly irresolvable. To those wary and who have taken the time to probe, the official position is as mysterious as the UFO itself. 
 
