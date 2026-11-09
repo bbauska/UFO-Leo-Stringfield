@@ -1,4 +1,4 @@
-![image-1](images/image-1.png) -->
+<!-- ![image-1](images/image-1.png) -->
 
 # UFO CRASH RETRIEVALS
 # STATUS REPORT VII
