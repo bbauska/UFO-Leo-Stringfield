@@ -1,24 +1,21 @@
-UFO CRASH RETRIEVALS
-
-STATUS REPORT IV THE FATAL ENCOUNTER AT FT. DIX-MCGUIRE
+## UFO CRASH RETRIEVALS
+## STATUS REPORT IV THE FATAL ENCOUNTER AT FT. DIX-MCGUIRE
 
 By Leonard H. Stringfield June 1985
 
-ABSTRACT
+## ABSTRACT
 
 New testimonial evidence and a document are bared in Status Report IV, following the re-emergence in 1983 of the informant whose experience, as a witness, was first disclosed three years earlier and published as Case A3 in Status Report Ill, 1982. The source, a sergeant in the Air Force Security Police at McGuire AFB, adds substantive information relative to the reported fatal encounter on January 18, 1978, between an alleged alien entity and a Ft. Dix MP and relates
 
 his firsthand observation, while on duty, when the slain entity was found on an abandoned runway at McGuire AFB. The source also reveals his sensitive involvement with authorities in various agencies following his discharge from service because of his disclosures to this writer. Also reported are the communications with the source since 1980 and an arranged meeting between the source and a colleague to lend back-up credibility to the case. Investigation continues.
 
-PROLOGUE: THE BURDEN OF PROOF
+## PROLOGUE: THE BURDEN OF PROOF
 
 Proof! The burden of this one word, and perhaps its ambiguity, has haunted and frustrated UFO research since businessman-pilot, Ken Arnold sighted nine saucer-like things over Mt. Ranier in 1947. Proof! Its implications burden all of us who try to convince the skeptic that unidentified objects, flying under apparent intelligent control, have intruded into Earth’s air space and sometimes allegedly land and, on rare occasions, crash.
 
 All factors considered | believe we, in the domain of public research, do not have that exalted proof to exhibit for any of the foregoing anomalous UFO events. As Dr. J. Allen Hynek of CUFOS would say, we do have “reports” describing such events and, as we will agree, many are made by credible people. Yes, our research treasury has thousands of reports of UFO encounters of all kinds providing stacks of circumstantial but highly suggestive evidence.
 
 Alas, these are not proof. Nor do affidavits, “leaked” government documents, and photographs constitute proof. Regrettably, experience has taught us that any of these so- called proofs may well be fakes. Even a released document through the Freedom of Information Act is not proof, for the subject it treats too often contains precious little of value, due to censored deletions, vague phraseology, or references rendered meaningless without additional support data which are never made available.
-
-131
 
 So, what is that proof that remains so elusive from public view? According to scientific discipline, proof, in the case of UFO, can be reduced simply to the possession of a captive craft or artifact or a cadaver, if you will, that can be seen, touched, and smelled, and to please Phil Klass, the world’s foremost debunker, we might include, tasted. | must, therefore, face the inevitable questions in my special research: Has such a nondescript craft been retrieved and studied and, to stretch a point, duplicated at some secret base? And, has a crew member of exotic anatomy been secretly examined and maintained in chemical preservation at some medical facility?
 
@@ -34,9 +31,7 @@ I would like to be assured that governments worldwide, including Russia, and esp
 
 HR KKKKKREKKKKKKKKKEKEEEKKEKKEEKKKEKEEREEEKEE
 
-132
-
-THE EVIDENCE AND ITS BURDEN OF PROOF
+## THE EVIDENCE AND ITS BURDEN OF PROOF
 
 September 23, 1980, was to become more than just a typically busy day for me in UFO matters. According to my UFOLOG, I note that I had communications by phone and mail with Joe Brill, Michael Dougan, Bob Gribble, Diane Saghe, and a journalist in Japan. And, there was an envelope with an APO San Francisco return address.
 
@@ -50,8 +45,6 @@ Time will tell, I assured myself. Soon, Sgt. Morse would return home and if he h
 
 To better understand the incident and its ramifications, some of which later followed my source into civilian life, | believe it is essential to report verbatim most of my early exchanges of communications with him. This covers a span of time from
 
-133
-
 Morse’s initial letter in 1980 into a period of apparent mail interference, then through his long interval of silence into his re-emergence in 1983.
 
 As advised in Morse’s overseas letter, my reply of September 27, 1980, was mailed to his home address. In the main, it was a message to establish a rapport of trust between us, one in which he could feel comfortable in sharing the burden of his experience, and to allay any anxieties he may have had about my research background. My questions were few and simple. One, for instance, asked for more descriptive detail of the recovered body; another asked how the body was removed from the scene and by whom and still another, if he could reveal any names of the personnel assigned to the area. | ended my letter with this thought: “Hope to hear from you soon and will follow your mailing instructions. Your letter will remain confidential at this time and, of course, your name not be used in any way.”
@@ -63,9 +56,6 @@ In a letter dated November 27, 1980, from his home address, Morse answered as fo
 On December 4, 1980, I sent Morse the following memorandum: “Your letter of November 27 arrived yesterday. | was surprised to learn that my letter of September 27 did not reach you. Fortunately, | kept a Xeroxed copy which | have duplicated and enclosed for your consideration. Hope you can send me your phone number. Enclosed is a gratis copy of my recently published Status Report Il, which shows the scope of my research.”
 
 Again, Morse, for unknown reasons did not answer. Considering his expressed interest in my research and even allowing for other personal diversions, | though that 2 months were enough time for him to respond. On February 16, 1981, I wrote again,
-
-134
-
 expressing my concern and asked for a prompt reply as evidence of his sincerity. No answer.
 
 Had it not been for Morse’ s brief letter of November 27 in which he asked for me to respond “ASAP” I would have dismissed his disclosure of the incident as questionable. Something was amiss. Or was the mail sent to this home being lost through negligence, a long shot, or lifted at his post office by directive to the Postmaster from one of the intelligence agencies? Whatever the method used to silence Jeffrey Morse, | reasoned, it was effective. All communications ceased and, like so many other informants in 1980, Morse became a phantom.
@@ -77,8 +67,6 @@ On April 10, 1982, Hall sent Morse a certified letter offering, on my behalf, to
 “| am writing you in regards to your letter, 10 April 1982. I’m sorry that it has taken so long to answer your letter. | had to be sure about you and your organization. My mail has not been monitored for some time now, however, I must not express my information in the letter form. | have been warned, threatened and I have personally been interrogated as recently as February 1983, in reference to the subject | discussed with Len Stringfield. I also have further information...which I know will interest you...I have the opportunity now to travel to D.C. area. So if you wish to contact me again, you should still have my address. Hope to hear from you soon. If after 2 weeks I have not heard from you, I will no longer acknowledge my participation with your group, nor will I answer any mail.”
 
 When Hall phoned the news to me | advised that he follow up quickly by letter and arrange for a meeting. Unfortunately, because of personal circumstances, Hall’s reply, October 10, 1983, was sent a couple of days later than the deadline set by Morse.
-
-135
 
 Again, silence. On November 30, 1983, I wrote Morse the following letter, quoted in part:
 
@@ -93,9 +81,6 @@ Morse replied promptly, his letter post-marked December 14, 1983, included a map
 With the Ft. Dix-McGuire case going from Square One to Square Two, my dialogue with Morse was now on a constant but cautious track, always mindful of surveillance.
 
 The next event came as a surprise by certified mail postmarked December 23, 1983. On the flap of the envelope it said “Merry Christmas. I hope you like it.” Inside,
-
-136
-
 was a Xeroxed copy of the Incident/Complaint Report (Form 1569) that Morse had hinted, by phone, he might be able to procure as important back-up. The Report was brief, but essentially contained the same story told by Morse. Prepared by Desk Sgt. WC and signed by 1° Lt. WS, it was channeled to Col. Landon, Commanding Officer of McGuire AFB; Brig. Gen. Brown, Hdq., 21° Air Force (at McGuire AFB); and the Air Force Office of Special Investigations (AFOSI). It contained the names of the security policemen involved, including Morse, and the name of the MP assigned to Ft. Dix whom Morse later identified as the person having shot the alien intruder. (See Figure 2, Incident/Complaint Report.) However, as agreed in our ensuing talks, I have deleted the names of the persons in the document. Also to protect the persons named, as he later confirmed when questioned, Morse had opaqued out the social security numbers opposite each name in the report. “These numbers are private,” he said.
 
 The document is avowedly not proof. For it to be established as bona fide would, in turn, require additional irretrievable reports, memoranda, tapes, ad infinitum. In _ this regard, however, Morse said on several occasions that he had attempted to obtain a later Form 1569 Report mentioned by the desk sergeant, but was unsuccessful. Nevertheless, the Incident/(Complaint Report, as it stands, is a strong link of evidence not easily dismissed, even if denied officially or by any of its named personnel who might be coerced to so do. (Note 4)
@@ -105,8 +90,6 @@ The genesis for Case A-3 as it is designated in Status Report III is a taped reb
 To establish how it all began, | believe, is important for it diminishes the chance that Morse may have acted in collusion with a Stateside hoaxer. Also, to verify that he was stationed in Okinawa, I asked questions about the island’s terrain and its little-known offshore island, le Shima. His answers were right on target as a I knew these islands well, having been there myself with the 5" Air Force in World War II.
 
 For the incident itself at McGuire AFB we have only Morse’s word and his word only that it happened the way he described it based on his recall of his own experience and observations. Other than the Incident/Complaint Report which produced names, no other person has responded to Morse’s request for back-up testimony. One letter he addressed to another member of his unit on patrol went unanswered; still another refused to surface to his request fearing for his career in the services. “No way,” was the response.
-
-137
 
 Additional details about the affair came bit by bit based on specific questions by phone and letter during 1984, which are broken down for simplicity into categories as follow:
 
@@ -120,8 +103,6 @@ The only other animal anomaly that Morse attributed to the presence of the body 
 
 Although he never was able to see or talk with the Ft. Dix MP, JS, Morse did seek confirmation after his military service from the New Jersey State Police for their part in the incident, but he got nowhere, claiming they would not cooperate. Also, attempts to locate the state trooper he met at Gate #5 were futile. In this runaround, | recall Case A8 in Status Report III where the police personnel involved in the 1966 Hillsdale-Dexter, Michigan, encounter were immediately transferred to new posts in the county, and that all records on their blotter regarding the incident were removed.
 
-138
-
 My search for UFO reports coincidental to the January 18,1978, event, mainly in the eastern part of the U.S.A., indicates there was no national flap and no concentration of sightings in the New Jersey area at that time. A check into the reports collected and evaluated in the Jnternational UFO Reporter (CUFOS) for that time period show that 82 reports, according to editor Allan Hendry, were judged to be “indentifiable or inappropriate,” however five were selected for review in the March 1978 issue. These occurred in Toledo, Ohio, 1/23/78; Williamston, N.C., 1/27/78; Key West, Fla., 1/27/78; Montvale, N.J., 1/31/78; and Peoria, Ill. 2/5/78.
 
 The only case possibly akin to the Ft. Dix-McGuire encounter is the January 31 report in Montvale, N.J., which involved humanoids. This story was reported in the February 1978 issue of the MUFON UFO Journal with drawings of the entities, bearing little resemblance to the biped described by Morse. It was also fully reported in the April 1978 issue of the /nternational UFO Reporter. Only because the encounter happened in New Jersey and within a reasonable time frame is it of relative interest.
@@ -132,8 +113,6 @@ In early January 1985, my hopes to get a back-up UFO report were heightened when
 
 While on the phone I asked about Jeff as a person. “He was always friendly,” he said. “I lived with my family on the base and he would often stop by in his patrol car and play with the kids. We got to know him well.” HPS added that he had no reason to question his honesty or sincerity. In my opinion, had Morse been a shrewd hoaxer he could have inveigled someone else into adding spicy details to the incident instead of
 
-139
-
 HPS, who, in all honesty, provided little of real substance to support his case. Buy my call was worth the cost; HPS vouched that Morse was at McGuire in 1978 and that he was a likeable person.
 
 The most significant event of UFO activity, pinpointng the exact date, January 18, 1978, is a report I received from a police officer, Ron Jones, while on duty in Erlanger, Ky. His UFO was a large lime-green, egg-shaped object flying erratically across Kentucky skies. Other reports of a green object were also reported that night in northem Kentucky and into Cincinnati, including one coincidentally, that flew low over the home of the Jones family, causing a moment of terror. The story made big news on the local radio stations and in the headline of the Kentucky edition of the Cincinnati Post. (See Figure 6 for the newspaper account.)
@@ -143,9 +122,6 @@ Of pertinence in this event is that the UFO was green as were those observed by 
 3. The Retrieval Operation. It was maximum security, said Morse, who, alone, in his patrol car, received word by radio that a state of alert was in effect at McGuire as a result of the shooting incident. He was ordered to Gate #5 to answer the request of a state police officer who had been “running code” with the MP during his encounter at Ft. Dix and wanted admission to the airbase. Morse was ordered to “comply,” but when the trooper wanted to get closer to the runway he was told that all personnet—including he and other members of his security police unit—were restricted from entry into the roped-off zone. Taking command was a new and unfamiliar team of Blue Berets that suddenly descended onto the scene, just moments after the runway had been cordoned off. With speed and efficiency “they took over” he said, “and when asked who they were we were told nothing and ordered to stay outside the ropes.” Perplexed by this covert action, he noted that all of them were staff sergeants and up, wearing fatigues without patches or insignia. And for headgear, he said, “they wore blue berets just like mine.”
 
 In one letter Morse vaguely speculated they were “undercover cops” and, by phone, he said he felt certain “they” were stationed somewhere at McGuire to account for their quick deployment to the runway. In support of this, when asked if helicopters were seen or heard overhead or landed on or near the scene, his reply was negative. This, it seems, would rule out any notion that they had been transported from an outside base. It also strengthened his belief, and mine, that a UFO had not crashed or been disabled nearby requiring close tactical air support. But, what of a landed craft, perhaps one that touch-landed earlier at Ft. Dix? Could it have deployed one or more of its kind to perform a duty, forever unknown, at one or both of the adjoining military installations? The book, Clear Intent by Lawrence Fawcett & Barry Greenwood (Prentice-Hall, 1984) relates
-
-140
-
 many reports of UFO surveillance over airbases in 1975-76 and I know of many more hidden under the lid of secrecy.
 
 At McGuire, once the sensitive area had been roped off and ECP (Entry Control Point) established, a generator unit was brought in for better lighting. At least a dozen men, said Morse, armed with M-16’s were assigned to guard at the ropes and no one was allowed to enter except the base commander, the security police squadron commander, I* Lt. WS of the security police squadron, and a base photographer.
@@ -159,7 +135,5 @@ For Sgt. Morse and others of the Blue Beret regulars at McGuire, it was far from
 Never once, as Morse recalls, did any of the interrogators offer information or an explanation of the incident. Nor did anyone ever refer to the retrieved dead body or suggest that it may have been of extraterrestrial origin. Said Morse, “they beat around the bush, all references to it were indirect.” The day after the interrogation, Morse returned to McGuire, was debriefed by his Commanding Officer, Lt. Col. FM, and released for normal duty. The incident, he said, was not discussed again by anyone as though it never happened.
 
 The names of the officers at Wright-Patterson, including a Brigadier General, which Morse had had wnfirmed by a source still in the military, have been known to me since our first telephone chat. Although I agreed not to publish these names, in respect to security, I did insist they be authenticated and by someone other than myself, to lend credence to the case. With permission, | gave the names to Richard Hall, who had access to such records at the Library of Congress.
-
-141
 
 For
