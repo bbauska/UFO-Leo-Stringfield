@@ -1,8 +1,8 @@
 # UFO CRASH RETRIEVALS
 # THE INNER SANCTUM
-# STATUS REPORT VI
-## By Leonard H. Stringfield
-## July 1991
+## STATUS REPORT VI
+By Leonard H. Stringfield
+July 1991
 
 ### Humpty Dumpty sat on a wall
 ### Humpty Dumpty had a great fall.
