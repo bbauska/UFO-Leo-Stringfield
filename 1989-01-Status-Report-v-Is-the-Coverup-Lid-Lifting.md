@@ -1,10 +1,8 @@
-## UFO CRASH RETRIEVALS 
+# UFO CRASH/RETRIEVALS 
+# STATUS REPORT V
+## IS THE COVERUP LID LIFTING? 
 
-# STATUS REPORT V IS THE COVERUP LID LIFTING? 
-
-### By Leonard H. Stringfield January 1989 
-
-### UFO Crash/Retrievals: Is The Coverup Lid Lifting? Status Report V By Leonard H. Stringfield 
+By Leonard H. Stringfield January 1989 
 
 ### Prologue 
 
