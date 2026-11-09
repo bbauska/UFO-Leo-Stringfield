@@ -1,20 +1,23 @@
-UFO CRASH RETRIEVALS
-THE INNER SANCTUM
-STATUS REPORT VI
-By Leonard H. Stringfield
-July 1991
-Humpty Dumpty sat on a wall
-Humpty Dumpty had a great fall.
-All the King's horses and all the King's men
-Couldn't put Humpty Dumpty in his place again.
-Through the Looking Glass ---- Lewis Carroll
-Published by
-Leonard H. Stringfield
+# UFO CRASH RETRIEVALS
+# THE INNER SANCTUM
+# STATUS REPORT VI
+## By Leonard H. Stringfield
+## July 1991
+
+### Humpty Dumpty sat on a wall
+### Humpty Dumpty had a great fall.
+### All the King's horses and all the King's men
+### Couldn't put Humpty Dumpty in his place again.
+### Through the Looking Glass ---- Lewis Carroll
+
+Published by Leonard H. Stringfield
 4412 Grove Avenue
 Cincinnati, Ohio 45227
+
 Copyright 1991 by Leonard H. Stringfield.
 All rights reserved. Reproduction of material in this
 report prohibited unless written permission is granted.
+
 To those who trustingly contributed information,
 the lifeblood of this report; to Richard Hall, for his
 perceptive editorial critique, and to Chris Coffey
@@ -23,10 +26,11 @@ making everybody's disclosures readable.
 
 Beyond individual recognition, credit must go to
 the support of organized research, namely --
-The Fund for UFO Research
-The Mutual UFO Network
-The J. Allen Hynek Center for UFO Studies
-PROLOGUE: If. And. But and Maybe
+The Fund for UFO Research (FUFOR)
+The Mutual UFO Network (MUFON)
+The J. Allen Hynek Center for UFO Studies (CUFOS)
+
+## PROLOGUE: If. And. But and Maybe
 
 Maybe we're on the edge of the beginning to end official UFO secrecy. Maybe, if I should be so
 bold to say, the probes of organized research are finally breaching its protective fortressed
@@ -130,8 +134,8 @@ Clearance. I worked in the Operations Division and was a member of the Inner Com
 Staff, thereby working with and seeing General Lemnitzer almost every day.
 Len. I have names, dates and many details of the Assessment. I did not copy it because ill had, I
 would probably be in Fort Leavenworth right now.
-UFOLOGY'S HOT KITCHEN
 
+### UFOLOGY'S HOT KITCHEN
 Triggered by the recent influx of information from new and trusted old sources, my saucer
 sleuthing spirit was once again aroused. When the war in the Persian Gulf ended, kindling new
 patriotic fervor in the USA, my bouyant response was to concentrate on following up on each
@@ -181,7 +185,6 @@ Animal mutilations, the crop circles (or, as Dr. Bruce Maccabee suggests, agrigl
 the face on Mars -- they all have problems gaining acceptance because most people cannot face
 up to bizarre happenings that may cause their traditional beliefs to be shattered. Certainly, in
 retrospect, no issue has fared worse than the subject of crashed UFOs which I initially
-
 presented in my paper. Retrievals of the Third Kind, at the MUFON Symposium in Dayton,
 Ohio in 1978.
 Typical intellectual disbelief came in a commentary by Hilary Evans, editor of a British book,
@@ -223,7 +226,8 @@ I do not close my mind on the Vallee-Hynek rationale. I, too, wonder about some 
 extraterrestrial control system or, the ability of the alien mind to overpower its human
 counterpart for whatever purpose. Whenever I think of the options, the pros-and-cons of
 origin, I always think of Hynek. What did he really think?
-MY HYNEK CONNECTION
+
+### MY HYNEK CONNECTION
 Championing the UFO cause, after overcoming his "swamp gas" stigma while a consultant with
 the Air Force's Project Blue Book, Hynek set up the Center for UFO Studies in Evanston,
 Illinois. After the great 1973 flap, when I still had access to many significant UFO happenings,
@@ -264,6 +268,7 @@ his schedule. But, to my surprise, he had changed his schedule: he was sitting f
 from the stage when I commenced talking. It was mid-morning and my presentation, which
 Included a tape from a crash witness, and a guest appearance by Robert Barry, went on for more
 than three hours.
+
 Fatigued, I was lifted by loud applause. Then, suddenly, there was a commotion beneath the
 stage. Men, bearing arms and barking orders into walkie-talkies, pushed away people trying to
 file up the stairway to see me. Others, still seated or standing in the front rows, looked stunned.
@@ -273,6 +278,7 @@ leaped up onto the stage and whisked me away from the lectern and out through a 
 officer, and, in the quiet of a corridor that led us to an exit, he explained that the police had
 received word of two threats, one made by phone during the night and another in the lobby just
 before I went on stage.
+
 As I was led through an outside garden path to the Stouffer Hotel, where I had lodging, other
 plainclothesmen joined in the escort. Identifications, inside large black wallets, were shown
 to me. but I gave them only a cursory glance -- my mind was elsewhere.
@@ -281,6 +287,7 @@ was taken to my room, and before I could order a sandwich, I was told that I was
 transferred to another room. Out went my luggage and in came a lady's wardrobe on a pushcart.
 Fast work, indeed. Before one of the plainclothesmen departed, he advised, "Stay in your room
 until notified."
+
 Minutes later, I was visited by my friend with the CIA connection. Concerned by the threats, he
 phoned his contact and was reminded that he had been advised there would be trouble. No
 further explanation. About 15 minutes later, another visitor, with official credentials, joined
@@ -302,6 +309,7 @@ Many questions, to this day, remain unanswered about the events of that day I fo
 introduced UFO crash/retrievals to research. Mainly, who was the culprit who made the
 threats? Was he a loner with a mental problem, or a "plant" from the Inner Sanctum's special
 goon squad?
+
 But, what of the advanced warning by the CIA person who predicted "trouble"? Were "they"
 fearful that I would make some sensitive disclosures? But, if that were the case, why had they
 not taken stronger measures to prevent me from presenting my paper before I went to Dayton?
@@ -312,6 +320,7 @@ informed of the reason for the change, and if she did know, did she have any qua
 danger of being bombed? And, what did she do with the note addressed to me that was put under
 the door? She certainly knew her old room number which was room #1210. Very strange
 unless she, too, was a part of an orchestration.
+\
 To speculate further, were the threats and, subsequent Dayton police action, and the
 assignment of a personal bodyguard to watch my every move, day and night, until my
 departure, a window-dressing stunt perpetrated for a longer range purpose on orders from the
@@ -321,6 +330,7 @@ Cincinnati. Twice I got phone calls from a low monotone voice warning me that I 
 continued my research. Also I had received two postal cards from an anonymous source in New
 York with drawings of a human skull and crossed bones -- in red ink yet. The messages were
 brief: Get out of the UFO business!
+
 And now, for a little speculation on the lighter side -- away from the cloak and dagger kind of
 mischief. After the disturbance, I recall that rumors were rife that the threats could have been
 a caper pulled off, which got out of hand, by one or more buffoons within the local sponsoring
@@ -328,10 +338,12 @@ group, the Ohio UFO Investigative League (OUFOIL). Several researchers, who were
 point out that they believed part of the plan to stir up controversy. may have been
 demonstrated by one of the OUFOIL's members who paraded around the auditorium dressed
 like a little green man.
+
 In summary, the case is closed: it is now history. But, apart from all of its spooky aspects, I'll
 always wonder why Hynek got to Dayton ahead of schedule and will also wonder about the
 remark made by the CIA contact that Hynek was there to respond to any of my "hot stuff'
 disclosures. Apparently, I didn't have the hot stuff.
+
 Through the course of time, I had several occasions to meet privately with Hynek, once at his
 home, once at mine, and whenever he came to Cincinnati on business or to visit a "favorite"
 aunt in my city. Our main subject: crash/retrievals. He wanted names and details. I gave
@@ -340,6 +352,7 @@ their own security preferred anonymity. At restaurants, he would often acquiesce
 understanding nod, then stare down at his plate in long silence. Perhaps he gave thought to his
 own position relating to sensitive matters. I recall several times that I asked about a UFO
 military case and got no reply.
+
 Whatever was behind Hynek's zeal to get crash/retrieval information, he always maintained,
 in my company, the aplomb of a diplomat. His warmth and wit were indeed winsome.
 
@@ -348,6 +361,7 @@ continuum of witness reports from new sources, including a letter I had received
 conditions from a medical informant, describing the alien anatomy. Published by MUFON, to
 whom I had relinquished its financial proceeds, it got good reviews in friendly quarters, and
 according to Walt Andrus, got brisk sales.
+
 When Hynek received a copy of the galley proofs, he called, extending his compliments for a
 "job well done"; but, again, he lamented the fact that my credibility was suffering by not
 releasing names of my sources. And, once again, I felt cornered; my voice probably echoing my
@@ -357,6 +371,7 @@ satisfaction of the sources and myself. He hinted at some possibilities and prom
 touch soon. A few weeks later, he called again, this time offering his concept of a discretionary
 plan that would basically provide credence to my anonymous witnesses especially when I faced
 the media or was interviewed on radio or TV talk shows.
+
 According to the plan, which I dubbed Project Sphinx, Hynek would be privileged to know the
 names of my C/R sources and their full disclosures. The key to its success, he stated, would rest
 on the integrity of a third party, who would be included in the "know all, see all" plan. To my
@@ -366,6 +381,7 @@ anonymous sources. According to Hynek, the astronaut had already reviewed the ga
 of my new status report and would reply in due course. The full disclosure papers, said Hynek,
 would be stored in a vault of a Cincinnati bank with access limited only to the three persons
 named. Alas, credibility!
+
 Needless to say, I was honored. And, needless to say, I felt a choking sensation wondering what
 the reaction would be to the offer from some of my more sensitive and trusting sources. I had
 already a sample of a negative response when I requested an affidavit from an Air Force officer
@@ -373,6 +389,7 @@ who had witnessed, firsthand, three alien bodies at Wright-Patterson AFB in 1953
 asked for a posthumous statement, his response was that he would have to check with his
 security officer. The terse answer: 'You have seen nothing, heard nothing, and you sure as shit
 can sign nothing."
+
 Even in a more sensitive position were the medical specialists; one, a hematologist who had
 performed an autopsy on an alien body in the early 1950's; and the other, his colleague, a
 biochemist, who had studied specimens under glass. It took almost a year of "negotiations"
@@ -419,6 +436,7 @@ told Madeley that, although he couldn't prove it, the belief in official circles
 came from outer space and he named several star systems as likely candidates of origin.
 'They're way ahead of us in technology," said Madeley, quoting Hynek; and in his typical way,
 he compared them to us when we view the monkeys at the zoo.
+
 In retrospect, Dr. Hynek throughout our relationship, since he instituted the Center for UFO
 Studies (now The J. Allen Hynek Center for UFO Studies), has posed a few puzzlements for me.
 However, despite rumors of his implication in undercover work for the Air Force, or the CIA. I
@@ -440,6 +458,7 @@ meeting that I concluded that the tainted photos were a "part and parcel" of a w
 disinformation ploy. If they were given to me to "muddy the waters" of research or to discredit
 me, they were certainly successful -- at least for a brief period. More on this photo business
 later in my paper.
+
 On still another occasion, Hynek made the point, and I think my quotation is reasonbly
 accurate, "You, Len, can say whatever you wish about crashed alien UFOs publicly but I can't;
 Fm a scientist. I'd be an instant outcast in my profession if I came out in the open in your
@@ -459,7 +478,7 @@ dedicated, officially and at CUFOS, were an expression of disappointment. He fel
 been "used" without ever being told the truth behind the coverup.
 There is a commonality in the feeling of being "used" in this business.
 
-THE ROSWELL COLOSSUS
+### THE ROSWELL COLOSSUS
 Roswell is a small town's name in New Mexico, adjacent to the old air base, known as Roswell
 Air Field, to its South. Both town and base are^75 miles away from the Brazel ranch, near the
 still smaller town of Corona, where, allegedly, an alien saucer, with its crew crashed, July 2,
@@ -470,12 +489,14 @@ Captain, USAF Reserve, and the other, by scientist Stan Friedman and aviation wr
 Berliner, all battle-tested UFO researchers. And, lest we forget, it was Bill Moore (and co-
 author, Charles Berlitz) with Stan Friedman whose spadework investigations put the "Roswell
 Incident" on the map in a book of that title, published in 1980.
+
 As a specialist in C/R research, one may ask, why not publish a book on Roswell by
 Stringfield? Frankly, I didn't do all the necessary field work, like the others, to qualify:
 however, I have played a backseat role in the gathering and release of new material from
 sources like Sappho Henderson: Beverley Bean, whose father, Sergeant Melvin Brown, was a
 member of the 509th retrieval team; and 'Tim" which will be used by my contemporaries to
 mesh in sequentially with theirs.
+
 I begin my Roswell discourse with the Hendersons: the husband, the late Captain Oliver
 Wendelle Henderson, known as "Pappy" among his crewmen in the 509th Bomb Wing, and,
 Sappho, his wife. In separate ways, each gave research not only new information about the
@@ -487,6 +508,7 @@ respected, Stan Friedman, chagrined by my loyalties, managed to track her down, 
 her to appear on TV's Unsolved Mysteries September 20, 1989 for her insight commentary as
 part of the re-enactment of the incident. I'm glad for the enterprising Friedman and the
 credibility of Sappho for bringing in new sources.
+
 There is more to the Henderson story -- new backups. One is a dentist and former navy officer
 with whom Captain Henderson, on a one-to-one exchange, related their UFO experiences. The
 dentist, Dr. John Kromschroeder, who had witnessed a large orange globe hover over a fleet of
@@ -495,6 +517,7 @@ a phone interview, February 4, 1990, that he regrets he didn't press for more de
 friend's experience when they met in 1977, but he clearly recalls Henderson talking about his
 flight to Wright Field with the saucer wreckage. He also recalls his comment that bodies were
 retrieved but is not sure if he said he had seen them.
+
 Another backup is Vere McCarthy, formerly a first lieutenant who served with Henderson as
 bombardier in 30 missions in the 446 Bomb Group of the 8th Air Force in WWII. When I phoned
 McCarthy, who had retired from the military as a captain following the war, he verified that
@@ -514,6 +537,7 @@ comment about a civilian agency that took jurisdiction over the case from the mi
 didn't name names. (See Status Report V, Case 10, for initial reports regarding Henderson and
 other Roswell informants. New information about each will be addressed in literature to be
 published by other researchers in 1991.)
+
 My source for sharing this segment of Roswellian backup is John Reynolds, a long-time
 correspondent and a vet from the old NICAP days. I received the following notes from
 Reynolds. May 2, 1990, which I have edited, on his request, to shield the identity of his source
@@ -522,10 +546,12 @@ of the subject's secret classification. The source will be called Jack.
 He affirms awareness, from fellow officers, of the shipment of a large crate on a flight piloted by
 Pappy Henderson whom he knew personally. Jack stated the reason Pappy made the flight was
 because he was the senior pilot at Roswell.
+
 When I first brought up the Roswell crash, Jack immediately said, "Which one?" He was very
 evasive after that statement.... It was a rhetorical cat and mouse game. I came away feeling he was
 honestly trying to help me understand the situation which he knows a lot about, but could not
 reveal in a direct manner.
+
 "Which one?" coming from a source in-the-know is a question that behooves Roswell scholars
 to dig deeper as new reports surface to suggest that possibly more than two crashes did occur in
 New Mexico in the 1947 time frame. Also challenging is the number of flights from Roswell,
@@ -536,6 +562,7 @@ are enough facts and rumors to believe that as many as nine secret flights betwe
 Including a B-29 transporting a crate, possibly with the retrieved bodies, to an Army air base
 in Ft. Worth, Texas. I have firsthand witnesses of this historic flight which follows:
 "WE ARE NOW A PART OF HISTORY'
+
 Shortly after my Status Report V, UFO Crash/Retrievals: Is the Coverup Lid Lifting? was
 published in the January^1989 issue of the MUFON UFO Journal, with new sources that
 revitalized my interest in crash/retrieval research, Barry Greenwood, editor of Just Cause sent
@@ -545,6 +572,7 @@ promptly sent me a copy and the green light to follow up.
 On January 26, 1989, I contacted the source in a western state and in short time he agreed to
 work with me. Preferring anonymity, we agreed that he would be identified as 'Tim". Excerpts
 from his "introductory" letter, follow:
+
 On this day (July 9, 1947) our crew had not been on the flying roster. We had accomplished our
 period of ground school in the morning, then went to the skeet range after lunch. The Aircraft
 Commander had broken 48 targets, and I was next with 47 out of the 50. The sergeant in charge of
@@ -555,6 +583,7 @@ the other crews had been released for the day. The operations officer told our c
 crew together because he thought he had a flight for us. We expected this was a last-minute test
 hop on a plane needed for the next day's mission. I loved test hops, for on many of them, the pilot
 would let me be the co-pilot and sometimes I would get to make a landing.
+
 We were sent out to pre-flight our own airplane; we knew then it was no test flight. The pre-flight
 of a B-29 was a lengthy operation, requiring a visual pressure check of each engine's fuel system,
 plus many other details. An hour later we were told to taxi the plane to the "Pit", a place where the
@@ -571,6 +600,7 @@ briefing. When they returned only the bombardier was allowed to go in the bomb-b
 the security of the load. The engineer and I had been given a cargo weight, which I remember was
 no problem at all, and no ballast was required in the tail, so my guess now is that it was less than
 five thousand pounds.
+
 Once airborne, we were told the destination was the AAFB at Ft. Worth, Texas. By now, we were
 aware that this was no routine cargo mission. The rank and number of the MPs were clues that we
 had something important on board. One of our officers speculated that it was the household
@@ -582,6 +612,7 @@ not talk about. One of the crew, a very outspoken individual, said on the way ho
 now a "part of history." He went on to say, he knew it was the disc and remains of the flight crew
 because he had seen a man he recognized in the reception group. This man was a mortician by
 military specialty.
+
 For weeks rumors were plentiful, and we were hard pressed to maintain the silence we had been
 ordered to keep.
 If, indeed, Tim's flight transported the bodies, then it fits well into the scenario that postulates
@@ -614,6 +645,7 @@ cross-country. Vicksburg, Little Rock, Tulsa, Amarillo and return. Holiday celeb
 Flight time 9 hrs., 55 mins.
 July 9.^1947 DEH, Ship 7301. 8-29. Cross country. Ft. Worth and return. Flight time^1 hr.,^55
 mins.
+
 The next 17 days, Tim said, he and crew were in special training school featuring courses in
 Russian language, Judo, hand-to-hand combat, etc.
 July 26.^1947 DEH, Ship 430? (last number illegible). B-29. Cross country round robin to
@@ -622,30 +654,36 @@ July 28.^1947 DEH, Ship 6291. B-29. Cross country radar bombing. Omaha, Kansas C
 Houston and return. Flight time, 11 hrs., 20 mins.
 July 29. 1947 DEH Ship 6291. B-29. Formation over Utah, live bombing. Flight time^8 hrs.,^45
 mins.
+
 The Key Date: July 9, 1947. For one thing it backed up the scenario that Marcel had returned to
 Roswell on Tim's flight. but. July 8 and 9 were days of other dramatic events linked to his July
 9th flight to Ft. Worth. During this period, a special detachment of 509th personnel from
 Roswell found four alien bodies about two and a half miles from the crash-site on the Brazel
 rank.
+
 In the short run, however, the exotic cadavers had to be protected under maximum security,
 preserved, photographed and crated for shipment out of Roswell. By the afternoon of July 9,
 while preparing them at the base hospital, a local mortician, Glenn Dennis, had been consulted
 about techniques used for hermetic sealing of a casket for frozen body remains. Hermetic or
 not, once crated, they boarded Tim's flight to Ft. Worth. Final destination, probably Wright-
 Patterson AFB.
+
 "Everything about the flight was unusual", said Tim. 'We flew at an unusually low level, and so
 tight was security, we knew that the crate contained more than the general's furniture." It was
 made of wood, he said, and was unpainted and unmarked as though hastily constructed.
 Fitting snugly into the bomb-bay, its approximate size: 5 ft. high, 4 ft. wide and about 15 ft.
 long.
+
 Beyond the suspicious cargo requiring extraordinary security measures at Roswell and Ft.
 Worth, the strongest factor to support Tim's belief that his plane carried the bodies is in the
 happenstance of a fellow crew member. Captain FM. who recognized a former school chum
 among the contingent of greeters at Ft. Worth -- a mortician! Tim remembers FM's comment
+
 "We are now a part of history."
 I was in frequent touch with Tim by phone and by mail as we tried to resurrect, through his
 recall, more details of his experiences and observations and, to make his "historic" flight fit
 into the whole Roswell fabric of events.
+
 As more and more people, with Roswell connections, were surfacing and willing to "go public",
 the Fund for UFO Research. a Washington, D.C. based non-profit educational organization,
 emerged with a plan to do just that -- go public! According to an announcement by Fred
@@ -671,6 +709,7 @@ that I had written and published some stories in Western flyer. She wanted to kn
 help her with an article on the B-52 Bomber. At that point, I felt it was time to be careful. I told
 her I had never flown in the B-52. She said, "Oh, well perhaps you have some interesting stories of
 other types. How about the B-29's?"
+
 I became sure that I wanted no part of whatever she was up to. I said, it would take time to come
 up with something and asked her to give me an address to which I could mail in a synopsis. Then
 I salt,"! charge eight cents a word." She then said that it would be better to just discuss it over the
@@ -680,6 +719,7 @@ Some E.nister force in the shadows seemed to be closing in on Tim. The purpose w
 but 1, too, felt that the "Andrea" call was one more link in a plan to make Tim think twice about
 his role in Roswell affairs. Bewildered, and feeling concern for his family, he canceled plans
 to go to Washington.
+
 The main gathering in Washington, D.C. and subsequent meetings in the United States of
 Roswell-connected people in the summer of 1990 were a success. The on-camera "depositions"
 were impressive and credit must go to the Fund for UFO Research for a job well done. I called
@@ -689,6 +729,7 @@ When I checked with Tim later, he said that the "invasion" of weird calls had ab
 he would consider meeting me in Cincinnati. Reaching Don Schmitt, he also agreed and, yes,
 he might encourage others still willing to go on camera, to join in. The date was set for
 September 14, 15 and 16, 1990.
+
 But, the same shadow that I assumed guided Andrea, somehow knew my plans for Cincinnati;
 this time the voice that called Tim at 10:45 AM, August 15, 1990, went by the name of Vard
 Jacobsen. Identifying himself as a member of the American News Release Syndicate and
@@ -731,22 +772,26 @@ name, but one he rarely ever used in normal daily life. Curtly, he asked, "Are y
 the Roswell case?" Tim said he acknowledged his interest, admitting that he was stationed
 there when the story of the crash was news. The phantom caller then advised that he check on
 the military policeman, involved in the case, who committed suicide six months later.
+
 Were others in Tim's flight affected by phantoms? The wife of one in El Paso, Texas, tracked
 down by Schmitt, refused to discuss her husband's 509th activities when Kevin Randle called. I
 called later, telling her that I knew a close friend of her late husband (whom she admitted had
 passed away six months earlier). Her angry answer: "I don't care to discuss his activity with
 you or anyone else." Bang!
+
 Later, after locating the bombardier. FM. the officer who had dubbed the flight as "historic". I
 asked Tim to follow-up. According to his log, he called five times and finally on the sixth try, a
 young lady answered and questioned if he had the right number. Tim did not give his name,
 saying only that he wished to talk with his old friend with whom he had served in the 509th.
 Abruptly, the voice said, "No", and she hung up.
+
 The names of all the crew members aboard Tim's flight that he can recall, are known to me,
 which I gave to Don Schmitt, who in our cooperative efforts, offered the ways-and-means to
 track them down to their current status and location. Most were deceased, including the pilot
 who died in a plane crash two years after Roswell. One, crew member, however, willing and
 able, and so far unbothered, was reached by Schmitt. Randle and I. He was the B-29's gunner,
 Staff Sergeant Bob Slusher.
+
 Slusher's recall of the secret flight to Ft. Worth was our bonanza. He remembered all the
 important details: the wood crate in the bomb-bay, it's size, (which conformed to Tim's
 estimates), the tight security at Roswell and Ft. Worth and, lo and behold, even the vivid scene
@@ -754,6 +799,7 @@ in Ft. Worth of the bombardier. FM. meeting his old school-day pal, among the of
 -- the mortician. "I can still see them," he said, "shaking hands and hugging."
 Slusher also remembers Major Jesse Marcel being aboard his B-29's return flight to Roswell,
 same date. July 9th.
+
 "No doubt about it", he told me, "Jesse Marcel was on our plane. He spent most of his time in the
 cockpit."
 Needless to say, a secret crate, a mortician to greet it on July 9, 1947, are each on its own merit,
@@ -771,10 +817,12 @@ friend and his source.
 I will describe this to you as it was told to me. My source sometime ago related an incident to me
 that leads me to question the "official" government position on their research into UFO/LAC
 activity.
+
 In 1955, as a scientific research analyst, he was working in Texas upgrading several radar
 Installations. His main duties included the supervision of upgrades and field testing of new
 equipment. He had from time to time been called in to investigate "bogies" encountered by various
 groups. This apparently led to the following incident.
+
 One evening during dinner, an MP pulled into the drive and informed him that he had to go with
 him. This was not an unusual event and he thought nothing of it at the time. As was typical he
 was not allowed to pack or was he informed of his destination or the duration of the "trip". He was
@@ -789,6 +837,7 @@ envelopes and they were frisked. They were then led to an aircraft and seated al
 military guards. My source related to me that he did not recognize the insignia on their uniforms
 and it consisted of numbers only. None of the guards had ID labels on their blouses and none of
 them spoke to the passengers for the duration of the flight.
+
 Just before landing they were each given a black hood and told that removing them before told to
 do so would result in "never being seen again". When asked if he was kidding. the Colonel in
 charge merely said "try me". After the plane landed, they were told to don their hoods and place
@@ -805,11 +854,13 @@ analysts that he had worked with who had been at the airport were indeed never s
 their families moved away before they returned home. Any questions regarding their
 whereabouts were answered with, "You want the same thing?"). After a short walk, they
 encountered concrete, and as they stopped, he heard a hangar door brought down behind them.
+
 After a muffled discussion between two disembodied voices (one quite angry, after being told
 "there were two violations" and that no, they wouldn't be included or questioned); they were told to
 remove their hoods. At this point, my source's voice always quivered when he tells the story (he
 has told it to me on five occasions without change and so far as I know he has related it to no one
 else).
+
 When they removed their hoods they were inside a converted aircraft hangar, floor and walls
 entirely painted blue. Around the room were tables, shelves, and fixtures holding thousands of
 artifacts, none of which were immediately recognizable. They were told that they were to study
@@ -846,6 +897,7 @@ first recounts a UFO sighting over Japan in August, 1947 by many members of his 
 the 25th Tropic Lightning Division. He goes on to say that General Douglas MacArthur ordered
 an investigation. According to a story later published in The Pacific Stars and Stripes, the
 "huge silver disc" remained unexplained. Richards then goes on to relate:
+
 In 1950, I was in the ROTC program of the Air Force at Indiana University. We were sent to Lowry
 Air Force Base for six weeks training that summer. One day, we had a lecture by a colonel from
 Wright-Patterson AFB. He outlined many changes and new experimental aircraft being tested.
@@ -859,9 +911,11 @@ between Lubbock and Amarillo. Many police, elected officials and other reputable
 reported what they had seen on local radio, TV and in the newspapers. I corresponded with J.
 Allen Hynek at Northwestern University and he wrote me confirming all three
 occurrences.. .(Italics mine.)
+
 I prefer to believe that Hynek was being over-graciously accommodating if, indeed, he had
 "confirmed" the Roswell bodies at Wright-Patterson AFB. I have no address for Norman
 Richards for a follow-up.
+
 And finally, a word from an investigative journalist, Jim Marrs, author of the book, Crossfire,
 published in 1989. This popular book ties together all the loose ends of evidence about
 President Kennedy's assassination and leaves little doubt about a government coverup hiding
@@ -879,9 +933,11 @@ Both men told me how the rumors flew around the base after several pieces of str
 crash-site. Reportedly, this metal was from a disc-shaped device which crashed near Roswell,
 New Mexico, sometime in early July, 1947. There also were rumors that dead crew members had
 been recovered and sent to Wright Field...
+
 It is indeed unfortunate that I did not fully interview these two men at the time.. .1 mention these
 two only because they told me they were at the base during the time in question and that the
 incident indeed occurred...
+
 During our phone discussion, Marrs was quick to put down the rumor that the assassination
 involved a Secret Service agent, who turned from the front seat of the presidential limousine to
 fire the fatal shot. As the rumor goes. Kennedy was the target because he planned to release the
@@ -897,13 +953,15 @@ lose by hiding the truth? While I have always respected these agencies for their
 good work they do in their respective fields. I am also aware that each has played an
 undercover role in UFO affairs. But, frankly, it is only in the world of rumor and hearsay have
 I heard of their use of extreme measures to control UFO secrecy.
-THE "'ROSWELL" ERA: INSIDERS BARE SECRETS
+
+### THE "'ROSWELL" ERA: INSIDERS BARE SECRETS
 Survivors in-the-know, going back to the "Roswell" UFO crash era, both before and after the
 established date of July 2, 1947, are thinning out, and for most of the few remaining, so are
 their memories when they try to recapture the details of the role they played in the drama of
 events. While we may never be privy to the whole "inside", unexpurgated story hidden under the
 lid of secrecy, I believe it should behoove all of us in research to get all the facts we can from
 these old-timers -- now.
+
 The so-called Roswell era was a time when officialdom, already baffled by the foo-fighter of
 WWII, was suddenly faced with a new crisis of incalculable consequences -- the crashes of alien
 saucers and crews in the New Mexican desert, circa 1947. Almost instantly after the first shock
@@ -912,10 +970,12 @@ be-proved documents have surfaced over the years about the early crisis but the 
 firm; never to be seriously breached. Senator Barry Goldwater, with his political clout, tried
 and so did Major Donald Keyhoe. behind a powerful NICAP (National Investigations
 Committee on Aerial Phenomena). Both failed.
+
 But now the wall of secrecy weakens a little with some old hands emerging to tell about their
 part or, knowledge, of the untold story. Credit must go to them, of course, for their courage
 however, if there is praise, it should be shared by those who knew the value of time in relation
 to aging people and managed to get their "pasts" on record.
+
 To this end, Timothy Cooper, an energetic sleuthing newcomer who surfaced to Stan Friedman
 and me in the fall of 1990, has performed well. A resident of Big Bear Lake. California and a
 member of MUFON, Cooper, professionally is an experienced industrial technical writer and
@@ -931,28 +991,32 @@ After receiving Cooper's introductory letter to which I responded by phone for a
 exchange of expressions of mutual trust, I soon received the following report, properly edited,
 which he got firsthand from a life-long close friend:
 
-THE CLOSE FRIEND
-
+### THE CLOSE FRIEND
 This is my interview September 9, 1990, with a retired Air Force enlisted man who was stationed
 at Holloman AFB in the month of July. 1947. My source wished to remain anonymous and will be
 known as "Bob".
+
 Bob was a technical sergeant stationed at Holloman at the time when the U.S. Army Air Force
 recovered the wreckage of a craft described as a flying saucer. Bob's main duty was to oversee the
 printing for the Operations Section at Holloman. It was in this capacity that he became involved
 with sensitive papers and photos documenting the recovery of a crashed UFO in 1947.
+
 According to Bob, he was ordered by the Holloman Base Commander, who was Colonel Paul F.
 Helmlek (confirmed by Stan Friedman and the Alamogordo News, dated July 17, 1947) to print a
 typed report of 50 -pages that included some black and white photographs. Bob told me what was
 unusual about this request was that the base commander pulled up at the printing facility with a
 complement of MPs armed with Tommy guns who surrounded the building. Helmlek came into
 the sergeant's office and ordered everyone to go home except him.
+
 After his order was carried out, Bob told me. Helmlek pulled out a portfolio containing a report
 and gave it to him and said, "Print this." Bob said he told the colonel that it would be difficult and
 would take a long time to do it without his staff. The colonel became stern with him and ordered
 him to do it now.
+
 Bob told me that the report basically contained information about the crash or landing of a UFO
 at White Sands Missile Range. He was ordered not to look at the contents and to forget what he
 saw in the photos.
+
 Bob said that he proceeded to shoot camera film of the report for off-set plates and to lay glass-
 dot screens for the black and white photos (stills from a large format press camera, he believes).
 What he saw in the photos was amazing. They depicted a saucer-like craft on the ground. He
@@ -964,6 +1028,7 @@ he was ordered to put the negatives and plates in the security safe and that som
 personnel would come later for them. He did not say how many copies were made, only that each
 copy was numbered. Colonel Helmlek took all the copies and left. I asked if he could remember
 the precise date in July; he could not.
+
 Following up by phone, October 19, 1990, Cooper asked Bob once again if he knew the date on
 the report he printed for Colonel Helmlek. His source interrupted and said, 'That is secret."
 Cooper enclosed a second set of papers relating to his interview with Bob, most of it a summary
@@ -977,6 +1042,7 @@ working group in existence during his tenure at Ent AFB. He knows this to be tru
 said the classifications of printed material for NORAD was given priority of Above (Ultra) Top
 Secret with a "12" designation. He did not know what the classification "12" was, but knew it was
 "hand-carried by armed courier with military escort."
+
 There was no question that Cooper's source, Bob, had an endless well of knowledge about UFO
 crashes in the summer of 1947 in New Mexico. Cooper's inability to extract definite locations
 from him may have been due to vague recall of available records. As we all know now, the
@@ -993,7 +1059,8 @@ Persistent, Cooper again tried his key source, Bob, and another well-informed co
 to get more definitive answers about the crashes or at least some new clues. On April 28, 1991.
 he called to relate that he had new information from Bob which follows:
 Third interview with Retired USAF M/Sergeant. April 6. 1991
-Location: Confidential
+
+### Location: Confidential
 This interview was conducted under relaxed conditions as a social visit. The subject of my
 conversation with Bob was about the targeting method employed by the Air Force during the
 bombing of Iraq. We discussed the ability of the bombs to follow a laser beam to its target. Bob
@@ -1001,14 +1068,17 @@ said that "smart" bombs were developed at the Tularosa Bomb Range after WWII and
 deal. I asked him about the activities at Alamogordo Field (Holloman) while he was stationed
 there. Eventually, Bob was in the mood to talk about a "special job" he was personally asked to do
 by the base commander, Colonel Paul Helmlek.
+
 Q. Do you remember what was in the Top Secret Ultra report you were ordered to print by
 Colonel Helmlek?
 A Yes. As I recall, it was a technical report of a radar target that was tracked and filmed over
 the North Range (Tularosa). It was a report of a landing of a saucer-type craft. There were
 Askania and still films taken.
+
 Q. Where was the filming taken at?
 A On the North Range (Area) of White Sands Missile Range. I believe it was near Tularosa, but
 Inside the range.
+
 Q. How were the pictures taken? What cameras? What unit?
 A By Askania and Mitchell tracking cameras. A 1st Sergeant by the name of Paul, an Askania
 camera crew chief, told me that he shot some of the footage from a truck mounted tripod
@@ -1026,8 +1096,8 @@ Some of the Askania film was taken from a truck and on an airplane (trucks and
 aircraft appeared in some of the motion picture films). The stills were taken from the air
 and on the ground. I think various types of cameras were used. Some of the motion picture
 film were in color. They must have used flares or illumination rounds from mortars.
-Q. What did you see in the pictures? How many were there?
 
+Q. What did you see in the pictures? How many were there?
 A I remember a dozen or more^8 X 10. B&W glossies of the craft resting near a hillside. It
 appeared slightly tilted. The craft appeared to be a large, round dome-shaped, almost egg-
 shaped disc with a flat bottom. It looked bigger than a B-29 in size. The personnel in the
@@ -1040,7 +1110,6 @@ on top. There were some close-ups of the craft's structure but can't recall what
 like.
 
 Q. What do you remember of the technical report itself?
-
 A It was a technical description of the craft. It was prepared for the AMC and the ATIC. It did
 not analyze but record dimensional, structural, and material specifications. The report
 also contained radar data. There was a section that included the possible flight path,
@@ -1072,6 +1141,7 @@ Missile Range operations.
 
 Bob said in 1948, orders were coming in for a lot of people at Alamogordo. Bob stayed on there
 until 1952 and was assigned to Weisbaden, West Germany.
+
 Fourth Interview with Ret. USAF M/Sergeant April 7. 1991.
 I brought the book, The Roswell Incident, by William Moore and the report on MJ-12 by Stanton
 Friedman. When Bob saw them, he guessed the reason for the discussion we had the night before.
@@ -1082,9 +1152,9 @@ looked at me. He didn't say a word. Then he just grinned and changed the story. 
 change the subject. Bob knew more than he was letting on. I noticed a medal in a case hanging
 on the wall of his mobile home. It was the Air Force Distinguished Service Medal. It was awarded
 him for outstanding service in the Strategic Air Command photographic intelligence service
-
 during the 1962 Cuban missile crisis while he was stationed at Ent AFB, Colorado Springs,
 Colorado.
+
 Then, Bob made an abrupt statement to me, he said, "Roswell is only part of the UFO
 crash! landings in New Mexico." I took that to mean, yes.
 
@@ -1100,6 +1170,7 @@ Holloman in 1949 and in the early fifties. He mentions a Major Edward A. Doty as
 of security for Holloman. Bob said he knew him. Since Bob had a Top Secret Q Clearance Crypto,
 he was not bothered very much possibly because he could keep secrets well and did not talk
 about what he saw in the reports he printed.
+
 A major Edward Doty, OSI is mentioned in an April 18, 1949 and April 30, 1949 summary of
 Project Grudge distributed in 1952. Major Doty is mentioned in the abstract on the GRD
 (Geophysics Research Division, AMC)., under Post Contractual Inquiry. On August 9, 1951, Lt. Col.
@@ -1112,11 +1183,13 @@ developments." On August 28, 1951. Dr. Lincoln La Paz met with Holloman security
 and intelligence staff concerning the^1947 fireball sightings. The report mentions La Paz as
 saying. 'The fireballs may be of our own military origin, but if not, they are a matter of serious
 concern."
+
 The report goes on to state that, "Major Doty also arranged a conference with Mr. Warren Knot
 who is in charge of Land-Air Operations. Mr. Knot pointed out that a formal report covering the
 years (1950) vigilance period had not been issued (possibly the one of several Bob says were
 highly classified and was not included in any official report) since the contract contained no such
 provision."
+
 The abstract also contains this bit of information. In a classified letter from Chief of Staff, USAF
 to CG, AMC, subject "Light Phenomena," on September 14, 1949, Lt. Col. Frederic C. E. Oder of CRD
 attended a conference at Los Alamos, October 14, 1949, on the subject of "Green Fireballs"
@@ -1130,6 +1203,7 @@ Oppenheimer, von Neuman, Steinhoff, La Paz, and I think Bush but I can't be cert
 I know this because I read the names on the reports.
 I asked the following questions concerning the test activities at Holloman and any association
 with Roswell SAC base.
+
 Q. Did you know about the Roswell base finding and transporting unidentified wreckage to 8th
 Air Force HQ?
 A Not at first. Remember, White Sands and Alamogordo reported to the AMC at Wright-Pat.
@@ -1144,6 +1218,7 @@ North Range from the West and straight into Texas. All camera crews and photogra
 were to report to the motor pool with their equipment. They were told no more than that.
 Some were still drunk from celebrating. Some were in civilian clothes, the MPs were picking
 them up everywhere.
+
 Q. What happened next?
 A The convoy left the base and proceeded North up the highway and then turned West into the
 range, Paul told me. It took about an hour to get to where we were supposed to go. Crossed
@@ -1170,6 +1245,7 @@ because it was dark and only the reflection of the searchlights was visible from
 base personnel surrounding the craft but keeping a respectable distance from it. Everyone
 was excited and scared at the same time. They soon brought generators and floodlights for
 better lighting.
+
 Q. What did the 1st Sergeant see at the landing site?
 A He did not see much. He was some distance away. He could see a big disc-like craft with a
 flat bottom and a slightly round shaped dome on top. It was shiny with a rim surrounding
@@ -1191,6 +1267,7 @@ back to Alamogordo. There were security checkpoints all along the way to the hig
 of us were debriefed at Alamogordo by CIC people and had to sign non-disclosure
 statements as to what we did, saw, and heard. That was when I saw him first. He told me
 some days afterward.
+
 Q. When did you become involved with this event?
 A As I told you before, I was in my office a few days after I saw Paul. It was at the Base
 Production Unit. We were printing the results of a V-2 launch when the base commander,
@@ -1223,11 +1300,14 @@ Cooper's interview with Bamabas was November 20, 1990! In his interview, which l
 three hours, without the benefit of an audio recorder, depending on notes, he said that
 Bamabas was a metallurgical engineer and retired government employee. His questions and
 answers, in part, follow:
+
 Q. What do you know about UFOs?
 A That they exist and are real.
+
 Q. Why do you say that?
 A Because I saw one in 1947. It was on a long flatbed trailer covered with a green tarp being
 backed into a large warehouse at Berkeley.
+
 Q. What did you see?
 A It looked oval-shaped. Kind of flat all around the edge. I later saw it again with the tarp off.
 It looked like an egg with its shell cracked.. .with the yoke still inside. It looked like the craft
@@ -1235,21 +1315,26 @@ sustained an internal explosion.., the metal skin appeared to be pushed out.. .p
 aluminum with a silvery looking finish. It had a seam at the edge all around. There was a
 lot of damage.... like a large section ripped off.. .a big gash on top running down the side
 below the seam. It had a gold-like finish on the underside.
+
 Q. What did it look like inside?
 A From my vantage point (approx. 100 ft.) it had a bulkhead in front with multi-layer skin
 (honeycombed). It was dark inside. In the center, there was a shiny sphere surrounded by
 another bulkhead. There was a forward compartment; did not know what it was.
+
 Q. How big was it?
 A 30-40 ft. in diameter and approximately 15 ft. high at the center.
+
 Q. Can you tell me who you saw there? What you were doing there?
 A Can't tell you that. (Collins didn't want to go any further. He wanted to talk about other
 things.)
+
 Q. What was your involvement with Berkeley?
 A Worked on developing metal alloys used for electro-magnetic propagation and magnetic
 propulsion. I worked for Berkeley and Occidental College for the Manhattan Project from
 1942 to the late fifties. They sent fragments to the lab for analysis. We could not identify
 the composition, origin or mode of manufacture. Before we could complete our tests, the
 Army came and took the samples away without an explanation.
+
 Q. Can you describe the samples?
 A As best I can recall, it was a dull finish metal on the one side like aluminum and very shiny
 on the other side. It was thin and very light. It could be flexed but not dented on impact. We
@@ -1259,6 +1344,7 @@ pieces were very small. One piece was very big and about one inch thick. It was 
 it had been part of a structure that had been hit by high explosives. It had burn marks but
 no scratches which was very odd. You could fold it and it would extend back to its original
 shape.
+
 Q. Is there a connection between UFO sightings (1942-46) and the development of the atomic
 bomb?
 A I attended seminars (Berkeley) on "shell" designs for advanced ordnance programs (he
@@ -1294,6 +1380,7 @@ an astronomer being asked to help identify the green fireballs and strange debri
 found in the desert. All I know is that the scarey feelings everybody had who was asked to
 do experiments on stuff that nobody ever saw before and how we were later threatened if we
 talked about anything we saw, felt, or heard.
+
 Q. What kind of rumors did you hear?
 A Autopsies of midget people with mongoloid heads that were accidently exposed to high
 doses of radiation at Los Alamos.
@@ -1310,6 +1397,7 @@ Flying disks were landing on military bases in California and New Mexico and the
 OUTS.
 Everyone with clearances were afraid to ask or talk. It was better to not work for MED or
 APC.
+
 Q. What did your friend tell you about the Archangel study?
 A Three things: 1) They (EBEs) were biological, gas-breathing intelligent animals that have
 craniums larger than homo-sapiens. They have vascular systems, skeletal structures
@@ -1333,10 +1421,12 @@ Detected many bogies in and around Los Alamos and Roswell doing over 4,000 m.p.h
 40,000
 What was Air Force's reaction?
 A Panic. Fear of unknown. Thought they were Russian of captured German technology.
+
 Q. Did you know of the IFU (Interplanetary Phenomenon Unit)?
 A Knew that Army G-2 had such a unit in the war to monitor the Foo Fighters. Worked with
 Project Silverplate. Did not know its name. There was a special intelligence organization
 headed by Doolittle, maybe.
+
 Q. Were there experiments being conducted using atomic power for top secret aircraft?
 A Yes. In 1946-49 at Los Alamos and Sandia Labs. Possibly at Alamogordo and Kirkland.
 There were secret Navy testing at sea utilizing crude fission reactors for high voltage energy
@@ -1355,28 +1445,35 @@ What were these things that were taken to Muroc and Edwards?
 A They were "lifting bodies". They looked like inverted bathtubs. It was assumed that they
 were some kind of "pod" or short-range recon probes.
 Who was in charge of the scientific research?
+
 A Von Braun, Condon. Oppenheimer and Teller. There were many technicians (civilian and
 military) regularly coming to watch and learn. The Pentagon was being briefed weekly and
 the new developments.
+
 Q. Did they find out how the lifting bodies worked and on what technology?
 A No. They theorized on the ability to achieve the speed of light and utilized magnetic lines of
 force. They made some gains in understanding how to harness an energy source greater
 than the hydrogen bomb and how it was possible to reach speeds of 6 miles per second in
 the earth's atmosphere.
+
 In 1948, they were learning how to recover people back from space and by 59 how to re-
 enter from orbit. This knowledge led to the shuttle development.
 How did they learn how to apply this technology?
+
 A They had help.
 (;). Who?
 A The same one who helped them develop the bomb.
 Who?
 A No comment.
+
 How did the Air Force benefit from all this?
 A Highly experimental ram-jet technology was tested at Muroc that was classified Above Top
 Secret (Ultra). Also heat compression technologies were developed at Edwards for some
 special spacecraft designs.
+
 Why did the Air Force initiate Project Blue Book?
 A Mainly for public relations.
+
 Basically, the Air Force wanted to gather UFO intelligence on a low-level so as not to tip off
 the Russians of any intensive efforts by the US in developing high technology weapons. By
 that time, the Air Force had accepted the fact that there was a higher intelligence beyond
@@ -1385,6 +1482,7 @@ reports and recoveries of these "lifting bodies". So it's not surprising that lo
 Force officials did not know of the highly classified intelligence operations being conducted
 at that time. As long as the public was convinced that the Air Force was just as curious as
 the public was, it was the perfect cover.
+
 Q. Was there any UFO activity during the war within the US?
 
 A There was some pilot sightings and by bomber crews who were in training in B-29's (Project
@@ -1400,6 +1498,7 @@ new spy weapons in the MAJIC (MAGIC) network operations.
 In 1938, it was believed that the Army G-2 wanted to test the response of the civilian
 population by monitoring the CBS radio broadcast of Orson Wells' War of the Worlds. Of
 course, this did create widespread panic in some areas.
+
 There were on several occasions, sightings of huge black objects hovering over Los Alamos
 in early 1945 which caused severe power blackouts that could not be explained. Wendover
 was kept informed of this because it was feared that unknown radio propagation could
@@ -1408,18 +1507,23 @@ for fear of generating panic in Washington. Officially, Los Alamos identified it
 "atmospheric anomalies" and left it that way. Some identified it as storm cloud and
 electrical storm effects. It was never clear what caused the sudden surge of radiation
 detection or electrical shorts.
+
 The first atomic bomb almost prematurely detonated enroute to Hiroshima when an
 unknown radio signal almost armed and activated the detonation and trigger mechanisms.
 It was not known how it happened. The system was corrected.
+
 Q. Was there other Air Force investigations other than Blue Book?
 A Yes.
+
 Q. What were they?
 A Black Sky intelligence operations utilizing high altitude aircraft such as X-2, X-15. and U-2
 aircraft.
+
 High altitude, long trajectory rockets equipped with all kinds of cameras and sensing
 equipment. Television was used on some rockets. White Sands and the Cape were the
 launch sites from^1947 into the late fifties. All data were classified in a report called, I
 think, "Blackbook" or "Black-Sky".
+
 I heard of another Air Force project that looked into all the historical records concerning
 UFO sightings from all over the world. Some of the records were from libraries, newspapers,
 folklore, mythologies, government records of unusual reports from farmers, lighthouse
@@ -1429,6 +1533,7 @@ ususual shapes and sizes that are of 1915 period. No one can gain access to this
 It was rumored that the Vatican even has a UFO locked up in one of the vault rooms inside
 the Vatican Basilica and would not let the Air Force see it or photograph it. This study was
 called the "Whitebook".
+
 There was a scientific study that began sometime in early 1948 that involved the
 astronomical community. I only read a brief memo from Vandenberg that solar astronomy
 became a concern or was attractive to the Air Force for learning about cosmic radiation
@@ -1436,6 +1541,7 @@ effects on aviation electronics.
 These projects were canceled after the Air Force experienced loss of pilots and aircraft
 while trying to respond to air space violations of UFOs over sensitive military and AFC
 installations.
+
 The Air Force wanted to counter the "Black Sky" threat by the formation of the "High
 Frontier" programs for space based weapons sytems in the early 60's. Talon Gold and Teal
 Ruby projects were a direct result of satellite recon photos of orbiting space craft of
@@ -1459,6 +1565,7 @@ Atsugi Air Base, near Tokyo, 4 days before the war officially ended. Incidentall
 46, following my flight, crashed mysteriously into Mt. Fuji; all passengers were killed. I will
 not belabor my experience here as the story is basically described in my books, Inside Saucer
 Post 3-0 Blue and in Situation Red: The UFO Siege.
+
 Apparently, the Colonel used the word, Foo Fighter, loosely as we in research, have loosely
 used, Roswell. His mention of General Jimmy Doolittle as heading up the investigation of the
 phenomena should probably be in reference to the "ghost rockets", another mystery device that
@@ -1466,6 +1573,7 @@ penetrated Scandanavian skies in 1945 and 1946, sometimes crashing. Like the Foo
 early belief was that the rockets were a high-tech device that may have been developed by the
 Germans. But, when the war ended the remaining German Luftwaffe pilots who had also
 encountered the strange craft thought they were American.
+
 In summary, take your choice -- Foo Fighter, Flying Saucer, Lifting Body or UFO; they're all of
 the same unknown origin. To those who want to argue the point that the Germans were
 capable, or did build a disc-like device, one might add that just maybe they got the concept from
@@ -1474,15 +1582,19 @@ information showing official concern for the pervasive UFO, he carefully avoids 
 confirm its origin. Perhaps, then, it is significant when he states that the Talon Gold and Teal
 Ruby projects were a direct result of satellite recon photos of orbiting spacecraft of unknown
 origins.
-THE NURSE
+
+### THE NURSE
 Abstract of a discussion March 16, 1991, with a retired operating room nurse who was assigned
 to the Medical Lab at Los Alamos during WWII and sometime afterward. The source, Tim
 Cooper.
+
 Subject: Bodies being flown to Los Alamos by military aircraft and atomic explosion near Indian
 Springs prior to the Trinity test.
+
 According to "Mary", Los Alamos was classified as a "Green Base" which means it had the highest
 priority to conduct radical research under the MED program during the forties. Everyone had to
 have a "Q" clearance just to be inside the facility.
+
 She casually mentioned to me over coffee that "bodies" were being flown to Los Alamos
 periodically from late 1945 to sometime in 1947. I asked her if she had seen these "bodies" and
 she said no, but others had. I asked her where these "bodies" were coming from. She said she did
@@ -1500,7 +1612,8 @@ refrigeratoeunits to keep the bodies from decomposing. The flesh was badly burne
 There was no hair on their heads and had a grayish-yellow color. That's all she knew, (See the
 Collins' interview. This story seems to have some commonality with his story of bodies being
 sent to Berkeley from Los Alamos).
-"DR. EPIGONr
+
+### "DR. EPIGONr
 
 Ron Madeley, of Houston, Texas, is my intermediary for this informative, perhaps unique,
 interview with a "Who's Who" scientist, the pseudonymous Dr. Epigoni. Ron is a competent
@@ -1527,38 +1640,37 @@ As early as 1939, Epigoni was working with the great minds of the day at two res
 laboratories in New Jersey. That work eventually led to a U.S. Navy post under the direction of
 John von Neuman. Epigoni worked at the top of the Manhattan Project with the development and
 detonation of the atomic bomb and later the first hydrogen bomb.
+
 Dr. Epigoni found himself involved in the research end, as opposed to the retrieval end, of crash
 flying saucers. During the late 1960's and early 1970's he was part of a team of scientists working
 at Edwards Air Force Base on a very special project. According to Epigoni a flying saucer and its
 crew landed at Edwards A.F.B. The disc and its occupants were carted off to a secure building at
 the base for scientific evaluation. It then became part of an "above top secret" project --
 something he calls, "Blue Heaven".
+
 Q. Do you think that (disc) is the only one they've got?
 A I don't know. That was the only one I was ever allowed to see.
+
 Q. Is this thing kept in a hangar out there, or is it kept underground or what?
 A It is kept in a big hangar. They've got guards all around that thing and I'm talking about
 guards! And there isn't anyway you can get through. And I don't give a damn what you do.
 They've got all types of security there. You've got four rows of guards before you get there,
 and 12 of the damn big barbed wire fences electrified.
-Q. How did you get in there to see it?
 
+Q. How did you get in there to see it?
 A Well. I was brought in there. I was head of the program.
 
 Q. What was the program called?
-
 A It was called "Blue Heaven".
 
 Q. How many other people were involved?
-
 A Several, oh there could have been hundreds. I don't know how many were involved.
 
 Q. That actually knew about it -- that saw it there?
-
 A People worked in different forms for parts of the military you know. But, the day I was taken
 out there, a lieutenant and a major general were there, and I had two lab assistants.
 
 Q. What year were you on that project: head of it?
-
 A Well, that's been 20 years ago.
 
 Q. Any idea where this came from?
@@ -1568,13 +1680,17 @@ couldn't tell if they were growing in there or if they were made in there or wha
 
 How tall were they?
 A I'd say that they were about five feet tall. Well, they were lying down.
+
 Q. How many of them were there?
 A Twelve of them. I believe.
+
 Q. Were they all dressed?
 A Yeah.
+
 Q. All dressed the same?
 A Yeah, in a silvery-looking material and, uh, it was real bright shiny material. It hadn't even
 tarnished. They tried to analyze it and it had elements that we don't have on Earth.
+
 Q. Now the bodies or whatever they were, did you cut into them?
 A They wouldn't cut into them. All they would do was take a sample of the blood, or whatever
 it was, and show you. And the sample they took was less than ice. You put it under a
@@ -1583,19 +1699,18 @@ microscope and look at it and there wasn't a damn thing in it, it looked like oi
 Q. Any idea on whether there were any organs in the body?
 A Well, they x-rayed them and all that, but all that information was given to the medical
 people.
+
 Q. What area were you over, you weren't over the medical?
 A No, I was strictly on the aircraft. I wasn't even supposed to go in where those beings were
 at. This major general was the one who allowed me to go in there with him. And I felt their
 arms, their legs, and I felt around on them. I said "Are they stiff?" and he said, "No". "Can I
-
 left the leg up?" and he said, "Don't touch anything". I asked if I could I take the lcc of liquid
 with me, and I was told not to.
-Q. Did it have any color to it?
 
+Q. Did it have any color to it?
 A It was sort of a milky color.
 
 Q. What about the bodies themselves?
-
 A They were a light brown color. And you could feel their ribs, they had bone structure, but
 whether that was real bone or metal or something else. I don't know. They came to the
 conclusion that since there was no deterioration, to leave them alone, because another
@@ -1635,8 +1750,10 @@ A Yeah! I walked up to it and they had a carpet. You go up a ladder, up a stairw
 this carpet and you were not to walk on the craft. And all the way around this dome they
 had this carpet. You could walk around it and see almost all there was to see inside of that
 hole.
+
 Q. Was this glass or plastic, this transparent material solid, just one piece?
 A All solid. There wasn't any seams where it joined the craft.
+
 Q. Was it clear or tinted?
 A No, it was clear. And I was getting ready to tap on it and they stopped me. I wanted to tap
 on it to see what it sounded like.
@@ -1644,6 +1761,7 @@ They said that it was a material that they hadn't discovered -- never dreamed co
 They hadn't figured out how to cut a hole through it. They had a lot of machinery in there.
 Big machinery and equipment in that building. They undoubtedly had been doing a lot of
 experiments trying to figure out how to get into that thing.
+
 Q Where were the bodies kept in relation to the vehicle?
 
 A In a room, like a hospital room. They made you go through a decontamination room and
@@ -1667,15 +1785,20 @@ Q. Have you, or have you ever or did you then see any of these bodies that were 
 That were not in this suspended animation state but were physically walking around?
 A Inside?
 Or anywhere?
+
 A Oh no. No. I've never seen one walking around. And I investigated about 25 closed sites. At
 many of these sites you could check the plants and see traces where the beings walked
 around. We had to keep people out of that area.
+
 Was this part of the work that you were doing with this group?
+
 A Yeah. When we would get there we would bring out (deleted by Ron). The ground was never
 burned, or singed. Nothing would grow because the ground had gotten real hot. It would
 take a few years for that land to be able to regerminate.
+
 So you would go in and check out these cases with other people still as part of the research
 that you were doing with this organization.
+
 A Yeah. Whenever they had a landing we would be there.
 (;). Do you remember what year you stopped doing this?
 A It was about^1971 or 1972. But in that area, New Mexico to California we had about 40 or 50
@@ -1692,7 +1815,6 @@ g. It is still active?
 A Yes.
 
 Q. Do you remember what year they actually started the project?
-
 A No. I have no idea when it was started.
 
 Q. So you were brought in after it began.
@@ -1702,7 +1824,6 @@ wasn't the only one. I was one of the scientists that worked on it. There was, w
 name them...
 
 Q. This was the Air Force that was over this project?
-
 A No, it was the Department of Defense. Now the Navy had two or three of the research
 projects like this one.
 
@@ -1717,9 +1838,11 @@ bodies down at Homestead A.F.B. in Florida and that President Nixon supposedly g
 clearance to see them.
 A There were some at Homestead. Actually it was right behind Homestead. It's one of the
 most secure bases. It is well protected.
+
 Q. Do you think that the astronauts know about it?
 A I don't know. At the time I worked for the government, I was never supposed to discuss it
 with anybody.
+
 Q. Right. What was the level of security on this?
 A It was top secret. The very top.
 Top secret? Or above top secret?
@@ -1727,11 +1850,13 @@ A It was above that. It went from the President, through the Director of the CIA
 Did he (the President) ever have a group that represented him?
 A Yeah, he had a whole bunch of scientists there. There must have been^25 or^30 in his office.
 They sat in chairs on that side and we sat on this side and they would ask us questions.
+
 Q. Was this in D.C. or at Edwards where these meetings were held?
 A No, they were in Washington, D.C.
 Given the level that you were at and the speed at which you were progressing, how far do you
 think that project has gotten today?
 A I haven't any idea.
+
 Dr. Epigoni later referred to the group of scientists that were with the President during these
 briefings at the White House and called them the Special Committee.
 In our previous meeting (6/89) we discussed the properties of matter and anti-matter. He believes
@@ -1758,6 +1883,7 @@ in space technology. However, it is difficult to rationalize a purpose to land i
 exposed to capture and, knowing they would be at the mercy of the human race. Surely, Epigoni
 is omitting important retrieval details from the time of their landing to exhibition in an
 atmospherically controlled room.
+
 Then, there is the question of the alien biology? My curiosity is not only aroused by Epigoni's
 brown biped with teeth, but mainly, hoping to get his inside view of the ubiquitous humanoid
 with grayish reptilian skin and big head. Are both the inhabitants of one, or more than one,
@@ -1767,6 +1893,7 @@ that he could not tell if they were growing (naturally) or made. He also spoke o
 and he wondered if they were real bone or metal or something else. Then he remarked. "If you
 could make people like that and give them guns and send them off to war instead of soldiers."
 Was what he saw a robot?
+
 Whatever the answer may be, I hasten to add that there are other reliable sources of my
 acquaintance who know of the existence of at least one live alien in custody. If my private
 sources are correct -- and I have reason to believe them -- that live aliens have been in custody
@@ -1785,10 +1912,12 @@ spotted a landed saucer with windows and tripods about a quarter of a mile from 
 Intelligence took charge and dispatched it to Washington. D.C." Others may know his name as
 different versions of the incident circulated among researchers. In my case, I had promised
 him I would not publish his name.
+
 Ron and I discussed the Epigoni disclosures on several occasions. Needless to say, I was curious
 about the human-like alien with teeth, and even more curious what his source knew about the
 little grays, without teeth. Another interview was conducted which produced the following
 provocative answers:
+
 Q. You had mentioned that when you were with Blue Heaven, you had seen some type of bodies
 that they had there. The description that I recall you saying was that they were more or less
 like humans.
@@ -1816,13 +1945,16 @@ RM.)
 
 And who is working with that?
 A I don't know one of them, and I don't want to know them.
+
 Q. What do you think that they are going to find?
 A I don't know! But with these satellites out there; if there's anything out there, they'll find it.
+
 Q. What do you think, based on what you saw at Edwards, what do you think that was?
 A I think it was a vehicle from another planet. I saw robots. Robotic type beings.
 How big was that vehicle that you worked on?
 A About 40 ft. In diameter. Well, this didn't have a glass dome in the top, it had a turret, but
 you couldn't see anything in through the windows.
+
 Q. What have they done with It since you quit working on it?
 A Well, the last I heard, they were trying to figure out some way to get that turret open and get
 in that way. That door that opens below that let those guys out and closed, there is no way
@@ -1835,12 +1967,15 @@ They stood there or laid there?
 A Laid there.
 How many of them were there?
 A Four. There may still be some inside it. Undoubtedly these four were.
+
 Q. How did it get to Edwards?
 A They moved it. The Air Force moved it.
+
 Q. How long was it between the time that it landed and when the Air Force found it?
 A Well, they saw it land, so it was not far from the base. They scratched it up, I can tell you
 that much! The legs didn't go back up in it. There were no wheels on the legs, so you had to
 drag the damn thing.
+
 What was the reason for using the code name?
 A I don't know. My understanding is that the name goes back to WWII.
 Dr. Epigoni, without explanation, has made obvious changes in his story. Instead of^12 aliens
@@ -1857,8 +1992,10 @@ If this is true, then the big news is that the Doctor's remaining disclosures ma
 and allowed to be published uncensored with official blessing. Like Chicken Little's "skies that
 fell down", my assumptions may also fall, but there is a possibility that some of the Epigoni
 revelations may be one of the "breaches" from the other side of the wall, controlled by the Inner
+
 Sanctum. Time will tell.
-THE CRASH AT FARMINGTON
+
+### THE CRASH AT FARMINGTON
 At the expense of being repititious, the frequency and unspecific locations of some UFO crashes
 and/or landings in New Mexico, and environs, in the post-war II era can be confusing. Even
 allowing for disinformation leaking out a faked case, there are too many sources, with pieces
@@ -1908,22 +2045,25 @@ If he found it so that I could call him for firsthand details. I called Valdez t
 he never called back after that. End of Aztec.
 
 But it was not the end of New Mexican crashes. For the enrichment of our chronicle, a new site
-
 for a crash is introduced, allegedly occurring near Farmington, a small town about (^25) miles
 southeast of Aztec. The source is Chuck Oldham, of Landsdowne, Pennsylvania, a professional
 business person who shares the challenges of UFO research with his wife, Vicky; also a
 professional person in another endeavor.
+
 Chuck's information about this crash came initially by phone in the Fall of 1990, who
 preferred at that time not to reveal the location and many other details. In February, 1991, I
 called Chuck and announced that I was planning to publish Status Report VI and asked if I
 could include his prized material. He agreed. conditionally, on the approval of his source, a
 former military officer with high security clearance.
+
 The Oldham's report which I received May 30, with illustrations, is an obvious product of
 professionalism. Included was a photograph of a clay bust of a hypothetical alien head they
 had modeled from a composite of reports and a computerized depiction of the saucer that had
 crashed at Farmington. Chuck, however, regretted that he was limited in revealing certain
 details which might compromize his source's identity.
+
 The Oldham report, copyrighted, is published as follows, verbatim:
+
 We are releasing this report in the attempt to reduce the imbalance of information available to
 those researchers involved in pursuing the facts surrounding CRASH/RETRIEVALS. It is not our
 intent to dispute the research uncovered by other independent investigators. With so little access
@@ -1932,15 +2072,16 @@ Some early researchers uncovered a crash case and assumed that other accounts of
 must have been misidentifications of one specific event. After all, a logical argument would
 support the premise that any being technologically advanced enough to visit us from a different
 solar system would be invulnerable to such catastrophic miscalculation.
+
 With this in mind, we would like to draw attention to some of the details conveyed by our witness
 that are remarkably similar to details in other accounts of UFO crashes. Firstly, the government
 file seen by our witness refers to many crashes; secondly, it describes a peculiar break in the
 porthole of the recovered craft. (This craft is the subject of our report.) The same type of break
 has been described in past reports about craft recovered from other locations.
+
 There could be many reasons why such a specific description of the porthole break is a feature
 found in other UFO crash reports. It is possible that publicly reported details from early
 retrievals were intentially shuffled to protect the sources of the information. Additionally, the
-
 intelligence community may have contributed to this process. Whenever classified information
 surfaces, the pattern of the information released indicates the source of the leak; consequently.
 governments maintain effective control over this subject.
@@ -1987,8 +2128,10 @@ Q. Were you asked or required to look at this material in the library at any tim
 A No.
 Q. So you don't think some kind of test was being conducted, with you as the subject?
 A No, I was alone when I viewed the file. I was actually looking for something else at the time.
+
 Q. So you came across this file by accident?
 A Yes.
+
 Q. What did you see in the photograph?
 A There was a perfectly intact, circular shaped craft and it was lying somewhat tilted to one
 side on the ground in the desert. There did not appear to be a crater or other ground-
@@ -1997,7 +2140,6 @@ sure.
 A I would estimate that it was tilted from about five to ten degrees.
 
 Q. Did the top view of the craft form a perfect circle?
-
 A I couldn't tell. .,the photograph showed the craft from the side, as if somebody on the ground
 had taken the picture some distance away. But it was referred to as a saucer shape.
 
@@ -2013,12 +2155,15 @@ material of which the craft was composed was metallic, and resembled brushed alu
 the report noted this also.
 Were there any fin-like projections noticed on this craft?
 A No, none at all.
+
 Q. Was there any mention that this structure was reminiscent of a gyro; in other words, did the
 exterior of the craft rotate around the cockpit?
 A There was nothing indicated about that.
+
 Q. Could you make out any identifying markings or symbols on the craft as it appeared in the
 photograph?
 A No. ..and there was nothing mentioned about it.
+
 Q. Were there any surface features on the craft at all?
 A It was stated in the report that there were portholes on the cabin part of the craft, but they
 were not made of any type of glass. Also, I couldn't make out this feature in the photograph.
@@ -2029,7 +2174,9 @@ everything they could come up with on the porthole where this opening was locate
 nothing would break through it. They couldn't enlarge the hole, either; the material was
 tougher than anything we were familiar with on Earth. But they eventually got into the
 cabin.
+
 Did it say how they accessed it?
+
 A Yes, it was described as a chance opening. They had gone over the outside of the craft and
 could not even find a seam or crack that might indicate the location of a door or other
 entrance. This led them to focus on the small opening in the porthole. As I mentioned
@@ -2076,11 +2223,14 @@ burned at all.
 So there was a description of the fabric?
 A Yes, it was some type of woven fabric and the report said that it had a tensile strength of
 800 pounds.
+
 Q. Was the color of the fabric mentioned?
 A No. there was no reference to it.
+
 Q. How about the style of the clothing? Did they both wear the same thing?
 A It was only described as being like a one-piece flight suit. And yes, it was the same on each
 one.
+
 Q. Was there any mention of craft propulsion systems? For example, anything involving jet,
 nuclear, or anti-matter driven engines?
 A There was no mention of a propulsion system other than the idea that their technology
@@ -2088,9 +2238,11 @@ utilized magnetic or gravitational fields of the planets to travel in space. It 
 that they were able to cross greater distances of space within a much shorter time than we
 thought possible. For instance, based on our present day technolgoy, it would take us years
 to get very far in space; to them, it would only be a matter of days, or even hours.
+
 Q. How could the military figure this out?
 A The report didn't go into depth on this, but part of the conclusion was based upon the fact
 that there was no food or bathroom facility found within the cabin of the craft.
+
 Q. Was there anything in the report that indicated the reason for the craft coming down? For
 example, there have been rumored reports that our military was under orders to intercept
 and shoot them down. Is it possible that we shot this one down?
@@ -2105,12 +2257,14 @@ Q. You mentioned "or any of the other ones?" Are you saying that there was more 
 crash?
 A Yes, the report referred to "crashes" and the Farmington crash information was used to
 relate general information on similarities with other crashes.
+
 Q. Are you saying that these aliens are not able to control their craft in certain areas?
 A From the report, I learned that these areas occur naturally and could possibly interfere
 with the navigation of these craft. You see, the way I understand it, they use the natural
 magnetic lines of a planet and a gravity field to move their ships from one place to another.
 That's how they are able to make near-right angle turns, which our jets are incapable of
 doing. They can fly circles around any of our aircraft.
+
 Q. Was there anything in the report that suggested where the craft and the little beings
 originated, or why they are coming here?
 A No, nothing in the report as to "why' or "from where". But the report did say that hundreds of
@@ -2118,12 +2272,14 @@ alien craft flew over the town of Farmington, New Mexico, on the anniversary of 
 that also corresponded with the celebration of some national holiday. And it said that it
 may have been a tribute to the beings that were killed, or they were letting us know, by a
 show of force, they had overcome the factor that had caused their ships to crash.
+
 Q. How did the military report specifically refer to it? For instance, was it described as "a
 tribute to their fallen comrades"?
 A They didn't use the term "comrades"....actually, there was some specific terminology used
 but I can't recall what it was. (Note: Chuck speculated that whatever the word was that
 referred to the dead beings, it may have some important significance indicating our
 military's awareness of the relationships or order within the alien culture.)
+
 Q. Why do you feel that the military or the government is withholding this information from
 the public?
 A They felt that only people in professional levels were capable of dealing with this
@@ -2136,10 +2292,12 @@ technicians worked on the craft out in the desert (trying to gain access) other 
 would, from time to time, fly by the site, pausing momentarily to view the scene, perhaps to
 see if there were any survivors. At no time did they attempt to harm our people.
 Do you have any other comments you would like to make about this?
+
 A I think I've covered everything. All the information on this subject was removed from the
 library in the late 1960s. One thing I can say is that I would sure like to know what's going
 on now.
-REFERENCES:
+
+### REFERENCES:
 We include a book list because we are concerned that much of this literature has been passed
 over by present-day researchers. Some of the accounts contained here have long been
 discredited, and are sadly ignored. We initially avoided much of the older material ourselves, and
@@ -2147,30 +2305,37 @@ would not have bothered with it if we did not have the information divulged to u
 the military file). This is further significant because we first became acquainted with this person
 over an entirely different subject of interest and it was an oflhand remark about UFOs that led
 him to reveal his story.
+
 Ruppelt, Edward J. The Report on Unidentified Flying Objects.
 Garden City, New York Doubleday & Company, Inc., 1956.
 In this book, we found a corroborative reference to the incident in Farmington. New
 Mexico.
+
 Keyhoe, Major Donald E. The Flying Saucers Are Real.
 New York, N.Y.: Fawcett Publication, Inc., 1950.
+
 Here, we found a brief account of the Farmington incident. We also read about Keyhoe's
 trip to Denver. Colorado. to check on the story about the "little men"; he was convinced it was a
 hoax.
+
 Berlitz, Charles and Moore, William L. The Roswell Incident.
 New York, N.Y.: Berkley Publishing Corporation, 1980.
 The authors suggest that the Scully story may not have been the perpetration of a hoax
 after all.
+
 Edwards, Frank Flying Saucers - Serious Business.
 New York, N.Y.: Lyle Stuart, Inc., 1966.
 A very informative book: areas of interest to us include the chapter entitled "Pick Up the
 Pieces" which features accounts about Wilbert B. Smith.
 Scully, Frank Behind the Flying Saucers.
 New York. N.Y.: Henry Holt and Company, 1950.
+
 New evidence indicates that he was telling the truth about the crashes of disks and the
 recovery of the bodies. The story told here is an amazing corroboration of details that were
 revealed by our witness to the file; he has never heard of Scully or his book.
 Steinman, William S., Stevens, Wendelle C. UM Crash at Aztec.
 Tuscon, AZ: UFO Photo Archieves. 1986.
+
 This is an extensive and impressive work that substantiates Scully's claims from 1950. We
 feel that Mr. Steinman demonstrates a singular determination and courage that is rarely seen in
 UFO research. His personal interview with Dr. Sarbacher, confirming Scully's story, is key.
@@ -2178,6 +2343,7 @@ Stringfield, Leonard H. Retrievals of the Third Kind, 1978, The UFO Crash Retrie
 1980, UFO CRASH / RETRIEVALS: Amassing the Evidence, 1982, UFO CRASH/ RETRIEVALS: Is
 the Coverup Lid Lifting, 1989.
 Cincinnati. OH
+
 We feel that Leonard Stringfield's series of status reports have been an immense
 contribution to UFO research for more than a decade -- without this ongoing and regularly
 updated grounding in the physical aspect of the UFO phenomenon, many researchers may have
