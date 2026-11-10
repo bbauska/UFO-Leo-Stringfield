@@ -1,12 +1,11 @@
-## STATUS REPORT IV
-
-### Part 1: UFO Crash/Retrievals: Status Report IV - Fatal Encounter At Ft. Dix-McGuire
+# STATUS REPORT IV - UFO CRASH/RETRIEVALS
+## Part 1: UFO Crash/Retrievals: Status Report IV - Fatal Encounter At Ft. Dix-McGuire
 
 Pages 41-65 of the MUFON 1985 UFO Symposium Proceedings are entitled,
 "The Fatal Encounter At Ft. Dix-McGuire: A Case Study: Status Report IV" © 1985 by Leonard H.
 Stringfield.
 
-## "ABSTRACT
+### "ABSTRACT
 Leonard H. Stringfield: New testimonial evidence and a document are
 bared in Status Report IV, following the re-emergence in 1983 of the
 informant whose experience, as a witness, was first disclosed three years
@@ -88,7 +87,7 @@ problems. In good faith, I address these problems with new evidence for Case A3,
 published in Status Report III, UFO Crash Retrievals: Amassing The Evidence
 (1982).
 
-## THE EVIDENCE AND ITS BURDEN OF PROOF
+### THE EVIDENCE AND ITS BURDEN OF PROOF
 September 23, 1980, was to become more than just a typically busy day for me in
 UFO matters. According to my UFOLOG, I note that I had communications by
 phone and mail with Joe Brill, Michael Dougan, Bob Gribble, Diane Saghe, and a
@@ -334,8 +333,7 @@ document. Also, to protect the persons named, as he later confirmed when questio
 Morse had opaqued out the social security numbers opposite each name in the report.
 'These numbers are private,' he said."
 
-Part 3: UFO Crash/Retrievals: Status Report IV - Fatal Encounter At Ft.
-Dix-McGuire
+### Part 3: UFO Crash/Retrievals: Status Report IV - Fatal Encounter At Ft. Dix-McGuire
 © January 1985 by Leonard H. Stringfield
 <!-- image 7 -->
 McGuire AFB and Fort Dix Military Reservation near Wrightstown, New Jersey, are near the U. S. Naval Air
@@ -344,7 +342,6 @@ in Lakehurst, New Jersey. The bases are about 45 miles east of Philadelphia, 50 
 City,
 60 miles north of Atlantic City and 10 miles west of the Atlantic ocean. The Fort Dix / McGuire
 Air Force Base / Lakehurst Naval Air Station complex covers 42,000 acres.
-
 
 Leonard H. Stringfield: "The document is avowedly not proof. For it to be established
 as bona fide would, in turn, require additional irretrievable reports, memoranda, tapes, ad
@@ -609,7 +606,7 @@ AFB, New Jersey
 
 <!-- status-report-11 -->
 
-#### Leonard H. Stringfield:
+Leonard H. Stringfield:
 
 ### "3. The Retrieval Operation.
 It was maximum security, said Morse, who alone in his patrol car received word by radio
@@ -758,7 +755,7 @@ Department of Justice has decided to make me eligible for hire. I feel these two
 things are related.'
 </blockquote>
 
-5. Analogy: The Ellsworth Case.
+### 5. Analogy: The Ellsworth Case.
 In a James Bond movie, we all can recognize James Bond. But in UFO research we
 cannot always identify the real Bond from a bogus Bond. For certain, however, intrigue
 is highly visible in Bond of fiction and in some areas of UFO research, especially in the
