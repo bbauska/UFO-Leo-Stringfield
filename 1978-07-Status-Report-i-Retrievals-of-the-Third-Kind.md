@@ -1,11 +1,8 @@
-# RETRIEVALS OF THE THIRD KIND - Part 1
-
+# STATUS REPORT I - RETRIEVALS OF THE THIRD KIND - Part 1
 A Case Study of Alleged UFOs and Occupants in Military Custody
-
-# Leonard H. Stringfield
+Leonard H. Stringfield
 
 ## This contribution to FSR is based on a paper delivered by the author at the MUFON
-
 Symposium on July 29, 1978. Leonard H. Stringfield (address: 4412 Grove Avenue, Cincinnati, Ohio 45227, USA).
 
 SINCE the advent of the UFO dating back to World War Il when there was official recognition of the "foo fighter," one hard fact stands out: the world public at large still disbelieves its existence. Another fact: most of our world's scientific community does not believe in UFOs either, although a small number of its Fellowship today will admit their puzzlement, and sometimes curiosity, over the persistence of UFO reports.
