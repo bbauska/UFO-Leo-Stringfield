@@ -1,7 +1,5 @@
 <!-- ![image-1](images/image-1.png) -->
-
-# UFO CRASH RETRIEVALS
-# STATUS REPORT VII
+# STATUS REPORT VII - UFO CRASH RETRIEVALS
 ## SEARCH FOR PROOF IN A HALL OF MIRRORS
 By Leonard H. Stringfield
 
