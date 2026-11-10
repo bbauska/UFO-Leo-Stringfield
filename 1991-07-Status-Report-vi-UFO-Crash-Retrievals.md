@@ -1,7 +1,7 @@
-# UFO CRASH RETRIEVALS
-# THE INNER SANCTUM
-## STATUS REPORT VI
+# STATUS REPORT VI - UFO CRASH RETRIEVALS
+## THE INNER SANCTUM
 By Leonard H. Stringfield
+
 July 1991
 
 ### Humpty Dumpty sat on a wall
@@ -30,7 +30,7 @@ The Fund for UFO Research (FUFOR)
 The Mutual UFO Network (MUFON)
 The J. Allen Hynek Center for UFO Studies (CUFOS)
 
-## PROLOGUE: If. And. But and Maybe
+### PROLOGUE: If. And. But and Maybe
 
 Maybe we're on the edge of the beginning to end official UFO secrecy. Maybe, if I should be so
 bold to say, the probes of organized research are finally breaching its protective fortressed
@@ -77,7 +77,8 @@ here, or by others, it may forever remain in the realm of hearsay and disbelief 
 official acknowledgement or admission that it is a fact.
 Leonard H. Stringfield
 July 25, 1991
-INTRODUCTION
+
+### INTRODUCTION
 It is a literary quirk, or a license, among writers to start off their story or essay or article or
 whatever, with a strong "narrative hook", or something "hot", to get instant reader interest.
 
@@ -187,6 +188,7 @@ up to bizarre happenings that may cause their traditional beliefs to be shattere
 retrospect, no issue has fared worse than the subject of crashed UFOs which I initially
 presented in my paper. Retrievals of the Third Kind, at the MUFON Symposium in Dayton,
 Ohio in 1978.
+
 Typical intellectual disbelief came in a commentary by Hilary Evans, editor of a British book,
 UFOs 1947-1987, who had requested an article by me for inclusion, which I titled, The Chase
 for Proof in a Squirrel's Cage. Albeit in his own literary contribution, he debunked UFOs
@@ -210,17 +212,20 @@ is a secret U.S. aircraft of some sort; maybe something that the Germans develop
 WWII. As the story goes, their top scientists, who had experimented with a disc-like craft, were
 whisked away from their labs in Pennemunde when the war ended and smuggled into the
 United States. While testing their machines, so the story continues, some aborted and crashed.
+
 Thus, the crashes near Roswell, etc., etc.,... But, all skeptics dismiss, out of hand, any notion of
 an extraterrestrial visitation as astronomically improbable, if not impossible.
 In the forefront is astronomer, Dr. Carl Sagan. For public consumption, he takes a dim view of
 the alien UFO from outer space. Space flight from any star system, he avers, is next to
 impossible and he uses figures in the billions and billions to establish rules for its incredulity.
+
 Extraterrestrially speaking, Doctors Jacques Vallee and Allen Hynek, also have spoken
 Saganese publicly. But, the origin of their UFO, because of its paranormal behavior, is even
 more exotic. To explain these anomalies, they seek answers in extra-dimensional or in other-
 parallel realms. While these erudite rationales may be mumbo jumbo to the general public, it
 is the kind of mystical package that has opened the eyes of many UFOlogists -- especially those
 frustrated after years of waiting for proof of extraterrestrial visitors.
+
 I do not close my mind on the Vallee-Hynek rationale. I, too, wonder about some of the alien
 "high-strangeness" actions, but I can just as easily attribute these anomalies to an
 extraterrestrial control system or, the ability of the alien mind to overpower its human
@@ -282,6 +287,7 @@ before I went on stage.
 As I was led through an outside garden path to the Stouffer Hotel, where I had lodging, other
 plainclothesmen joined in the escort. Identifications, inside large black wallets, were shown
 to me. but I gave them only a cursory glance -- my mind was elsewhere.
+
 After a brief interlude with TV newsmen for a prearranged interview, still under heavy guard, I
 was taken to my room, and before I could order a sandwich, I was told that I was being
 transferred to another room. Out went my luggage and in came a lady's wardrobe on a pushcart.
@@ -295,6 +301,7 @@ by a known friend in research, requested a copy of my paper and the tape of the 
 witness. Still later, I learned that one of my medical informants, associated with the doctor
 who had performed an autopsy on an alien body, came to my vacated room, left a note under
 the door, which was never delivered.
+
 After more than two hours, hungry, and flustered by my isolation, I left my room to join my
 friends. Speculation about the events of that day. July 29, was at a high pitch -- without
 answers.
@@ -315,6 +322,7 @@ fearful that I would make some sensitive disclosures? But, if that were the case
 not taken stronger measures to prevent me from presenting my paper before I went to Dayton?
 Or why had they not told me about the threats on my life before I went on stage, hoping that
 such a tactic might scare me into a senseless silence?
+
 And, who was the lady that was willing to change her room to mine at Stouffers? Was she
 informed of the reason for the change, and if she did know, did she have any qualms about the
 danger of being bombed? And, what did she do with the note addressed to me that was put under
@@ -400,6 +408,7 @@ day, I am not in the clear to disclose the name of the hospital in which they wo
 name of the city in which it is located. To breach this trust could jeopardize the safety of
 myself, the two doctors and others who have counted on my allegiance. I expected some restless
 days awaiting word from Hynek to get the astronaut's answer and to ponder my response.
+
 Project Sphinx failed; it never got off the ground. Hynek called and related reluctantly that the
 astronaut had new and demanding obligations in another state and did not wish to get
 involved in the proposed program. Hynek also mentioned that the astronaut had some
@@ -715,6 +724,7 @@ up with something and asked her to give me an address to which I could mail in a
 I salt,"! charge eight cents a word." She then said that it would be better to just discuss it over the
 phone. since my information might not be what she could use anyway. I told her I did not work
 that way and asked to speak to her boss. She hung up.
+
 Some E.nister force in the shadows seemed to be closing in on Tim. The purpose was still vague,
 but 1, too, felt that the "Andrea" call was one more link in a plan to make Tim think twice about
 his role in Roswell affairs. Bewildered, and feeling concern for his family, he canceled plans
@@ -725,6 +735,7 @@ Roswell-connected people in the summer of 1990 were a success. The on-camera "de
 were impressive and credit must go to the Fund for UFO Research for a job well done. I called
 Fred Whiting and told him that I had plans to get Tim aboard later and he assured me that the
 expenses to meet him privately would be covered.
+
 When I checked with Tim later, he said that the "invasion" of weird calls had abated and, yes,
 he would consider meeting me in Cincinnati. Reaching Don Schmitt, he also agreed and, yes,
 he might encourage others still willing to go on camera, to join in. The date was set for
@@ -753,6 +764,7 @@ and gave some good reasons. He is sympathetic to our beliefs, but strong in his 
 my case, it is best to say nothing, particularly right now...I think we. you and I, plus others are
 getting too close to somebody's cookie jar.. .Anyway for the time being, I must withdraw from the
 search. I will not make the trip...
+
 The voice of Vard Jacobsen was real, but his credentials were phony, and his plan to visit Tim
 on September 14th through the 16th, was a calculated lie. Jacobsen somehow knew, by a
 bugged phone or by some intelligence grapevine that dates July 14, 15 and 16 were those that
