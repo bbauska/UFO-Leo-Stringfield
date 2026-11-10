@@ -1,10 +1,9 @@
-# UFO CRASH/RETRIEVALS 
-# STATUS REPORT V
+# UFO CRASH/RETRIEVALS - STATUS REPORT V
 ## IS THE COVERUP LID LIFTING? 
 
 By Leonard H. Stringfield January 1989 
 
-### Prologue 
+### Prologue
 
 At this writing, many issues of controversey hang over UFO research. Some have caused bitter differences 
 between team members; some can backfire and smear the image of objective research itself. In the middle 
