@@ -1,3 +1,6 @@
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~ 1989-01-Status-Report-V-Is-the-Coverup-Lid-Lifting.md ~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ in UFO-Leo-Stringfield ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 # STATUS REPORT V - UFO CRASH/RETRIEVALS
 ## IS THE COVERUP LID LIFTING? 
 By Leonard H. Stringfield January 1989 
@@ -100,6 +103,7 @@ body for release in Status Report 11, The UFO Crash/Retrieval Syndrome. As a mat
 information remains to this day analogous to most reports of alien encounters and is much like the 
 computerized rendition shown in October 1988, on the TV documentary, The UFO Coverup. 
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### Tabloids 
 
 Proof? Of course not. Getting close to it? Perhaps. And, yes, I'm aware of the adroit arts of disinformation. 
@@ -180,8 +184,7 @@ strengthen a case or give reason to drop it in the circular file.
 True, that some of the best made plans go awry, and true, that some entries in my monographs have obvious 
 weaknesses and some, based on new information, have become questionable. An example is Case A-2, Status 
 Report M. However, the mainstream 
-
-### crash in Mexico." 
+crash in Mexico." 
 
 ### Something unidentified crashed into a heavily wooded mountain in the township of St. Geniez, France, 
 March 18, 1972. According to witnesses it caused brush fires over a forty acre area. 
@@ -255,6 +258,7 @@ a location near saying. JA never heard more about Paris." the saucer or the bodi
 emphasized that his report remember reading a brief item in a was not conclusive and investigations San 
 Diego newspaper about the were still in progress. Listed were 
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### Texas-Mexico 
 
 CASE 4) With the confusion among researchers over the number, locations and dates for several alleged UFO crashes 
@@ -263,12 +267,9 @@ to me in<sup>Feb-</sup> ruary, 1988, excerpts, as follows: "Shortly after return
 (MUFON<sup>Symposium) my group</sup> was challenged to<sup>lookintotheEl</sup> hidio-Guerrero case that is briefly 
 mentioned in the MJ-12 document ... rm writing to<sup>askifyoucangiveus</sup> any details, or<sup>rumors, beyond 
 what</sup> is printed in your papers ... I have 
-
-153 
-
 many more names of people, directly involved, he hoped to trace and interview. 
 
-###### Humanoid Remains 
+### Humanoid Remains 
 
 CASE 6) Far more spectacular, but affording far less supportive evidence than the St. Geniez incident, is 
 the firsthand report from a retired medical doctor who alleges he accidentally found the skeletal remains 
@@ -465,7 +466,7 @@ Walter Haut. Had it not been for a fast and effective coverup, the full story on
 domain could have rewritten what we know as history. Having been informed, perhaps mankind in 
 his philosophical and geopolitical pursuits would have chosen a wiser course. 
 
-###### Author Leonard H. Stringfield 
+Author Leonard H. Stringfield 
 
 missed from the building, were told to use outside toilets. 
 
@@ -511,8 +512,6 @@ dropped. Bill Moore, however, concentrating on his book, The Roswell Incident, m
 Marcel. Following is one statement, in part, by Marcel that still had some questions unanswered: 
 
 "... that next afternoon, we loaded 
-
-###### 157 
 
 everything into a B-29 on orders from Colonel Blanchard and flew it all to Ft. Worth. I was scheduled to fly 
 if all the way to Wright Field in Ohio, but when we got to Carswell at Ft. Worth, the general nixed it, He took 
@@ -667,6 +666,7 @@ to fill me in on the situation show that such incidents, if true, but he avoided
 to explain to a Assuming this was an alien, I wonder benighted public. Thus, the coverup. how he got lost from his 
 craft?" 
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### El Yunque Yunque 
 
 The answer to my source's quesEl Yunque Yunque tion comes from still another officer allegedly on the scene in 
@@ -780,6 +780,7 @@ He<sup>com-</sup> mented, "I could have thrown a loot.
 
 visual differences of anatomical sizes and heights. 
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### FBI? 
 
 CASE 15) For those of us in research who wonder Or worry about the rigors of coverup, effective for so long, 
@@ -791,8 +792,7 @@ Evidence of such thinking finds support in the recent disclosure of a retired po
 of service in an Eastern state. Through the cooperation of John Ford, head of the Long Island UFO Network, 
 I first received word August 5. 1988, that his source had information concerning a crashed disc and the 
 recovery of seven bodies in a western state, which in some way 
-
-### also involved the FBI. 
+also involved the FBI. 
 
 Filling Ford's request for a notarized statement, insuring his source's anonymity, I then received his 
 videotaped interview with him. After viewing this, which firmly established the former officer's credentials, 
@@ -849,9 +849,10 @@ It is beyond the scope of this paper to speculate on all the sinister machinatio
 alien superrace, but news of the British death syndrome and my awareness of other suspicious deaths 
 and disappearances allegedly connected to UFO crash and 
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### UFO CRASH/RETRIEVALS: THE CONCEPT OF PROOF 
 
-#### By Leonard H. Stringfield (Cincinnati, Ohio) 
+By Leonard H. Stringfield (Cincinnati, Ohio)
 
 As I emphasised in my article Crashed Disc Reports And Dead Crew Reports: The Very Nub Of The UFO 
 Phenomenon (FSR 36/3), the world expert in the investigation of this aspect of our problem is quite 
@@ -901,6 +902,7 @@ revealed as fact — and backed by proof.
 Out of the 38 firsthand witness cases written up in my series of Status Reports, or on file, I 
 believe that five stand out above the rest. They are described briefly as follows: 
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### Case I 
 
 Hardly enough can be said in praise for my medical sources cited so often in my Status Reports. Introduced 
@@ -932,6 +934,7 @@ The source and his colleague both held key staff positions at a major hospital i
 during the interlude of co-operation. The risks were too great to play games of charade. Trust was 
 a factor in all our dealings then, and still is. 
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### Case 11 
 
 My source, a pilot in the Air National Guard, claimed he had witnessed "by accident", while on duty, 
@@ -958,6 +961,7 @@ Officer "You have seen nothing, heard nothing, and as sure as shit you can sign 
 was the final ward from my source. He and his family suddenly became inaccessible, leaving no 
 forwarding address or new phone number. 
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### Case III 
 
 This encounter with cadavers at WrightPatterson involved an Air Police sergeant who, in 1973, was 
@@ -988,6 +992,7 @@ for more information at the time, or tried again at a later date, but I didn't I
 would have given me a chance, and, feeling his uneasiness, I was satisfied with this simple 
 admission of having been on the scene at a historic event. 
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### Case IV 
 
 Thanks to my son-in-lawjeffrey Sparks, who, in 1978, was art Assistant Professor at St. Leo's 
@@ -1015,6 +1020,7 @@ Once again, my source described the bodies as small with big heads, just as othe
 had had the opportunity to see them. And, just like so many others, my source soon vanished into 
 oblivion. No more contact, no new phone number, no forwarding address.... 
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### Case V 
 
 Complete coverage of The Fatal Encounter at R. Dix-McGuire: A Case Study, appears in Status Report 
@@ -1090,9 +1096,10 @@ lid is the proof —a much battered word.
 
 The foregoing cases, abbreviated in this article, are but a small portion of the overall evidence 
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### UFO Crash/Retrievals and the ET Connection 
 
-#### Leonard H. Stringfield (1993) 
+Leonard H. Stringfield (1993)
 
 Hopefully we are a step closer to breaching the proverbial wall of secrecy by releasing this 
 story, which chronicles an alleged major event that may represent a rewarding breakthrough for 
@@ -1258,6 +1265,4 @@ I have every reason to believe the word of my physicist friend, just as I have b
 provided firsthand information to me about the alien anatomy. When I questioned my friend about his source's veracity, 
 or whether he might be playing the disinformation game, my friend replied - as an analogy - that he had always 
 believed his mother, and was quick to put his colleague in the same entrusting category. 
-
-
 
