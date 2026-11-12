@@ -1,3 +1,6 @@
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 1994-02-Status-Report-VII-Search-for-Proof-in-a-House-of-Mirrors.md ~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ in UFO-Leo-Stringfield ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- ![image-1](images/image-1.png) -->
 # STATUS REPORT VII - UFO CRASH RETRIEVALS
 ## SEARCH FOR PROOF IN A HALL OF MIRRORS
@@ -1651,11 +1654,7 @@ ventures into the UFO Hall of Mirrors --- the abode of the surreal.
 
 10) Formerly Director of Public Relations and Marketing Services for DuBois Chemicals, Division of Chemed Corporation, headquartered in Cincinnati. Ohio. Retired January 1981 after 31 years of service.
 
----
 
 ## Repeated content (headers / footers / watermarks)
 
-> Page-edge and repeated content was moved out of the body to keep reading order clean — kept here, not deleted.
-
-- 317 · 318 · 319 · 320 · 321 · 322 · 323 · 324 · 325 · 326 · 327 · 328 · 329 · 330 · 331 · 332 · 333 · 334 · 335 · 336 · 337 · 338 · 339 · 340 · 341 · 342 · 343 · 344 · 345 · 346 · 348 · 349 · 350 · 351 · 353 · 354 · 355 · 356 · 357 · 358 · 359 · 360 · 361 · 364 · 365 · 371 · 374 · 375 · 376 · 377 · 378 · 379 · 380  *(pp.3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 34, 35, 36, 37, 39, 40, 41, 42, 43, 44, 45, 46, 47, 50, 51, 56, 59, 60, 61, 62, 63, 64, 65)*
-- otliorodir(011111041toArrct("Illift · 1ENTICE DATASELECTIVEINSURANCE ANDPAT DATA  *(p.55)*
+Page-edge and repeated content was moved out of the body to keep reading order clean — kept here, not deleted.
