@@ -1,3 +1,6 @@
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 1985-06-Status-Report-IV-UFO-Crash-Retrieval.md ~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ in UFO-Leo-Stringfield ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 # STATUS REPORT IV - UFO CRASH/RETRIEVALS
 ## Part 1: UFO Crash/Retrievals: Status Report IV - Fatal Encounter At Ft. Dix-McGuire
 
@@ -539,6 +542,7 @@ II, 4, at roughly the same time. She described the object as green and in the sh
 of a light bulb. She estimated it was about (number not clear in reprinted
 newspaper article) feet above her and was the size of a car.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### 'Nothing to gain.'
 Melody said the object appeared to land somewhere in the vicinity of the Florence
 Drive-in, which is closed for the season.
@@ -557,6 +561,7 @@ determine the credibility of the persons making the reports.'
 Stringfield says Pd. Jones is credible 'because he stands everything to lose, nothing
 to gain.' Jones has aid he has been ridiculed and laughed at since his sighting.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### Wants Corroboration
 Stringfield also finds it encouraging that neither Jones nor Melody Harris have seen
 the movie, Close En counters of the Third Kind. [Editor's Note: Feature film by
@@ -755,6 +760,7 @@ Department of Justice has decided to make me eligible for hire. I feel these two
 things are related.'
 </blockquote>
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### 5. Analogy: The Ellsworth Case.
 In a James Bond movie, we all can recognize James Bond. But in UFO research we
 cannot always identify the real Bond from a bogus Bond. For certain, however, intrigue
@@ -803,6 +809,7 @@ noting: 'The form you see is probably a back office copy. It could have been rew
 In a later comment he said, 'Without firsthand information, the case doesn't mean much.'
 In short, what Morse was saying was, 'Where's the source?'
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### 6. Jeffrey Morse: The Person.
 In the Ellsworth case, the informant who never surfaced was remiss with facts in his
 Incident/Complaint Report. In the Ft. Dix-McGuire case, however, its bedrock of
