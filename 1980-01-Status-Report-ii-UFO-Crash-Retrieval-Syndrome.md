@@ -1,5 +1,8 @@
-# STATUS REPORT II - UFO CRASH RETRIEVALS 
-## THE UFO CRASH/RETRIEVAL SYNDROME NEW SOURCES, NEW DATA 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~ 1980-01-Status-Report-II-UFO-Crash-Retrieval-Syndrome.md ~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ in UFO-Leo-Stringfield ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+# STATUS REPORT II - UFO CRASH RETRIEVALS
+## THE UFO CRASH/RETRIEVAL SYNDROME NEW SOURCES, NEW DATA
 By Leonard H. Stringfield 
 January 1980 
 
@@ -71,8 +74,6 @@ some of the names, places, and subject matter. To stress a point in summary: I k
 that<sup>mycontinued</sup> quest for UFO crash/ retrieval information is a venture that can be as risky 
 and frustrating as<sup>itisrewarding.</sup> 
 
-37 
-
 Through patience, keeping confidences, and playing the game in a posture of low profile, I feel at this 
 writing that I have progressed substantially since my first paper in gathering new, vital, and corroborative 
 information. Unlike my first paper, this one draws principally on information collected from firsthand 
@@ -92,6 +93,7 @@ Items<sup>B-1</sup> through B-14.
 It should be noted that many abstracts appearing in my first paper, "Retrievals of the Third Kind," are 
 of the Class B type and are not included for review in this monograph. 
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## CASE A-1 
 
 During the summer of 1977 I was asked by a local business executive, a former Naval Intelligence Officer, 
@@ -134,6 +136,7 @@ member told him that the UFO was picked up by special tracking equipment at Mt. 
 informant claimed that he had later heard a report that the retrieved craft, found intact, was also sent 
 to Wright-Patterson. He had no more details as to when or by what means. 
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## COMMENT: 
 
 I have had a dozen or more private talks with my firsthand informant since our initial meeting as reported in Absract #8 of my first paper. During this period, I<sup>knew him as a dedicated family man and by</sup> occupation, an engineer. He had also made several trips to<sup>Wright-Pattersonfortreatment of a medical disability. Without</sup> notice, in the Fall of 1978, he and his family moved away leaving no forwarding address. His military career was extensive, having served as Warrant Officer in the Army, during which time he was assigned Wright-Patterson in the early 1950's. In recent years he was in the Reserves as a Flight Commander in the Air National Guard. 
@@ -146,6 +149,7 @@ That was the final word.
 
 According to my informant, plus the testimony of two secondhand witnesses described in Abstracts #6 and #7 of my first paper, 1953 was either an active year for several UFO crashes, or, all three were describing one event. All three describe the area of impact in a desert region and two named Arizona as the site. 
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## CASE A-2 
 
 Significant in this case is that the testimony from a secondhand source of information was substantiated when I reached the firsthand source. To achieve this took time and a stroke of strategy and luck in reaching the real source for a commitment. This case was first reported in Abstract #16 of my previous paper, the erstwhile informant being the wife referred to as SI. In<sup>review, her</sup> information<sup>revealed</sup> to me in August<sup>1977</sup> follows: 
@@ -161,17 +165,16 @@ Because of her illness, and SI's wish not to be involved in UFOs again, a long g
 Already knowing of Carl's place of employment, and that his on-duty schedule was subject to change, I asked her for the time of day he could be conveniently reached. I hinted that I might call him "on a long shot." She obliged, but offered no encouragement. 
 
 On October 17, 1978, a well-timed call reached Carl at work during a coffee break. Without hesitation I 
-
-39 
-
 announced my purpose, cited some strong data from other sources relative to his experience and assured him that his name or identity would never be disclosed. After a long silence, Carl, with seeming reluctance, confirmed his experience and described the scene he witnessed while on guard duty. While his information generally agreed with that expressed by his wife, he also revealed that the facial characteristics of all three entities were similar and that the skin was the same color as a "drowned cadaver just brought out of the water." 
 
 When asked about his reaction to the event, he said in a low voice, "I was shocked. I'd rather forget it." He offered nothing more, nor did I want to press the issue. I felt that I had achieved a real breakthrough. Carl was now a firsthand witness. 
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## COMMENT: 
 
 My informant, Carl, had no information concerning the actual retrieval operation, but undoubtedly the recovered bodies came from a recent crash incident. I have no reason to question Carl's veracity; his behavorial reaction to my questions and voice intonation told the truth. Carl does not want any part of active UFO research, and prefers to be left alone and not bothered by the subject. When I later checked for confirmation with an Intelligence source about the 1973 retrieval, I got, "No Comment." 
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## CASE A-3 
 
 On June 29, 1978, my son-in-law Jeffrey Sparks, then an Assistant Professor at St. Leo College, Dade City, Florida, informed me that he had talked with a person who had witnessed the alien humanoids at WrightPatterson AFB in 1966. According to Jeff, his contact held a responsible position in a financial capacity with a private firm in Tampa, and had formerly served in Army Intelligence. He<sup>gave me</sup> the individual's name and where he could be reached. 
@@ -189,8 +192,6 @@ JK, whose duties were connected with the Nike Missile, related to me the followi
 - At certain military bases, highly trained mobilized units were in a constant "ready" state for dispatch to any area in the U.S.A. to recover downed or crashed UFOs.<sup>These special forces,</sup> at the<sup>time, were</sup> known as the "Blue Berets" which can operate secretly and<sup>effectively by using</sup> diversionary tactics to prevent public interference. Such diversions include creating power blackouts. 
 
 - During the Vietnam crisis, during JK's tenure of service, five crashes<sup>of</sup> UFOs<sup>occurred between</sup> 1966-1968 in the Tri-State area of Ohio, Indiana (near Evansville), and Kentucky. There<sup>was</sup> one known<sup>incident of a</sup> retrieval of three alien bodies. During this alleged incident, there occurred a skirmish with the<sup>alien forces</sup> by our military units. This was triggered by the uncertainty of the aliens'<sup>intent. Hostility was presumed,</sup> said JK. The location or time of these incidents<sup>were</sup> not<sup>disclosed.</sup> 
-
-40 
 
 - Said JK, "Since 1948, secret information concerning UFO activity<sup>involving the U.S.</sup> military has been contained in a computer center at Wright-Patterson AFB. At this base, a master computer<sup>fileis</sup> maintained with duplicate support backup files secreted at other military installations." Said<sup>JK, "Get the</sup> complete `dump file', both the master and the support backup files and you've got all the hidden UFO<sup>data."</sup> 
 
@@ -218,8 +219,6 @@ My informant stated he had visited the Air<sup>Force's underground complex in Co
 
 My informant disclosed that he is aware<sup>of secret Air Force orders in the early 1950's which directed pilots</sup> on UFO intercept missions to<sup>shoot down or ram their target. He did not know of any successful mission of this</sup> kind which forced down or caused a UFO to<sup>crash. In one instance, he said, he was aware of an incident when a</sup> 
 
-41 
-
 UFO was surrounded by jets but by its highly evasive tactics, it escaped. 
 
 ## COMMENT: 
@@ -243,9 +242,6 @@ According to the General, the four bodies, approximately 5 feet in height, were 
 The craft? The General related that scientists assigned to the task of dismantling it ran into difficulty. To get inside they concentrated on an area where a fissure or crack had resulted, probably from impact. Shipment to Wright-Patterson, he said, quoting the General, "Was by rail, using two<sup>military</sup> conveyance rocket cars, properly camouflaged and classified as `rockets'." 
 
 On another occasion, MS as a guest of the General at his home, while alone,<sup>was</sup> shown a Top<sup>Secret</sup> document concerning a landed UFO. The incident occurred at<sup>Nellis</sup> AFB, Nevada,<sup>1968,</sup> and MS<sup>expressed</sup> disbelief when he read the report. Stamped TOP SECRET, as he recalled, it read, in part:<sup>Large</sup> UFO<sup>hovered</sup> over Nellis AFB for three days, Three small alien craft were observed separating (or<sup>being ejected)</sup> from parent craft. One landed on the air base grounds. Sent to greet the landed craft was a Colonel with security detachment properly armed. There was no mention of an attempt to assault the craft. While waiting for a sign of intent, a 
-
-42 
-
 humanoid was observed to disembark from the craft, which was described as "short and stocky." Then a beam of light was directed at the Colonel. The Colonel was instantly paralyzed, according to the report. Orders then came from the officer next in command for his detachment to fire, but their weapons jammed. The UFO was observed to retreat to its parent craft and then departed. The Colonel was hospitalized. The only recall by the Colonel, as MS remembers from the report, was that he could rationalize the event only in terms of mathematics, as though an attempt at communications had been conducted in this manner. 
 
 ## COMMENT: 
@@ -265,9 +261,6 @@ My intermediary is Robert D. Barry. He is Director of the 20th Century UFO Burea
 ...My sources of information on the crashed UFO subject involve quite a few<sup>but my major sources number four, including one</sup> within Intelligence circles as well as a scientist. As it relates to the crashed<sup>UFO of 1962, it occurred in the state of New Mexico.</sup> The craft experienced flight difficulty at a time it was being<sup>tracked on military radar. It was tracked across two southwestern</sup> states before coming in over New Mexico. Military jets were sent up for<sup>intercept. As the craft moved in over the state of New</sup> Mexico, it lost altitude and continued to experience flight difficulty. It impacted<sup>on desert sands at an estimated 90 m.p.h. Its</sup> underside hit the sand as a plane coming in for a landing. Its landing gear was<sup>not down and its flight pattern at impact gave the</sup> indication that the two occupants in the craft were evidently dead at the<sup>time of the crash., hence the flight difficulty experienced</sup> by the craft. 
 
 The craft was 68 feet in diameter and 13 feet in<sup>height...typically circular. The two beings discovered inside the craft were 42</sup> inches each in height. Each being was donned in a one-piece suit<sup>that containedno buttons or zippers. The occupants were</sup> removed the following day after impact to a major medical university<sup>hospital in the U.S. where skin tests and other scientific</sup> analyses were performed. Skin color was gray-pink. Head slightly<sup>larger for the size of the body; eyes somewhat larger than</sup> norm but the nose was small with little protrusions.. no ear<sup>lobes, but a hole at each side of the head where we have ears.. then, of</sup> 
-
-43 
-
 course, inside the hole area was the inner ear portion. Mouth very small and thin lips. The circular-shaped craft was described as exploratory and was removed to a major military base in the southwest where scientists and engineers were assigned to work on the craft in an attempt to discover its power of propulsion. On this particular case, a total of twenty individuals were involved in the investigation and research. Since that time, three of them have died..of natural causes..leaving a total of 17 familiar with the incident and follow-up research." 
 
 As it turned out I invited Bob Barry to accompany me in Dayton to air a letter he had received allegedly from the C.I.A. The letter, using a C.I.A. masthead, concerned Barry's recent involvement in producing material about the 1962 crash, for a documentary film about UFOs being made by Sun Classic Films. In summary, because of the sensititivty of some of the material about the crash incident, the letter directed Barry to visit the C.I.A. offices for consultation. However, when Barry checked with the C.I.A. for affirmation, they claimed no knowledge of the letter. Mystified, Barry, nonetheless, felt that the letter deserved more than a brush-off and despite the C.I.A.'s denial as its sender, there were certain aspects of the letter's character and content that warranted further investigations. 
@@ -286,8 +279,6 @@ On July 29, Barry exposed the letter and, as expected, some researchers were cri
 
 - Informed to be alert for two foreign agents in Dayton. Also, C.I.A and F.B.I.<sup>would be</sup> there. My comment, "I hope so." 
 
-44 
-
 - Revealed that a scientist, whom he named, would be present in Dayton and would be prepared for public comment in the event I would disclose data (names, places, etc.) beyond the prepared script in my paper. Later, I heard the comment, "Stringfield didn't come across with the hot stuff, so he (the scientist) didn't have to comment." 
 
 - In early July, he commented, "80% of your paper is correct. ..use only cases with firsthand witnesses...discount the others." Asked about the Kingman, Arizona, retrieval of 1953, he said, "A lot of it is just story. Don't use it."* 
@@ -300,16 +291,16 @@ On July 29, Barry exposed the letter and, as expected, some researchers were cri
 
 - When I first talked with Barry about the 1962 retrieval incident in New Mexico, he indicated that his C.I.A. informant had been one of the first officials at the crash site and also had been first to go inside the craft to recover the two alien bodies. In August 1979, when I talked with Barry and heard the replay of the tape, the information was corrected. Said the former C.I.A. informant, clarifying the issue of his participation, he was the first person to look inside through the hatch of the craft but<sup>was</sup> NOT inside the craft. This attempt to be factual, again, pointed out to me that our tripartite exchange of information was not only of sound footing, but, perhaps, one means by which some of the hidden data could be safely released to test public reaction, or for other ulterior purposes. 
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## COMMENT: 
 
 In anticipation of any contrary opinion, I believe Barry's former C.I.A. source is legitimate. I repeat, I have been in touch with Barry for too long a period to argue<sup>over his research objectives, or to fault his religious</sup> views, or to be concerned about the methods he employs<sup>in</sup> pursuing a UFO case. Barry and I have speculated on all issues of the UFO problem, and also about certain aspects of his C.I.A. informant's answers to our questions.<sup>I</sup> find, in summary, that most information received from<sup>his prime</sup> source<sup>does tally with</sup> information<sup>I</sup> have from other diverse sources. 
 
 Concerning the controversial C.I.A. letter, researcher Richard<sup>Hall</sup> has informed me that he knows the identity of the person who perpetrated the prank.<sup>While</sup> this fake letter<sup>will be</sup> forgotten in the annals of the UFO, the 1962 crash report, however,<sup>will be strengthened by new data perhaps</sup> relatable<sup>by</sup> Barry<sup>in</sup> the future. 
 
-> * The Kingman, Arizona UFO crash case of 1953 was reviewed in<sup>Retrievals of the ThirdKindbased on</sup> information from researcher Ray Fowler. Although the C.I.A. employee commented that much<sup>of the Kingman report was "just story,"</sup> he did not deny its occurrence. During November 1979. a new creditable source in Las Vegas, Nevada. surfaced to relate new data about the incident, including a firsthand law enforcement witness. Other new sources, according to my<sup>informant, are being investigated. Also see Case A</sup> -I, and other 1953 reports in Retrievals of The Third Kind. 
+* The Kingman, Arizona UFO crash case of 1953 was reviewed in<sup>Retrievals of the ThirdKindbased on</sup> information from researcher Ray Fowler. Although the C.I.A. employee commented that much<sup>of the Kingman report was "just story,"</sup> he did not deny its occurrence. During November 1979. a new creditable source in Las Vegas, Nevada. surfaced to relate new data about the incident, including a firsthand law enforcement witness. Other new sources, according to my<sup>informant, are being investigated. Also see Case A</sup> -I, and other 1953 reports in Retrievals of The Third Kind. 
 
-45 
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## CASE A-7 
 
 This entry concerns the medical phase of my inquiry into the study of the alien occupants allegedly recovered from crashes of their vehicles. My first meeting with a prime medical contact came in June 1978, while working on my first paper for release in Dayton, Ohio. It was arranged by a veteran researcher of long acquaintance who was aware of my quest for UFO crash/ retrieval information. He also knew that I had acquired certain basic pathological information from other sources. Over our dinner, information from the doctor, who served on the staff of a major hospital, came slowly and cautiously, as expected. He made references to a colleague who performed an autopsy on an alien body in the early 1950's, but, in the main, not much new data were revealed beyond general exterior anatomy. Significant,<sup>however, was</sup> that certain characteristics, some ambiguously described by other sources, were surprisingly corroborated. Of course, I asked many questions. Most were unanswered. Later that evening, I met my informant's charming wife and we all agreed that our subject was not only bizarre, but almost too incredible for the general public's acceptance. Departing, the doctor was agreeable to further meetings. 
@@ -335,8 +326,6 @@ During 1979, my sole objective in UFO research has been to release newly acquire
 - Neck described as being thin; and in some instances, not being<sup>visible because of</sup> garment on that section of body. 
 
 - Most observers describe the head of the humanoids as<sup>hairless.</sup> One said<sup>that the pate showed</sup> a slight<sup>fuzz.</sup> Bodies are described as hairless. 
-
-46 
 
 - Small and thin fits the general description of the torso. In most instances, the body was observed wearing a metallic but flexible garment. 
 
@@ -367,15 +356,13 @@ SIZE — The specimen observed was 4 foot three and three-eighths inches in leng
 HEAD — The head was pear-shaped in appearance and oversized by human standards for the body. The eyes were Mongoloid in appearance. The ends of the eyes furthest from the nasal cavity slanted upward at about a ten degree<sup>angle. The eyes were</sup> recessed into the head. There seemed to be no visible eyelids, only what seemed like a fold. The nose consisted of a small fold-like protrusion above the nasal orifices. The mouth seemed to be a wrinkle-like fold. There<sup>were no human type lips as such —just a</sup> slit that opened into an oral cavity about two inches deep. A membrane along the rear of the cavity separated it from what<sup>would</sup> be the digestive tract. The tongue seemed to be atrophied into almost a membrane. No teeth were observed. X-rays revealed a maxilla and mandible as well as cranial bone structure. The outer "ear lobes" didn't exist. The auditory orifices<sup>present were</sup> similar to our middle and inner ear canals. The head contained no hair follicles. The skin seemed grayish in color and<sup>seemed</sup> 
 
 • In November 1979, additional word was received<sup>from the medical authority concerning the nature of alien skin. Under magnification, I was</sup> told, the tissue structure appears mesh<sup>-like, or, like a grid's network of horizontal and perpendicular lines. Clarifying an earlier reference</sup> which describes the skin of the entity as "reptilian," this<sup>new information suggests that the texture of the granular-skinned lizards, such as</sup> the iguana and chameleon, may be similar to at least<sup>one type of alienhumanoid.</sup> 
-
-47 
-
 mobile when moved. 
 
 The above observations are from general anatomical observations. I didn't autopsy or study the head portion in any great detail since this was not my area of specialty. 
 
 NOTE — Your drawing of the head should have the cheek bones removed or a smoother contour. The eyes in the nasal cavity area are not right. The recess and fold is continuous across the forehead. The neck seems too long but the shoulders do not slope as prominently. This may give you this effect. The arms are oversized in length by human standards. There was no thumb. The index finger in your drawing is longer than the middle finger. I don't believe this is correct, but my memory is hazy at this point. The chest area contained what seemed like two atrophied mammary gland nipples. The sexual organs were atrophied. Some other investigators have observed female specimens. I have not had this opportunity. The legs were short and thin. The feet didn't show any toes. The skin covered the foot in such a way that it gave the appearance of wearing a sock. However, X-ray examination showed normal bone structure underneath. 
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## COMMENT: 
 
 The statement received from the doctor, which I had requested for this paper, is indeed a breakthrough. Knowing the doctor's area of medical expertise and the hospital in which he continues his specialized work, it is my belief that his claim to having conducted an autopsy, is true. Knowledgeable of other activity at the medical center, plus his comments relative to a specific study, I hasten to say that I can find no hints or obvious loose ends that would indicate a hoax. Moreover, some of the information he had related in the past year, not included in his statement, was corroborated by another source, also a doctor. Although this latter source is secondhand, the information shared contains an important detail about a skin characteristic. 
@@ -385,8 +372,6 @@ Noteworthy is that many questions asked of my medical person have gone unanswere
 Photographs showing the deceased humanoids have been seen by my medical sources.<sup>In these,</sup> a metallic, one-piece suit was worn. Also, in my first paper, a statement was reviewed from Ted Phillips, a prominent MUFON and CUFOS researcher, specializing in the investigation of physical traces at UFO landing sites,<sup>which</sup> states that he was privileged to have seen a photo showing the body entire. At a meeting in<sup>New</sup> York during our visit to the United Nations (with Drs. Hynek, Saunders, Vallee, Poher, and Gordon Cooper and<sup>Lee Spiegel to</sup> present the UFO problem to Secretary General Kurt Waldheim),<sup>he told me that he was</sup> shocked<sup>when he</sup> saw my drawing of the alien hand. It was strikingly similar to the hand he had seen in the photograph.<sup>(See</sup> Attachment 3.) 
 
 My close relationship with medical people continues at this writing. I have submitted four different drawings of the entire body to my foremost medical source, based on his comments and in conformity to data supplied from others. Attached is my final rendition which includes the doctor's<sup>recommended changes received</sup> October 29, 1979. (See Attachment 1.) 
-
-48 
 
 Also attached are drawings of the head and the hand dated July 1978, which had the "close enough" comment from the former C.I.A. employee referred to in Case A-6. 
 
@@ -405,9 +390,6 @@ The lone Huey chopper continously flew overhead while certain personnel on hand 
 The grounded UFO, said AK, which had impacted into the soil and stood at a tilt, was approximately 35 to 48 feet in diameter and 12 to 18 feet in height. It was perfectly round, shaped like a hamburger bun. In the middle, or at the equator of its smooth aluminum-like surface, was a black band made up of squares, each jutting out about 10 inches. AK could not determine if the squares were windows or what purpose they served. The only major protruding part on the UFO, said AK, was a fin-like device and beneath it an aperture which may have been an exhaust unit. AK said that the UFO was not lighted, and he smelled no odors. "It was dead," he said. Asked about occupants aboard, he replied, "Sorry to disappoint you, but I was not aware of any life inside the craft, or that any bodies were taken out of it later." 
 
 Since the release of his story, AK has been cooperative in all of my requests for supporting data. He has sent me a copy of his Army discharge papers, testifying that he was in Ft. Riley at the time of the incident. He also has sent me the original letter, dated December 11, 1964, which he had sent to his fiance in California in which he makes a reference to his call to special guard duty. His letter said in part, "...Had some excitement last night. ..in the boondocks of Ft. Riley.. .There was some odd thing in a field that we guarded for a couple of hours, probably some new type of aircraft..." The envelope bears the proper return address, and a postmark dated, December 14, 1964, Junction City, Kansas. Affixed to the envelope was an 8c airmail stamp of proper issue for that time. To get more information I encouraged AK, as a test, to seek publicity about<sup>his</sup> incident. He<sup>placed an ad in</sup> the Los Angeles Times, and it was promptly seized upon by other media. Using "David" as<sup>his</sup> identity<sup>he</sup> got calls from many radio stations throughout the U.S.A. for interviews. It brought one positive<sup>result —</sup> another 
-
-49 
-
 alleged witness. The new witness called AK by phone from another city, described his observation of a strange craft being removed by rig in a remote area on the Ft. Riley base, and stressed his need for anonymity for several understandable reasons. When I was informed of this new contact, and AK sent him a copy of my first retrieval paper, there was an impasse of several weeks before communications reopened. I asked for a statement. More waiting. On November 17, 1978, I received the following letter from the informant, signed "Ron": 
 
 ### Dear Mr. Stringfteld: 
@@ -432,18 +414,18 @@ After I received the letter, I sent AK a xeroxed copy and learned promptly that 
 
 In the Spring of 1978, I inquired about the status of the Ft.<sup>Riley incident with</sup> Barry, who asked<sup>his</sup> former C.I.A. contact. He learned that he was aware of the incident but<sup>was</sup> not<sup>personally involved.</sup> 
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## COMMENT: 
 
 Of the hundreds of letters and comments I have received from readers of my first paper,<sup>one</sup> stated<sup>in</sup> part, "As a former officer of psychological operations with the<sup>United States Army, Jam perhaps more than normally</sup> alert to discrepancies in testimonials. ..A case in point: In a super<sup>secret operation of the sort described, PFC's</sup> are never present. Indeed, the presence of a PFC pretty<sup>much eliminates the possibility of the crash's having been</sup> secretively handled..." 
 
 Under normal circumstances, I agree that proper<sup>personnel from the base, or from another base, would</sup> have been dispatched to the site to cover all phases of<sup>operations, including guard</sup> duty.<sup>There are exceptions to</sup> the rule even in the military when emergencies arise, and personnel<sup>of</sup> any rank,<sup>such as PFC AK, are called upon</sup> for duty. In the case of AK, he was already on duty<sup>in</sup> the<sup>Motor Pool andwas readily available.</sup> I recall during WW II while stationed near the<sup>village</sup> of<sup>Tanuaun in Leyte, a combat zone in the Phillipines,</sup> 
 
-50 
-
 that I was called to check a possible enemy radio unit. I remember asking for the armed support of a PFC to join me while I probed the suspicious area. It is understandably difficult for anyone not having been involved in a retrieval operation, or having seen an alien body, to be a believer. I find it difficult to the point of frustration to rationalize the data I have received from the most creditable sources, yet listening to AK's story repeatedly and evaluating its supporting evidence, I feel that there is a preponderance of pluses in its favor. 
 
 The relevance of the Ft. Riley incident is that if a strange, saucer-like craft had crashed or landed there, then is it typical of other retrieval operations; and, if life was aboard, was it human or humanoid? 
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## CASE A-9 
 
 This case, with new supporting information, refers to independent sources who have witnessed the same secret movie at different bases, showing an alleged crashed disc in a desert region and their deceased alien bodies lying on tables, probably in a makeshift state at the same crash site. First, for the record, is edited copy from Abstract #5 which appeared in my previous paper. 
@@ -461,9 +443,6 @@ Commented my informant, "The 5-minute long<sup>movie</sup> certainly<sup>was</su
 TE, when asked about his interest in UFOs,<sup>claimed that he was not —then or now—</sup> but<sup>he</sup> has always been curious about the purpose of the film in relation to his work in radar. Years later,<sup>hemet</sup> an<sup>oldarmy</sup> acquaintance who was also a radar specialist. To TE's surprise, he learned from<sup>this</sup> man that he, too, had seen the same film at another base under similar hush-hush conditions. My informant<sup>believes that the corpses and</sup> crashed craft shown in the movie film were bona fide, and we agreed that it<sup>would have been ridiculous for a</sup> professional studio to have made dummy bodies to look so real in an otherwise<sup>ill</sup> -prepared and<sup>shoddy film.</sup> 
 
 Following my talk in Dayton, copies of my paper were xeroxed and distributed to key<sup>researchers</sup> and,<sup>in</sup> turn, were again amply reproduced for an endless chain of people. As a result, word has come from far afield<sup>of</sup> others having knowledge of the secret movie<sup>film,but</sup> one of the more<sup>cooperative</sup> and<sup>well-informed</sup> researchers, Mrs. Joan Jeffers of Bradford, Pennsylvania (former RN and with<sup>degrees in</sup> Social<sup>Sciences) was</sup> quick to come to the challenge to help. When she read the TE report she<sup>discussed it with</sup> a<sup>former high ranking</sup> 
-
-51 
-
 military officer, a friend of hers, and got acknowledgement that he, too, had seen the same film. Furthermore, she obliged by getting testimony from the officer for use in this paper, dated February 6, 1979, which follows: 
 
 Dear Len...At last I am able to put this information in a letter to you. You have my permission to use it in publication of your work. 
@@ -476,6 +455,7 @@ This event was 23 or more years ago, but this man has good recall of other event
 
 I have supplied you with the name and possible present location of the man who was commander of this base. ...Joan Jeffers (signed)" 
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## COMMENT: 
 
 With only the slightest variances, both the Colonel's and TE's reports, describing the film, agree. Showing of the film may have been to limited personnel on a "need to know" basis, but it seems that it appeared at a number of military bases. Note, too, that the Air Force Major (Case A-4) recalls having witnessed part of the film at an undisclosed base. Other former military personnel who may have seen the film have been named by Mrs. Jeffers, from her source for followup. One, a Lt. Colonel, was reached by researcher Stan Friedman, but he did not recall having seen the movie. However, he said, "If your source would get in touch with me he might refresh my memory." I called the other officer in May of 1979, who, following his military career, still works at Wright-Patterson AFB. Evasively, he responded, "If I saw it, I can't remember it." 
@@ -489,9 +469,6 @@ Of note, the C.I.A.-sponsored Robertson Panel met<sup>in</sup> January<sup>1953,
 In light of new information surfacing about an alleged crash and retrieval<sup>of</sup> an alien craft near Roswell, New Mexico, in 1947, the following case, published in Abstract #18 of<sup>my previous</sup> paper,<sup>is</sup> certainly not in<sup>itself</sup> unusual, but it merits review as it may provide useful testimony for<sup>researchers.</sup> 
 
 On April 7, 1978, Steve Tom, NBC radio newsman, Chicago, and I were linked up<sup>by</sup> phone<sup>for an interview</sup> with a former Air Force Intelligence Officer, Major Jesse Marcel,<sup>residing in</sup> Houma, Louisiana. Major Marcel, I learned, shared some common ground with me. He had also served in the 5th Air Force<sup>in</sup> the<sup>Pacific</sup> Theater 
-
-52 
-
 during World War II, and had been in several combat areas such as Leyte, Philippine Islands, where I had been assigned. The purpose of our call was to obtain, firsthand, the Major's confirmation of his role in the retrieval of an alleged crashed UFO northwest of Roswell, New Mexico, in the summer of 1947. 
 
 The debris of an apparent metallic aerial device, or craft, that had exploded in the air, or crashed, was first made known by a sheep rancher who found fragments of met and other material on his 8,000 acre property. When he informed the Air Force base in Roswell of his discovery, Major Marcel and aides were dispatched to the area for investigation. There, he found many metal fragments and what appeared to be "parchment" strewn in a I-mile-square area. "The metal fragments," said the Major, "varied in size up to 6 inches in length, but were of the thickness of tinfoil: The fragments were unusual," he continued, "because they were of great strength. They could not be bent or broken, no matter what pressure we applied by hand." 
@@ -502,6 +479,7 @@ Since the Major's story got publicity, it has been said by some researchers that
 
 The material I gathered did not resemble anything off a balloon. A balloon, of any kind, could not have exploded and spread its debris over such a broad area....I was told later that a military team from my base was sent to rake the entire area. 
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## COMMENT: 
 
 If there were entities aboard, tliey could have been destroyed in what appeared to be a violent aerial explosion. 
@@ -509,8 +487,6 @@ If there were entities aboard, tliey could have been destroyed in what appeared 
 Since the successful release of their book, The Philadelphia Experiment, in 1979, which uncovers new data about another legendary mystery concerning a warship being<sup>invisibly</sup> teleported<sup>during a Navy experiment in</sup> 1943, the authors, Charles Berlitz and William Moore, are ready for another expose far removed from sea lore. The theme concerns an alleged crash of a UFO in 1947 near Roswell,<sup>New</sup> Mexico. Thus, there may be a tie-in with the account offered by Major Jesse Marcel. 
 
 Bill Moore, persuasive and methodical in his probing skills, told me during a private meeting in Cincinnati in July 1979, that he had uncovered some good firsthand data about the 1947 crash. In trust, he related some of his material and if his informants are as reliable as he alleges, then the Air Force long ago had evidence to back up and make policy about the incursive UFO. 
-
-53 
 
 # PART II: NEW SUPPORT DATA 
 
@@ -531,8 +507,6 @@ Calculations show that the UFO was most probably between 40 and 60 miles altitud
 Amassing all the distances where witnesses claimed to have observed the glowing mass we find that it was puttering along at about 17 miles a minute or, 1,062.5 miles an hour. This is considerably slower than the astronomically recorded minimum speed of 27,000 miles per hour or the maximum, 144,000 miles per hour that meteors have been measured to be travelling during their plunges to earth. So the college professor and the Pentagon called this mysterious object a meteor or bolide, Hah! Ask yourself — who is kidding who? 
 
 Another possibility exists to explain the mystery object. An inquiry was recently made through the records maintained by the United States Air Force Space Defense Center which is the headquarters of the North American Air Defence Command (NORAD) in Colorado. On January 11, 1980, Mr. Del Kinchey, the Base Public<sup>Information Officer</sup> assisted in searching the satellite and space debris re-entry archives for recorded tracking data on the date of the Kecksburg impact. He discovered that on November 23, 1965, the Soviet Union launched one of their<sup>spy</sup> satellite series designated<sup>Cosmos 96. What is</sup> interesting about this is that it either aborted or was recalled to re-enter into the earth's atmosphere sixteen days later on the day of the<sup>Kecksburg</sup> incident — December 9, 1965. Further inquiry concerning the re-entry data where the Air Force expected the device to impact will be forthcoming in a future edition of this publication. 
-
-55 
 
 Even if this does prove to be an explanation for the Kecksburg object, it is<sup>common knowledge by those experienced in aerospace</sup> science and rocket development that no spacecraft or nose cone in<sup>1965</sup> had the<sup>capability of a twenty-five degree adjustment in</sup> flight direction during earth re-entry. 
 
@@ -575,9 +549,6 @@ Richard Hall, Editor of the MUFON UFO Journal in a letter dated March 23, 1979, 
 On April 3, 1979, I called Truman Weaver, a former Air Force Major, who, himself had an UFO experience while flying in Korea in 1952. He and crew saw a<sup>daylight disc, 12 feet in diameter under</sup> intelligent control, off his wingtip. Without hesitation, Weaver gave me the phone number<sup>of his</sup> friend, Robert Thompson, whom he knew through mutual aviation interests. On the same day I phoned Thompson. He confirmed the data Berliner had related to Hall about his work at Wright-Patterson. He added.. "Suddenly, the building nearby became very busy, trucks drove up and right into the building.<sup>Thiswasbefovt</sup> airconditioning was installed and with windows open I could smell the strong odor of formaldehyde. It<sup>was</sup> sickening." 
 
 Thompson said he never saw a flying saucer or a little body personally, but he did claim to see what he called an "interim report." His boss, named McAdams,<sup>showed it to him and fellow</sup> workers, which he said confirmed the rumors that alien craft and bodies were on the<sup>base. Thenext dayhe saidthe</sup> paper was snatched from McAdams and officials denied it even<sup>existed.Thompsoncouldn'trememberif</sup> the report<sup>was</sup> on official stationary or marked Secret, or if it was mimeographed. Curious,<sup>I called</sup> Weaver about such a document. He was not aware of such a report for general circulation<sup>unlessitwas</sup> a document that leaked out without authorization. On April 5, Thompson sent me a note<sup>which</sup> stated<sup>briefly:</sup> "The building number was 18F, 3rd floor. The 13 bodies and 2 saucers are at a small air<sup>base</sup> at Hampton Roads, Virginia, if they have not been 
-
-57 
-
 moved again. Thompson said he heard about the transfer to Hampton<sup>RoadsfromasourcenowinCanadaand</sup> unreachable. 
 
 ## ITEM B-7 
@@ -601,9 +572,6 @@ I, William H. Draeger, do hereby swear to God that the above<sup>statement is th
 The case of the mysterious flying object crashing into the mountains bordering Argentina and Bolivia, May 8, 1978, is well known by research. Was it a meteorite, part of a satellite or spacecraft?<sup>Rumors say nothing was</sup> ever found after extensive search on the precipitous slopes by Bolivian and Argentine military teams and by NASA. 
 
 In June 1979, I received a stack of clippings from Argentine newspapers with stories that claim otherwise. The sender, Nicholas M. Ojeda of Rosario, Argentina, stated in his letter, "...As you know, our country is one<sup>of</sup> the most visited areas in the world by OVNIs as we call them in Latin America.<sup>Last</sup> year, May 8,<sup>we</sup> had a very significant case in the Salta Province in the north of the country. A long object crashed into the mountains. Although some people think it was a meteor or part of a satellite, the case is not closed yet. There is a report of a 
-
-58 
-
 group of investigators who vanished mysteriously in the<sup>area. Ireally</sup> think something<sup>big</sup> happened in Salta. NASA investigated, but there was not news of it. I have to tell you that in LaPaz, Bolivia, a huge USAF Hercules C- 130 carried "something" from the area where the UFO crashed.<sup>What was it?"</sup> 
 
 When this question and the news of the cargo plane being there was put to Bob Barry's former C.I.A. contact, he confirmed the flight and admitted, "I was aboard that plane."<sup>He offered</sup> no answer to, "what was aboard?" 
@@ -632,8 +600,6 @@ Then, in a letter dated April 11, 1979, Lee Graham (referred to in Item B-9) who
 
 The emphasis in each letter is mine. In essence, Goldwater is saying that he was denied access to the facility where Top Secret information was stored which he believed concerned the alien craft and bodies. Recall in Case 
 
-59 
-
 A-3 that my informant, who was stationed at Wright-Patterson during the Goldwater visit, states that the incident caused quite a fiasco among ranking personnel. 
 
 ## ITEM B-11 
@@ -659,9 +625,6 @@ Scully's letter on masthead, Desert Springs Chamber of Commerce, dated April<sup
 Dear Rev.— Thank you for your letter of April 4 which I had better<sup>answer</sup> immediately or it<sup>will never be answered, I'm so in</sup> arrears. I just returned from a convention held in Giant Rock<sup>where 5000 persons</sup> held<sup>a Saucerian convention. It is 35 miles</sup> from anywhere, in the Mojave Desert. All shades of opinion<sup>were represented.</sup> 
 
 But to get to your letter. My chief witnesses as you<sup>describe</sup> them have not<sup>repudiated one sentence of Behind the Flying Saucers.</sup> Dr. Gee was a composite of 8 different scientists, whose stories<sup>were</sup> tape recorded<sup>and then synthesized by me where they were</sup> in substantial agreement. As for others who have similar stories, there<sup>are a whole slew of them. Mine dealt with three saucers</sup> and dead crews. George Van Tassel, a former Lockheed test pilot, has out<sup>a</sup> book, I Rode A<sup>Flying Saucer, George Adamski tells</sup> a personal experience in Flying Saucers Have Landed. Another man<sup>has</sup> one out<sup>called Aboard A Flying Saucer. He claims he</sup> was aboard 11 times. Another. Williamson, has one out The<sup>Saucers Speak. There are altogether about10 books. Many go</sup> 
-
-60 
-
 beyond mine, but their authors are not writers as such. lam. That's my only profession.<sup>I</sup> claim to have seen nothing. I simply reported what others claimed they saw. 
 
 Right now I am gathering material for, This Side of Saucers. It should prove more sensational<sup>than Behind</sup> The Flying Saucers.] do not know when I will get it finished. Next Spring,<sup>probably....Faithfully (signed)Frank Scully.</sup> 
@@ -687,24 +650,20 @@ February 12, 1979, was a day like all days in my quest for a new material relati
 I also got a call from a New York reporter for The Village Voice who desired an interview with me for an article concerning my UFO crash/ retrieval material. This also vaporized. And, there were other calls, but the real eye opener came about midnight from Larry Moyers, State Director of Ohio for MUFON, in Akron. Moyers pardoned his late call, and as I tried to recover from a half sleep, he jolted me with news so extraordinary that I wasn't sure if I were in a dream. Moyers had just an hour earlier received a call from a person named Ron Johnson who made the claim that he had recovered a small humanoid body appearing to be injured but still alive, from a roadside while driving through the Pocono Mountains of Pennsylvania. Confused as what to do next, he put the creature into his car and drove on. About 3 hours later, when he stopped to check the body, he found it motionless and presumed that it was dead. 
 
 Johnson described the creature as humanoid, about 3 feet tall, without nose and only one ear. The other ear appeared to have been sheared off. The biped covered with a downy fuzz, had only three fingers with webbing in 
-
-61 
-
 between, and the feet were "neither left nor right, not ir the sense that humans are." A<sup>metallic</sup> clOth covered the entire body. Johnson's main concern, said Moyers, was his fear of legal consequences for<sup>allowing</sup> the entity to die while in his possession without notifying the police. In desperation he drove on to<sup>his home in Akron, and</sup> placed the cadaver into a deep freezer. Johnson explained that he had<sup>remembered</sup> hearing<sup>of</sup> a<sup>localUFO</sup> research group and finally got Moyer's telephone number and called him for advice.<sup>Because of</sup> the lateness<sup>of</sup> the hour, and fatigue, he agreed to see Moyers early the next morning and gave him<sup>his</sup> address, and<sup>his</sup> phone number. Moyers, concerned, called me. 
 
 My advice, in the play against time, was for Larry and a trusted friend go to Johnson's at the<sup>earliest next</sup> day. Take a camera, I suggested, to photograph a variety of shots of Johnson and his cadaver as proof, then call an attorney and a medical doctor for their expertise. In the meantime, I told Moyers, I would<sup>head</sup> for Akron and be on hand to advise the authorities, key researchers, and the media. But, Larry and I both smelled a hoax. Early the next morning, Moyers joined by Mike Candusso got to Johnson's<sup>house</sup> as planned.<sup>While</sup> parking to check the house number, they saw two women leaving the house. When asked if they knew Ron Johnson, both said they never heard of him. then Moyers checked the neighbors. No one knew of Johnson. Moyers then phoned the number given him by Johnson. To his dismay, the phone had been disconnected. When Moyers called me to explain his dilemma, I, too, called the "Johnson" number. Said the Operator: "The number you have dialed has been disconnected temporarily at the customer's request." 
 
 Hoax? Probably. Who is the real Ron Johnson? Was his game a ploy to test Moyers with an ulterior motive? And, why was the phone number he gave Moyers disconnected and on whose request? Hoaxes, although rare, and other inexplicable acts are not new to me and others investigating mysteries of the syndrome. Another case in point, and so typical of following a new lead, involved a dentist in Bloomington, Indiana, to whom I was referred as having UFO crash/ retrieval information. When I called the dentist he recalled that his brother, a retired Navy Captain in Washington, D.C., had discussed with him several years before his part in the transportation of a crashed alien craft. Seeming eager to help, he gave me his brother's phone number. But when I called the retired Navy Captain, he said he didn't remember ever talking about such an affair with his brother. There are many other leads bearing promise of information to come by mail, a return phone call, or a visit. Weeks, months, a year may pass. So often the response is nothing; a silence rooted in fears of reprisal or ridicule, or, a desire for privacy — or, all three combined. This is understandably human. Indeed, I feel privileged to know what I do know and for what I can relate. This is my inspiration. I hope to learn still more with new leads now on hand, and if I persist with patience in this endeavor. 
 
-62 
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 # PART III: STATISTICAL ANALYSIS OF UFO CRASH/RETRIEVAL EVENTS 
 
 ## 1. Chronology of UFO Crash/ Retrieval Events Known<sup>ByYear</sup> 
 
 Statistics, it must be emphasized, about reported UFO crash/<sup>retrieval</sup> events are inadequate and perhaps misleading. In the main, for this analysis, I have used only the sources who can identify the year of the event. Informants in this category range from the firsthand source to those<sup>less</sup> creditable. There are also many reports, even from good sources, with no year affixed to the event and thus are not included in this report. The total number of reported events for any 1 year may describe a single event rather than isolated events. A breakdown by years, follows: 
 
-|Year<br>NumberofReports|
+Year<br>NumberofReports
 |---|
 |Prehistoric<br> 1|
 |WWII<br> 1|
@@ -726,8 +685,6 @@ Statistics, it must be emphasized, about reported UFO crash/<sup>retrieval</sup>
 |1979<br> <sup>2</sup>|
 |TOTAL<br>49|
 
-
-
 The most interesting feature is that the preponderance<sup>of</sup> reported UFO crash/<sup>retrieval events</sup> out of a total of 49 occurred in the 1950's, a total of 19 reports,<sup>followed by</sup> 9<sup>in</sup> the<sup>1970's, 8 in the 1960's, and 7 in</sup> the 1940's. These figures indicate that there were more UFO crash/<sup>retrieval</sup> events<sup>in</sup> the 1950's, which suggests that in each of the two decades following, the news about the<sup>event has been more effectively controlled, or that</sup> a later<sup>model</sup> of the alleged alien craft has overcome a technical vulnerability to<sup>Earth's geological</sup> or atmospheric, or human, interferences. 
 
 ## 2. Geographic Distribution of Reported UFO Crash/ Retrieval<sup>Events</sup> 
@@ -737,13 +694,9 @@ This cursory analysis concerns C/ R reports<sup>worldwide</sup> from<sup>general
 Compared with the 16 reports outside the U.S.A. are 27 allegedly occurring inside its boundaries. The figure 27, however, is ambiguous as it may include more than one source describing the same incident. For instance, in 1947 I have three separate sources probably describing the same<sup>incident,</sup> and this also holds true for 1948 where three independent sources may all<sup>describe a single event.Further analysis shows,</sup> according to general information reaching me, that 17 of the<sup>27 events have</sup> occurred<sup>west of the Mississippi River</sup> and 10 to its east. 
 
 Many reports of C/ R events in the U.S.A. are<sup>notincluded</sup> in this<sup>analysis as no site</sup> for the incident is 
-
-63 
-
 known. For instance, an alleged alien craft having been seen in an Air Force hangar, or a body in<sup>deep-freeze, is</sup> not a statistical entry. In consideration of all C/ R material available<sup>itwould</sup> only<sup>be</sup> a<sup>guess as to the true</sup> number of actual events occurring in the United States. At one<sup>time I guessed</sup> at a<sup>dozen incidents, but perhaps</sup> this is just the tip of the iceberg. On the other hand, if only<sup>one</sup> or two incidents<sup>have substance then there would</sup> be justification for another Status Report. 
 
-64 
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 # EPILOGUE 
 
 Who, in our world, is this strange little mortal of human configuration? Is the UFO crash/ retrieval syndrome and its tandem, the humanoid, a part of a grand<sup>weird</sup> hoax, or, an<sup>officially</sup> or<sup>privately</sup> contrived deception? Hardly. Assuming that the biped does exist, and my monograph assumes just that, then is the little "monster" an experimental creation conceived by a clandestine earthly laboratory? Hardly. Or, again, assuming that all my informants are correct, is the creature with an<sup>overdeveloped head</sup> and atrophied body and limbs a distant relative of primordial man whose beginnings share a common cradle? Or,<sup>is</sup> the creature, born in space and developed through a parallel chemistry akin to the Homo sapiens, in an advanced state of evolutionary regression? And, finally, guessing again, we may ask is "it" a clone developed for tactical and expendable purposes by a higher order of extraterrestrial intelligence? 
@@ -756,39 +709,28 @@ Leonard H. Stringfield 4412 Grove Avenue Cincinnati, OH 45227 U.S.A October 29, 
 
 Attachment I. — Drawing of humanoid based on information received from doctor who performed autopsy. Data, concerning relative size of head, torso and limbs, and other details, were gathered over a period of several months in 1979, during which time four separate drawings were submitted for comment. On my first drawing he drew a heavy ridge of brow over the eyes, and indicated less length of neck and less drooping shoulders. After third drawing he commented, "Check a 5-month fetus to get proportionate size of head and body." For the final rendition, above, he said, "The proportions are right." October 29, 1979 
 
-66 
-
 Attachment 2. — Composite drawing of Humanoid<sup>Head from reports by firsthand witnesses. This illustration</sup> was one of five submitted to former C.I.A.<sup>employee for review and comment. On July 6, 1978, being informed</sup> that the features in this rendition were "close<sup>enough", I released it in my first paper, "Retrievals of the Third</sup> Kind". (See Case A-6) 
 
 (Copyright 1978 By Leonard H. Stringfield) 
 
-67 
-
 Attachment 3. — Drawing of Humanoid Hand from reports by firsthand witnesses was submitted to former C.I.A. employee for review and comment. On July 6, 1978, I was advised that the small trace of thumb which I had shown in sketch, should be removed. (See Case A-6). 
 
 (Copyright 1978 By Leonard H. Stringfield) 
-
-68 
-
-
 
 <!-- Start of picture text -->
 WNW<br><!-- End of picture text -->
 
 
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- Start of picture text -->
-• di...  -...e.••••••••••••••••••....................<br><!-- End of picture text -->
+<br><!-- End of picture text -->
 
 Attachment 4. — Conceptive features of humanoid submitted by researcher, Tom Deuley for this monograph, November 2 1979. 
-
-69 
 
 ## July 18, 1978 
 
 I hereby certify that I was shown a sketch of a hand stated to be that of a retrieved humanoid on July 13, 1978 in New York City. The sketch was in the possession of Leonard Stringfield and was the result of descriptions given him by various confidential sources. I had not seen nor discussed the sketch (or the humanoid material in general) with Len prior to our meeting an July 13-14, 1978. Rased on other sources known to me and not to Len, the sketch appears identical to material I have been familiar with for quite some time. I had described the hands to my wife and two close friends in late 1977 and they can confirm the accuracy of the sketch as compared with my description at that time. Based on my somewhat limited knowledge, I must conclude that the sketch is accurate. 
-
-
 
 <!-- Start of picture text -->
 yczai4 -<br><!-- End of picture text -->
@@ -799,8 +741,7 @@ Ted Phillips, of<sup>Sedalia, Missouri, specializes in</sup> the investigation o
 
 Attachment 5. — Statement by Ted Phillips, 1978 
 
-70 
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## Attachment 6. 
 
 # BIOGRAPHY PERTINENT TO UFO RESEARCH ACTIVITIES LEONARD H. STRINGFIELD 
@@ -829,8 +770,6 @@ Attachment 5. — Statement by Ted Phillips, 1978
 
 12. Was assigned as Early Warning Coordinator for Colorado Project under Dr. Condon, 1967-69. This was a government sponsored scientific investigative group, headquartered in Boulder, Colorado. I screened and reported all UFO activity in Southwestern Ohio for this project. 
 
-71 
-
 13. Conducted a course in Ufology at Mariemont High School in 1969 — the first of its kind. 
 
 14. Formelry, served as president of the Cincinnati UFO Society in the late 1950's, whose members were mainly professional people. 
@@ -840,30 +779,27 @@ Attachment 5. — Statement by Ted Phillips, 1978
 16. I am employed as Director of Public Relations and Marketing Services of DuBois Chemicals, Divison of Chemed Corporation, headquartered in DuBois Tower, Cincinnati, Ohio 45202. 
 
 Leonard H. Stringfield 4412 Grove Avenue Cincinnati, Ohio 45227 
-
 (513) 271-4248 
 
-72 
-
-# CHRONOLOGY OF CRASH/RETRIEVAL EVENTS 
+## CHRONOLOGY OF CRASH/RETRIEVAL EVENTS 
 
 World War II: England. Crashed craft. Source: military officer. (Case A-1, Comment) 
 
-1947: Near Roswell, New Mexico. Fragments of apparent crashed craft observed by Air Force officer. (Case A- 10) 
+- 1947: Near Roswell, New Mexico. Fragments of apparent crashed craft observed by Air Force officer. (Case A- 10) 
 
-1948: Crashed craft plus body, reported by newspaper columnist. (Item 8-14) 
+- 1948: Crashed craft plus body, reported by newspaper columnist. (Item 8-14) 
 
-1950: Mexico, near Del Rio, Texas. Air Force officer observed crashed craft and one body. (Item B-7) 
+- 1950: Mexico, near Del Rio, Texas. Air Force officer observed crashed craft and one body. (Item B-7) 
 
-1950: California. Air crewman observed craft in Navy hangar. (Item<sup>B-5)</sup> 
+- 1950: California. Air crewman observed craft in Navy hangar. (Item<sup>B-5)</sup> 
 
-1952: New Mexico. Former Air Force radar<sup>specialistlearned</sup> of<sup>crashed</sup> craft and bodies. (Case A-9) 
+- 1952: New Mexico. Former Air Force radar<sup>specialistlearned</sup> of<sup>crashed</sup> craft and bodies. (Case A-9) 
 
 - 1952: Wright-Patterson AFB, Ohio. Military officer, now retired, saw one body. Saw movie film of craft (see Case A-9), UFO files at NORAD, Colorado Springs, Colorado (see also Item 8-3). (Case<sup>A-4)</sup> 
 
-1953: Johannesburg, S. Africa, retrieval. (Case A-6) 
+- 1953: Johannesburg, S. Africa, retrieval. (Case A-6) 
 
-1953: Arizona. Military officer saw three bodies, one<sup>female,</sup> at<sup>Wright</sup> -Patterson AFB, Ohio, learned of crashed craft in Arizona. (Case A-1) 
+- 1953: Arizona. Military officer saw three bodies, one<sup>female,</sup> at<sup>Wright</sup> -Patterson AFB, Ohio, learned of crashed craft in Arizona. (Case A-1) 
 
 - 1953: Wright-Patterson AFB, Ohio. Technician reported<sup>presence of 13</sup> bodies, saw written report confirming it. Learned two craft were at Langley AFB, Virginia. (Item<sup>B-6)</sup> 
 
@@ -875,24 +811,19 @@ World War II: England. Crashed craft. Source: military officer. (Case A-1, Comme
 
 - 1964: Ft. Riley, Kansas. Crashed craft reported by<sup>enlisted man on guard duty, confirmed by separate source.</sup> (Case A-8) 
 
-1965: Near Kecksburg, Pennsylvania. Crashed craft. Source: Clark<sup>McClelland, NASA employee. (Item 8-1)</sup> 
+- 1965: Near Kecksburg, Pennsylvania. Crashed craft. Source: Clark<sup>McClelland, NASA employee. (Item 8-1)</sup> 
 
 - 1966: Wright-Patterson AFB, Ohio. Nine bodies<sup>observedbyformerArmyIntelligenceofficer,nowa</sup> businessman. Learned there were 30 bodies plus<sup>crashedcraft. Cited five crashes during 1960's and secret</sup> computer files on UFOs. (Case A-3) 
 
 - 1968: Nellis AFB, Nevada. Former Air Force Sergeant described Top<sup>Secret</sup> report on<sup>aUFO landing and</sup> encounter with humanoids during which Colonel was paralyzed and weapons<sup>were</sup> "jammed,"<sup>learned from</sup> Air Force General. (Case A-5) 
 
-1973: Location not stated. Air Policeman observed three bodies. (Case<sup>A-2)</sup> 
+- 1973: Location not stated. Air Policeman observed three bodies. (Case<sup>A-2)</sup> 
 
-1975: Michigan. Crashed craft. (Item B-4) 
+- 1975: Michigan. Crashed craft. (Item B-4) 
 
-1977: Ohio. Violent encounter reported<sup>between UFO humanoids andU.S.Military forces. (ItemB-13)</sup> 
+- 1977: Ohio. Violent encounter reported<sup>between UFO humanoids andU.S.Military forces. (ItemB-13)</sup> 
 
-1978: Argentina. Object crashed in mountains, report<sup>of</sup> U.S. Air<sup>Force retrieval.</sup> (Item<sup>B-8)</sup> 
+- 1978: Argentina. Object crashed in mountains, report<sup>of</sup> U.S. Air<sup>Force retrieval.</sup> (Item<sup>B-8)</sup> 
 
-73 
-
-1979: Pennsylvania. Body retrieved along roadside. Apparent hoax. (Item B-14) 
-
-74 
-
+- 1979: Pennsylvania. Body retrieved along roadside. Apparent hoax. (Item B-14) 
 
