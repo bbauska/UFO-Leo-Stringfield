@@ -62,7 +62,7 @@ dead ends. 率
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 [The Editor of FSR and his consultants have long considered it possible that visitants from extraterrestrial 
 or other regions could be capable of inducing paranormal phenomena, or of projecting images into the 
-minds of human observers, or eoen of influencing or imposing controls on those obseruers, so creating 
+minds of human observers, or even of influencing or imposing controls on those observers, so creating 
 the impression that, the UFO phenomenon is of a psychic nature -C.B.] 
 
 Through patience, perseverence and careful, courteous diplomacy, I have wended my way through the many 
@@ -349,42 +349,30 @@ Base.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 **ABSTRACT V: Claim by radar specialist to have seen film of UFO and dead occupants**
 Mr. T., who holds a high technical position in civilian life today, was aged 20 in the Spring of 1953,
-and was a radar specialist with secret security clear-
-ance. While stationed at Ft. Monmouth, New Jersey
-in 1953, he and a small select number of radar
-specialists were summoned to view a special film at
-the base theatre.
-Without any briefing, the 16 mm movie projector
-was flicked on, and the film began to roll on the
-screen, showing the usual flaws and scratches found
-in combat photography film. Suddenly, without any
-titles or credits, or music, there appeared a desert
-scene dominated by a silver disc-shaped object
-embedded in the sand with a domed section at the
-top. At the bottom was a hatch or door that was
-open.
+and was a radar specialist with secret security clearance. While stationed at Ft. Monmouth, New Jersey 
+in 1953, he and a small select number of radar specialists were summoned to view a special film at the 
+base theatre.
 
-In the next scene, Mr. T. recalls seeing 10 to 15
-military personnel all dressed in fatigues and all
-without identification patches, standing around what
-appeared to be the disabled craft. By judging their
-height against the UFO, Mr. T. determined that its
-width was approximately 15 to 20 feet, and that an
-open hatch or door at the bottom was about 21/2
-feet wide and perhaps 3 feet high. At this point Mr.
-T. had no idea of the movie's purpose. I asked about
-the activity of the personnel? "They were just look-
-ing at the object," he said.
+Without any briefing, the 16 mm movie projector was flicked on, and the film began to roll on the screen, 
+showing the usual flaws and scratches found in combat photography film. Suddenly, without any titles or 
+credits, or music, there appeared a desert scene dominated by a silver disc-shaped object embedded in the 
+sand with a domed section at the top. At the bottom was a hatch or door that was open.
 
-Then the movie switched to what appeared to be
-the interior of the craft. A panel with a few simple
-levers was shown, and he remembers being impressed
-by the muted pastel colours and sudden glares of
+<!-- page 12 -->
+In the next scene, Mr. T. recalls seeing 10 to 15 military personnel all dressed in fatigues and all 
+without identification patches, standing around what appeared to be the disabled craft. By judging 
+their height against the UFO, Mr. T. determined that its width was approximately 15 to 20 feet, and 
+that an open hatch or door at the bottom was about 21/2 feet wide and perhaps 3 feet high. At this 
+point Mr. T. had no idea of the movie's purpose. I asked about the activity of the personnel? "They 
+were just looking at the object," he said.
+
+Then the movie switched to what appeared to be the interior of the craft. A panel with a few simple 
+levers was shown, and he remembers being impressed by the muted pastel colours and sudden glares of 
 white — a sign of poor photography.
-Again there was a change of scene. Now in view
-were two tables, probably taken inside a tent, on
-which, to his surprise, were dead bodies. Two were
-on one table, and one on another.
+
+Again there was a change of scene. Now in view were two tables, probably taken inside a tent, on which, 
+to his surprise, were dead bodies. Two were on one table, and one on another.
+
 Mr. T. said the bodies appeared small by human
 standards, and most notable were the heads, all look-
 ing alike, and all being large compared to their body
@@ -393,6 +381,7 @@ noses, mouths and eyes that were shut. He didn't
 recall seeing ears or hair. The skin, he said, was
 leathery and ashen in colour. Each wore a tight-
 fitting suit in a pastel colour.
+
 The sight of the dead bodies was the end of the
 movie. Whereas most military movies credit the
 Signal Corp or some other source, this one "stopped
@@ -406,16 +395,19 @@ wife who lived near the base.
 To Mr. T.'s surprise, two weeks later he was
 approached by an Intelligence Officer on the base and
 told: "Forget the movie you saw; it was a hoax."
+
 Shortly after seeing the movie he heard from a
 couple of top security officers on the base that a
 UFO had crashed in New Mexico and had been re-
 covered with its occupants. The date of the crash
 was 1952, said Mr. T.
+
 Commented my informant, "The 5-minute long
 movie certainly was not a Walt Disney production. It
 was probably shot by an inexperienced cameraman,
 because it was full of scratches, and had poor colour-
 ing and texture."
+
 Mr. T., when asked about his interest in UFOs,
 claimed that neither then nor now was he interested,
 but he has always been curious about the purpose of
@@ -462,21 +454,14 @@ affixing my signature to this document on this
 7th day of June, 1973.
 </blockquote>
 
-According to Ray Fowler, a researcher of the highest
-credentials, here is Werner's story:
+According to Ray Fowler, a researcher of the highest credentials, here is Werner's story:
 
 <blockquote>
-"I was project engineer on an Air Force contract
-with the Atomic Energy Commission for
-'Operation
-Upshot-Knothole' at
-the
-atomic
-proving ground, Nevada. My job involved the
-measuring of blast effects on various types of
-buildings especially erected for the tests.
-"On May 20, 1953, I worked most of the day at
-Frenchman Flat. In the evening, I received a phone
+"I was project engineer on an Air Force contract with the Atomic Energy Commission for 'Operation
+Upshot-Knothole' at the atomic proving ground, Nevada. My job involved the measuring of blast effects 
+on various types of buildings especially erected for the tests.
+
+"On May 20, 1953, I worked most of the day at Frenchman Flat. In the evening, I received a phone
 call from the test director. Dr. Ed Doll, informing
 me that I was to go on a special job the next day.
 On the following day. I reported for special duty,
@@ -501,6 +486,7 @@ secret Air Force vehicle had crashed and that,
 since we were all specialists in certain fields, we
 were to investigate the crash in terms of our own
 speciality and nothing more.
+
 "Finally, the bus stopped and we disembarked
 one at a time as our names were called, and were
 escorted by military police to the area that we
@@ -519,6 +505,7 @@ looked like 'slots.' A curved open hatch door was
 located on the leading end and was vertically
 lowered. There was a light coming from inside
 but it could have been installed by the Air Force.
+
 "My particular job was to determine, from the
 angle and depth of impact into the sand, how
 fast the vehicle's forward and vertical velocities
@@ -529,37 +516,26 @@ no marks or dents, that I can remember, on the
 surface — not even scratches. Questions having
 nothing to do with our own special areas were not
 answered.
-"An armed military policeman guarded a tent
-pitched nearby. I managed to glance inside at one
-point, and saw the dead body of a four-foot,
-human-like creature in a silver metallic-looking
-suit. The skin on its face was dark brown. This
-may have been caused by exposure to our atmos-
-phere. The face was not covered but it had a
-metallic skull-cap device on its head.
-"As soon as each person finished his task, he
-was interviewed over a tape recorder and es-
-corted back to the bus. On the way back to the
-bus, I managed to talk briefly with someone else
-going back to it at the same time. He told me that
-he had glanced inside the object and saw two
-swivel-like seats, as well as instruments and
-displays. An airman who noticed we were talking
-separated us and warned us not to talk with
-each other.
-"After we all returned to the bus, the Air Force
-colonel who was in charge had us raise our right
-hands and take an oath not to reveal what we had
-experienced. I was instructed to write my report
-in longhand and not to type or reproduce it. A
-telephone number was given me to call when the
-report was complete. I called the number, and an
-airman picked up the report.
+
+"An armed military policeman guarded a tent pitched nearby. I managed to glance inside at one point, 
+and saw the dead body of a four-foot, human-like creature in a silver metallic-looking suit. The skin 
+on its face was dark brown. This may have been caused by exposure to our atmosphere. The face was not 
+covered but it had a metallic skull-cap device on its head.
+
+"As soon as each person finished his task, he was interviewed over a tape recorder and escorted back 
+to the bus. On the way back to the bus, I managed to talk briefly with someone else going back to it 
+at the same time. He told me that he had glanced inside the object and saw two swivel-like seats, as 
+well as instruments and displays. An airman who noticed we were talking separated us and warned us 
+not to talk with each other.
+
+"After we all returned to the bus, the Air Force colonel who was in charge had us raise our right hands 
+and take an oath not to reveal what we had experienced. I was instructed to write my report in longhand 
+and not to type or reproduce it. A telephone number was given me to call when the report was complete. 
+I called the number, and an airman picked up the report.
 </blockquote>
 
-Ray Fowler states that Werner held several engin-
-eering and management positions at Wright-Patterson
-AFB between June 1949, and January, 1960.
+Ray Fowler states that Werner held several engineering and management positions at Wright-Patterson AFB 
+between June 1949, and January, 1960.
 
 During that period, he worked in the Office of
 Special Studies of what was then the Air Material
@@ -619,48 +595,31 @@ true. One Intelligence source commented: "A lot
 of it is story."
 
 **ABSTRACT VII: Air Force metallurgist analysed metal of crashed UFO**
-Finally a name of a witness surfaces — an Air
-Force Major named Daly, who was a metallurgist
-stationed at Wright-Patterson AFB in 1953 — who
-relates his adventures with a crashed UFO.
-The source for this information comes from fellow
-Cincinnati-based researcher, Charles Wilhelm. He
-related, in 1968, how a friend of his father was flown
-to an unknown destination in April 1953. The place
-was hot and sandy, and he was to examine the
+Finally a name of a witness surfaces — an Air Force Major named Daly, who was a metallurgist stationed 
+at Wright-Patterson AFB in 1953 — who relates his adventures with a crashed UFO. 
+
 <!-- page 14 -->
-crashed UFO. lk was blind-folded and driven to a
-point about 30 minutes away from a base of
-operations. There, inside of a tent standing in soft
-sand, his blind-fold was removed. From there he was
-taken to a location where he saw a silvery metallic
-craft about 25 to 30 feet in diameter. The exterior
-of the craft, he said, was not damaged, however,
-his on-the-spot two-day analysis of the ship's metal,
-using the equipment he carried with him, showed that
+The source for this information comes from fellow Cincinnati-based researcher, Charles Wilhelm. He 
+related, in 1968, how a friend of his father was flown to an unknown destination in April 1953. The 
+place was hot and sandy, and he was to examine the crashed UFO. lk was blind-folded and driven to a 
+point about 30 minutes away from a base of operations. There, inside of a tent standing in soft sand, 
+his blind-fold was removed. From there he was taken to a location where he saw a silvery metallic craft 
+about 25 to 30 feet in diameter. The exterior of the craft, he said, was not damaged, however, his 
+on-the-spot two-day analysis of the ship's metal, using the equipment he carried with him, showed that 
 it was not native to Earth.
 
-Major Daly, although he was not permitted to
-enter the craft, observed that the craft's entrance
-measured four to five feet high and two to three feet
-wide.
+Major Daly, although he was not permitted to enter the craft, observed that the craft's entrance measured 
+four to five feet high and two to three feet wide.
 
 **Comment:**
-Major Daly's blindfolded trip to the crash site,
-similar to that of Fritz Werner's, indicates that it was
-common procedure for the military to use extreme
-security measures relative to UFO retrievals. It is to
-be noted that Major Daly's experience takes place in
-April, a month shy of Fritz iNerner's which was in
-May of the same year. Also, to be noted is that Daly
-did not see any dead alien bodies. Maybe they had
-already been removed, or, if the craft was found
-undamaged, as he attested, it is possible the occ-
-upants managed to evade capture. Or, perhaps there
-were two crashes in a desert area in the Spring of
-1953. If, however, the reports of Werner and Daly
-describe the same crashed UFO event, it is possible
-that Daly gave the wrong month.
+Major Daly's blindfolded trip to the crash site, similar to that of Fritz Werner's, indicates that 
+it was common procedure for the military to use extreme security measures relative to UFO retrievals. 
+It is to be noted that Major Daly's experience takes place in April, a month shy of Fritz iNerner's 
+which was in May of the same year. Also, to be noted is that Daly did not see any dead alien bodies. 
+Maybe they had already been removed, or, if the craft was found undamaged, as he attested, it is possible 
+the occupants managed to evade capture. Or, perhaps there were two crashes in a desert area in the 
+Spring of 1953. If, however, the reports of Werner and Daly describe the same crashed UFO event, it 
+is possible that Daly gave the wrong month.
 
 <!-- page 15 -->
 
@@ -669,7 +628,7 @@ that Daly gave the wrong month.
 
 Leonard Stringfield
 
-
+The first part 
 
 
 
