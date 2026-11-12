@@ -1,60 +1,51 @@
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 1985-06-Status-Report-IV-UFO-Crash-Retrieval.md ~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ in UFO-Leo-Stringfield ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-# STATUS REPORT IV - UFO CRASH/RETRIEVALS
-## Part 1: UFO Crash/Retrievals: Status Report IV - Fatal Encounter At Ft. Dix-McGuire
+<h1>STATUS REPORT IV - UFO CRASH/RETRIEVALS</h1
+<h2>Part 1: UFO Crash/Retrievals: Status Report IV - Fatal Encounter At Ft. Dix-McGuire</h2>
 
 Pages 41-65 of the MUFON 1985 UFO Symposium Proceedings are entitled,
-"The Fatal Encounter At Ft. Dix-McGuire: A Case Study: Status Report IV" © 1985 by Leonard H.
-Stringfield.
+"The Fatal Encounter At Ft. Dix-McGuire: A Case Study: Status Report IV" © 1985 by Leonard H. Stringfield.
 
-### "ABSTRACT
-Leonard H. Stringfield: New testimonial evidence and a document are
-bared in Status Report IV, following the re-emergence in 1983 of the
-informant whose experience, as a witness, was first disclosed three years
-earlier and published as Case A3 in Status Report III, 1982. The source, a
-sergeant in the U. S. Air Force Security Police at McGuire AFB, adds
-substantive information relative to the reported fatal encounter on January 18,
-1978, between an alleged alien entity and a Ft. Dix MP and relates his
-firsthand observation, while on duty, when the slain entity was found on an
-abandoned runway at McGuire AFB. The source also reveals his sensitive
-involvement with authorities in various agencies following his discharge
-from service because of his disclosures to this writer. Also reported are the
-communications with the source since 1980 and an arranged meeting
-between the source and a colleague to lend back-up credibility to the case.
-Investigation continues.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>"ABSTRACT</h3>
+Leonard H. Stringfield: New testimonial evidence and a document are bared in Status Report IV, following 
+the re-emergence in 1983 of the informant whose experience, as a witness, was first disclosed three 
+years earlier and published as Case A3 in Status Report III, 1982. The source, a sergeant in the U. 
+S. Air Force Security Police at McGuire AFB, adds substantive information relative to the reported fatal 
+encounter on January 18, 1978, between an alleged alien entity and a Ft. Dix MP and relates his firsthand 
+observation, while on duty, when the slain entity was found on an abandoned runway at McGuire AFB. 
+The source also reveals his sensitive involvement with authorities in various agencies following his 
+discharge from service because of his disclosures to this writer. Also reported are the communications 
+with the source since 1980 and an arranged meeting between the source and a colleague to lend back-up 
+credibility to the case. Investigation continues.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## PROLOGUE: THE BURDEN OF PROOF
-Proof! The burden of this one word, and perhaps its ambiguity, has haunted and
-frustrated UFO research since businessman-pilot, Ken Arnold, sighted nine saucer-
-like things over Mt. Rainier in 1947. Proof! Its implications burden all of us who
-try to convince the skeptic that unidentified objects, flying under apparent
-intelligent control, have intruded into Earth's air space and sometimes allegedly
-land and, on rare occasions, crash.
+Proof! The burden of this one word, and perhaps its ambiguity, has haunted and frustrated UFO research 
+since businessman-pilot, Ken Arnold, sighted nine saucer-like things over Mt. Rainier in 1947. Proof! 
+Its implications burden all of us who try to convince the skeptic that unidentified objects, flying 
+under apparent intelligent control, have intruded into Earth's air space and sometimes allegedly land 
+and, on rare occasions, crash.
 
-All factors considered, I believe we, in the domain of public research, do not have
-that exalted proof to exhibit for any of the foregoing anomalous UFO events. As
-Dr. J. Allen Hynek of CUFOS would say, we do have 'reports' describing such
-events. And as we all will agree, many are made by credible people. Yes, our
-research treasury has thousands of reports of UFO encounters of all kinds
-providing stacks of circumstantial, but highly suggestive evidence.
-Alas, these are not proof. Nor do affidavits, nor 'leaked' government documents,
-nor photographs constitute proof. Regrettably, experience has taught us that any of
-these so-called proofs might well be fakes. Even a released document through the
-Freedom of Information Act (FOIAS) is not proof, for the subject it treats too often
-contains precious little of value, due to censored deletions, vague phraseology, or
-references rendered meaningless without additional support data which are never
-made available.
+All factors considered, I believe we, in the domain of public research, do not have that exalted proof 
+to exhibit for any of the foregoing anomalous UFO events. As Dr. J. Allen Hynek of CUFOS would say, we 
+do have 'reports' describing such events. And as we all will agree, many are made by credible people. 
+Yes, our research treasury has thousands of reports of UFO encounters of all kinds providing stacks 
+of circumstantial, but highly suggestive evidence. Alas, these are not proof. Nor do affidavits, nor 
+'leaked' government documents, nor photographs constitute proof. Regrettably, experience has taught 
+us that any of these so-called proofs might well be fakes. Even a released document through the Freedom 
+of Information Act (FOIAS) is not proof, for the subject it treats too often contains precious little 
+of value, due to censored deletions, vague phraseology, or references rendered meaningless without 
+additional support data which are never made available.
 
-So, what is that proof that remains so elusive from public view? According to
-scientific discipline, proof - in the case of UFOs - -can be reduced simply to the
-possession of a captive craft or artifact or a cadaver that can be seen, touched, and
-smelled. To please Phil Klass, the world's foremost debunker, we might include
-even 'tasted.' I must, therefore, face the inevitable questions in my special research:
-Has such a nondescript craft been retrieved and studied and, to stretch a point,
-duplicated at some secret base? And has a crew member of exotic anatomy been
-secretly examined and maintained in chemical preservation at some medical
-facility?
+So, what is that proof that remains so elusive from public view? According to scientific discipline, 
+proof - in the case of UFOs - -can be reduced simply to the possession of a captive craft or artifact 
+or a cadaver that can be seen, touched, and smelled. To please Phil Klass, the world's foremost debunker, 
+we might include even 'tasted.' I must, therefore, face the inevitable questions in my special research: 
+Has such a nondescript craft been retrieved and studied and, to stretch a point, duplicated at some 
+secret base? And has a crew member of exotic anatomy been secretly examined and maintained in chemical 
+preservation at some medical facility?
 
 In spite of all the known evidence, including the testimony I have published in my
 series of monographs, I can offer no proof, by my definition, of the recovery of an
@@ -90,7 +81,8 @@ problems. In good faith, I address these problems with new evidence for Case A3,
 published in Status Report III, UFO Crash Retrievals: Amassing The Evidence
 (1982).
 
-### THE EVIDENCE AND ITS BURDEN OF PROOF
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>THE EVIDENCE AND ITS BURDEN OF PROOF</h3>
 September 23, 1980, was to become more than just a typically busy day for me in
 UFO matters. According to my UFOLOG, I note that I had communications by
 phone and mail with Joe Brill, Michael Dougan, Bob Gribble, Diane Saghe, and a
@@ -107,15 +99,18 @@ official letterhead. See Figure 1 below. Note that I have deleted the Security P
 Squadron number. The name of the sender has been changed to 'Jeffrey Morse' in
 this Status IV report.
 
-<!-- image 1 and 2 -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!-- image 1 -->
+Figure 1: U. S. Department of the Air Force Security Policeman's letter to Len Stringfield,
+dated September 16, 1980, San Francisco APO postmark.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!-- image 2 -->
+McGuire AFB and Fort Dix Military Reservation near Wrightstown, New Jersey, are near the U. S. Naval 
+Air Station in Lakehurst, New Jersey. The bases are about 45 miles east of Philadelphia, 50 miles south 
+of New York City, 60 miles north of Atlantic City and 10 miles west of the Atlantic ocean. The Fort Dix 
+/ McGuire Air Force Base / Lakehurst Naval Air Station complex covers 42,000 acres.
 
-McGuire AFB and Fort Dix Military Reservation near Wrightstown, New Jersey, are near the U. S.
-Naval Air Station
-in Lakehurst, New Jersey. The bases are about 45 miles east of Philadelphia, 50 miles south of New
-York City,
-60 miles north of Atlantic City and 10 miles west of the Atlantic ocean. The Fort Dix / McGuire
-Air Force Base / Lakehurst Naval Air Station complex covers 42,000 acres.
-
+<!-- new page -->
 Needless to say, I was stunned by the sergeant's bold disclosure of a military
 incident of fatal consequences at McGuire AFB, New Jersey. My first reaction was
 that it was a hoax, perhaps designed - if it were published - to embarrass or
@@ -176,6 +171,7 @@ confidential at this time and, of course, your name will not be used in anyway.'
 Sgt. Morse, who was to be discharged and back home in November 1980, did not
 acknowledge my letter. Considering the time lapse as critical, I sent another letter
 on November 18, 1980, quoted in part here:
+
 <blockquote>
 Stringfield letter excerpts dated November 18, 1980: '...Hope by now
 you're out of the service as you indicated in your letter from APO address.
@@ -330,13 +326,15 @@ WC and signed by 1st Lt. WS, it was channeled to Col. Landon, Commanding Officer
 Brown, Hdq., 21st Air Force (at MAFB); and the Air Force Office of Special Investigations (AFOSI). Below: Back
 page.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- image 6 -->
 However, as agreed in our ensuing talks, I have deleted the names of the persons in the
 document. Also, to protect the persons named, as he later confirmed when questioned,
 Morse had opaqued out the social security numbers opposite each name in the report.
 'These numbers are private,' he said."
 
-### Part 3: UFO Crash/Retrievals: Status Report IV - Fatal Encounter At Ft. Dix-McGuire
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>Part 3: UFO Crash/Retrievals: Status Report IV - Fatal Encounter At Ft. Dix-McGuire</h3>
 © January 1985 by Leonard H. Stringfield
 <!-- image 7 -->
 McGuire AFB and Fort Dix Military Reservation near Wrightstown, New Jersey, are near the U. S. Naval Air
@@ -433,6 +431,7 @@ Morse.
 
 December 14, 1983, Map of McGuire AFB and Ft. Dix Army Base, New Jersey, with Alien Body Sketch
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- status-report-8, -9, and -10 -->
 
 Although he never was able to see or talk with the Ft. Dix MP named JS, Morse did seek
@@ -500,6 +499,7 @@ Kentucky and into Cincinnati, including one coincidentally that flew low over th
 of the Jones family. It caused a moment of terror. The story made big news on the local
 radio stations and in the headline of the Kentucky edition of the Cincinnati Post. 
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- status-report-11 -->
 <blockquote>
 [Editor's Note: Entire text of The Kentucky Post newspaper article by reporter,
@@ -522,7 +522,8 @@ For a technical reason, Jones's experience won't be classified as a Close Encoun
 'A Close Encounter of the First Kind must be within 500 feet and the object was
 apparently further away from the patrolman than that,' Stringfield said.
 
-### Up Close.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>Up Close.</h3>
 'But the girl is another story. She apparently saw it up close - it was just above her.'
 Jones says the flight of the UFO was erratic. He said on the face of a clock, it
 plotted a course from 3 o'clock to 9, up to 12, down to 6 - roughly making the
@@ -543,7 +544,7 @@ of a light bulb. She estimated it was about (number not clear in reprinted
 newspaper article) feet above her and was the size of a car.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-### 'Nothing to gain.'
+<h3>'Nothing to gain.'</h3>
 Melody said the object appeared to land somewhere in the vicinity of the Florence
 Drive-in, which is closed for the season.
 
@@ -562,7 +563,7 @@ Stringfield says Pd. Jones is credible 'because he stands everything to lose, no
 to gain.' Jones has aid he has been ridiculed and laughed at since his sighting.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-### Wants Corroboration
+<h3>Wants Corroboration</h3>
 Stringfield also finds it encouraging that neither Jones nor Melody Harris have seen
 the movie, Close En counters of the Third Kind. [Editor's Note: Feature film by
 Director Steven Spielberg.] He says that helps their credibility. Although
@@ -613,7 +614,8 @@ AFB, New Jersey
 
 Leonard H. Stringfield:
 
-### "3. The Retrieval Operation.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>"3. The Retrieval Operation.</h3>
 It was maximum security, said Morse, who alone in his patrol car received word by radio
 that a state of alert was in effect at McGuire AFB as a result of the shooting incident. He
 was ordered to Gate # 5 to answer the request of a state police officer who had been
@@ -708,7 +710,8 @@ immediately available record. Also, it was disappointing that there was no direc
 check on the enlisted men named in the Incident/Complaint Report without having the
 identification of a social security or military serial number.
 
-### 4. Surveillance?
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>4. Surveillance?</h3>
 Morse believes that his problem of living under the burden of surveillance began with his
 first letter to me from overseas. If we can assume for a moment that Morse's story is true,
 then we can also assume that such UFO-related military incidents are safeguarded by any
@@ -761,7 +764,7 @@ things are related.'
 </blockquote>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-### 5. Analogy: The Ellsworth Case.
+<h3>5. Analogy: The Ellsworth Case.</h3>
 In a James Bond movie, we all can recognize James Bond. But in UFO research we
 cannot always identify the real Bond from a bogus Bond. For certain, however, intrigue
 is highly visible in Bond of fiction and in some areas of UFO research, especially in the
@@ -810,7 +813,7 @@ In a later comment he said, 'Without firsthand information, the case doesn't mea
 In short, what Morse was saying was, 'Where's the source?'
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-### 6. Jeffrey Morse: The Person.
+<h3>6. Jeffrey Morse: The Person.</h3>
 In the Ellsworth case, the informant who never surfaced was remiss with facts in his
 Incident/Complaint Report. In the Ft. Dix-McGuire case, however, its bedrock of
 strength is not wholly reliant on the report, which was obtained for him by another source
@@ -861,7 +864,8 @@ marks. I kept a mental picture of other possible explanations, but they did not 
 his image, style or demeanor.'
 </blockquote>
 
-### SUMMARY COMMENTS
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>SUMMARY COMMENTS</h3>
 Leonard Stringfield: In bringing my report to a close, I recognize the need for more
 information about the shooting episode at Ft. Dix and the nature of the body retrieved
 from McGuire. But for the moment, the testimony of the one and only available witness
@@ -917,11 +921,19 @@ Wilmington), Ohio, skirmish in Case B-13 of the same paper and updated on Page 4
 Status Report III. The only commonality it seems is that they all carry a burden of proof
 as do all cases in UFO lore!
 
+Since 1982, new sources have emerged and vanished on the horizon of my research, none
+worthy of a monograph. I think Jeffrey Morse's case is special and, if we like to ramble
+in our thoughts seeking answers, or feel inclined to speculate into the shadowy realms of
+intrigue, perhaps there is another side to secrecy - the side that occasionally leaks the truth
+for the simple reason that it is long overdue."
+
 USAF and U.S. Army Replies to Leonard Stringfield's FOIA Requests
 
 <!-- Status-Report-13 -->
 <!-- Status-Report-14 -->
 
-
-
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!-- image -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!-- image -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
