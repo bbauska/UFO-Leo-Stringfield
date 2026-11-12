@@ -334,8 +334,346 @@ Quoting further from the Saucer News article, "Nash said that an unnamed informa
 magazine had been briefed by U.S. Intelligence to the effect that the government does have crashed saucers..."
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 **Comment:**
+<!-- page 11 -->
+First, if it is necessary to establish that Bill Nash was a Pan Am pilot who, with co-pilot Fortenberry, 
+had a significant UFO sighting in 1952, researchers will find an account of their encounter fully recorded 
+in an issue of True magazine in 1953. Also, while editor of Orbit in the 1950's, I had an exchange of 
+correspondence with Bill Nash, so he is no figment of the imagination.
 
-specialists wcre summoned to view a special film at Nash revealed by phone to NICAP that he had the base theatre. 
+Incidentally, in a telephone comment to NICAP in 1957, Nash said that Pan American Airlines had asked 
+him not to link his company with any more public statements or appearances. In reference to the young 
+lady's disclosures about symbols, or glyphs, appearing inside the UFO, I have heard from another reliable 
+military source 'in 1978 that he had seen photographs showing such markings at Wright Patterson Air Force 
+Base.
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+**ABSTRACT V: Claim by radar specialist to have seen film of UFO and dead occupants**
+Mr. T., who holds a high technical position in civilian life today, was aged 20 in the Spring of 1953,
+and was a radar specialist with secret security clear-
+ance. While stationed at Ft. Monmouth, New Jersey
+in 1953, he and a small select number of radar
+specialists were summoned to view a special film at
+the base theatre.
+Without any briefing, the 16 mm movie projector
+was flicked on, and the film began to roll on the
+screen, showing the usual flaws and scratches found
+in combat photography film. Suddenly, without any
+titles or credits, or music, there appeared a desert
+scene dominated by a silver disc-shaped object
+embedded in the sand with a domed section at the
+top. At the bottom was a hatch or door that was
+open.
+
+In the next scene, Mr. T. recalls seeing 10 to 15
+military personnel all dressed in fatigues and all
+without identification patches, standing around what
+appeared to be the disabled craft. By judging their
+height against the UFO, Mr. T. determined that its
+width was approximately 15 to 20 feet, and that an
+open hatch or door at the bottom was about 21/2
+feet wide and perhaps 3 feet high. At this point Mr.
+T. had no idea of the movie's purpose. I asked about
+the activity of the personnel? "They were just look-
+ing at the object," he said.
+
+Then the movie switched to what appeared to be
+the interior of the craft. A panel with a few simple
+levers was shown, and he remembers being impressed
+by the muted pastel colours and sudden glares of
+white — a sign of poor photography.
+Again there was a change of scene. Now in view
+were two tables, probably taken inside a tent, on
+which, to his surprise, were dead bodies. Two were
+on one table, and one on another.
+Mr. T. said the bodies appeared small by human
+standards, and most notable were the heads, all look-
+ing alike, and all being large compared to their body
+sizes. They looked mongoloid, he thought, with small
+noses, mouths and eyes that were shut. He didn't
+recall seeing ears or hair. The skin, he said, was
+leathery and ashen in colour. Each wore a tight-
+fitting suit in a pastel colour.
+The sight of the dead bodies was the end of the
+movie. Whereas most military movies credit the
+Signal Corp or some other source, this one "stopped
+cold," said Mr. T. When the lights came on again in
+the theatre, the officer in charge stood up and in-
+structed the viewers to "think about the movie," and
+added firmly: "Don't relate its contents to anyone."
+Mr. 1'. said in good faith that he didn't even tell his
+wife who lived near the base.
+
+To Mr. T.'s surprise, two weeks later he was
+approached by an Intelligence Officer on the base and
+told: "Forget the movie you saw; it was a hoax."
+Shortly after seeing the movie he heard from a
+couple of top security officers on the base that a
+UFO had crashed in New Mexico and had been re-
+covered with its occupants. The date of the crash
+was 1952, said Mr. T.
+Commented my informant, "The 5-minute long
+movie certainly was not a Walt Disney production. It
+was probably shot by an inexperienced cameraman,
+because it was full of scratches, and had poor colour-
+ing and texture."
+Mr. T., when asked about his interest in UFOs,
+claimed that neither then nor now was he interested,
+but he has always been curious about the purpose of
+that film in relation to his work in radar. Years later,
+he met an old army acquaintance who also was a
+radar specialist. To T. 's surprise, he learned from this
+man that he, too, had seen the same film at another
+base under the same Similar hush-hush conditions.
+difficult, even for a major Hollywood studio, to have
+made dummy bodies look so real for use in what was
+otherwise a make-shift film. And for what morbid
+purpose?
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+**ABSTRACT VI: official investigation of crashed object; armed guard on tiny dead ufonaut**
+Research Director for MUFON, Raymond E. Fowler of Wenham, Massachusetts, watched incredulously as Fritz 
+Werner signed the following affidavit, dated June 7, 1973:
+
+<blockquote>
+"I, Fritz Werner, do solemnly swear that, during
+a special assignment with the U.S. Air Force on
+May 21, 1953, I assisted in the investigation of a
+crashed unknown object in the vicinity of
+Kingman, Arizona.
+"The object was constructed of an unfamiliar
+metal which resembled aluminium. It had im-
+pacted 20 inches into the sand without any sign of
+structural damage. It was oval and about 30 feet
+in diameter. An entranceway hatch had been
+vertically lowered and opened. It was about 31/2
+feet high and 11/2 feet wide. I was able to talk
+briefly with someone on the team who did look
+inside only briefly. He saw two swivel seats, an
+oval cabin, and a lot of instruments and displays.
+"A tent pitched near the object sheltered the
+dead remains of the only occupant of the craft.
+It was about 4 feet tall, with dark brown com-
+plexion and it had 2 eyes, 2 nostrils, 2 ears, and a
+small round mouth. It was clothed in a silvery,
+metallic suit and wore a skull cap of the same type
+of material. It wore no face covering or helmet.
+"I certify that the above statement is true by
+affixing my signature to this document on this
+7th day of June, 1973.
+</blockquote>
+
+According to Ray Fowler, a researcher of the highest
+credentials, here is Werner's story:
+
+<blockquote>
+"I was project engineer on an Air Force contract
+with the Atomic Energy Commission for
+'Operation
+Upshot-Knothole' at
+the
+atomic
+proving ground, Nevada. My job involved the
+measuring of blast effects on various types of
+buildings especially erected for the tests.
+"On May 20, 1953, I worked most of the day at
+Frenchman Flat. In the evening, I received a phone
+call from the test director. Dr. Ed Doll, informing
+me that I was to go on a special job the next day.
+On the following day. I reported for special duty,
+and was driven to Indian Springs Air Force Base,
+near the proving ground, where I joined about
+fifteen other. specialists. We were told to leave all
+valuables in the custody of the military police. We
+were then put on a military plane and flown to
+Phoenix, Arizona. We
+were not allowed to
+fraternize. There, we were put on a bus with other
+personnel, who were already there. The bus
+windows were blacked out so that we couldn't
+see where we were going. We rode for an estimated
+four hours. I think we were in the area of
+Kingman, Arizona, which
+is North West of
+Phoenix and not too far from the atomic proving
+ground in Nevada. During the bus trip, we were
+told by an Air Force full colonel that a super-
+secret Air Force vehicle had crashed and that,
+since we were all specialists in certain fields, we
+were to investigate the crash in terms of our own
+speciality and nothing more.
+"Finally, the bus stopped and we disembarked
+one at a time as our names were called, and were
+escorted by military police to the area that we
+were to inspect. Two spotlights were centered on
+the crashed object, which was ringed with guards.
+The lights were so bright that it was impossible to
+see the surrounding area. The object was oval and
+looked like two deep saucers, one inverted upon
+the other. It was about 30 feet in diameter, with
+convex surfaces, top and bottom. These surfaces
+were about twenty feet in diameter. It was con-
+structed of a dull silver metal, like brushed alumin-
+ium. The metal was darker where the saucer
+'lips' formed a rim, around which were what
+looked like 'slots.' A curved open hatch door was
+located on the leading end and was vertically
+lowered. There was a light coming from inside
+but it could have been installed by the Air Force.
+"My particular job was to determine, from the
+angle and depth of impact into the sand, how
+fast the vehicle's forward and vertical velocities
+were at the time of impact. The impact had forced
+the vehicle approximately twenty inches into the
+sand. There was no landing gear. There were also
+no marks or dents, that I can remember, on the
+surface — not even scratches. Questions having
+nothing to do with our own special areas were not
+answered.
+"An armed military policeman guarded a tent
+pitched nearby. I managed to glance inside at one
+point, and saw the dead body of a four-foot,
+human-like creature in a silver metallic-looking
+suit. The skin on its face was dark brown. This
+may have been caused by exposure to our atmos-
+phere. The face was not covered but it had a
+metallic skull-cap device on its head.
+"As soon as each person finished his task, he
+was interviewed over a tape recorder and es-
+corted back to the bus. On the way back to the
+bus, I managed to talk briefly with someone else
+going back to it at the same time. He told me that
+he had glanced inside the object and saw two
+swivel-like seats, as well as instruments and
+displays. An airman who noticed we were talking
+separated us and warned us not to talk with
+each other.
+"After we all returned to the bus, the Air Force
+colonel who was in charge had us raise our right
+hands and take an oath not to reveal what we had
+experienced. I was instructed to write my report
+in longhand and not to type or reproduce it. A
+telephone number was given me to call when the
+report was complete. I called the number, and an
+airman picked up the report.
+</blockquote>
+
+Ray Fowler states that Werner held several engin-
+eering and management positions at Wright-Patterson
+AFB between June 1949, and January, 1960.
+
+During that period, he worked in the Office of
+Special Studies of what was then the Air Material
+Command Installations Division. Later, he designed
+aircraft landing gear, and became Chief 3f alighting
+devices within the Aircraft Laboratory at Wright Air
+Development Center. At the time of the alleged
+incident, he was on assignment to the Atomic Energy
+Commission at the Atomic Proving Ground in
+Nevada.
+
+Fowler also states that Werner told him that he
+sympathized with the Air Force's secret handling of
+the UFO problem and added that the Air Force did
+not know where UFOs originated. Werner also said
+that the Air Force believed that the UFOs were
+interplanetary vehicles but that they did not know
+how to handle the situation. They did not want to
+create panic.
+
+Comments Fowler: There were some inconsisten-
+cies in Werner's story, but most of them appeared to
+be in the realm of memory lapses and exaggerations
+by the witness. Former employers that were checked
+held him in high esteem, and all described him as a
+highly competent and moral individual. Having
+published a number of technical papers, Werner also
+holds membership in the American Association for
+the Advancement of Science.
+
+In Fowler's continuing evaluation he cites one
+piece of evidence which seems to give a strong
+element of truth to Werner's account. In an attempt
+to pin down the exact date of the alleged incident,
+Werner agreed to show his diary he kept in those
+days. On its aging pages, for May 20, 1953, it read in
+part: "Well, pen's out of ink. Spent most of day on
+Frenchman's Flat surveying cubicles and supervising
+welding of a (one word illegible) bridge which
+cracked after last shot. Got funny call from Dr. Doll
+at 1000. I'm going on a special job tomorrow."
+On May 21st, the diary read: "Up at 7.00. Worked
+most of day on Frenchman with cubicles. Letter
+from Bet. She's feeling better now — thank goodness.
+Got picked up at Indian Springs AFB at 4.30 p.m.
+for a job I can't write or talk about."
+
+<!-- page 13 -->
+**Comment:**
+In my book Situation Red, I cover the Werner
+story in full, based on my conversations with Ray
+Fowler. Said Fowler, "With more substantiation, it
+could blow the lid off secrecy." I agree. One final
+note: the name Fritz Werner is fictitious, but I feel
+that his story, although enbellished, is basically
+true. One Intelligence source commented: "A lot
+of it is story."
+
+**ABSTRACT VII: Air Force metallurgist analysed metal of crashed UFO**
+Finally a name of a witness surfaces — an Air
+Force Major named Daly, who was a metallurgist
+stationed at Wright-Patterson AFB in 1953 — who
+relates his adventures with a crashed UFO.
+The source for this information comes from fellow
+Cincinnati-based researcher, Charles Wilhelm. He
+related, in 1968, how a friend of his father was flown
+to an unknown destination in April 1953. The place
+was hot and sandy, and he was to examine the
+<!-- page 14 -->
+crashed UFO. lk was blind-folded and driven to a
+point about 30 minutes away from a base of
+operations. There, inside of a tent standing in soft
+sand, his blind-fold was removed. From there he was
+taken to a location where he saw a silvery metallic
+craft about 25 to 30 feet in diameter. The exterior
+of the craft, he said, was not damaged, however,
+his on-the-spot two-day analysis of the ship's metal,
+using the equipment he carried with him, showed that
+it was not native to Earth.
+
+Major Daly, although he was not permitted to
+enter the craft, observed that the craft's entrance
+measured four to five feet high and two to three feet
+wide.
+
+**Comment:**
+Major Daly's blindfolded trip to the crash site,
+similar to that of Fritz Werner's, indicates that it was
+common procedure for the military to use extreme
+security measures relative to UFO retrievals. It is to
+be noted that Major Daly's experience takes place in
+April, a month shy of Fritz iNerner's which was in
+May of the same year. Also, to be noted is that Daly
+did not see any dead alien bodies. Maybe they had
+already been removed, or, if the craft was found
+undamaged, as he attested, it is possible the occ-
+upants managed to evade capture. Or, perhaps there
+were two crashes in a desert area in the Spring of
+1953. If, however, the reports of Werner and Daly
+describe the same crashed UFO event, it is possible
+that Daly gave the wrong month.
+
+<!-- page 15 -->
+
+** RETRIEVALS OF THE THIRD KIND - PART 2**
+** A Case Study of Alleged UFOs and Occupants in Military Custody**
+
+Leonard Stringfield
+
+
+
+
+
+specialists were summoned to view a special film at Nash revealed by phone to NICAP that he had the base theatre. 
 interviewed a young lady who had worked in Comm- Without any briefing, the l6 mm movie projector unications, Army 
 Intelligence at a base in Arizona. was flicked on, and the film began to roll on the The date was around 1952. 
 She reported that for a screen, showing the usual flaws and scratches found two-week period her base was on red 
@@ -384,16 +722,17 @@ man that he, too, had seen the same film at another base under the same similar 
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 **Comment:**
-Considering the credibility status of myinformant, I believe he saw the movie and describes the subject 
+Considering the credibility status of my informant, I believe he saw the movie and describes the subject 
 matter to the best of his recollection. Regarding the subject matter, hebelieves that the crashed craft 
 and the dead bodies were bona fide.It would have been difficult, even for a major Hollywood studio, to 
 have made dummy bodies look so real for use in what was otherwise a make-shift film.And for what morbid
 purpose? ABSTRACT VI: official investigation of crashed object; armed guard on tiny dead ufonaut
-ResearchDirectorforMUFON,RaymondE.
+Research Director for MUFON, Raymond E.
 
-Fowler ofWenham, Massachusetts,watchedincredulously as Fritz Werner signed the following affidavit, dated 
+Fowler of Wenham, Massachusetts, watched incredulously as Fritz Werner signed the following affidavit, dated 
 June 7,1973:
 
+<blockquote>
 "I, Fritz Werner, do solemnly swear that, during a special assignment with the U.S. Air Force on May 21, 
 1953, I assisted in the investigation of a crashed unknown object in the vicinity of Kingman, Arizona.
 
@@ -406,7 +745,7 @@ the dead remains of the only occupant of the craft. It was about 4 feet tall, wi
 and it had 2 eyes, 2 nostrils, 2 ears, and a small round mouth. It was clothed in a silvery, metallic 
 suit and wore a skull cap of the same type of material. It wore no face covering or helmet. "I certify 
 that the above statement is true by affixing my signature to this document on this 7th day of June, 1973.
-
+</blockquote>
 According to Ray Fowler, a researcher of the highest credentials, here is Werner's story:
 
 "I was project engineer on an Air Force contract with the Atomic Energy Commission for Operation Upshot-
