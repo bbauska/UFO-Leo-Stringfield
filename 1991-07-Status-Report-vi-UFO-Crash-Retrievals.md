@@ -1,3 +1,7 @@
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~ 1991-07-Status-Report-VI-UFO-Crash-Retrievals.md ~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ in UFO-Leo-Stringfield ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+
 # STATUS REPORT VI - UFO CRASH RETRIEVALS
 ## THE INNER SANCTUM
 By Leonard H. Stringfield
@@ -30,6 +34,7 @@ The Fund for UFO Research (FUFOR)
 The Mutual UFO Network (MUFON)
 The J. Allen Hynek Center for UFO Studies (CUFOS)
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### PROLOGUE: If. And. But and Maybe
 
 Maybe we're on the edge of the beginning to end official UFO secrecy. Maybe, if I should be so
@@ -78,6 +83,7 @@ official acknowledgement or admission that it is a fact.
 Leonard H. Stringfield
 July 25, 1991
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### INTRODUCTION
 It is a literary quirk, or a license, among writers to start off their story or essay or article or
 whatever, with a strong "narrative hook", or something "hot", to get instant reader interest.
@@ -136,6 +142,7 @@ Staff, thereby working with and seeing General Lemnitzer almost every day.
 Len. I have names, dates and many details of the Assessment. I did not copy it because ill had, I
 would probably be in Fort Leavenworth right now.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### UFOLOGY'S HOT KITCHEN
 Triggered by the recent influx of information from new and trusted old sources, my saucer
 sleuthing spirit was once again aroused. When the war in the Persian Gulf ended, kindling new
@@ -232,6 +239,7 @@ extraterrestrial control system or, the ability of the alien mind to overpower i
 counterpart for whatever purpose. Whenever I think of the options, the pros-and-cons of
 origin, I always think of Hynek. What did he really think?
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### MY HYNEK CONNECTION
 Championing the UFO cause, after overcoming his "swamp gas" stigma while a consultant with
 the Air Force's Project Blue Book, Hynek set up the Center for UFO Studies in Evanston,
@@ -328,7 +336,7 @@ informed of the reason for the change, and if she did know, did she have any qua
 danger of being bombed? And, what did she do with the note addressed to me that was put under
 the door? She certainly knew her old room number which was room #1210. Very strange
 unless she, too, was a part of an orchestration.
-\
+
 To speculate further, were the threats and, subsequent Dayton police action, and the
 assignment of a personal bodyguard to watch my every move, day and night, until my
 departure, a window-dressing stunt perpetrated for a longer range purpose on orders from the
@@ -487,6 +495,7 @@ dedicated, officially and at CUFOS, were an expression of disappointment. He fel
 been "used" without ever being told the truth behind the coverup.
 There is a commonality in the feeling of being "used" in this business.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### THE ROSWELL COLOSSUS
 Roswell is a small town's name in New Mexico, adjacent to the old air base, known as Roswell
 Air Field, to its South. Both town and base are^75 miles away from the Brazel ranch, near the
@@ -892,6 +901,8 @@ data were disseminated. A year or so ago he contacted this group and asked if th
 good. He was told that indeed it was and that the collection had grown tremendously. The
 philosophy was that no one would believe the story unless supporting evidence was included and
 that would result in dire consequences.
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 THE ROSWELL BITS & PIECES
 
 Since the Moore and Berlitz book, The Roswell Incident, (1980), I have received a number of
@@ -966,6 +977,7 @@ good work they do in their respective fields. I am also aware that each has play
 undercover role in UFO affairs. But, frankly, it is only in the world of rumor and hearsay have
 I heard of their use of extreme measures to control UFO secrecy.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### THE "'ROSWELL" ERA: INSIDERS BARE SECRETS
 Survivors in-the-know, going back to the "Roswell" UFO crash era, both before and after the
 established date of July 2, 1947, are thinning out, and for most of the few remaining, so are
@@ -1003,6 +1015,7 @@ After receiving Cooper's introductory letter to which I responded by phone for a
 exchange of expressions of mutual trust, I soon received the following report, properly edited,
 which he got firsthand from a life-long close friend:
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### THE CLOSE FRIEND
 This is my interview September 9, 1990, with a retired Air Force enlisted man who was stationed
 at Holloman AFB in the month of July. 1947. My source wished to remain anonymous and will be
@@ -1072,6 +1085,7 @@ to get more definitive answers about the crashes or at least some new clues. On 
 he called to relate that he had new information from Bob which follows:
 Third interview with Retired USAF M/Sergeant. April 6. 1991
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### Location: Confidential
 This interview was conducted under relaxed conditions as a social visit. The subject of my
 conversation with Bob was about the targeting method employed by the Air Force during the
@@ -1595,6 +1609,7 @@ confirm its origin. Perhaps, then, it is significant when he states that the Tal
 Ruby projects were a direct result of satellite recon photos of orbiting spacecraft of unknown
 origins.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### THE NURSE
 Abstract of a discussion March 16, 1991, with a retired operating room nurse who was assigned
 to the Medical Lab at Los Alamos during WWII and sometime afterward. The source, Tim
@@ -1625,6 +1640,7 @@ There was no hair on their heads and had a grayish-yellow color. That's all she 
 Collins' interview. This story seems to have some commonality with his story of bodies being
 sent to Berkeley from Los Alamos).
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### "DR. EPIGONr
 
 Ron Madeley, of Houston, Texas, is my intermediary for this informative, perhaps unique,
@@ -2007,6 +2023,7 @@ revelations may be one of the "breaches" from the other side of the wall, contro
 
 Sanctum. Time will tell.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### THE CRASH AT FARMINGTON
 At the expense of being repititious, the frequency and unspecific locations of some UFO crashes
 and/or landings in New Mexico, and environs, in the post-war II era can be confusing. Even
@@ -2309,6 +2326,7 @@ A I think I've covered everything. All the information on this subject was remov
 library in the late 1960s. One thing I can say is that I would sure like to know what's going
 on now.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### REFERENCES:
 We include a book list because we are concerned that much of this literature has been passed
 over by present-day researchers. Some of the accounts contained here have long been
@@ -2779,6 +2797,7 @@ the back of my sock drawer. There is always the hope that my contact, or his sou
 personally, may make further disclosures: or, better still, that new sources may surface with
 corroborative information.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 THE RECKSBURG CRASH
 Like Roswell, with its multitudinous witnesses, the Kecksburg, Pennsylvania, crash/retrieval
 case, 18 years later, is upfront in the eyes of research. Upfront, too, deservedly, is Stan Gordon,
