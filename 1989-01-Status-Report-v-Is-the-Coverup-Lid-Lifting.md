@@ -1,13 +1,24 @@
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~ 1989-01-Status-Report-V-Is-the-Coverup-Lid-Lifting.md ~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ in UFO-Leo-Stringfield ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-# STATUS REPORT V - UFO CRASH/RETRIEVALS
-## IS THE COVERUP LID LIFTING? 
+<h1>STATUS REPORT V - UFO CRASH/RETRIEVALS</h1>
+<h2>IS THE COVERUP LID LIFTING?</h2>
 By Leonard H. Stringfield January 1989 
 
-### Prologue
+<blockquote>
+"Former military sources, with information about witnessing a special movie
+showing deceased alien bodies, surfaced in the late 1970s. ... A close friend of
+astronaut Ellison Onizuka revealed his (astronaut's) interest in UFOs ... after one
+of his visits to Wright-Patterson AFB. Onizuka admitted he kept an open mind on
+the subject and added that his curiosity was aroused when he and a select group of
+U. S. Air Force pilots at McClelland AFB in 1973 were shown a black-and-white
+movie film featuring 'alien bodies on a slab.'" - UFO Researcher, Chris Coffey
+</blockquote>
 
-At this writing, many issues of controversey hang over UFO research. Some have caused bitter differences 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>Prologue</h3>
+
+"At this writing, many issues of controversey hang over UFO research. Some have caused bitter differences 
 between team members; some can backfire and smear the image of objective research itself. In the middle 
 zone, trying to avoid the "people" problems, I feel the urgent need to continue my probes into one basic 
 issue — UFO crash/retrievals. 
@@ -21,34 +32,506 @@ Ideally, with the media supporting the demands for "bottom line" facts from a st
 scientific community, and perhaps some politicians, the UFO coverup lid might melt or at least change, 
 allowing for some admissions and disclosures. 
 
-Confirming any one case of an alleged UFO crash and recovery — Roswell, Aztec, Kingman, El Yunque or 
-even<sup>BrownCounty,</sup> Ohio<sup>—</sup> could, in itself, alarm the world public or even demolish<sup>some</sup> 
-of<sup>itscher-</sup> ished traditions and philosophies. It could also lead to an eventual<sup>sharing</sup> 
-of alien<sup>technologies—anewpro-</sup> pulsion system for inner and outer space travel or<sup>new</sup> 
-"metals" and many other marvels — and certainly it would bring<sup>public</sup> support for NASA, and a 
-bigger<sup>budgetfor</sup> vital space probes. More importantly, we might learn about the<sup>alien</sup> 
-entities themselves; their intent for being here and an<sup>explanationforsomeoftheir</sup> 
+By confirming any one case of an alleged UFO crash and recovery — Roswell, Aztec, Kingman, El Yunque or 
+even Brown County, Ohio— could, in itself, alarm the world public or even demolish some of its cherished 
+traditions and philosophies. It could also lead to an eventual sharing of alien technologies—a new propulsion 
+system for inner and outer space travel or new "metals" and many other marvels — and certainly it would 
+bring public support for NASA, and a bigger budget for vital space probes. More importantly, we might 
+learn about the alien entities themselves; their intent for being here and an explanation for some of 
+their incursive actions — to name one, and human mutilations, of American abductions!
 
-incursive actions — to name one, and human mutilations, of American abductions! and Russian satellites 
-exploding in Even at this short-of-proof -of-proof -proof stage, space, of alien artifacts on the Moon the 
-UFO crash/retrieval story, still and Mars, of dire predictions of the unfolding, I I believe, should should 
+Even at this short-of-proof stage, space, of alien artifacts on the Moon the 
+UFO crash/retrieval story, still and Mars, of dire predictions of the unfolding, I believe, should 
 be public world's end and, yes, to a lesser information — unless it, and it, and and the full degree, UFO 
 crash/retrievals. Once a UFO story, is too exotically grim to blockbuster to research in the late tell. In 
-that case I reserve judgment. In that case I reserve judgment. that case I reserve judgment. case I reserve 
-judgment. I reserve judgment. reserve judgment. judgment. 70's and early 80's, a crash story in Feeling 
-confident, I submit new 1988 is no longer big ufological news. data, based on my research my research research 
-and the As I weigh all the reports, or cooperative work work of others, for others, for for open rumors, 
-mindful of mis/disinformareview. lion, I still maintain that it is in C/R research that we may find our 
-elusive Part I: The Quiet of Dusk ... proof. Once the hardware and the crews, cadaverous or alive, are 
-forced As we we close out the decade of the out the decade of the the decade of the decade of the of the 
-the into public view, then we may find 80's, new public interest in UFOs, it UFOs, it it credibility for 
-some of the other posseems, is surging. Some of it it probatulates and be in a better position to bly is the 
-trickledown from new espouse endless hypotheses. Since books on the market, but for the presenting my paper, 
-The Fatal Encountmost part, new new and old researchers er at Ft. Dix-McGuire: A Case Study alike, are 
-being spurred by recent at the Mutual UFO Network Symporevelations of official coverup amid sium, St. Louis, 
-1985, and pursuing some sobering reports of human some leads in that case to little conencounters of the 
-first, second, and sequence; I have remained relatively third kind. kind. quiet on the literary front. New 
-C/R Perhaps already an established fact already an established fact an established fact established fact 
+that case I reserve judgment. 
+
+Feeling confident, I submit new data, based on my research and the cooperative work of others, for open review.
+
+VERITAS VINCIT
+Leonard H. Stringfield
+December 7, 1988
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2>Part I: The Quiet of Dusk ...</h2>
+
+As we we close out the decade of the 1980s, new public interest in UFOs, it seems, is surging. 
+Some of it it probably is the trickle-down from new books on the market, but for the most part, 
+new and old researchers alike are being spurred by recent revelations of official cover-up amid some 
+sobering reports of human encounters of the first, second, and third kind.
+
+Perhaps already an established fact is the climactic close encounter of the fourth kind: contact with 
+an alien race. Based on rumors, contending that a covert human-alien relationship has been in effect, 
+and of late, more rumors that tell of a ruptured 'alliance', we must not pause and wonder about 
+magniture of a colossal cover-up, but the implicatoins of an eventual open contact - even if it were on 
+terms of peaceful coexistence. Any other alternative staggers the immagination! But, getting down to 
+Earth, as we once knew it, we must also pause and ask in all seriousness: Where's the proof that a 
+spacecraft exists? Or, for that matter, that a cover-up exists?
+
+A seemingly stupid question when we hear so many lurid tales about abductions, alien underground 
+installations, genetic manipulation, animal and human mutiliations, of American and Russian satellites 
+exploding in space, of alien artifacts on the Moon and Mars, of dire predictions of the world's end. 
+And yes, even to a lesser degree, we hear
+about UFO crash/retrievals. Once a blockbuster to research in the late 1970s and early
+1980s, a crash story in 1988 was no longer big ufological news.
+As I weigh all the reports, or rumors - mindful of misinformation - I still maintain that it
+is in C/R research that we might find our elusive proof. Once the hardware and the crews,
+cadaverous or alive, are forced into public view, then we might find credibility for some
+of the other postulates and be in a better position to espouse endless hypotheses. Since
+presenting my paper, The Fatal Encounter at Ft. Dix-McGuire: A Case Study at the
+Mutual UFO Network Symposium in St. Louis, MO in 1985, and pursuing some leads in
+that case to little consequence, I have remained relatively quiet on the literary front. New
+C/R reports from time to time have surfaced since 1985, but most were secondhand or of
+the 'Cheshire Cat' variety, providing scant information. What I had, with a few
+exceptions, were not up to Roswell caliber and these cold wait until ...
+August and September of 1988. Then in the quiet of dusk, the valley of my research
+suddenly hit a peak. As Dick Hall, the author of Uninvited Guests, Aurora Press, 1988,
+commented: the 'thermostat' (by official orchestraters) seems to be turned up. During this
+time, ten new sources emerged - each promising that useful information about UFO
+crash/retrievals would soon follow. By the end of November, most promises were filled -
+some were firsthand reports and some second. But more importantly, some provided new
+backup information for cases cited in my previously published stats reports. Most
+rewarding was the timely emergence of persons serving in covert positions with
+substantive information in key areas of my work. Reflecting back, I see in them parallels
+to the medical sources in 1978 who surfaced and shared graphic descriptive anatomical
+details of the alien body for release in Status Report II, The UFO Crash/Retrieval
+Syndrome. [To be reprinted in future Earthfiles.] As a matter of record, this prototype
+information remains to this day analogous to most reports of alien encounters and is
+much like the computerized rendition shown in October 1988 on the TV documentary,
+The UFO Cover-up.
+
+Proof? Of course not. Getting close to it? Perhaps. And yes, I'm aware of the adroit arts
+of misinformation. While I see no evidence of devious game-playing in my current input,
+nor in some of the material received in the later 1970s and early 1980s, I am aware of
+another recent suspect annoyance where my name was in blatant public view by a
+tabloid, the Weekly World News. In its September 20, 1988, issue, I was headlined as an
+'expert' having the inside scoop on an alleged alien underground facility in Dulce, New
+Mexico. Bunkum! Fact is, I have no such scoopy news, but I have heard the rumors
+about Dulce and the one in Nevada and others.
+
+Triggering the tabloid article was a story published in a county weekly newspaper who
+had covered my talk on UFO crashes at the Milford Public Library near Cincinnati in
+April 1988. The Weekly World News, however, in picking up the story and my brief
+reference to Dulce, ignored my statement that such reports could be misinformation. Was
+I being set up, as some researchers wondered, as a target for ridicule? In this case, for the
+record, I doubt it, knowing the unscrupulous behavior of the tabloids.
+
+Alert to the risk of tabloid exploitation and official machinations that try to maintain
+secrecy, one treating a sensitive subject like C/R must also expect the unexpected from
+even 'friendly' quarters. And most often, unexpectedly, from out of the rank-and-file of
+research comes the sudden strike of a cobra or a 'loop' of such snakes-in-the-grass who
+try to take one's work and credibility to task and make a big stinking mess of it. Reasons
+might be many. Is it simply arrogance and a thirst for fame or power? Or is it the work of
+the orchestraters who pick and choose their lackeys? Whatever the reasons, I have felt
+their sting since I presented my first paper, Retrievals of the Third Kind at the MUFON
+Symposium in Dayton, Ohio in 1978. while most of these early adversaries have faded
+away, little loops persist who employ subtler ways to undermine my work.
+
+Haunting me still is a remark by a loop kingpin averring that all my case histories
+published in my series of Status Reports were 'fairy tales,' thus of no substance. Drawn
+into his loop is a pundit, a prominent writer in UFO media, who having belittled my
+work since 1978, has worked well into the scheme. In later years, through his editorial
+controls, whenever C/R was an issue, my work was simply snubbed. More recently, still
+another in the loop told a mutual correspondent that my investigations have no depth and
+that I'm a good subject for misinformation.
+
+Obviously, sad to say, these loopers have not done much 'investigation in depth' about
+my modus operandi or have taken into consideration the lack of funds at my disposal to
+follow up hundreds of leads coast-to-coast. Also, it is beyond my comprehension how
+some of my contemporaries can entertain the notion that I have gullibly accepted as valid,
+or bona fide, every item of C/R material published in my papers. Once again, for the
+record, the purpose of my Status Reports is to draw in new sources with new information
+that could either strengthen a case or give reason to drop it in the circular file.
+
+It's true that some of the best made plans go awry and it's true that some entries in my
+monographs have obvious weaknesses. Some, based on new information, have become
+questionable. Example is Case A-2, Status Report III ([o be reprinted in future
+Earthfiles]. However, the mainstream material from early sources remains solid and one,
+I thought, that deserved a full investigation was the Ft. Dix-McGuire case which has
+become stronger from new information and new sources. Someday, perhaps for the
+record, I might write a special paper updating the status quo of my published case
+histories.
+
+While the mid to late 1980s did not produce any substantial Crash/Retrieval case
+histories worthy of a monograph, except the Ft. Dix-McGuire affair, it was not devoid of
+high points.
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>CASE 1)</h3>
+<h4>Pickled Alien Body in Pentagon Glas Tank, 1952</h4>
+
+While attending the MUFON Symposium in St. Louis in 1985, Raymond Jordan, a
+MUFON investigator gave me a confidential lead to follow up involving a lady who had
+worked at the Pentagon in 1952. He said she had seen an alien body 'pickled' in a glass
+tank in an 'Off Limits' room. By mistake, she had entered the room, was promptly nabbed
+and forced to sign papers swearing her to secrecy. When I reached the lady, who was still
+employed by a government office, she said: 'I know what you're talking about.' Then she
+added, 'But, I can't talk.' I suggested she communicate by other means to which she
+replied, 'No. I don't want to talk about it at all.'
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>CASE 2)</h3>
+<h4>Marine Guard At "Disc-Shaped Vehicle," 1963</h4>
+
+Thanks to Michael Johnstone, a California researcher, who did some good research spade
+work, it was arranged for me to talk with a former marine who claimed in 1963 that he
+stood guard at an undisclosed military base which housed a 'disc-shaped vehicle with
+ovoid cross section, 40 feet across and 13 feet thick at the center.' A more detailed
+description of the craft appeared in my article, 'The Chase for Proof in a Squirrel's Cage,'
+published in the British book, UFO's 1947-1987. The marine, who signed a security oath,
+said that he guarded the secret premises for two weeks while a technical crew, speaking
+in code, tried every known means to gain entry into the craft, including a laser device.
+Once he said he observed that it deflected off the curved side of the craft into the rafters
+causing some damage. 'The public should know the truth about UFOs,' the ex-marine told
+me. But I felt he knew more than he had cautiously related and would not budge in
+disclosing the name of the base.
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>CASE 3)</h3>
+<h4>Astronaut Says He Saw B&W Film of Alien Bodies On A Slab, 1973</h4>
+
+Former military sources with information about witnessing a special movie showing
+deceased alien bodies surfaced in the late 1970s. These were published in my Status
+Report II (See Cases A-4 and A-9). [To be reprinted in future Earthfiles.] The viewing of
+the film was always behind doors and the viewers were few. Then in 1985, Chris Coffey
+of Cincinnati, Ohio - a close friend of astronaut Ellison Onizuka - revealed to me that she
+had asked him when they met after one of the astronaut's visits to Wright-Patterson AFB,
+about his interest in UFOs. Onizuka admitted he kept an open mind on the subject and
+added that his curiosity was aroused when he and a select group of Air Force pilots at
+McClelland AFB in 1973 were shown a black-and-white movie film featuring 'alien
+bodies on a slab.' In his state of shock, he said he remembered saying aloud, 'Oh, my
+God!' Chris knew of my work in C/R and had arranged for me to meet Onizuka to
+discuss UFOs after his scheduled flight on the space shuttle, Challenger. As it turned out,
+fate intervened when the shuttle exploded.
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>CASE 4)</h3>
+<h4>Retrieval of Crashed Disk in Mexican Desert, 1948 or 1949?</h4>
+
+With the confusion among researchers over the number, dates and locations for several
+alleged UFO crashes on the Texas border with Mexico, and in Mexico, Tom Deuley -
+who heads the MUFON team in Texas - wrote to me in February 1988 the following
+excerpts:
+
+<blockquote>
+Tom Deuley, Texas MUFON: 'Shortly after returning from Washington (MUFON
+Symposium), my group was challenged to look into the El Indio-Guerrero case that
+is briefly mentioned in the MJ-12 document. ...I'm writing to ask if you can give us
+any details or rumors beyond what is printed in your papers. ...I have gone through
+your works and made copies of everything that might be related to the El Indio
+case.'
+</blockquote>
+
+My response by letter on February 12, 1988 was:
+
+<blockquote>
+Len Stringfield's reply: '...A few weeks ago, I was sorting out some old
+correspondence and found a letter dated March 1985, on which I had noted,
+'Follow up.' I noted also that I had tried to reach the sender, seeking more
+information. But I received no reply. So, I tried again in January of this year.
+Fortunately, this time I was able to reach the son-in-law of the source.
+Cooperatively, he gave me his phone number. Mr. JA in California. Having a
+friendly chat with JA, I find no reason to question his sincerity. He was no UFO
+buff, having no knowledge of current affairs.
+
+...According to JA, he was aboard the USS McKinley, cargo class, the command
+ship for amphibious operations, docked at San Diego. Many admirals aboard. His
+job: messenger. The time, he said, was late 1948 or early 1949. It was winter and
+he remembers a quick cruise to Alaska in between those years.
+
+JA was on deck when he learned from the top brass that a small task force was
+assembled and ordered to go to a certain location (unknown to him) into Mexico to
+retrieve a crashed 'flying saucer.' They departed by vehicle, but he was not certain
+if they drove to the site or used other means to reach what was described as a
+'remote region of Mexican desert.' The task force was gone for several days and
+when they returned, he said everything was hushed up. He did, however, hear one
+of the officers on the mission say that they got some dead bodies and some
+managed to get away. 'They were able to move at great speed,' he recalls the officer
+saying. JA never heard more about the saucer or the bodies, but he did remember
+reading a brief item in a San Diego newspaper about the crash in Mexico.'
+</blockquote>
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>CASE 5)</h3>
+<h4>UFO Crash in St. Geniez, France, 1972?</h4>
+
+Something unidentified crashed into the rocky slopes of a mountain in the township of St.
+Geniez, France, March 18, 1972. According to witnesses, it caused brush fires over a
+forty acre area. Significant was that the incident occurred during a flap of UFO reports in
+that southeastern part of France.
+
+The story was originally obtained by researcher Olivier Rieffel in 1986, during a meeting
+with Leon Visse, the person identified in Dr. Jean Gille's papers published in Status
+Report III (See Case B-8). With Visse's disclosure that the crash occurred near the
+Durance River, Rieffel informed his colleague, Jean Sider, who found in his records that
+the time and place coincided with a reported crash of a 'space object' into a mountain
+near the town of Sisteron. According to most witnesses, the UFO was described as a 'red
+ball' of fire and one informed source who prefers anonymity stated it was 'red-orange,
+shaped like a disc.'
+
+While the investigations continue through the well-coordinated teamwork of Sider and
+Rieffel, extensive records of their findings were sent to me for appraisal in April 1988.
+Included was a fragment from the site of a ceramic-like substance appearing that it had
+been baked by intense heat; three pages of firsthand reports from witnesses who saw the
+descending red object - among them farmers in the region, including the son of a mayor,
+a newspaper reporter on the scene and members of the police and fire departments. Of
+note was an astronomer whose investigations ruled out a meteorite and other
+meteorological and atmospheric phenomena. Said Sider, 'The facts of the case remain
+classified in the files of the military and the Nationale Gendarmerie Archives,' adding,
+'Confirming all the main details was a member of an intelligence agency who stated that
+'something' was received by the Gendarmerie and shipped in a truck to a location near
+Paris.'
+
+Sider emphasized that his report was not conclusive and investigations were still in
+progress. Listed were many more names of people directly involved that he hoped to
+trace and interview.
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>CASE 6)</h3>
+<h4>Two Alien Humanoid Skeletons in Kentucky, 1987?</h4>
+
+Far more spectacular, but affording far less supportive evidence than the St. Geniez
+incident, is the firsthand report from a retired medical doctor who alleges he accidentally
+found the skeletal remains of two humanoids, possibly of alien origin, on his farm in
+western Kentucky in March 1987.
+
+When informed of the story, I was eventually able to reach the doctor through his friend,
+Bill Boshears, who first aired it on his radio talk show in Cincinnati. Since the show, he
+was warned to 'shut up' in no uncertain terms. The doctor, nonetheless, entrusted me with
+his name, but would not reveal the location of his farm nor give me or anyone else his
+unlisted phone number. He also advised that some of the details he shared with me about
+the investigation by the Air Force should be kept confidential.
+
+The doctor was cordial when he talked with me on his friend's phone, but brief. He said
+that it was during a routine evening stroll on his farm property of 400 acres that he
+discovered the extraordinary evidence. Next to a burned-out circle about 4 feet in
+diameter in an open grassy field, he found the skeletons of two humanoid entities about 4
+feet apart. Without a trace of clothing, some of the bones showed residual ligament with
+evidence that predators had been at work, he said. As a doctor, he was certain that the
+bones were not of animal origin and on closer examination, he was shocked to find that
+the structure was bipedal, about 4 feet tall, with a large skull and cat-like jaw, a barrel-
+like rib cage with long arms and three fingers. For sure, they were not human. The
+doctor's next move was to call the sheriff who, without hesitation, called the Air Force.
+
+The next morning at sunrise, the doctor said he was surprised to see three helicopters land
+in a clearing and many people, some in uniform, some not, being deployed over a wide
+area. Greeting him was a Colonel (name known to me) who cordially introduced himself
+and stated his mission: remove the bones and undersoil, test and remove the burned
+circular soil and comb the area for any other evidence. Later in the day, fresh soil was
+filled in the excavated areas and the doctor was told that the soil in the circle had been
+baked at 3,000 degrees.
+
+When asked about the time factor of body decomposition (allowing for predators), he
+estimated that the aliens had been exposed for less than a hundred days, based on cursory
+examination.
+
+Reminding me that 'they put the fear of God in me' after his trip to a military base for
+further interrogation and where he was shown photos of other alien corpses, he expressed
+interest in my research. I suggested that we lunch together soon. He agreed, but never
+called.
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>CASE 7)</h3>
+<h4>UFO Crash Brown County, Ohio, 1987?</h4>
+
+News of a UFO crash on a farm in Brown County (Southwestern Ohio) in the Spring of
+1987, looked promising at the outset. As I tried to put the pieces of raw information into
+some order to make the next move, mainly to reach the principle source, I ran into every
+conceivable roadblock. A year later after 'giving up,' information surfaced from a new
+source to give credence that something did crash at the farm site. Whatever happened, I
+could now see through some of the screwiest diversions that blocked me from contacting
+the farmer who claimed he saw the crashed disc, three small female non-human bodies
+strewn in the field, and above all else, had some unusual metallic fragments from the
+debris to prove it.
+
+My initial informant was JD, a gemologist and a persevering UFO buff. She got many
+packages by United Parcel Service on her rural route and learned from the driver that the
+farmer 'down the road' had pieces of metal from a UFO that crashed on his property.
+When JD tried to learn the farmer's name and location, the driver got scared. I was later
+told to avoid the issue, and the UPS driver even changed his route. Undaunted, JD then
+opted to go to the local police office near the site, hoping to locate the farmer. There, she
+got the runaround and was advised by one officer to forget the matter. But, according to
+JD, the officer with the friendly advice later visited her home. For some unexplained
+reason, he gave her a photo of the farm property.
+
+At this point, JD suddenly showed signs of confusion and fear, claiming that her house
+had been entered, that the photograph of the property had been taken which she had used
+as a bookmark in a library book (by Major Keyhoe) and that the book was found on the
+hood of her car in the garage. Next came word that she had been injured in a fall into a
+sewer hole between her house and garage. The lid had been loosened, she said.
+Investigating, my son-in-law and I could find nothing else abnormal in her manner of
+keeping hose. But we began to wonder about her going off the deep-end and if she had
+become obsessed to a degree of fantasy? Or, was it all a hoax? Or a ploy of
+disinformation?
+
+Time went by without further contact. But I felt that something was strange, something
+amiss about the case. Concerned, I got in touch with a former Air Force intelligence
+officer who had the 'right' connections. I asked if he could help throw light on the affair.
+Two days later, he called back to relate that he had been in touch with the 'right' person
+and was told that there had been 'no significant UFO sightings in that area for the past
+year.' He added that my informant would soon be visited by two investigators in an
+official capacity.
+
+Several weeks later, I got a surprise call from JD who said simply, 'I'm not supposed to
+talk with you, but here I am.' She went on to explain that she had two visitors. In learning
+she had no hidden metal artifacts, they debunked the crash and also my work in
+crash/retrieval research and advised in so many words that she should not contact me in
+the future.
+
+Not long after that, JD called me again, admitting that she had met the farmer, had visited
+the farm, saw the newly added soil over the crash site, and moreover, gave me the
+farmer's name. She had made plans for him to visit me the following week. He never
+came, as expected, and a few days later when she called, she regretted to tell me that he
+had been moved, expenses paid, to Virginia. This, if true, was supposedly his reward for
+being a good citizen, a real patriot.
+
+In April of 1988, a researcher joined by a person knowledgeable in military intelligence
+operations, visited my home to discuss an abduction case. Inevitably the conversation
+drifted to crash/retrievals and I mentioned the alleged crash in Brown County. 'Oh, yes,'
+said my knowledgeable guest, 'I heard that a jet crashed on a farmer's property.' He
+added, 'It was in an inaccessible area and they had a hard time getting the wreckage out.'
+
+A jet? Certainly there had been nothing in the news about a jet crashing the previous
+spring in that locality. As we all know, airplane crashes of any kind always make news.
+Of significance, my guest also stated, 'I heard from a good source that the government
+came in and bought the farm and moved the owner out of town.'
+
+Much can be said about this case, pro and con. And I'm also omitting some details that
+might compromise the positions and activities of certain people involved."
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2>Part 2: UFO Crash/Retrievals: Status Report V - Is The Cover-Up Lid Lifting?</h2>
+
+© January 1989 by Leonard H. Stringfield
+
+<blockquote>
+"... All available men stood guard duty around the site where a crashed disc had
+come down and they could not understand why the (non-human bodies) had to be
+kept cold, as there were trucks of ice. ...Although he and others were told they
+would get into trouble if they saw too much, they did look under the cover and saw
+two small dead bodies. He said they were like us, but not like us. They were
+smaller than a normal man with large heads and slanted eyes. He also said they
+looked yellowish, a bit Asian."
+- S ource: Staff Sergeant, 509th Bomb Group, Walker Field, Roswell, 1947.
+</blockquote>
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>CASE 8)</h3>
+<h4>Wright-Patterson AFB, 1967-1968</h4>
+
+I have many other items of C/R interest, or trivia, some deserving at least a brief
+reference. One concerns the disclosure of a fire department inspector who, while filing
+his report at my home in September 1987, said that he was also a fireman stationed at
+Wright-Patterson AFB in 1967-68. Aware of all buildings on the base and access to same
+in case of emergency, he and crew were instructed that if a fire were reported in a
+building in a certain section that they were to 'let it burn.' A sign read, 'No Fire Trucks
+Allowed.' He had heard 'rumors' that the building housed UFO material.
+
+1953, the year and Arizona, the state - both are important in C/R activity. One new
+source, whose information is not included in this article for reasons of his own security,
+was involved in a retrieval operation in that year and state. Still another source, also not
+publishable for the same reason, also backs up the Kingman crash in 1953 and in
+Arizona. See Abstract 6, "Retrievals of the Third Kind" and "Postscript On Two Key
+Cases," Page 43 of Status Report III regarding Kingman crash. Also see Case A-1, Status
+Report II, regarding three small humanoids retrieved in Arizona and received at Wright-
+Patterson AFB. The above references are anonymous sources. [Status Report III and II
+will be reprinted in future Earthfiles.] As always, despite critics, I find it mandatory to
+maintain their trusts and keep their names confidential.
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>PART II: ...TO THE BURST OF DAWN</h3>
+
+From my perspective, the official cover-up and the ways to control it seem as effective as
+ever up to the fall of 1987. Both the Kentucky and Ohio incidents described in Part I of
+this Status Report V, which involved civilians, show that anything goes - from trickery to
+threats - to keep the facts hidden.
+
+Then throughout 1988, like the burst of dawn, something changed. Whether or not the
+iron lid had loosened or not, more concerned people suddenly became more vocal. Of
+concern were the implications of MJ-12, the meaning of human abductions, the flap of
+low-level UFOs in the Blue Ridge Mountains of Virginia, the Gulf Breeze, Florida affair,
+and what was said and left unsaid about alien-human relations by two disguised
+informers called 'Condor' and 'Falcon' on TV's The UFO Cover-up - Live.** [Editor's
+Note: See More Information below.] Yes, things have changed. It's reflected in my
+volume of mail and the phone calls I get at all hours. Is the cover-up in a 'calculator'
+countdown from ten to a three, two, one and lifting?
+
+Frankly, I don't think the time is right for a sudden formal announcement of alien
+'visitors' by the world powers which would have unpredictable societal effects. If the
+press were to suddenly wake up and demand the bottom line of all the UFO happenings
+in the MJ-12 files, or were to confirm the horrors described in an expose of the alleged
+secret Project Grudge Report # 13 released by a former US Air Force Officer, Bill
+English, then we would have more to worry about than just the stock market. [Editor's
+Note: See More Information below.]
+
+But maybe the cover-up is loosening a little because of new pressures, or guilt, or leaks,
+or the fear of more Falcons and Condors? Maybe we are being spoon fed in various ways
+and the masqueraded Falcon and Condor are only doing their job. But, while the media
+still sleeps amid all the UFO 'noise,' I have seen a change on my thermostat. For
+whatever reason, I'm getting suddenly more C/R input which I share briefly as follows:
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>CASE 9)</h3>
+<h4>Kecksburg, Pennsylvania, December 9, 1965</h4>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--============================================================================================-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 fact reports, from time to time, have suris the climactic close encounter of the the climactic close encounter 
 of the climactic close encounter of the close encounter of the encounter of the of the the faced since 1985, 
 but most were fourth kind: contact with an alien secondhand or of the "Cheshire Cat" race. Based on rumors, 
@@ -104,7 +587,7 @@ information remains to this day analogous to most reports of alien encounters an
 computerized rendition shown in October 1988, on the TV documentary, The UFO Coverup. 
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-### Tabloids 
+<h3>Tabloids</h3>
 
 Proof? Of course not. Getting close to it? Perhaps. And, yes, I'm aware of the adroit arts of disinformation. 
 While I see no evidence of devious game-playing in my current input, nor in some of the material received 
@@ -164,6 +647,7 @@ Third Kind, at at the MUFON Symposium Symposium in Dayton, 1978. While most of t
 faded away, lit-adversaries have faded away, lit-have faded away, lit-faded away, lit-away, lit-little loops 
 persist who employ subtler ways to undermine my work. to undermine my work. undermine my work. my work. work. 
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 CASE 2) 2) Thanks to Michael Johns-to Michael Johns-Michael Johns-Johnstone, a California researcher, who did 
 some good research spadework, it was arranged for me to talk with a former marine who claimed, in 1963, he stood 
 guard at an undisclosed military base which housed a "disc - shaped vehicle with ovoid cross sec. tion, 40 ft. 
@@ -186,8 +670,7 @@ weaknesses and some, based on new information, have become questionable. An exam
 Report M. However, the mainstream 
 crash in Mexico." 
 
-### Something unidentified crashed into a heavily wooded mountain in the township of St. Geniez, France, 
-March 18, 1972. According to witnesses it caused brush fires over a forty acre area. 
+Something unidentified crashed into a heavily wooded mountain in the township of St. Geniez, France, March 18, 1972. According to witnesses it caused brush fires over a forty acre area.
 
 CASE 5) Something unidentified crashed into a heavily wooded mountain in the township of St. Geniez, France, 
 March 18, 1972. According to witnesses it caused brush fires over a forty acre area. Significant was that 
@@ -259,7 +742,7 @@ emphasized that his report remember reading a brief item in a was not conclusive
 Diego newspaper about the were still in progress. Listed were 
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-### Texas-Mexico 
+<h3>Texas-Mexico</h3>
 
 CASE 4) With the confusion among researchers over the number, locations and dates for several alleged UFO crashes 
 on the Texas border with Mexico — and in Mexico — Tom Deuley, who<sup>heads the MUFON</sup> team in Texas, wrote 
@@ -268,8 +751,8 @@ to me in<sup>Feb-</sup> ruary, 1988, excerpts, as follows: "Shortly after return
 mentioned in the MJ-12 document ... rm writing to<sup>askifyoucangiveus</sup> any details, or<sup>rumors, beyond 
 what</sup> is printed in your papers ... I have 
 many more names of people, directly involved, he hoped to trace and interview. 
-
-### Humanoid Remains 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>Humanoid Remains</h3>
 
 CASE 6) Far more spectacular, but affording far less supportive evidence than the St. Geniez incident, is 
 the firsthand report from a retired medical doctor who alleges he accidentally found the skeletal remains 
@@ -386,8 +869,8 @@ the base and access to same in case of emergency, he and crew were instructed th
 
 In April of 1988, a researcher, joined by a person knowledgeable of military intelligence operations, visited 
 my home to discuss an abduction case. Inevitably, the conversation drift- 
-
-## UFO Crash/Retrievals: Is the Coverup Lid Lifting? Status Report V By Leonard H. Stringfield 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>UFO Crash/Retrievals: Is the Coverup Lid Lifting? Status Report V By Leonard H. Stringfield</h3>
 
 From my perspective the official coverup and the way it was controlled seemed as effective as ever up to the Fall 
 of 1987. Both the Kentucky and Ohio incidents described in Part 1 which involved civilians, show that anything 
@@ -409,7 +892,6 @@ AFB in<sup>September1985</sup> during whsch time he caked me on severo/ occasion
 research and my sources, he claimed to know a colonel with sensitive information relative to my work but his 
 proposal for me to meet with this source fell through. I heard no more. Later I learned that he confided with 
 a member q the Fund for UFO Research and alter that with Bill Moore, etc. 
-
 were to confirm the horrors des. cribed in an expose of the alleged secret Project Grudge Report *13 released 
 by a former Air Force officer, Bill English, then we would have more to worry about than just the stock market. 
 
@@ -453,9 +935,6 @@ beioce impacting. The trench was about 25 feet long and at the greatest depth ab
 Puzzling was that there were no signs of fire. The size of the acorn-shaped UFO — without 
 windows or seams — could not be determined because of its submergence, but it was estimated 
 to have been about 7 feet high and 
-
-156 
-
 case that should cause skeptics to think twice before they impugn the existence of UFOs or the 
 plausibility of the extraterrestrial hypothesis. 
 
@@ -491,8 +970,8 @@ Pete said he never will forget the excitement on his return to the Kecksburg (ir
 up as<sup>acommand</sup> post. It<sup>was</sup> swarming with military personnel, mostly Air Force, and a 
 lot of equipment was being carried<sup>in.Soon</sup> guards were at the front<sup>entrance</sup> and the 
 firemen, before being dis- 
-
-###### Roswell 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>Roswell</h3>
 
 CASE 10) The crash and recovery of an "alien" object near Roswell, New Mexico in July 1947, so well 
 documented by researchers Bill Moore and Stan Friedman, and others, is a 
@@ -583,9 +1062,6 @@ and his pass to the base's Non<sup>-Corn</sup>
 
 Has last words, according to Bev, bef ore he died in a hospital in February I9CI6 were about Roswell. CASE 12) 
 When I last made contact in January 1987 with Jeff Morse, 
-
-158 
-
 the former Blue Beret" who lifted the lid on the Ft. Dix.MacGuire affair, I felt that my chase for more supportive 
 information, at least through him, had ended and I was back on the treadle of the proverbial squirrel's cage. 
 
@@ -667,7 +1143,7 @@ to explain to a Assuming this was an alien, I wonder benighted public. Thus, the
 craft?" 
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-### El Yunque Yunque 
+<h3>El Yunque Yunque</h3>
 
 The answer to my source's quesEl Yunque Yunque tion comes from still another officer allegedly on the scene in 
 early JanuCASE 13) Had I known when I was ary during a phase of significant UFO touring San Juan in Puerto Rico 
@@ -781,7 +1257,7 @@ He<sup>com-</sup> mented, "I could have thrown a loot.
 visual differences of anatomical sizes and heights. 
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-### FBI? 
+<h3>FBI?</h3>
 
 CASE 15) For those of us in research who wonder Or worry about the rigors of coverup, effective for so long, 
 the suspicion remains that the reason for it must be compelling; in fact, so compelling that it may explain 
@@ -850,7 +1326,7 @@ alien superrace, but news of the British death syndrome and my awareness of othe
 and disappearances allegedly connected to UFO crash and 
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-### UFO CRASH/RETRIEVALS: THE CONCEPT OF PROOF 
+<h3>UFO CRASH/RETRIEVALS: THE CONCEPT OF PROOF</h3>
 
 By Leonard H. Stringfield (Cincinnati, Ohio)
 
@@ -903,7 +1379,7 @@ Out of the 38 firsthand witness cases written up in my series of Status Reports,
 believe that five stand out above the rest. They are described briefly as follows: 
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-### Case I 
+<h3>Case I</h3>
 
 Hardly enough can be said in praise for my medical sources cited so often in my Status Reports. Introduced 
 to me through a close research friend who knew the "right" people, a doctor, a noted haematologist, who had 
@@ -935,7 +1411,7 @@ during the interlude of co-operation. The risks were too great to play games of 
 a factor in all our dealings then, and still is. 
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-### Case 11 
+<h3>Case II</h3>
 
 My source, a pilot in the Air National Guard, claimed he had witnessed "by accident", while on duty, 
 three humanoid corpses which had been flown to Wright-Patterson AFB from a UFO crash site in Arizona 
@@ -962,7 +1438,7 @@ was the final ward from my source. He and his family suddenly became inaccessibl
 forwarding address or new phone number. 
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-### Case III 
+<h3>Case III</h3>
 
 This encounter with cadavers at WrightPatterson involved an Air Police sergeant who, in 1973, was 
 called out for special duty at night. Blindfolded, he was driven to an area on the Base and escorted 
@@ -993,7 +1469,7 @@ would have given me a chance, and, feeling his uneasiness, I was satisfied with 
 admission of having been on the scene at a historic event. 
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-### Case IV 
+<h3>Case IV</h3>
 
 Thanks to my son-in-lawjeffrey Sparks, who, in 1978, was art Assistant Professor at St. Leo's 
 College, Dade City, Florida, I gained a knowledgeable informant and another wi mess of the 
@@ -1021,7 +1497,7 @@ had had the opportunity to see them. And, just like so many others, my source so
 oblivion. No more contact, no new phone number, no forwarding address.... 
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-### Case V 
+<h3>Case V</h3>
 
 Complete coverage of The Fatal Encounter at R. Dix-McGuire: A Case Study, appears in Status Report 
 1V published in MUFON Proceedings, 1985. This case, above all others, remains in my active file, 
@@ -1097,7 +1573,7 @@ lid is the proof —a much battered word.
 The foregoing cases, abbreviated in this article, are but a small portion of the overall evidence 
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-### UFO Crash/Retrievals and the ET Connection 
+<h3>UFO Crash/Retrievals and the ET Connection</h3>
 
 Leonard H. Stringfield (1993)
 
@@ -1120,8 +1596,8 @@ to work closely for many months, building a lasting mutual trust in our research
 
 This relationship was exemplified in March of 1990, when my friend called to alert me that sensitive 
 information would follow by mail. His edited letter stated in part: 
-
-#### Dear Len: 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+Dear Len: 
 
 Here are the details of my friend's experience with a live EBE (extraterrestrial biological entity) 
 in the 1970s. I thought it best if I didn't say anything over the phone about my writing this letter. 
