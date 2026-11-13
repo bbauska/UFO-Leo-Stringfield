@@ -8,7 +8,7 @@ Pages 41-65 of the MUFON 1985 UFO Symposium Proceedings are entitled,
 "The Fatal Encounter At Ft. Dix-McGuire: A Case Study: Status Report IV" © 1985 by Leonard H. Stringfield.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3>"ABSTRACT</h3>
+<h3>ABSTRACT</h3>
 Leonard H. Stringfield: New testimonial evidence and a document are bared in Status Report IV, following 
 the re-emergence in 1983 of the informant whose experience, as a witness, was first disclosed three 
 years earlier and published as Case A3 in Status Report III, 1982. The source, a sergeant in the U. 
@@ -21,7 +21,7 @@ with the source since 1980 and an arranged meeting between the source and a coll
 credibility to the case. Investigation continues.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## PROLOGUE: THE BURDEN OF PROOF
+<h3>PROLOGUE: THE BURDEN OF PROOF</h3
 Proof! The burden of this one word, and perhaps its ambiguity, has haunted and frustrated UFO research 
 since businessman-pilot, Ken Arnold, sighted nine saucer-like things over Mt. Rainier in 1947. Proof! 
 Its implications burden all of us who try to convince the skeptic that unidentified objects, flying 
@@ -32,12 +32,13 @@ All factors considered, I believe we, in the domain of public research, do not h
 to exhibit for any of the foregoing anomalous UFO events. As Dr. J. Allen Hynek of CUFOS would say, we 
 do have 'reports' describing such events. And as we all will agree, many are made by credible people. 
 Yes, our research treasury has thousands of reports of UFO encounters of all kinds providing stacks 
-of circumstantial, but highly suggestive evidence. Alas, these are not proof. Nor do affidavits, nor 
-'leaked' government documents, nor photographs constitute proof. Regrettably, experience has taught 
-us that any of these so-called proofs might well be fakes. Even a released document through the Freedom 
-of Information Act (FOIAS) is not proof, for the subject it treats too often contains precious little 
-of value, due to censored deletions, vague phraseology, or references rendered meaningless without 
-additional support data which are never made available.
+of circumstantial, but highly suggestive evidence. 
+
+Alas, these are not proof. Nor do affidavits, nor 'leaked' government documents, nor photographs constitute 
+proof. Regrettably, experience has taught us that any of these so-called proofs might well be fakes. Even 
+a released document through the Freedom of Information Act (FOIAS) is not proof, for the subject it treats 
+too often contains precious little of value, due to censored deletions, vague phraseology, or references 
+rendered meaningless without additional support data which are never made available.
 
 So, what is that proof that remains so elusive from public view? According to scientific discipline, 
 proof - in the case of UFOs - -can be reduced simply to the possession of a captive craft or artifact 
@@ -50,6 +51,7 @@ preservation at some medical facility?
 In spite of all the known evidence, including the testimony I have published in my
 series of monographs, I can offer no proof, by my definition, of the recovery of an
 alien craft or its occupants. So be it for me in the public sector.
+
 Then there is the 'official' sector whose military spokespeople from the outset have
 denied the existence of the UFO. Why? By now, it should be obvious to every
 researcher that behind the denials, something 'above top secret,' as Senator Barry
@@ -122,7 +124,6 @@ mistake of announcing their acquisition at the 1980 MUFON symposium in
 Houston. Thanks to a swift and well-orchestrated smear campaign, researchers by
 and large became confused and questioned both the photographs and my
 credibility. A hoax? A stratagem to set me up? Probably, but a lesson was learned.
-
 (Note 1: See Status Report III, 1982, pages 40-41; also articles published in
 MUFON UFO Journal, Dec. 1980 and Sept. 1981.)
 
@@ -173,7 +174,7 @@ acknowledge my letter. Considering the time lapse as critical, I sent another le
 on November 18, 1980, quoted in part here:
 
 <blockquote>
-Stringfield letter excerpts dated November 18, 1980: '...Hope by now
+<b>Stringfield letter excerpts dated November 18, 1980:</b> '...Hope by now
 you're out of the service as you indicated in your letter from APO address.
 ...On September 27, I sent you a letter concerning my research endeavors
 which I trust you received at your home address. The incident you describe
@@ -182,7 +183,7 @@ by letter or phone, or, perhaps, to meet me at your convenience. You are
 certainly welcome to visit my home. ...I tried reaching you by phone last
 week, but your number is unlisted. ...'
 
-Morse's reply to Stringfield dated November 27, 1980: 'Sorry to have had
+<b>Morse's reply to Stringfield dated November 27, 1980:</b> 'Sorry to have had
 such a delay in my response to you. I'm sorry to say I did not receive your
 letter of 27 September 1980. I haven't received any mail since August 1980. I
 don't know why. I am now out of the service and am home. I am prepared to
@@ -193,8 +194,7 @@ sergeant that night was Sgt. C (last name only) and he would know much
 more as fact. That's all I know of his name, however, I do remember that he
 was rather dedicated and may still be in the USAF. Well, I would like your
 next response ASAP and will try to give you my phone number by then.'
-
-Stringfield memorandum to Morse dated December 4, 1980: 'Your letter
+<b>Stringfield memorandum to Morse dated December 4, 1980:</b> 'Your letter
 of November 27, arrived yesterday. I was surprised to learn that my letter of
 September 27 did not reach you. Fortunately, I kept a xeroxed copy which I
 have duplicated and enclosed for your consideration. Hope you can send me
@@ -216,7 +216,21 @@ from one of the intelligence agencies? Whatever the method used to silence Jeffr
 Morse, I reasoned, it was effective. All communications ceased. Like so many other
 informants in 1980, Morse became a phantom."
 
-Leonard H. Stringfield: "By March 1981, while preparing the text for Status Report III,
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>Part 2: UFO Crash/Retrievals: Status Report IV - Fatal Encounter At Ft. Dix-McGuire</h3>
+© January 1985 by Leonard H. Stringfield
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!-- image -->
+McGuire AFB and Fort Dix Military Reservation near Wrightstown, New Jersey, are near the U. S. Naval Air
+Station
+in Lakehurst, New Jersey. The bases are about 45 miles east of Philadelphia, 50 miles south of New York
+City,
+60 miles north of Atlantic City and 10 miles west of the Atlantic ocean. The Fort Dix / McGuire
+Air Force Base / Lakehurst Naval Air Station complex covers 42,000 acres.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+
+<b>Leonard H. Stringfield:</b> "By March 1981, while preparing the text for Status Report III,
 I had decided it was time to take inventory; time for appraisal of the material on hand and
 of myself still in the midst of a heated controversy among researchers over the pros and
 cons of UFO crashes and retrievals. I needed outside thinking and assessment of cases, a
@@ -257,7 +271,7 @@ October 10, 1983, was sent a couple of days later than the deadline set by Morse
 silence. On November 30, 1983, I wrote Morse the following letter, quoted in part:
 
 <blockquote>
-Leonard Stringfield Letter to Morse on October 10, 1983: '... I held off writing
+<b>Leonard Stringfield Letter to Morse on October 10, 1983:</b> '... I held off writing
 until today, hoping that a little breathing time would give you the motivation to
 write. It is difficult to believe that the mail I sent you in 1980 and 1981 failed to
 reach you. Or, if you had received my letters that you were unable to reach me in
@@ -284,7 +298,7 @@ Morse's phone call opened the gates. I followed up the next day with a four-page
 which I reiterated questions asked in 1980. Also, excerpted from my letter: 
 
 <blockquote>
-Leonard Stringfield Letter to Morse on December 7, 1983: 'Your testimony is
+<b>Leonard Stringfield Letter to Morse on December 7, 1983:</b> 'Your testimony is
 important. Of course, I'll need back-up witnesses such as Dick Hall, so that
 credibility is established. ...Enclosed is a copy of Status Report III. Your report,
 Case A3, is on Page 9 with my comments about our correspondence problems. At
@@ -300,7 +314,12 @@ interrogators at Wright-Patterson. These, he said, were obtained from a source s
 in the Air Force he preferred not to identify.
 </blockquote>
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 December 14, 1983, Map of McGuire AFB and Ft. Dix Army Base, New Jersey, with Alien Body Sketch
+<!-- image -->
+<!-- image -->
+<!-- image -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 <blockquote>
 With the Ft. Dix-McGuire case going from Square One to Square Two, my
@@ -328,14 +347,17 @@ page.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- image 6 -->
+<blockquote>
 However, as agreed in our ensuing talks, I have deleted the names of the persons in the
 document. Also, to protect the persons named, as he later confirmed when questioned,
 Morse had opaqued out the social security numbers opposite each name in the report.
 'These numbers are private,' he said."
+</blockquote>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Part 3: UFO Crash/Retrievals: Status Report IV - Fatal Encounter At Ft. Dix-McGuire</h3>
 © January 1985 by Leonard H. Stringfield
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- image 7 -->
 McGuire AFB and Fort Dix Military Reservation near Wrightstown, New Jersey, are near the U. S. Naval Air
 Station
@@ -343,8 +365,9 @@ in Lakehurst, New Jersey. The bases are about 45 miles east of Philadelphia, 50 
 City,
 60 miles north of Atlantic City and 10 miles west of the Atlantic ocean. The Fort Dix / McGuire
 Air Force Base / Lakehurst Naval Air Station complex covers 42,000 acres.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
-Leonard H. Stringfield: "The document is avowedly not proof. For it to be established
+<b>Leonard H. Stringfield:</b> "The document is avowedly not proof. For it to be established
 as bona fide would, in turn, require additional irretrievable reports, memoranda, tapes, ad
 infinitum. In this regard, however, Morse said on several occasions that he had attempted
 to obtain a later Form 1569 Report mentioned by the desk sergeant, but was unsuccessful.
@@ -388,11 +411,12 @@ observations. Other than the Incident/Complaint Report which produced names, no 
 person has responded to Morse's request for back-up testimony. One letter he addressed
 to another member of his unit on patrol went unanswered. Still another refused to surface
 to his request fearing for his career in the services. 'No way,' was the response.
+
 Additional details about the affair came bit by bit based on specific questions by phone
 and letter during 1984, which are broken down for simplicity into categories as follows:
 
 <blockquote>
-1. The Humanoid Factor. At varying times during his patrol duty, Morse was
+<b>1. The Humanoid Factor.</b> At varying times during his patrol duty, Morse was
 within 40 to 70 feet from the prostrate body on the abandoned runway #5. Never
 close enough to observe details such as facial features or its hands and feet, Morse
 did recall that under the glare of truck headlights the skin of the unclad, hairless
@@ -417,7 +441,7 @@ The only other anomaly that Morse attributed to the presence of the body was the
 strong smell of ammonia in the cold night air. I note here that the same odor also
 prevailed at the alleged crash site in Case A-2 of Status Report III.
 
-2. UFO Reports. Morse, who never sighted a UFO before or after the incident,
+<b>2. UFO Reports.</b> Morse, who never sighted a UFO before or after the incident,
 was among many on duty who witnessed the bluish-green lights flying high and in
 tight formation over the adjoining Ft. Dix-McGuire bases. And in the
 Incident/Complaint Report is the confirmation of their flight by the radar operator,
@@ -429,10 +453,12 @@ McGuire showing sites of shooting and location of body, based on sketches by
 Morse.
 </blockquote>
 
-December 14, 1983, Map of McGuire AFB and Ft. Dix Army Base, New Jersey, with Alien Body Sketch
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!-- status-report-8, -9, and -10 -->
+December 14, 1983, Map of McGuire AFB and Ft. Dix Army Base, New Jersey, with Alien Body Sketch
+<!-- image -->
+<!-- image -->
+<!-- image -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Although he never was able to see or talk with the Ft. Dix MP named JS, Morse did seek
 confirmation after his military service from the New Jersey State Police for their part in
@@ -498,7 +524,7 @@ Kentucky skies. Other reports of a green object were also reported that night in
 Kentucky and into Cincinnati, including one coincidentally that flew low over the home
 of the Jones family. It caused a moment of terror. The story made big news on the local
 radio stations and in the headline of the Kentucky edition of the Cincinnati Post. 
-
+<!-- image -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- status-report-11 -->
 <blockquote>
@@ -578,6 +604,7 @@ laughed at.'
 Stringfield agrees with Jones and Melody that the object probably was not a plane.
 'These people live near the airport. A plane would not frighten them. And don't
 forget that little boy cried. He was really scared.'
+
 Stringfield planned to interview Melody at length about her encounter Friday. He
 also was preparing for a tape session at his home for a program to be aired in the
 future by WLW-TV.
@@ -589,7 +616,7 @@ antenna on top.' Lisa is the daughter of Edward and Uvonna Purnell, 28 Grand
 Avenue, Florence. Edward is a self-employed contractor."]
 </blockquote>
 
-Leonard Stringfield: Of pertinence in this event is that the UFO was green as were
+<b>Leonard Stringfield:</b> Of pertinence in this event is that the UFO was green as were
 those observed by Morse. Despite a variance in shade perhaps, in my research green is
 among the least common of colors in the spectrum reported for UFOs. Most often
 reported is white, yellow, orange and red. Considering that Erlanger, south of Cincinnati,
@@ -598,7 +625,8 @@ plausibly linked."
 
 Continued in Part 4 - Alien Retrieval Operation at Ft. Dix-McGuire
 
-FINAL Part 4: UFO Crash/Retrievals: Status Report IV - Fatal Encounter At Ft. Dix-McGuire
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>FINAL Part 4: UFO Crash/Retrievals: Status Report IV - Fatal Encounter At Ft. Dix-McGuire</h3>
 © January 1985 by Leonard H. Stringfield
 
 <blockquote>
@@ -610,10 +638,16 @@ ordered to stay outside the ropes.'" - S ource: USAF Security Policeman, McGuire
 AFB, New Jersey
 </blockquote>
 
-<!-- status-report-11 -->
-
-Leonard H. Stringfield:
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!-- image -->
+McGuire AFB and Fort Dix Military Reservation near Wrightstown, New Jersey, are near the U. S. Naval Air
+Station
+in Lakehurst, New Jersey. The bases are about 45 miles east of Philadelphia, 50 miles south of New York
+City,
+60 miles north of Atlantic City and 10 miles west of the Atlantic ocean. The Fort Dix / McGuire
+Air Force Base / Lakehurst Naval Air Station complex covers 42,000 acres.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>Leonard H. Stringfield:</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>"3. The Retrieval Operation.</h3>
 It was maximum security, said Morse, who alone in his patrol car received word by radio
@@ -725,7 +759,7 @@ An example of bugging Morse psychologically and/or electronically occurred Janua
 the same day to explain his evasiveness, he said:
 
 <blockquote>
-Morse Letter January 12, 1984: 'Sorry for waiting so long on reply to your letter.
+<b>Morse Letter January 12, 1984:</b> 'Sorry for waiting so long on reply to your letter.
 ...There was a Government car on the street the day I got it. I don't think it's
 related, but I don't want to take any chances. ...I don't know if it (surveillance) is
 relaxed anymore or if it ever was. ...I must also mention that we had much trouble
@@ -734,7 +768,7 @@ corrected the same problems each time. That is why I hesitated to speak to you
 today on the phone.'
 </blockquote>
 
-Leonard Stringfield: It is no wonder that Morse might have had some second thoughts
+<b>Leonard Stringfield:</b> It is no wonder that Morse might have had some second thoughts
 about reaching me until 1983. But, his affairs were not to get better.
 
 In early 1984, I had expressed my desire again to visit Morse, but this overture fell short
@@ -756,7 +790,7 @@ Morse's employment: 'Your acquaintance with Mr. Stringfield did not help!'
 Then, by a December 31, 1984 letter, Morse wrote:
 
 <blockquote>
-Morse Letter December 31, 1984: 'I was approached by a person wearing a black
+<b>Morse Letter December 31, 1984:</b> 'I was approached by a person wearing a black
 suit in my parking lot who mentioned things might go my way if I deny this
 incident (McGuire alien shooting). I just received notice by registered mail that the
 Department of Justice has decided to make me eligible for hire. I feel these two
@@ -800,6 +834,7 @@ layouts and so on. ...It would be easy to say the Air Force falsified numerous d
 muzzled everyone on the base, published a phony high school yearbook. But that is
 highly unlikely. We spent a total of 44 man-days investigating this at a cost of more than
 $15,000. We had no doubt that the incident in the so-called report never occurred.'
+
 Morse, who has survived all of his ordeals since his story was published in Status Report
 III, remains openly agreeable to the investigation of his case. Cooperatively, he did not
 question my challenge to have the officers names at Wright-Patterson or the personnel at
@@ -842,7 +877,7 @@ importance than rehashing the details of the incident. In this manner, Hall watc
 listened. Following are comments from his letter dated January 13, 1985:
 
 <blockquote>
-Richard Hall Letter of January 13, 1985: 'I did not pursue any hard line of
+<b>Richard Hall Letter of January 13, 1985:</b> 'I did not pursue any hard line of
 questioning, mainly wanting to gain his confidence and form some impression of
 his credibility. I broke the ice by showing him the typed list of name checks which
 we discussed for awhile and he spoke easily after that. ...Personally, A-3 was well-
@@ -866,7 +901,7 @@ his image, style or demeanor.'
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>SUMMARY COMMENTS</h3>
-Leonard Stringfield: In bringing my report to a close, I recognize the need for more
+<b>Leonard Stringfield:</b> In bringing my report to a close, I recognize the need for more
 information about the shooting episode at Ft. Dix and the nature of the body retrieved
 from McGuire. But for the moment, the testimony of the one and only available witness
 must carry the so-called burden of proof. Hall's informative meeting and my many
@@ -913,27 +948,11 @@ in our thoughts seeking answers, or feel inclined to speculate into the shadowy 
 intrigue, perhaps there is another side to secrecy - the side that occasionally leaks the truth
 for the simple reason that it is long overdue."
 
-Status Report IV is purely an analysis of events encompassing one case worthy of serious
-review. I believe the data I present here offer substantially more than other encounters or
-retrievals published in my series of status reports. Significantly inadequate by comparison
-is the Nellis AFB affair in 1968 in Case A-5 Status Report II , and the Lumberton (or
-Wilmington), Ohio, skirmish in Case B-13 of the same paper and updated on Page 44 of
-Status Report III. The only commonality it seems is that they all carry a burden of proof
-as do all cases in UFO lore!
-
-Since 1982, new sources have emerged and vanished on the horizon of my research, none
-worthy of a monograph. I think Jeffrey Morse's case is special and, if we like to ramble
-in our thoughts seeking answers, or feel inclined to speculate into the shadowy realms of
-intrigue, perhaps there is another side to secrecy - the side that occasionally leaks the truth
-for the simple reason that it is long overdue."
-
-USAF and U.S. Army Replies to Leonard Stringfield's FOIA Requests
-
-<!-- Status-Report-13 -->
-<!-- Status-Report-14 -->
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>USAF and U.S. Army Replies to Leonard Stringfield's FOIA Requests</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- image -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- image -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+the end.
