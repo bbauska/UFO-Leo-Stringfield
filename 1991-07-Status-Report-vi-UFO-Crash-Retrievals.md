@@ -2,17 +2,18 @@
 <!--~~~~~~~~~~~~~~~~~~~~ 1991-07-Status-Report-VI-UFO-Crash-Retrievals.md ~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ in UFO-Leo-Stringfield ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
-# STATUS REPORT VI - UFO CRASH RETRIEVALS
-## THE INNER SANCTUM
+<h2>STATUS REPORT VI - UFO CRASH RETRIEVALS - THE INNER SANCTUM</h2>
+
 By Leonard H. Stringfield
 
 July 1991
-
-### Humpty Dumpty sat on a wall
-### Humpty Dumpty had a great fall.
-### All the King's horses and all the King's men
-### Couldn't put Humpty Dumpty in his place again.
-### Through the Looking Glass ---- Lewis Carroll
+<blockquote>
+Humpty Dumpty sat on a wall
+Humpty Dumpty had a great fall.
+All the King's horses and all the King's men
+Couldn't put Humpty Dumpty in his place again.
+Through the Looking Glass ---- Lewis Carroll
+</blockquote>
 
 Published by Leonard H. Stringfield
 4412 Grove Avenue
@@ -35,7 +36,7 @@ The Mutual UFO Network (MUFON)
 The J. Allen Hynek Center for UFO Studies (CUFOS)
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-### PROLOGUE: If. And. But and Maybe
+<h3>PROLOGUE: If. And. But and Maybe</h3>
 
 Maybe we're on the edge of the beginning to end official UFO secrecy. Maybe, if I should be so
 bold to say, the probes of organized research are finally breaching its protective fortressed
@@ -84,7 +85,7 @@ Leonard H. Stringfield
 July 25, 1991
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-### INTRODUCTION
+<h3>INTRODUCTION</h3>
 It is a literary quirk, or a license, among writers to start off their story or essay or article or
 whatever, with a strong "narrative hook", or something "hot", to get instant reader interest.
 
@@ -143,7 +144,7 @@ Len. I have names, dates and many details of the Assessment. I did not copy it b
 would probably be in Fort Leavenworth right now.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-### UFOLOGY'S HOT KITCHEN
+<h3>UFOLOGY'S HOT KITCHEN</h3>
 Triggered by the recent influx of information from new and trusted old sources, my saucer
 sleuthing spirit was once again aroused. When the war in the Persian Gulf ended, kindling new
 patriotic fervor in the USA, my bouyant response was to concentrate on following up on each
@@ -240,7 +241,7 @@ counterpart for whatever purpose. Whenever I think of the options, the pros-and-
 origin, I always think of Hynek. What did he really think?
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-### MY HYNEK CONNECTION
+<h3>MY HYNEK CONNECTION</h3>
 Championing the UFO cause, after overcoming his "swamp gas" stigma while a consultant with
 the Air Force's Project Blue Book, Hynek set up the Center for UFO Studies in Evanston,
 Illinois. After the great 1973 flap, when I still had access to many significant UFO happenings,
@@ -496,7 +497,7 @@ been "used" without ever being told the truth behind the coverup.
 There is a commonality in the feeling of being "used" in this business.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-### THE ROSWELL COLOSSUS
+<h3>THE ROSWELL COLOSSUS</h3>
 Roswell is a small town's name in New Mexico, adjacent to the old air base, known as Roswell
 Air Field, to its South. Both town and base are^75 miles away from the Brazel ranch, near the
 still smaller town of Corona, where, allegedly, an alien saucer, with its crew crashed, July 2,
@@ -608,6 +609,7 @@ plus many other details. An hour later we were told to taxi the plane to the "Pi
 atomic bomb was normally loaded. We were positioned so the front bomb-bay was directly over
 the pit which was covered with a large tarp. But no atomic bomb was in the pit that afternoon.
 When the canvas was removed by the loading crew, all we could see was a very large wooden box.
+
 We stood off to the side and were not allowed more than a glimpse of the loading process. The box
 was sitting on a platform of the type we often used on which to carry cargo. Once the load was
 secured in the bomb-bay, four military policemen went inside and took positions at each corner
@@ -633,6 +635,7 @@ military specialty.
 
 For weeks rumors were plentiful, and we were hard pressed to maintain the silence we had been
 ordered to keep.
+
 If, indeed, Tim's flight transported the bodies, then it fits well into the scenario that postulates
 that his was one among several missions from Roswell. But, to prove it, we may never have
 access to official records for obvious security reasons -- if they still exist.
@@ -903,7 +906,7 @@ philosophy was that no one would believe the story unless supporting evidence wa
 that would result in dire consequences.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-THE ROSWELL BITS & PIECES
+<h3>THE ROSWELL BITS & PIECES</h3>
 
 Since the Moore and Berlitz book, The Roswell Incident, (1980), I have received a number of
 letters and phone calls from low-profile sources who offer cryptic morsels about the Roswell
@@ -978,7 +981,8 @@ undercover role in UFO affairs. But, frankly, it is only in the world of rumor a
 I heard of their use of extreme measures to control UFO secrecy.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-### THE "'ROSWELL" ERA: INSIDERS BARE SECRETS
+<h3>THE "'ROSWELL" ERA: INSIDERS BARE SECRETS</h3>
+
 Survivors in-the-know, going back to the "Roswell" UFO crash era, both before and after the
 established date of July 2, 1947, are thinning out, and for most of the few remaining, so are
 their memories when they try to recapture the details of the role they played in the drama of
@@ -1016,7 +1020,8 @@ exchange of expressions of mutual trust, I soon received the following report, p
 which he got firsthand from a life-long close friend:
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-### THE CLOSE FRIEND
+<h3>THE CLOSE FRIEND</h3>
+
 This is my interview September 9, 1990, with a retired Air Force enlisted man who was stationed
 at Holloman AFB in the month of July. 1947. My source wished to remain anonymous and will be
 known as "Bob".
@@ -1086,7 +1091,8 @@ he called to relate that he had new information from Bob which follows:
 Third interview with Retired USAF M/Sergeant. April 6. 1991
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-### Location: Confidential
+<h3>Location: Confidential</h3>
+
 This interview was conducted under relaxed conditions as a social visit. The subject of my
 conversation with Bob was about the targeting method employed by the Air Force during the
 bombing of Iraq. We discussed the ability of the bombs to follow a laser beam to its target. Bob
@@ -1377,6 +1383,7 @@ A I attended seminars (Berkeley) on "shell" designs for advanced ordnance progra
 thinks that these seminars were designed to recruit engineers for the Manhattan Project).
 Read reports on new alloys being developed for "containment" of temperatures greater than
 anything then known.
+
 Date of acquired knowledge by Collins, 1949:
 Agencies involved: Rand Corporation. CIA, intelligence officers from the United States Army.
 Air Force and Navy. The Vatican was invited to advise US government on religious
@@ -1416,6 +1423,7 @@ at Muroc, California and at Kirtland. New Mexico.
 A.E.C. control of experiments at Los Alamos, Holloman, and Kirtland installations.
 Unusual "metal-like wood" being tested and results fed into a computer at Berkeley,
 California.
+
 Security was unbearable. Everyone being followed, watched, spied on. Had to sign loyalty
 oaths just to keep job.
 Military were into everything.
@@ -1610,7 +1618,8 @@ Ruby projects were a direct result of satellite recon photos of orbiting spacecr
 origins.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-### THE NURSE
+<h3>THE NURSE</h3>
+
 Abstract of a discussion March 16, 1991, with a retired operating room nurse who was assigned
 to the Medical Lab at Los Alamos during WWII and sometime afterward. The source, Tim
 Cooper.
@@ -1641,7 +1650,7 @@ Collins' interview. This story seems to have some commonality with his story of 
 sent to Berkeley from Los Alamos).
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-### "DR. EPIGONr
+<h3>"DR. EPIGONr</h3>
 
 Ron Madeley, of Houston, Texas, is my intermediary for this informative, perhaps unique,
 interview with a "Who's Who" scientist, the pseudonymous Dr. Epigoni. Ron is a competent
@@ -2024,7 +2033,8 @@ revelations may be one of the "breaches" from the other side of the wall, contro
 Sanctum. Time will tell.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-### THE CRASH AT FARMINGTON
+<h3>THE CRASH AT FARMINGTON</h3>
+
 At the expense of being repititious, the frequency and unspecific locations of some UFO crashes
 and/or landings in New Mexico, and environs, in the post-war II era can be confusing. Even
 allowing for disinformation leaking out a faked case, there are too many sources, with pieces
@@ -2221,23 +2231,19 @@ movie, where they show the military trying a blowtorch on a spaceship, but with 
 A No, I never saw the movie.
 
 Q. Did the report in the file indicate the size of this craft?
-
 A My recollection is that it was around thirty-some feet in diameter.
 
 Q. Was there anything in the report that indicated the weight of the craft?
-
 A Yes, it was apparently composed of a very light weight material. The report stated that two
 average men could lift or move the entire ship!
 
 Q. Did you ever see anything about the ability of these ships to become invisible, like the
 cloaking idea presented on "Star Trek'?
-
 A It was indicated that there was no way of telling whether they got out of sight so fast that
 your eyes couldn't follow them, or if they actually had cloaking or light-bending ability.
 
 Q. I am especially interested in what these dead occupants were like. Were they described as
 biological extraterrestrials?
-
 A They didn't use that terminology that I can remember, but yes, they were described as
 being like us, but smaller -- two arms, two legs, a head, feet and hands.
 
@@ -2327,7 +2333,8 @@ library in the late 1960s. One thing I can say is that I would sure like to know
 on now.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-### REFERENCES:
+<h3>REFERENCES:</h3>
+
 We include a book list because we are concerned that much of this literature has been passed
 over by present-day researchers. Some of the accounts contained here have long been
 discredited, and are sadly ignored. We initially avoided much of the older material ourselves, and
@@ -2798,7 +2805,7 @@ personally, may make further disclosures: or, better still, that new sources may
 corroborative information.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-THE RECKSBURG CRASH
+<h3>THE RECKSBURG CRASH</h3>
 Like Roswell, with its multitudinous witnesses, the Kecksburg, Pennsylvania, crash/retrieval
 case, 18 years later, is upfront in the eyes of research. Upfront, too, deservedly, is Stan Gordon,
 of Greensburg, a MUFON state director and head of the Pennsylvania Association for the Study
@@ -2904,7 +2911,9 @@ Although Myron had been consistent in his references to the craft being bell-sha
 him, for the record, about the object being described to look like an acorn in the Unsolved
 Mysteries documentary. He agreed that either description would be appropriate.
 
-The Second Witness
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>The Second Witness</h3>
+
 When I first called Myron's cousin, JS, October 3, 1990, for his recollection of their experience,
 he was less informative. While cordial, he was reluctant to get involved, understandably, for
 family reasons. However, he did confirm that he and Myron delivered glazed bricks to the Air
@@ -3186,7 +3195,8 @@ observed to be worn by the retrievers. Also, there was no ambulance on the scene
 casualties or ejected occupants -- unless the retrievers knew that they were safely at rest in
 suspended animation.
 
-MORE NEWS AND VIEWS: UFO CRASHES. MJ- 12 AND THE ROLE OF DR. ERIC WALKER
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>MORE NEWS AND VIEWS: UFO CRASHES. MJ- 12 AND THE ROLE OF DR. ERIC WALKER</h3>
 
 I am pleased to have a personalized statement by T. Scott Crain of Port Matilda. Pennsylvania.
 who, with co-author Grant Cameron, of Winnipeg, Canada, released their book. UFOs, MJ-12
@@ -3245,7 +3255,9 @@ committee a secret.
 Cameron and Crain researched the Walker connection from 1987-1990, and have put the results
 of our investigation into the book, UR3s, MJ-12 and the Government, published in May 1991, by
 the Mutual UFO Network.
-THE "HENRY" AND ERIC DIALOGUE. SUBJECT: KECKSBURQ
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>THE "HENRY" AND ERIC DIALOGUE. SUBJECT: KECKSBURQ</h3>
 
 On June 2, 1991, I got a phone call from Armen Victorian (formerly known as Henry
 Azadehdel) who said he had important news about Walker's link to the Kecksburg incident
@@ -3277,6 +3289,7 @@ report, or taking some notes.
 EW We did not prepare any reports.
 AV Well, doctor, apart from everything, how are you nowadays?
 EW I am fine.
+
 Comments Henry:
 Based upon my previous conversations with him, I would say, he has not changed at all. He did
 not give any solid piece of information to confirm the fact that a UFO did come down in
@@ -3488,7 +3501,8 @@ my source was transferred to Okinawa. Others involved, as guards, were sent to v
 air force bases worldwide. As Molon says, this kind of information is not available in the
 usual run of UFO literature.
 
-ANECDOTAL CRASHES
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>ANECDOTAL CRASHES</h3>
 
 Researchers, who seriously study UFO crash/retrievals, know that qualitative reports of such
 alien disasters are scarce and that most, coming from "un-inside" sources, are of the anecdotal
@@ -3536,7 +3550,10 @@ Other anecdotal C/R incidents from many new sources in the past two or three yea
 added to my "Blue Ribbon" collection with vague dates and places or where the source claims
 his or her sources faded away in fear. But, one report -- with a positive year of occurrence --
 struck me as a case deserving attention, follows:
-UFO CRASH/RETRIEVAL: CAPE GIRARDEAU, MISSOURI — 1941!
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>UFO CRASH/RETRIEVAL: CAPE GIRARDEAU, MISSOURI — 1941!</h3>
+
 Ray Fowler, an old-time trusted researcher and a successful author, whose most recent work is
 The Watchers, sent me a copy of a letter from a source in Texas named Charlette Mann, who
 shared her knowledge of a UFO crash and recovery in 1941! After discussing her case by phone,
@@ -3699,7 +3716,9 @@ The investigator's preliminary conclusions are that Tex Martin appears to be a s
 individual without the reason or background to fabricate such a story. It appears likely that
 hypnotic regression could verify the dates and circumstances involved and elucidate a wealth of
 detailed information.
-"OVER THERE'
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>"OVER THERE'</h3>
 
 Some time in 1964, "somewhere at sea", between the Carribean and the Atlantic, a specially
 rigged 1ST, a flagship (AKA, "spy ship") for a naval amphibious force, received a coded radio
@@ -3735,7 +3754,8 @@ in his letter of May 28, 1991. that he believes that his incoming and outgoing m
 by the KGB. He also noted, "Not far from Moscow, in the town of Mitishi, there is a military
 center where all UFO information is gathered..."
 
-COLD WAR UFOs OVER USSR
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>COLD WAR UFOs OVER USSR</h3>
 
 Sensitive information about UFO activity worldwide is occasionally made available to me
 from reliable sources. Because it usually involves highly classified military situations, most
@@ -3783,7 +3803,9 @@ June 24, 1972; case number to be withheld to protect the identity of the officer
 known.
 Note: Officer reported that he was warned never to reveal the facts of this report, whether he
 remained in the military or reverted to civilian life.
-"EMISSARY" DR. MARINA POPOVICH: A NEW EAST-WEST CONNECTION
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>"EMISSARY" DR. MARINA POPOVICH: A NEW EAST-WEST CONNECTION</h3>
 
 In Russia, Dr. Marina Popovich is a living legend. Called "Gosposa Mig" (Lady Mig), she was her
 country's most famous woman test pilot with two records in stratospheric flight and experience
@@ -4065,6 +4087,7 @@ as magnetizing a brick!
 View of UFO crash site on hilltop in Dal' negorsk, eastern Siberia. See details of the crash in
 this report. Photo courtesy of Michael Hesemann.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 UNITED STATES SPACE COMMAND
 PETERSON AIR FORCE SASE. COLORADO 80914-5003
 Dr Armen Victorian
@@ -4072,9 +4095,10 @@ P.O. Box 99
 West PDO
 Nottingham NG8 3NT
 England
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Dear Dr Victorian
-2 6 MAR 1991
+26 MAR 1991
 
 This replies to your 13 February 1991 Freedom of Information Act
 (FOIA) request for any records concerning a satellite reentry on
@@ -4114,6 +4138,7 @@ RY %Y. FELDER-3/z( 4 ,
 nel, USA
 ty Chief of /Staff
 252
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 The site suffered a temperature of 4000C to 25000C during the crash, and the radiation of an
 unknown nature. Vegetation are still affected by this radiation.
@@ -4142,7 +4167,9 @@ negorsk fracture is a meridian type, dating back to Massie period. It would not 
 assume that this unknown civilization has had the surface charts, not the parallel meridian
 charts. One with fracture coordinates system. Those charts could have been obtained from the
 ancient times by paleocontacts, to serve their purpose today.
-COMMENT
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>COMMENT</h3>
 
 If Valery Dyuzhilnyi's disclosure, like Popovich's, is based on factual data, it is significant for
 several reasons:
@@ -4183,7 +4210,9 @@ To say the least. the Kalahari crash soon developed into a complex super drama. 
 superstar Van Greunen, the investigators who played key roles, deserve a hearing. To put the
 case into some orderly perspective, it is separated into six parts as follows:
 
-1) ENTER JAMES H. VAN G1REUNEN
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>1) ENTER JAMES H. VAN G1REUNEN</h3>
+
 Tony Dodd, a respected British researcher and retired police officer, explains how he got
 the first news of the Kalahari crash and retrieval, quoting, in part, from Quest
 International (Vol. 9, No. 2, 1989) as follows:
@@ -4225,7 +4254,9 @@ was safe in South America. Some of the evasive haze that prevailed at that time 
 thanks to Henry, cleared a little. There is now a glimmer of hope that a crash of "something"
 did occur on May 7, 1989, in the Kalahari Desert.
 
-THE FIVE-PAGE DOCUMENT
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>THE FIVE-PAGE DOCUMENT</h3>
+
 I have seen several versions of the so-called five-page document with the code names
 either deleted or changed. Following is a retyped "uncensored" copy of the original Top
 Secret South African Air Force document:
@@ -4259,7 +4290,7 @@ Case History
 Craft Specifications
 Humanoid Specifications
 Conclusions
-*********31.1**04*********44.1.****.*****************.1.**************************•***********************4***********************
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 CLASSIFIED TOP SECRET - DO NOT DIVULGE
 CASE HISTORY
 At 13M45 GMT on 7 May 1989 the naval frigate "SA Tafalberg" radioed Cape Town naval
@@ -4298,7 +4329,9 @@ CLASSIFIED TOP SECRET - DO NOT DIVULGE
 ************************************* *******11*************
 Page 3
 
-CRAFT SPECIFICATIONS:
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>CRAFT SPECIFICATIONS:</h3>
+
 The following are specifications as indicated by preliminary investigations at classified air
 force base.
 TYPE OF CRAFT. Unknown - suspected extraterrestrial
@@ -4317,8 +4350,12 @@ surface of craft.
 Perimeter showed 12 unevenly spaced,
 flush with outer surface oval shaped
 portholes.
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 SOURCE OF PROPULSION: Unknown - pending laboratory results.
-NOTES:
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>NOTES:</h3>
 a) A hydraulic type landing gear was fully deployed suggesting that electronic
 malfunction caused object to crash. This may have been due also to Thor^2 laser
 cannon being fired at craft.
@@ -4367,13 +4404,19 @@ c) Humanoids are kept in detention at classified AFB awaiting further results of
 investigations.
 d) One way passage has been requested for both humanoids to Wright-Patterson Air
 Force Base, USA for more advanced investigation and research.
-CLASSIFIED TOP SECRET - DO NOT DIVULGE
-CONCLUSION:
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>CLASSIFIED TOP SECRET - DO NOT DIVULGE</h3>
+<h3>CONCLUSION:</h3>
+
 A) No conclusion has been reached as yet. Awaiting results of investigations.
 B) The object and humanoids will be moved to Wright-Patterson AFB for some advanced
 investigation and research.
 C) Date of passage - 23 June 1989.
-NOTES:
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>NOTES:</h3>
+
 a) Conclusion remains open-ended.
 b) This file contains initial findings of preliminary report and further details are
 expected after completion of investigations in South Africa and Wright-Patterson
@@ -4488,7 +4531,10 @@ mischief would soon catch up with him, which it did, leading to his shameful dow
 Of course, official disinformation will go to any extreme, if needed. If he was a stooge,
 we'll never get official admission, or confirmation. But, personally, I think that James
 Van Greunen was a womanizing con man, out for money.
-THE GERMAN CONNECTION: SUMMARY BY MICHAEL HESEMANN
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>THE GERMAN CONNECTION: SUMMARY BY MICHAEL HESEMANN</h3>
+
 My German friend, Hesemann, was committed to the South African affair from its
 earliest to its final stages. His view of Van Greunen is essential in this study of what was
 once a "hot" case. His report, dated April 5, 1990, follows:
@@ -4767,7 +4813,10 @@ awaiting his confirmation of the sighting and what exactly it was.
 In conclusion, I can only say that in my opinion, the story is one big "con". It is either
 disinformation deliberately set out or Van Greunen has personal dreams of grandeur and, most
 likely, made the whole thing up.
-THE "HENRY" AZADEEDELNICTORIAN REPORT
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>THE "HENRY" AZADEEDELNICTORIAN REPORT</h3>
+
 Henry (the simplest among his other names) has emerged into a high-profile researcher
 internationally using both phone and Fax to communicate. Henry is not shy or soft-
 spoken and to some newcomers on the receiving end of his phone call, his bluntness may
@@ -4881,6 +4930,7 @@ defend itself: it is presumed that it was already experiencing some difficulties
 attack expedited its downing. The pilot who carried out the initial attack has told us that he
 used the weapon only once.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ATTN: Mr. Len Stringfield 1_ JUL 1991
 
 FAX 513-2714922
@@ -4928,7 +4978,6 @@ Washing(on. DC
 PIA1)11,1i
 FN .(90-349)
 
-41101110.1.111PP
 August 9,^1990
 Thio lo In response to your letter of July 10, 1990, pursuant to
 the Freedom of Information Act, reqUestIng "Information
@@ -5012,6 +5061,8 @@ The fees associated with the processing of your request are
 nominal, therefore waived.
 Sincerely,
 R. C. KING, •R, USN
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Executive Off cer
 In my last telephone conversation with Greef, he was clearly worried. He was trying to be polite
 on one hand and on the other to protect his skin. I had noticed some sharp alteration in his
@@ -5031,7 +5082,9 @@ On the final note, what adds to the complexity of the case, is a sighting of a f
 on May 7, 1989, 2145 GMT, plus the re-entry of the FOTON 2 Rocket. Once more, it
 demonstrates the maze UFOlogists find themselves in when they try to make some sense out of
 a case.
-THE CARP. CANADA UFO CRASH CASE: A SIDESHOW ATTRACTION?
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>THE CARP. CANADA UFO CRASH CASE: A SIDESHOW ATTRACTION?</h3>
 
 If there are questions about the Kalahari Desert crash, there are even more about a reported
 crash in the town of Carp, near Ottawa, on November 4, 1989.
@@ -5127,6 +5180,7 @@ could subliminally control the test project. The alien implants utilize the same
 that the whole unit is subminiaturized and contained in the brain. Fortunately, the implants can
 be detected by magnetic resolution scanning technology. All individuals implanted by the aliens
 are classified as ZOMBIES.
+
 The ZOMBIES have been programmed to help overthrow Mankind in the near future. When China
 finishes with Israel, it will invade Europe. At the same time, Chinese space-based bacteriological
 weapons will be launched at the Artie. The winds will carry the diseases into Russia and North
@@ -5227,7 +5281,10 @@ from Carp in 1989. It came from a woman who was driving with her son along a roa
 when a brightly-lighted UFO flew over them and shone a light on them. causing "radiation burns"
 on her son's arm. Unfortunately, the NRC person who took the call did not get enough
 information from the caller, and attempts to check the story have been fruitless."
-THE MORICHES BAY "RETRIEVAL"
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>THE MORICHES BAY "RETRIEVAL"</h3>
+
 While the spotlight of the research community shines on the illustrious probes and detective
 work that brought the Roswell and Kecksburg cases to the forefront, another incident, that
 happened on September 28, 1989, involved a mysterious "retrieval-of-something" from the
@@ -5242,7 +5299,9 @@ costly effort to get to the bottom of a series of undercover events in the Moric
 UFO crash/retrieval? I cannot say, but the report is worthy of study. To me, it appears that
 LIUFON may have been subjected to the ploys of disinformation.
 
-INTRODUCTION
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>INTRODUCTION</h3>
+
 The Long Island UFO Network has publicly stated since October 1989 that a UFO incident
 occurred over Moriches Bay in the northwest quadrant of this shallow body of water on the South
 Shore of Long Island. Located adjacent to this Bay are the areas of Shirley, Mastic, Mastic Beach,
@@ -5262,7 +5321,10 @@ United States Government through the actions of the armed forces and the intelli
 Intercepted and retrieved an alien spacecraft from the waters of Moriches Bay on September 28,
 This action was a carefully planned and executed operation that was meticulously
 formulated some six months in advance.
-THE CONNECTICUT SIGHTINGS
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>THE CONNECTICUT SIGHTINGS</h3>
+
 At 7:10 PM, on the night of September 28, 1989, a young aerospace engineer in Torrington
 reported to noted UFO investigator, Philip Imbrogno, that he had observed a half-circle of very
 bright lights in the distance. Observing them from his home, he studied them through binoculars
@@ -5303,8 +5365,10 @@ the type of object involved. This was to be kept a secret to serve as a litmus t
 exact description as a yardstick to Judge any witness or government statement concerning the
 sightings on Long Island as valid. Only a handful in LIUFON knew that the shape of the object
 was a triangular or boomerang type of object. It served its purpose well.
-********.• **Sakti.*** *01.21131.****. ****************4.04.1.******* *********•*********4.4.4.4.8.1oloblt**31.31t***********
-IN THE BEGINNING
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>IN THE BEGINNING</h3>
+
 The date was September 4, 1989. It was twenty-four days before the Moriches Bay incident
 occurred.
 John Fitzgerald and his son Patrick live in Bayshore. This was Labor Day, the last day of summer
@@ -5350,7 +5414,7 @@ the Long Island UFO Update. It was not public knowledge.
 The added significance of this sighting only serves to establish the fact that the scientist was
 right. There were sightings of large boomerang objects weeks before the Moriches Bay incident.
 
-***********************40.*********************31..**4.31.31.•
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 SUNDAY. SEPTEMBER 24. 1989; MORICHES BAY. LONG ISLAND
 Martha and Bruce Richardson are LIUFON investigators. As a husband and wife team, they are
 perhaps the best set of investigators in LIUFON They are also avid boaters.
@@ -5367,7 +5431,7 @@ clockwise flight rotation around the Bay and over the Dune area of Smith's Point
 lasted for at least one hour before they left the area on a westerly heading. Both Martha and
 Bruce felt that this was some sort of training exercise, but for what purpose?
 
-▪ sk***************** • ******************2***********P ****************11************************** ***PSI***
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 SMITH'S POINT BEACH, AUGUST. 1989
 The government of Suffolk County, New York, through the office of County Executive Halpern,
 announced in late August of that year the early closing of Smith's Point Beach County
@@ -5385,8 +5449,9 @@ the alleged UFO event. There would, however, be isolated surf fishers who would 
 and later talk to LIUFON
 During the fall of 1990, the campgrounds were kept open past Labor Day well into late October as
 was the usual practice.
-*********************************************************31.***************************•*************************************
-THE WEST HAMPTON AIR NATIONAL GUARD FACILITY
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>THE WEST HAMPTON AIR NATIONAL GUARD FACILITY</h3>
+
 The news media in the metropolitan area ran major stories about the training program. The New
 York Daily News, The New York Post, The New York Times and Newsday ran major articles about
 
@@ -5403,7 +5468,9 @@ atmosphere in case it ditched off the East coast upon takeoff or re-entry. A maj
 awarded by NASA to the guard unit to perform the function of rescuing the crew in case it went
 down off the East coast.
 
-CENTER MORICHES, LONG ISLAND. NEW YORK
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>CENTER MORICHES, LONG ISLAND. NEW YORK</h3>
+
 Residents in Center Moriches, who were questioned about the UFO incident in a twelve-block
 radius from the shoreline of Moriches Bay, reported to LIUFON tales of strange phenomena and
 unusual military activity.
@@ -5416,7 +5483,7 @@ It was not odd for the residents to say this since many of them were use to the 
 air force training drills that summer which had been conducted much to the annoyance of the
 residents over Moriches Bay. Many took it to be the Air Guard training for the space shuttle
 missions which were to commence that fall.
-************W**** *********•*********4.************************4.1.*******.**4.1.*******************1 ,0************
+
 RICHARD STOUT
 Richard Stout is the co-founder of the Long Island UFO Network, Inc. He lives in Center Moriches,
 some twelve blocks from the Bay. When he and John Ford established the organization in April
@@ -5431,8 +5498,10 @@ Pontiac sedan. The police have never caught him.
 On the night of the incident, both Ford and Stout were some twelve blocks away at the Stout
 residence near the Bay. The two did not proceed to the Bay area to investigate since the cameras
 belonging to Stout had been stolen.
-************************************************************0*******************s***********************alk******************
-KINGS PARK, LONG ISLAND. 5:30 PM. SEPTEMBER 28. 1989
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>KINGS PARK, LONG ISLAND. 5:30 PM. SEPTEMBER 28, 1989</h3>
+
 Mrs. Mary McLaughlin is a young housewife with two young boys. She and her husband live in the
 Kings Park section of Suffolk County, Long Island. Located on the North Shore of Long Island,
 Kings Park is a quiet middle class residential section of Suffolk County.
@@ -5461,7 +5530,10 @@ If correct, this sighting has changed the scope of the entire Moriches Bay incid
 It places two large triangular objects along the North Shore of Long Island some two hours before
 being seen throughout Connecticut. The aerial performance was beyond the capabilities of
 known aircraft.
-EAST MORICHES COAST GUARD STATION
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>EAST MORICHES COAST GUARD STATION</h3>
+
 Beginning about six o'clock on the evening of September 28, 1989, witnesses who live near the
 East Moriches Coast Station in East Moriches. Long Island reported unusual activity at the Coast
 Guard Base. Information supplied to LIUFON investigators indicate that a heavy influx of both
@@ -5471,7 +5543,10 @@ became filled. The vehicles remained there until late in the night.
 Information indicates that a military road block was imposed on the entrance road to the base to
 keep all civilian traffic from entering the area. If this information is true, a major military activity
 was underway that night.
-SHOREHAM. LONG ISLAND'S NORTH SHORE. 8:00 PM. 9/28/91
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>SHOREHAM. LONG ISLAND'S NORTH SHORE. 8:00 PM. 9/28/91</h3>
+
 Mona Rowe was driving home from an amateur orchestra rehearsal in Shoreham. She was on
 Route 25 heading West-bound to her home in Setauket. She observed to the North a formation of
 large amber lights in the sky. She paid no particular attention to them since she thought that
@@ -5487,7 +5562,10 @@ Brookhaven Laboratories, she answered questions about the allegations made by Fo
 Mrs. Rowe also witnessed the Moriches Bay object in its flight over Long Island's night-time sky.
 Mrs. Rowe was quoted in the April 26, 1990 edition of The News Review's story about the Moriches
 Bay incident.
-CALVERTON, LONG ISLAND, 8:00 PM, 9/28/89
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>CALVERTON, LONG ISLAND, 8:00 PM, 9/28/89</h3>
+
 Mrs. P.G. and her fifteen year old son were on their way home from Hicksville on the night of
 September 28, 1989. P.G. had gone into Hicksville to pick up her teenage son who had spent the
 day with relatives in the area. They were on the Long Island Expressway, in the area of Calverton
@@ -5515,8 +5593,9 @@ York State Civil Service employee. A reluctant witness, her sighting is taken se
 at least one of the objects in the Calverton area at least one hour before the incident over
 Moriches Bay.
 
-*****************4.0.1011 *a lob Ps ialr***********************************.lok • 3 .*****.****.*************.*.***************. 4.1,4.1.11.*****
-SOUTHHAIVIPTON COLLEGE, 8:00-8:30 PM, 9/28/89
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>SOUTHHAMPTON COLLEGE, 8:00-8:30 PM, 9/28/89</h3>
+
 Susan G. is a reluctant witness. Her cooperation has been limited in this investigation. She did
 talk to LIUFON twice this year over the phone concerning her involvement in this incident.
 Susan states that she was driving home with her young daughter from Water Mill where she had
@@ -5542,7 +5621,9 @@ incident. It also places one of the objects off the coastline of the Southhampto
 Southhampton area where later an intense military air-sea rescue operation would be
 undertaken which was confirmed by government documents and eyewitnesses.
 
-EXIT 61, SUNRISE HIGHWAY. 8:15 PM. 9/28/89
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>EXIT 61, SUNRISE HIGHWAY. 8:15 PM. 9/28/89</h3>
+
 Dr. John Sykes is a dentist who lives in Quogue and practices in Babylon, Long Island. He
 reported this incident to LIUFON in April of 1991. He states that at 8:15 PM that night, he was
 traveling home on Sunrise near Exit^61 to egress for the Eastport Road.
@@ -5564,7 +5645,9 @@ taught him what flares looked like. This was strange, and in his opinion, it was
 
 If John is correct, then this places one of the objects near Moriches Bay at 8:15 PM, near the time-
 frame when the Petersons' reported the incident over Moriches Bay.
-THE INCIDENT
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>THE INCIDENT</h3>
 Paul Peterson was watching television in his living room. The time was around 8:45 PM on the
 night of September 28, 1989. At that time, Paul reported that he observed through the glass panes
 of his Florida doors, strange amber lights over Moriches Bay. First one, then two, then three, then
@@ -5658,8 +5741,10 @@ sounds down by the shore. It was unusually silent.
 they arrived.
 If it were not for the unusually unselfish cooperation by the Petersons, this case may not have
 been brought to the attention of LIUFON.
-******************• *****P********************* • ************************************ *********
-THE OLIVIERI FAMILY. SENEX CANAL. CENTER MORICHES. 9:00 PM. 9/28/89
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>THE OLIVIERI FAMILY. SENEX CANAL. CENTER MORICHES. 9:00 PM. 9/28/89</h3>
+
 Unbeknown to the Petersons, there were indeed other witnesses who observed the incident that
 night. The two families have never met and probably never will. There is no way that they could
 have collaborated with the Petersons to produce a hoax.
@@ -5692,8 +5777,9 @@ definitely flares and he feels they were dropped by the Air Force either because
 for something or they wanted the populace to think the other lights were flares too.
 All agree that the activity stopped at 11:05 PM. After that, there were no more lights or
 helicopters.
-************.*****• ************************************************• ************************************ PPP.*
-BOX TREE ROAD, EAST QUOQUE. N.Y.. 9:30-9:45 PM, 9/28/89
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>BOX TREE ROAD, EAST QUOQUE. N.Y.. 9:30-9:45 PM, 9/28/89</h3>
 
 This incident involved Kathy O'Donnelly and her husband, Kevin. It occurred while Paul Peterson
 was taking his photographs and the Olivieris were watching the lights in the sky.
@@ -5724,8 +5810,10 @@ interview session the O'Donnellys both identified a display sequence of twelve p
 Moriches Bay pictures as the object they both saw that night. This report places one of the two
 objects in the guoque area. It also places one of the objects near the West Hampton Air Guard
 facility that night.
-THE DRUG ENFORCEMENT ADMINISTRATION,
-NASSAU-SUFFOLK COUNTY LINE, 9:00 PM, 9/28/89
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>THE DRUG ENFORCEMENT ADMINISTRATION, NASSAU-SUFFOLK COUNTY LINE, 9:00 PM, 9/28/89</h3>
+
 This information comes from two confidential sources. The disclosure of their identities would
 jeopardize their employment. L1UFON has agreed not to disclose who, how or by what means this
 information came into our possession, but will state for the record that it is factual. One person
@@ -5750,7 +5838,9 @@ ground and await further orders if it was needed. It did not take off again that
 high authority to prevent the D.E.A. from completing its mission and to ground the police rescue
 helicopter.
 
-FRANK D.. QUOQUE. 12:00 PM. 9/28/89
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>FRANK D.. QUOQUE. 12:00 PM. 9/28/89</h3>
+
 Frank D. lives in Quoque near the shoreline of Moriches Bay. He is a New York State Court Officer
 employed in Nassau County District Court.
 
@@ -5764,7 +5854,10 @@ drop a string of parachutists into the water.
 In the documents released by the Air Guard and the Coast Guard, no mention is made of the
 dropping of paramedics into the waters of Moriches Bay that night. The question is asked why
 was this omitted?
-THE FISHERMEN IN THE DUNES. 6:00-9:00 PM. 9/28/89
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>THE FISHERMEN IN THE DUNES. 6:00-9:00 PM. 9/28/89</h3>
+
 Larry S. lives in Shirley, L.I. and is in the construction trades of the Island's expanding business
 and residential areas. He is also an avid sports fisherman. The night of the occurrence, he was
 fishing in the Dunes at the mouth of Moriches Bay.
@@ -5868,8 +5961,9 @@ In the discussions held with the Brookhaven Laboratory scientist who was involve
 Incident, he told LIUFON that the massive object weighed very little, since the metal was very
 strong and light. Maybe light enough for two helicopters to early out of the water?
 
-*************************************************************************** *********
-THE CONVOY ON WILLIAM FLOYD PARKWAY. 4:30 AM. 9/29/89
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>THE CONVOY ON WILLIAM FLOYD PARKWAY. 4:30 AM. 9/29/89</h3>
+
 During the course of the two and a half years investigating the case, three witnesses claim they
 saw a late night convoy from Smith's Point Beach up William Floyd Parkway to Brookhaven
 Laboratories.
@@ -5903,7 +5997,10 @@ cohesiveness of known matter. Some of these fatalities were psychics who were th
 to communicate with the alien occupant survivors if needed.
 George Dickson never revealed the name of his source and never will. He has stuck by the story
 and maintains the source is impeccable.
-COPELY NEWS SERVICE, SAN DIEGO. 10/22/89
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>COPELY NEWS SERVICE, SAN DIEGO. 10/22/89</h3>
+
 Copety News Service acquires news programming for some 178 radio stations around the United
 States and Canada. On October 21, 1989, LIUFON had broken the story to the local news media
 and had alerted them to the incident. On October 22, LIUFON had conducted a field search
@@ -5918,8 +6015,10 @@ Police Headquarters in Yaphank by phone, the responding public relations officer
 had been a UFO incident over the Bay.
 A follow-up phone call later received an ofTical denial to the previous statement. It appears there
 may have been an unintentional leak that was quickly covered up.
-*************0 d**** *******************4. ***********.************0*.***.”.4.1.************6 4.1.****4.1.****1"1.**
-THE FIELD INVESTIGATION IN THE DUNES. 10/11/89
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>THE FIELD INVESTIGATION IN THE DUNES. 10/11/89</h3>
+
 On October 22, 1989, a team was dispatched to investigate the area of the Dunes along Smith's
 Point Beach. It was a three-pronged effort composed of a land, sea and air search. The team was
 composed of LIUFON investigators; John Ford, Kelly Freeman, Ron Sierra, Lou Mattera, and
@@ -5951,8 +6050,10 @@ Hampton side and found nothing that could bolster the story given George Dickson
 contact.
 In April, things developed that would change the direction of the investigation. One of them was
 Kathy O'Donnelly's story and the first meeting with the scientist from Brookhaven Laboratories.
-************************W*****************************•*****************• ***01.1.10
-THE PHOTO ANALYSIS
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>THE PHOTO ANALYSIS</h3>
+
 The Peterson photographs were obtained for scientific analysis and study. The original negatives
 were sent out to have high grain copies of the photographs made for evaluation. When developed,
 the series of 30 photographs from two disc wheels show a pattern of amber lights over the Bay.
@@ -5999,8 +6100,9 @@ Bob has also shown the pictures to Dr. Bruce Maccabee for his opinion. He has st
 that Bruce has looked at the pictures and has suggested further work should be done on them. As
 of this writing. LIUFON hopes to have support from the Fund for UFO Research to do extensive
 work on the pictures in the Fall of 1991.
-******************************************.*******.l. .1.1.8** (^3) .1.********.***************•**************0*************
-THE SOVIET SATELLITE CRASH STORY
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>THE SOVIET SATELLITE CRASH STORY</h3>
 Mr. Joseph Z. is an electronic engineer who is employed by A.I.L. Electronics on Long Island. He
 claims he had access to classified government records. He contacted LIUFON by phone and
 informed us he had uncovered some interesting information concerning the Moriches Bay
@@ -6089,7 +6191,10 @@ The report does spell out a military-intelligence operation occurring in the wat
 Moriches Bay that night. It could be that this was a second cover story planted in case the first
 one concerning the sinking boat failed or if Freedom of Information Act requests had to be
 answered.
-THE MAGNETIC DISTURBANCE IN THE BAY
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>THE MAGNETIC DISTURBANCE IN THE BAY</h3>
+
 During the past two years, LIUFON has received three reports from commercial and sports
 fishermen from the area of Moriches Bay.
 The commercial fisherman had to change his ship's compass because it would not work in the
@@ -6100,8 +6205,9 @@ spun around like a top in his ship's cabin.
 All of these events occurred after the September 28, 1989 incident. They all occurred in a space of
 four months of each other. They all occurred near the site of the supposed crash-site of the UFO
 in the Bay. LIUFON can think of no natural phenomena to explain these incidents.
-******************* **********************************************************************************************
-THE MEETINGS WITH THE SCIENTIST
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>THE MEETINGS WITH THE SCIENTIST</h3>
 The identity of the scientist who was involved in the Moriches Bay incident has been a closely
 kept secret by the Network. His name and address must remain a secret, since he has already
 been threatened by the government who suspected him as the leak in the case.
@@ -6214,7 +6320,10 @@ Concerning the blue light in the Dunes -- Dr. Nick informed LIUFON the blue ligh
 plasma field built up around the radar antenna when it was sufficiently charged to transmit
 its beam. It was at the second meeting, he told Ford the additional information that the
 weapon was not turned on until a few minutes before the hour of twelve.
-HIS VERSION OF THE INCIDENT
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>HIS VERSION OF THE INCIDENT</h3>
+
 Dr. Nick, on the night of the incident, was whisked from his office, along with two members of his
 engineering team, by two military officers. They were ordered to be available the night of the
 incident for a demonstration test of the device. They were also instructed to have the transmitter
@@ -6272,7 +6381,10 @@ had been alien bodies, an antimatter reactor and advanced electronics taken from
 to Brookhaven Laboratories. He was informed that the metal the object was composed of was
 super strong, but incredibly light. The total weight of the object in comparison to its size was
 unbelievably light.
-THE TWO AIR GUARDSMEN
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>THE TWO AIR GUARDSMEN</h3>
+
 LIUFON has spoken to two New York State Air National Guardsmen assigned to the Air Sea
 Rescue Unit at West Hampton. They, and their unit, were involved in the Air Sea Rescue operation
 the night of the incident.
@@ -6287,7 +6399,6 @@ in question.
 CASE SUMMARY
 From all apparent evidence presented herein, it is the opinion of LIUFON that the United States
 government in a carefully planned and executed military-intelligence operation intercepted and
-41110111•11111•10•1111111111•••••
 
 A'ast.ry Pt
 Floyd Pt
@@ -6302,7 +6413,10 @@ N.
 r
 "MORICHES I
 "
-THE LONG ISLAND U.P.O. NETWORK INC.
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>THE LONG ISLAND U.P.O. NETWORK INC.</h3>
+
 P.O. BOX:^1692
 RIVERHEAD, NEW YORK ,^11901
 brought down an alien spacecraft in the area of Moriches Bay off the South Shore of Suffolk
@@ -6327,7 +6441,9 @@ ours is about a UFO crash.
 From the appearance of the story, it appears contrived and an effort to provide a tale for an
 unusual event. It is widely known that intelligence procedures call for two cover stories to be used
 In case the first fails, then the second exists as a backup. This may be the case with this story.
-THE HYPOTHETICAL ALIEN UPDATE
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>THE HYPOTHETICAL ALIEN UPDATE</h3>
 
 There is enough testimonial evidence of a technical nature from qualified sources to support
 the belief that the UFO is an extraordinary extraterrestrial machine. But, simply put, the most
@@ -6436,7 +6552,9 @@ mammary gland nipples. The sexual organs were atrophied. Some other investigator
 observed female specimens. I have not had this opportunity. The legs were short and thin. The
 feet didn't show any toes. The skin covered the foot in such a way that it gave the appearance of
 wearing a sock. However, X-ray examination showed normal bone structure underneath.
-PHOTO PHANTASEES
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>PHOTO PHANTASEES</h3>
 
 In recent years, photographs, purporting to show alien spacecraft fail to excite the serious
 researcher. Good reason: most can be simply explained as conventional aerial objects, and in
@@ -6657,7 +6775,8 @@ this report. Small photo,
 courtesy of Michael Hesemann,
 Munich Germany.
 
-A FINAL THOUGHT ABOUT THE INNER SANCTUM
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>A FINAL THOUGHT ABOUT THE INNER SANCTUM</h3>
 
 William Safire, in his nationally syndicated column August 1, 1991, describes the strange
 world of espionage as a "surreal but real world replete with mystery, violence, hall-of-mirrors
@@ -6687,7 +6806,8 @@ wingtip. Each incident was of short duration. While tot-
 ally unsettling to the pilots during the initial encounters,
 there were no known hostile incidents.
 
-EPILOGUE: The Mixed Bag of Information
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>EPILOGUE: The Mixed Bag of Information</h3>
 
 As I prepare the final copy of this manuscript for the printer. I find writing the Epilogue is like
 sorting out worms from a can as new information, some of it disconcerting, continues to come
@@ -6866,3 +6986,5 @@ Manet, truly in mankind's best interest?
 Veritas Vincet
 Leonard H. Stringfield
 July 31, 1991
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+the end.
