@@ -2,21 +2,22 @@
 <!--~~~~~~~~~~~ 1994-02-Status-Report-VII-Search-for-Proof-in-a-House-of-Mirrors.md ~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ in UFO-Leo-Stringfield ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- ![image-1](images/image-1.png) -->
-# STATUS REPORT VII - UFO CRASH RETRIEVALS
-## SEARCH FOR PROOF IN A HALL OF MIRRORS
+<h2>STATUS REPORT VII - UFO CRASH RETRIEVALS - SEARCH FOR PROOF IN A HALL OF MIRRORS</h2>
 By Leonard H. Stringfield
-
-### I cannot tell how the truth may be; I say the tale as 'twas told to me. -Sir Walter Scott
+<blockquote>
+I cannot tell how the truth may be; I say the tale as 'twas told to me. -Sir Walter Scott
+</blockquote>
 
 February 1994
 
 <!-- ![image-2](images/image-2.png) -->
 
-### ACKNOWLEDGEMENTS
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>ACKNOWLEDGEMENTS</h3>
 
-### A special thanks to the major research organizations, such as the Fundfor UFO Research for pastfunding, the cooperation of the Mutual UFO Network, the J. Allen Hynek Center for UFO
+A special thanks to the major research organizations, such as the Fundfor UFO Research for pastfunding, the cooperation of the Mutual UFO Network, the J. Allen Hynek Center for UFO
 
-### Studies and the Mid-Ohio Research Associates.
+Studies and the Mid-Ohio Research Associates.
 
 Also, thanks to all the contributors, entrusting me with material they submittedfor my critique and use in this Status Report.
 
@@ -44,6 +45,7 @@ In my extemporaneous talk. I reviewed my crash/retrieval research in which I cit
 The case in question, published first in the paper I had presented at the MUFON Symposium in Dayton. Ohio. 1978, and republished. in greater excerpted, as follows:
 detail, in Status Report II, 1980 is
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- ![image-4](images/image-4.png) -->
 
 In September 1977. I was invited to speak before 25 pilot members of the Cincinnati Chapter of' the World Wings at Lunken Airport. Cincinnati. Once the crowd milled away, a former army Warrant Officer, a helicopter pilot, took me alone, into the large map room of the administration building and with a pointer indicated an area in Arizona where a UFO crash had occurred in 1953. "I have seen the bodies", he said which had arrived at night by a DC-7 at Wright-Patterson AFB where he was on special duty.
@@ -70,6 +72,7 @@ approach with the UFO, disintegrated. There was no trace of the pilot or the eje
 
 Military aircraft encounters with UFOs occasionally end in disaster. Some lose their electronic control systems. causing crashes or forced landings, or they are suddenly banished from the skies without a trace. This activity since WWII has indeed complicated the UFO agenda factor.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- ![image-5](images/image-5.png) -->
 
 Major Donald Keyhoe. a former head of NICAP and the premiere pioneer of the "outer space" hypothesis. shared a few details of one encounter
@@ -109,7 +112,9 @@ Described at 5 feet tall, weighing about 90 to 100 pounds. the skin also, unlike
 
 Facial features were generalized, the eyes large and black like bug eyes. ears were small, lips thin slits. The fingers, numbering five, were long, bony; the feet flat, about size six with half inch bony toes. The female had small breasts and, according to the source, the race could reproduce but there was no hint as to their genitalia. Then came the shocker: They had teeth. very white, wide and short. With teeth. I asked about nourishment, how it was digested and eliminated. No answers.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- ![image-6](images/image-6.png) -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Like the greys, communications were telepathic but when I asked about other details, anatomical, organic or emotional or about their craft. propulsion and all the other usual questions, came silence; that was it. Perhaps my friend. Mary Nunn, knows more but I am thankful for that which she had trustingly shared.
 
@@ -131,9 +136,7 @@ Cooper. who specializes in the history of UFO happenings in the early days of th
 
 Military' Pilot Revorts - 1941 to 1946 To put things into perspective, it is necessary to review some of the verified UFO reports from the newspaper accounts and official USAAF records. Much of the army and navy Intelligence UFO reports covering the Pacific. Southeast Asia. and
 
-European Theaters of War are still
-
-classified to this day. Only a few reports have emerged through the Freedom of Information Act.
+European Theaters of War are still classified to this day. Only a few reports have emerged through the Freedom of Information Act.
 
 As a result of the Japanese Naval air attack on the U.S. naval base at Pearl Harbor, Hawaii. Invasion fears were at a fever pitch. The first fly-over of unidentified aircraft occurred at 1800 hours, December 8, 1941. Army radar operators detected 50 aircraft 100 miles east of San Francisco. The alert was given and a blackout issued.
 
@@ -157,7 +160,9 @@ In a declassified secret memorandum released in 1974 through the Freedom of Info
 
 Unidentified airplanes, other than American army or navy planes, were probably over Los Angeles. and were fired on by elements of the 37th CA Brigade (AA) between 3:12 and 4:15 a.m. These units expended 1.430 rounds of ammunition.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- ![image-8](images/image-8.png) -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 As many as fifteen airplanes may have been involved, flying at various speeds from what is officially reported as being "very slow" to as much as 200 mph and at elevations from 9.000 to 18.000 feet."
 
@@ -175,7 +180,9 @@ Obviously. the U.S. military intelligence did not want news of this to get out i
 
 The Formation Sightings Unidentified formations of "silvery aircraft" were reported by military ground forces in the Pacific island campaigns. One comes from a Marine Sergeant Stephen J. Brickner. 1st Paratroop Brigade. 1st Marine Division. USMC, on Tulagi Island. the Solomon Islands. Guadalcanal Campaign. According to Brickner. on the morning of 12 August 1942, "...the air raid warning sounded. There had been no "Condition Red"...I was puzzled by the sound. It was a mighty roar that seemed to echo in the heavens. It didn't sound at all like the highpitched "sewing machine" (Charlie) drone of Jap formations...the formation was huge: I would say over 150 objects were in it (according to retired Brigadier General Edwin H. Simmons. USMC. the Japanese did try to attack Tulagi Island by air, but did not get under way until 17 August 1942. The only air raids by the Japanese on Tulagi, occurred on 21 August and 26 August and was met by VMF-223. Any reference to the 12 August air raid does not appear in any official Marine Corps historical records.) Instead of the usual tight "V- of 25 planes, this formation was in straight lines of 10 or 12 objects...A few things puzzled me; I couldn't seem to make out any wings or tails. They seemed to wobble slightly, and every time they wobbled they would shimmer brightly from the sun. Their color was like highly polished silver. No bombs were dropped..."
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- ![image-9](images/image-9.png) -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Mission 115 In a secret message sent by Major Ryan to all formation leaders of Mission 115, a brief but direct operations order was read. It stated "THIS AIR OPERATION TODAY IS THE MOST IMPORTANT AIR OPERATION YET CONDUCTED IN THIS WAR. THE TARGET MUST BE DESTROYED. IT IS OF VITAL IMPORTANCE TO THE ENEMY. YOUR FRIENDS AND COMRADES THAT HAVE BEEN LOST AND THAT WILL BE LOST TODAY ARE DEPENDING ON YOU. THEIR SACRIFICE MUST NOT BE IN VAIN. GOOD LUCK. GOOD SHOOTING, AND GOOD BOMBING. ANDERSON. COMBOMDIV ONE." It was October 14. 1943. It was one of the largest aerial fleets ever assembled. It was also destined to be one of the strangest encounters of UFOs experienced by air force pilots and crews.
 
@@ -189,9 +196,11 @@ NEAR THE TARGET A CLUSTER OF DISCS WERE OBSERVED IN THE PATH OF THE FORMATION. N
 
 The interrogation of the bomber crews was intense concerning the descriptions given of the "silver discs". Every man gave the same account and did not deviate. "at the time there were no enemy aircraft above". This is confirmed in a secret memorandum dated 24 October 1943 from Major E.R.T. Holmes. F.L.0.. of the 1st Bombardment Division to Colonel E. W. Thompson. A-2, Pinetree. The interrogation and debriefing was classified SECRET/ EYES ONLY. According to the Group Leader's Report of Mission 115 flown on 14 October, 1943. there was nothing to indicate there was any confusion by the crews of enemy air attack or weather conditions that could explain the sightings of the "discs". Major W. E. Dolan reported:
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- ![image-10](images/image-10.png) -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
-> "...we were attacked by approximately 200 E /A, consisting of ME 109's. ME 210's, FW 190's, JU 88's, and ME 110's. ... The weather over the target was clear with a slight haze and a good bomb run was made."
+"...we were attacked by approximately 200 E /A, consisting of ME 109's. ME 210's, FW 190's, JU 88's, and ME 110's. ... The weather over the target was clear with a slight haze and a good bomb run was made."
 
 It should be noted that the "discs" approached the B-17 formations from above and that no enemy aircraft were observed at that time. All enemy aircraft were below the formations. The size of the discs, from the observer's vantage point were quite large, given the distances Involved. Also the fact that the "cluster" was "gilding slowly" downward in "very uniform cluster" suggest that some intelligence was in control. Also, the mention of "black debris of varying sizes" were also observed within the cluster. No engine failures or surface damage was the most puzzling of the encounter.
 
@@ -209,7 +218,9 @@ This was the simple beginning of a day that ended in puzzlement and disbelief. O
 
 To his good fortune. Mosgrove has a replica of the study model but it was not a gift of the clinic. When the doctor came back to pick up the finished product. he dutifully crunched up the impression and tossed the fragments into the waste receptacle. Curious. Mosgrove's first reaction was to follow the doctor who went through the large swinging door of his quarters, next to the reception office, and peer through its small window. In view were two air force officers. one a colonel who placed the model into a container and then stashed it into his briefcase. Both the officers shook hands with the doctor and departed. Later, he learned that they were stationed at Wright-Patterson AFB. But, the supposedly destroyed evidence became, conversely, positive evidence. Mosgrove gathered the shattered pieces, took them to his home workshop and in four days reconstructed his own study model.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- ![image-11](images/image-11.png) -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Thanks to Mosgrove's trust. I now have a replica of the model which he suggested I show to an anthropologist for scientific opinion. To me. it appears small by human standards. The toothless gum portion tapers sharply to the cuspid region where one lone tooth is intact in the center, the top surface of which is flat. In the posterior region are two molar-like teeth, one each in opposite gums. They were not incisors. indicating meat eaters, as the tops were round and flat. The remainder of the gum shows what appears to be jagged indentations into where teeth may have existed. Mosgrove could only guess as to the reason for the missing teeth. "Either they were extracted for study or had been knocked out as a result of an accident."
 
@@ -229,13 +240,16 @@ The little grey, without teeth in its small membranous cavity. are abundant in a
 
 It is a teasing thought to postulate that an alien, appearing almost human, may have had a past affinity to Earth's homo sapiens or some earlier anthropological creature. Furthermore. if we are willing to accept Mosgrove's mandible as evidence, we can only wonder if this alien type whose "molars" are not incisors and thus, not flesh-eaters, if they chew soft foods or ingest liquid nutrients? Perhaps. they have reached the evolutionary state when incisors are
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- ![image-12](images/image-12.png) -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 See letter below signed by technician, Bruce Phillips, for his interpretation of photos. comparing alien and human mandibles.
 
 Sketches of Mandible
 
-## By John Mosgrove B. P. BEER HIBOBIITORg
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>By John Mosgrove B. P. BEER HIBOBIITORg</h3>
 
 Fimire 1: Top view of mandible. Portion below dotted line was molded into a study
 model. Above dotted line is missing portion of a widening jawbone.
@@ -286,7 +300,9 @@ During this waiting period. Emily went out one evening for a dinner party. While
 
 Somehow, said Emily, the subject got onto UFOs. most of it critical. Again. surprise, Kern took issue with the critics, but she has forgotten the points of his argument. Later, privately, he asked her if she would like to see the proof -- a real alien. Thinking he must be joking, she agreed to the challenge. According to Emily, he said. "Tonight".
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- ![image-14](images/image-14.png) -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 I asked Emily if she felt safe with a stranger making such an unusual proposition. She said that she did because he was a friend of her Uncle John's, and too, she wondered if it might be just a test of her ability to perform on the job. They drove to Wright-Patterson AFB.
 
@@ -306,7 +322,9 @@ Other shocks were in store for Emily. Reporting to work on Monday. she was infor
 
 I had talked with Pat Packard before Emily's visit to relate that I may be able to explain the reason for her misadventure at the morgue and its connection with other high-level strategies. Based on the known data. I later told Emily that it was my belief that the Hoelche Company was a front for a special intelligence operation. Speculating further. I said, some, if not all, of its personnel were undercover agents with Mr. Kern, who, using a fake name and credentials, was the key player. But. I emphasized. I needed to know more about another player. her Uncle John.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- ![image-15](images/image-15.png) -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 When Emily had finished her narrative, my first question to her concerned his past military duties. if any. Response: Yes, he held a high rank in the army. Next question: What was his specialty or assigned duty? Response: Intelligence. She knew this by his own admission based on an incident that occurred when she was a teenager. "Looking back, she said. I got into a petty family quarrel and ran away to stay with my girlfriend, hid in my car behind a dumpster In an out-of-the-way parking lot. But. Uncle John. found the car revealing that he had the ways and means to solve such problems. Boastingly, he said that was his job in army intelligence."
 
@@ -322,7 +340,9 @@ According to leaks from insiders there was an official concern. in 1973. like in
 
 My comment to follow the sergeant's disclosure in Status Report III accents 1974's high strangeness of events contrived by phantom-like people in a Hall of Mirrors, follows, in part: "His (the sergeant's) reference to an imminent 1974 announcement declaring UFOs were of extraterrestrial origin. is extraordinary as I knew that a report was quietly circulating among responsible researchers anticipating such an announcement jointly by the United States and France. According to my notes. December 3. 1974. I was alerted by Walter Andrus. Director of MUFON to be prepared. as public relations director, to rush to Chicago joining he and Dr. J. Allen Hynek of CUFOS in a press conference if official word was released. "Straws in the wind." I noted in my log, were rife that the announcement would be made December 15 by President Gerald Ford." On the suggestion of Andrus. I prepared a tentative press release which got both his and Hynek's approval, and we waited. In my log entry for December 16, I noted. "Wonder what President Ford and Giscard de Estaing. President of France are discussing in Martinique beside the oil problem." There was no UFO announcement.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- ![image-16](images/image-16.png) -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Adding to the intrigue is the well-timed news wire release in 1974 by UPI featuring Professor John Spencer Carrs story about a saucer crash and recovery of "little men" in New Mexico.
 
@@ -337,7 +357,9 @@ Charles Dickens in his. A Tale of Two Cities, describes the times in 1775 in Fra
 
 Before my formal disclosures on crash/retrievals at the MUFON Symposium in Dayton. 1978. I remember being impressed. and still am, by an item appearing in the prestigious magazine. U.S. News and World Report. April 18. 1977. which stated:
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- ![image-17](images/image-17.png) -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Before the year is out, the government -- perhaps the President -- is expected to make what are described as "unsettling disclosures' about UFOs -- unidentified flying objects. Such revelations, based on information from the CIA. would be a reversal of official policy that in the past has downgraded UFO incidents.
 
@@ -357,7 +379,9 @@ Potentially, the Simpson story is a breakthrough. mainly because it involved her
 
 The story began for me with a phone call from a long-trusted researcher in Florida, Sheila Franklin. She confided that she had learned some basic details from an associate, who got Simpson's story from one of her students. The rest of it she got on tape when she. accompanied by two friends, were privileged to interview her in a restaurant near her college in another city. A copy of the confidential tape, dated July 10, was sent to me so that I could join in on the investigation.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- ![image-18](images/image-18.png) -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Because of the impact of the retrieved evidence on the scientific community and the crafts high-tech military potential, scientists and others, on a need-to-know-basis, were invited by the authorities to see the craft and crew members, some still alive, at a secret location somewhere in a southwestern state.
 
@@ -377,7 +401,9 @@ Cooper: Did the air force recover flying discs?
 
 Answer: Yes. Some were found in 1946 and and 1947. Some in the Mojave Desert and some in New Mexico.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- ![image-19](images/image-19.png) -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Cooper: Where were these discs taken to?
 
@@ -406,7 +432,9 @@ clearance made a report. which I didn't see. I was just told to keep my mouth sh
 
 One day during her stay over at the base, something unexplained happened. causing a change in her schedule. She and her team were boarded into a troop carrier. "with a canvas top" and driven about 50 miles across desert terrain, escorted by jeeps. to an isolated building with a number of vehicles parked outside. In the distance she could see many one-floor buildings and a bustle of activity.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- ![image-20](images/image-20.png) -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Once ushered into the lone building, with guards at the door, her group was greeted by an officer and directed to an area where medical and uniformed people were concentrated around a gurney on which was a patient struggling in pain. At times, it was prone and then it sat up trying to free itself, making strange groans but it never spoke. Although she was kept at a distance she said she could readily recognize that it. too. was a grey alien biped, looking more human than the other five she had seen. At one instant, according to Professor Simpson. its whole torso incredibly expanded. looking grotesque. giving the attendants a hard time keeping it restrained. "It must have been a fresh case." she said. "But I was told nothing and before long all of us were dismissed from the premises." She learned later that the injured alien survived.
 
@@ -414,7 +442,7 @@ For the sake of posterity, or for my own edification. I asked Professor Simpson.
 
 Later. I tried again to get more about his reaction, hoping to learn what might have interested him the most. Her response: propulsion and more about the universe.
 
-> "On the sensitive subject of secrecy. Simpson commented: "We were reminded daily of our pledges of course. but I signed no papers. However. I was surprised to see photographers who were free to take photos. even movies of everything in view. Thanks to a trusting member of our group. I managed to get a set of photos. I kept these hidden for years until I made a mistake and showed one to a student and the word got out."
+"On the sensitive subject of secrecy. Simpson commented: "We were reminded daily of our pledges of course. but I signed no papers. However. I was surprised to see photographers who were free to take photos. even movies of everything in view. Thanks to a trusting member of our group. I managed to get a set of photos. I kept these hidden for years until I made a mistake and showed one to a student and the word got out."
 
 Photos of real aliens? Photos are not proof of anything. Most. in UFOlogy, are fakes. But the thought that having a number of shots showing bodies in various positions and close-ups of a face, a hand or even atrophied genitals. as I told Simpson. would be a "godsend". At least, it would substantiate her claims -- and would, undoubtedly, open the eyes of medical specialists.
 
@@ -424,7 +452,9 @@ As she suggested. I called her the following day. She had finished her search, s
 
 Did she or did she not, at any time, have photos? If so, were those kept hidden in her home taken during a house break-in which happened several times. Was the photo in her office also rifled? And. what of the other photos. of a total of 48 she mentioned on tape? If her collection of photos were as revealing as she claimed, then it can be assumed that she would have been a victim of surveillance. search and seizure.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- ![image-21](images/image-21.png) -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 According to Simpson's mathematics, the live alien on the gurney, plus the five supposedly deceased in the hangar with the craft. total six. What of the other three of the nine she claimed were in custody on her tape interview? When I questioned the discrepancy, she was quick to point out that the others were in reference to aliens she heard about taken from crashed UFOs in Russia.
 
@@ -445,7 +475,9 @@ observation of her behaviorisms and revelations during a personal interview. Jul
 The Professor and the Professor Edith Simpson is one of those special teachers that we remember. She knows how to stimulate an often difficult subject matter and make it palatable and digestible. That is why!
 heard about her. Simpson is a professor at a southern college in the department of Earth Sciences. My friend Wanda's son is one of her students, probably one of her more favored students, since Wanda also has a social relationship with Simpson. When Wanda heard about my interest in UFO research, she suggested that I meet Edith Simpson. She said that Simpson. in an attempt to keep students' minds open to the infinite possibilities in the cosmos. told an incredible account of her personal experience with the unknown. Simpson said that in 1947, she had seen with her own eyes, the bodies of non-human occupants of a spacecraft and the remnants of the craft in which they had crashed. Of course. I asked Wanda to set up a meeting with Edith and to do that as soon as possible. It took over 3 months until we met.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- ![image-22](images/image-22.png) -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 We met at a restaurant that Professor Simpson favored.
 
@@ -466,7 +498,9 @@ He introduced her to a woman that
 
 he called a "psychologist." He said that the "psychologist" wanted to ask her some questions and that she should go with her. Edith followed her to a cleared out utility closet. There were just 2 chairs in it. They sat down and the 'psychologist" proceeded to ask her one question. "As a child, did you walk or talk first?" The next thing Edith could remember was that she looked at her watch and it was an hour and a half later! She couldn't recall anything that had transpired in that hour and a half. Professor Edith Simpson said. "It was just as if she had hypnotized me. although I had nothing to hide but I just didn't know what the probe went to."
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- ![image-23](images/image-23.png) -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 I thought that off-handed statement about the "psychologist" could be important. It might prove the beginning of a mind control scenario, one way or other. I asked whether she had ever had any buzzing or ringing in her ears currently or in the near past had any strange phone calls at regular intervals. Simpson looked across the table at her friend Marge and they shared a knowing glance. "Oh. yes. I often have had phone calls where no one was responding." At first. Simpson said that she thought that they were just "wackooa" who were interested possibly in breaking into her home. But then she continued. "I thought for several years that maybe the government wanted to know whether I was telling anybody about what happened and they'd listen in and I sensed that. But that was just my own perception and has no basis in fact. whatsoever."
 
@@ -478,7 +512,9 @@ Most bizarre is Professor Simpson's being the one woman victim of a major crime 
 
 There certainly was. Perhaps the reason for all of this crime was the fact that Professor Simpson said she had in her possession 48 35mm photos of what she saw with The Professor In 1947. She said that the "scientific group" that was there had access to them. The spaceship and the dead aliens, in both full figures and parts of bodies, appear in them. I asked her if I could see the photos and Professor Simpson replied that most of them are no longer in her poacrasion. She said that her car was stolen from a large shopping mall and that the briefcase in which she carried most of the photos was in the stolen car. Simpson said that the car and the photos have been found and retrieved but that the police refuse to release them. She says that the police told her that they had the photos even though she did not list the contents of her briefcase on the police report. She was afraid to say what the photos were, due to her position at the college and in the community. Although when the police told her that her car had been found, they also mentioned they found the photos and made sarcastic remarks about the subject matter. She said that she was afraid to make an issue about the photos. since she was having so many problems with the local municipal government but would take up the issue of their return, once her problems have been resolved.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- ![image-24](images/image-24.png) -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 The level of high strangeness in the every day life of Professor Edith Simpson seems to be more than the average person can tolerate or endure. There was a period of missing time in Simpson's life that occurred about 5 years ago. One Friday night, she went to sleep and was awakened the following Monday morning by her friend Marge and Marge's husband. Allan. The couple had tried to phone Simpson the entire weekend but with no response. They feared that she was dead, since her car was in the driveway and she was expected to be at home. Allan had to break a window and enter her home that way. They found her asleep in her bed. Professor Simpson said that she could not remember anything about that weekend, including getting up to go to the bathroom. She said it was a total blank in her mind. She supposed that she might have had the "flu or something."
 
@@ -490,7 +526,9 @@ There was one last effort to procure the photo. After I had expressed my dismay 
 
 Following is Sheila's brief account describing our failure to produce what could have been a pictorial breakthrough. But. the Simpson scenario may have had other arcane ties. Sheila explains in this, her final report. December 9, of a sudden shift from Simpson to her own sinister happenings, which follows:
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- ![image-25](images/image-25.png) -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Words on a Window Frame: A Whimsy or a Warning? On November 23. 1993. I had my last phone conversation with Professor Simpson. It was not satisfactory to me. She had a litany of problems that led to excuses as to why she could not provide "copies" of the photos we requested. The problems she enumerated were so many and so burdensome that it seemed more than one sixtyish woman alone could bear. At the end of our lengthy conversations, she did what she always had done, she promised our satisfaction but sometime way down the line. After all of the months of dealing with her. I did not expect anything more of her.
 
@@ -504,7 +542,9 @@ What I found most ominous was the message engraved into the window frame. --- CO
 
 The logical progression then is to assume that this is linked to the case of Professor Simpson. I am sure that the verbiage used in the message was meant to be construed by the noncognoscenti as innocuous, nebulous and shoulder shrugging. If it was threatening, it would be more damning to the agent(s) involved and lend credence to the illegal entering of my home. I decided to make a police report on this, even though I knew that it would be considered a non-event to them, as there was no real evidence of a crime, other than my say-so. The police officer took the information and it was stated on the police report as a "Miscellaneous Incident." The officer said that in over 22 years of his time on the force, in the area, it was the first time he had ever been to my building for any kind of an incident. I agreed with him that in the 13 years that I lived in the building, there had never been a burglary by an unknown individual.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- ![image-26](images/image-26.png) -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 An important postscript to this relates to possible phone surveillance on others who are connected to me. After this event. I decided to phone my good friend, confidante and private Investigator. Andy. When I told Andy what had transpired, he thought it quite bizarre, even for agents. He also mentioned that he had been having anomalous drops on his phone lines.
 
@@ -526,7 +566,9 @@ When the inquisitors came. Joe's dad explained that he had not yet bought the ev
 
 Like a dreaded curse, the newspaper was left to rest in its tomb under the linoleum until the early 1960s. Knowing of his son's blossoming interest in UFOs. he finally opted to uncover and show him the newspaper. now yellow with age. and admit his feeling of guilt when he misinformed the agents.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- ![image-27](images/image-27.png) -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Stunned. Joe shared his secret with cousin. Robert. Regrettably, the fate of the newspaper is unknown. Joe believes that his dad returned it to its grave under the linoleum. Three years later. Joe and family moved to Florida. minus the newspaper.
 
@@ -544,11 +586,13 @@ And now for a look into the early role of the media in the UFO coverup and its s
 
 In one case in 1952. a New York daily newspaper headlined a crash story in its "bulldog" or 9:00 PM edition. Copies were delivered as usual to newsstands. the first loads going to a neighborhood in the Bronx. Official reaction was swift. Agents. thought to be the FBI. took the remaining copies at the newsstands and made a door-to-door sweep in all the nearby apartments to round-up any of the bulldog strays.
 
-> "Most of the copy about the crash. I've forgotten." lamented Robert. "I do remember that three bodies were recovered: two were dead, one injured, still alive. The crash site. too, is not clear. I believe it occurred in New Mexico or Arizona because the terrain was sandy like a desert."
+"Most of the copy about the crash. I've forgotten." lamented Robert. "I do remember that three bodies were recovered: two were dead, one injured, still alive. The crash site. too, is not clear. I believe it occurred in New Mexico or Arizona because the terrain was sandy like a desert."
 
 Also, the name of the newspaper is disputed. Joe thought it was The Daily News; Robert. The Daily Mirror. "Both formats were similar" said Robert. But, most of the key questions may never be answered. Probably, all the copies of the bulldog edition were confiscated either on arrival at the newsstands or earlier at the newspaper offices and distribution center. I also wonder if the source of the story was UPI or AP newswire services and if so what happened at the various other media nationally? Or. was it an independent scoop? Whatever the case. it was a matter of national security to squash a UFO crash/retrieval incident.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- ![image-28](images/image-28.png) -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Other early examples of a submissive media to UFO censorship were published in my Status Report III. UFO Crash/ Retrievals: Amassing the Evidence. One. occurring the same year. 1952, as in the Oliveri case, was reported by Richard Hall, then editor of the MUFON UFO Journal at the Fifth Annual MUFON Conference in 1981. Said Hall, "I personally heard a radio news report about a crashed saucer and occupants. one said to be still alive, about 1952 while working in a general store. Being young and naive in those days. I made little effort to document the story beyond listening for additional news on following newscasts, which of course never came. I should have called the radio station, talked with the wire service persons. checked newspapers in a library, etc. Since I didn't the story remains only an Interesting anecdote..."
 
@@ -562,7 +606,9 @@ Probably the most brazen incident of censorship happened in January, 1957 when t
 
 I watched the TV program and the unbelievable sight of Keyhoe's lips moving without sound. For the record. I had interviewed VVhedon in August. 1957, a tough, unbending anti-UFO spokeman with a booming voice, at his ATIC office at Wright-Patterson AFB. My interview was published in Inside Saucer Post 3-0 Blue.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- ![image-29](images/image-29.png) -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 In spite of all the negativism. Keyhoe stood his ground, undaunted, till his death, maintaining that UFOs were *interplanetary -- the word used in the early days -- and that the public was being deceived by officialdom's "silence group".
 
@@ -586,7 +632,9 @@ these returning pilots that the crash was unusual because among the wreckage.
 
 There was speculation among no tail section could be seen
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- ![image-30](images/image-30.png) -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 When they left on their trip, starting from McConnell Air Force Base. Wichita, Kansas. they did not set out in an attempt to find the site, but as they got into western Texas they began to hear further rumors about the crash as they talked to people they met along the way. So they decided to see if they could find out more.
 
@@ -608,7 +656,9 @@ Neither Jake nor his friends were ever approached later about the event. They ne
 
 This event cannot be identified as a crashed UFO. but is clear both from what Jake and his friends had observed and heard that a crash of some type of aircraft had occurred and it was apparently being treated somewhat differently from a regular plane crash. Unless more is learned from other sources, this is all that can be said about the incident.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- ![image-31](images/image-31.png) -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 M.O.R.A Follow-Up Data According to Jake. he and his two friends had gotten into the area without being noticed. There were between 40 and 50 people in the area, some taking notes and measurements. Fire trucks, pickup trucks, wreckers, and jeeps were parked
 
@@ -634,7 +684,9 @@ Conjecturally. we cannot dismiss the Clovis crashed object as an awkward U.S. sp
 
 have never received another report of that description.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- ![image-32](images/image-32.png) -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Impressed by the investigations of the Mid-Ohio Research Associates, I called Hank again on November 18. and leaving no stones unturned to trigger his recall into extraneous events. I managed to uncover a few more detnils some significant.
 
@@ -656,7 +708,9 @@ Mexican Crashes and U.S. Retrievals? An Mead Crash in Chi):tuahua Reveals U.S. I
 
 Too often, research has been misled by hoaxy reports of UFO crash/retrievals designed to muddy the waters. But, in my judgment, there seems to be a legitimacy to the 1974
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- ![image-33](images/image-33.png) -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 5643 at Seventh Street -Tucson • Anzona 85711 • (602) 790 • 9399ANDECO
 
@@ -678,7 +732,6 @@ $jaw^{If}$'CMiOti cif &/JlaY
 
 A separated crystal was taken from the vial and subjected to energy dispersive x-ray analysis in a scanning electron microscope The elements Identified in the resultingspectra, (MUNE 3), are: iron, cobalt, nickel, copper and aluminum Based on this composition, the artifact is tentatively Identified as a cast ALNICO V permanent magnet
 
-LItSrlIScigt1
 
 Cast ALNICO V permanent magnets have the max WIWI magnetic energy per unit volume of all ALNICO alloys Therefore, they were widely used in military and civilian aircraft magnetos, (Relerence • I) Although extraterrestrials May use Last ALNICO V in flying saucers, the wide use of this material in terrestrial aircraft magnetos Suggests that the reported crashed vehicle, (Reference '2), was a terrestrial aircraft If you encounter similar physical evidence cases in the future, I would be very interested in analyzing them
 
@@ -690,7 +743,9 @@ Walter W Walker, PhD, PE (01 ANDEL°
 
 WWW/ph
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- ![image-34](images/image-34.png) -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Chihuahua crash report. Despite the risk of publishing a bunch of baloney, the full text of the report is reproduced herewith, hoping that the incident can be verified or exposed as mis-ordisinformation.
 
@@ -712,7 +767,9 @@ On 25 Aug. 74. at 2207 hrs.. U.S. Air Defense radar detected an unknown approach
 
 airspace from the Gulf of Mexico. Originally the object was tracked at 2.200 (2530 mph) knots on a bearing of 325 degrees and at an altitude of 75.000 feet, a course that would intercept U.S. territory about forty miles southwest of Corpus Christi. Texas. After approximately sixty seconds of observation, at a position 155 miles southeast of Corpus Christi. the object simultaneously decelerated to approximately 1700 (1955 mph) knots, turned to a heading of 290 degrees, and began a slow descent. It entered Mexican airspace approximately forty miles south of Brownsville. Texas. Radar tracked it approximately 500 miles to a point near the town of Coyame, in the state of Chihuahua, not far from the U.S. border. There the object suddenly disappeared from the radar screens.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- ![image-35](images/image-35.png) -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 During the flight over Mexican airspace, the object leveled off at 45.000 feet, then descended to 20.000 feet. The descent was in level steps, not a smooth curve or straight line, and each level was maintained for approximately five minutes.
 
@@ -734,7 +791,9 @@ By 2100 hrs.. 26 Aug. 74. the recovery team had assembled and been staged at For
 
 Satellite and reconnaissance aircraft overflight that day indicated that both the crashed disk and the civilian aircraft had been removed from the crash sites and loaded on flat bed trucks. Later flights confirmed that the convoy had departed the area heading south.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- ![image-36](images/image-36.png) -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 At that point the CIA had to make a choice, either to allow this unknown aircraft to stay in the hands of the Mexican government, or to launch the
 
@@ -780,13 +839,15 @@ two areas of the rim that showed damage. one showing an irregular hole approxima
 
 The other damage was described as a
 
-> "dent" about two feet wide. The weight of the object was estimated as approximately one thousand, five hundred pounds, based on the effect of the weight on the carrying helicopter and those who transferred it to the truck. There was no indication in the documentation available as to whether anything was visible in the "hole".
+"dent" about two feet wide. The weight of the object was estimated as approximately one thousand, five hundred pounds, based on the effect of the weight on the carrying helicopter and those who transferred it to the truck. There was no indication in the documentation available as to whether anything was visible in the "hole".
 
 It seems likely that the damage with the hole was caused by the collision with the civilian aircraft. That collision occurred while the object was
 
 traveling approximately 1700 knots
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- ![image-37](images/image-37.png) -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 (1955 mph). Even ignoring the speed of the civilian aircraft, the impact would have been considerable at that speed. This is in agreement with the description of the civilian aircraft as being "almost totally destroyed". What was being taken from the crash site were pieces of the civilian aircraft. The second damage may have resulted when the object impacted with the ground. The speed in that case should have been considerably less than that of the first Impact.
 
@@ -806,49 +867,18 @@ Official Documents: The Real and The Fakes Many of us over the years have receiv
 
 Hopefully. unlike the aforementioned, the document that follows seems to have a solid source, though it is a person I have never met. My intermediary, however, whom I have known for several years. prefers anonymity for reasons he explained and that I can accept. Also. I know
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- ![image-38](images/image-38.png) -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ,1,:r.A1.,,
 
 .. • 1.01.4 4 141(..-ltit*:'i ' i.
 
-l'
 
-### P ,
-
-41 ,i, I til
-
-1 `.?...)', t, .4: ii',41.-1,,, pi" i . ...
-
-•••t;41. i ! .4.14 • i If, *I 1 . ': : . 1
-
-# .4.,:....t..ii...r.
-
-### .. ..I ,-.. •....,, ,..'. •• •4 • r ,'
-
-1 . ,,..f,. t t, • .. ;,/-4, i:ifri . t i; N't• 11, ,, ,, . ri . j - . - ! .. t• 4! ••••:11.1' V -4 V i
-
-I4i 4.00.,.—; 46-1 . lo o.. t Vt'''"- .C• w '' •, , ... .,,,: ' . . ..., •svialE.;. l' e..4 - t-• * ¼. : . . .
-
-ratio
-
-' .. .
-
-- '41'14'11%. a 1 tlit..7'011401,44 t , 11. t ikiilet 34 i "t1:41. c.4*. 4 701.r. 1 -r
-
-## ittilt'," i
-
-## '71.1...4'.:,,r:.:ke...;1,p3r;i: t'i.
-
-. . .,1.1. f1.15t!. "
-
-## ... -m. it•tp._+. .ii, i.h4L,
-
-. ' . 40;71, 4111
-
-;4! tAtl
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- ![image-39](images/image-39.png) -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 that under these conditions, the document, at face value, cannot be a smoking gun. But. in this business where is the gun that smokes? While sworn testimony by solid witnesses may be legally persuasive in our judicial system. however, in the tightening disciplines of scientific UFOlogy. tons of UFO testimony is not proof -- well, unless it can be backed up by the claimant revealing a frozen alien cadaver from storage in his refrigerator or the spaceship's propulsion system hidden in his garage.
 
@@ -870,7 +900,9 @@ WSPG UFO INCIDENTS OF 1947: A PRELIPMARY REPORT
 
         1) A doughnut shaped tube approximately thirty-five feet in diameter, made of what appears to be plastic material, surrounding a central core (see sketch in Tab 1). This tube appeared to be filled with a clear substance, possibly a heavy water. A large rod centered inside the tube, was wrapped in a coil of what appears to be of copper material, ran through the circumference of the tube. This may be the reactor control mechanism or a storage battery. There were no moving parts of the spaces examined.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- ![image-40](images/image-40.png) -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
         2) This activation of an electrical potential is believed to be the primary power to the reactor, though it is only a theory at present. functions in this environment is unknown.
 
@@ -892,7 +924,8 @@ e. There is a flight deck located inside the copula section. It is round and dom
 
 4) Craft components appear to be molded and pressed into a perfect fit.
 
-### Boswell Crash/Retrieval Update
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>Roswell Crash/Retrieval Update</h3>
 
 UFO debunkers have had, and will continue to have, a
 
@@ -912,7 +945,9 @@ The last two years have been extraordinary in the search for additional informat
 
 including both military and civilian, have been located and interviewed.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- ![image-41](images/image-41.png) -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 The search for the archaeologists, at least in one aspect ended when we, with the assistance of Tom Carey, located the leader of the expedition. In an interview conducted just weeks before he died, he conftrmed that he had been there and he had seen it all. Interestingly, he said that he had been just north of Roswell and not on the Plains of San Augustin in western New Mexico. Another scientist, a vertebra paleontologist, told us that he had seen the military cordon thrown up just off Highway 285 north out of Roswell. All the names will appear in our hardcover book. The Truth About the UFO Crash at Roswell. available early in 1994.
 
@@ -930,7 +965,9 @@ But the real problem with MJ-12 is that it reflects the state of the Roswell inv
 
 The whole story of the Roswell crash, including the names of most of the firsthand witnesses who were on the impact site where the bodies were found, will be included in our new book. One problem we had was the interference of third parties. One man interjected himself into the Roswell case, questioned the integrity of one of or firsthand witnesses, and caused the witness to withdraw his permission to use his name. It should be pointed out that the information was corroborated by. at least, four other sources.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- ![image-42](images/image-42.png) -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Roswell continues to be the best documented of the UFO crash stones. Questions that had lingered for years will soon be answered. And. it is no longer necessary to rely on secondhand testimony. We now have firsthand sources who saw it all.
 
@@ -954,9 +991,11 @@ But there were indeed more than three military types in the area that night, acc
 
 WHJB Radio, was the area's major radio news source, and the station had been swamped with calls from area residents reporting the fiery object in the sky. Some had reported that what they had seen, may have been an aircraft on are. John Murphy. WHJB News Director at the time, now deceased, was returning from investigating another area story. when he received a radio call about the object in the sky. After responding to the vicinity of the reports and seeing nothing, he returned to the station. Mable Mazza, was the WHJB office manager at the time. and she was helping to answer the numerous phone calls about the sighting. When the call was received from the Kecksburg woman about the object falling into the woods. Murphy took the call. He obtained the information, contacted the Troop A Pennsylvania State Police Headquarters in Greensburg, and soon left the station to head for the site at Kecksburg. It is now apparent that Murphy got to the scene quite a while before the state police fire marshal and others, along with the woman and small boy who had reported the object to the station arrived in the area.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- ![image-43](images/image-43.png) -->
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- ![image-44](images/image-44.png) -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Back at the station. Mazza was having a hard time trying to keep up with the continuing rails It is from Mazza. that we learn about the military interest as the event was unfolding. Mazza stated, "The calls came in from all over the United States. Other radio stations, wire services, government agencies and military asking for directions to the site, and what I knew from the calls about it." Mable also stated that she had received rails from the Pentagon as well. Mazza went on to say that Murphy later called from the site and said, "Mable, we have a big one here. I will call you as soon as I can probably by radio, so stick by it." Mazza said that Murphy told her that the military was there investigating, and the security was tight. In the days after the event. Murphy along with other WHJB staff members, put together a radio documentary called "Object In The Woods". Interestingly, the broadcast had information contained within it. that had to be censored from what was originally recorded because as it states in the program. some individuals were afraid of trouble from the army or state police.
 
@@ -986,9 +1025,10 @@ Another new eyewitness to come forward is Jerry Betters, a well known Pittsburgh
 
 Jerry did not have a car at the time, so he called some friends to tell them about what had happened at his home since he felt that the flash was related to the sky object. His friends had also heard the news about the UFO, so they picked him up and proceeded to go to Kecksburg to have a look for themselves. Jerry did not know the area, but they found themselves on the private lane. Jerry states that after rounding a slight turn, they were halted by a military roadblock. The men, stopping traffic, were dressed in army fatigues with cloth caps. Other armed services personnel, some helmeted and bearing rifles, others carrying sidearms. were present behind the roadblock. The driver rolled down the window to talk to the men, while Jerry was looking over the surroundings. To the left. Jerry noticed a mist or steam coming up out of the woods. Jerry thought that there may have been a fire since he also saw a fire truck ahead. In addition. Jerry recalls numerous military vehicles, including Jeeps. and canvas covered personnel trucks with the army star emblazoned on them scattered ahead on the lane. Jerry also noticed a number of "army brass" officers, who differed from the men blocking the road, by their formal uniforms and commanding attitudes. He also stated that police and some well dressed civilians were among the assembled group. Jerry's attention was diverted to the roadblock where a ranking officer had become impatient with the time it was taking to remove the sightseers. In a harsh commanding manner that left no doubt that serious action would be taken against them, the officer demanded their immediate departure. Coming up from the field towards the lane, Jerry noticed a large cab and flatbed trailer coming into view. At this time he noticed a domed or acorn-shaped object that was being hauled, and which was not covered at this time. Quickly a tarpaulin was being placed over it. In the final moments before their departure. Jerry watched the large cab with flatbed trailer attempting to turn with difficulty.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- ![image-45](images/image-45.png) -->
-
 <!-- ![image-46](images/image-46.png) -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Later that night. numerous eyewitnesses saw a large army cab with flatbed trailer, carrying something covered with a tarpaulin from the site. The flatbed trailer was moving at a fast pace, and was accompanied by a military jeep escort. We later learned that truckers had spotted this military convoy as it journeyed towards Columbus, Ohio. Prior to the airing of the Unsolved Mysteries. I had interviewed a former air force officer who was stationed at Lockbourne AFB. in 1965. He was among other personnel, who guarded the object from Pennsylvania. when it made a short stopover at the base, before continuing on to Wright- Patterson AFB in Dayton. Ohio. Clifford E. Stone SFC, U.S. army (Ret.), has had a long time Interest in UFOs, ever since he was young. Stone continues to be a very active UFO researcher, and he has a personal interest in the Kecksburg case, because he was also at Lockbourne AFB, in 1965 when the Kecksburg object arrived. Stone was not in the service at the time, but had some friends at the base who knew of his UFO interest. He was contacted that night. and asked if he would like to see what had been recovered earlier that day in Pennsylvania. During the early morning hours of December 10. 1965 a friend of his from the base, picked him up and rode him to the back gate of the base.
 
@@ -996,7 +1036,9 @@ Later that night. numerous eyewitnesses saw a large army cab with flatbed traile
 
 Other sources tell us that the object was taken to Wright. Patterson AFB for study. Where it is located today we don't know. Much information and even possible disinformation has been provided to me as to the nature of the object involved. Until I have the evidence I keep an open mind. After examining the data at hand, I stand by the two possible explanations that I have suggested for sometime. My feelings are that the object may have been (A) a highly advanced Soviet space probe with some re-entry control capability., (B) a spacecraft of extraterrestrial origin. There are data on hand, that suggests either possibility. That the military and government had a major interest in this event is well documented by those who witnessed various aspects of the event.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- ![image-47](images/image-47.png) -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 One firsthand witness that I have interviewed a number of times, lived a military life as a child. Her father was a high ranking officer and apparently was directly involved with the investigation of UFO crash retrievals. Her family had been visiting in Pennsylvania at the time of the Kecksburg crash. She was standing next to her father, when he received the phone call about the incident, and was being given directions how to get to Kecksburg. He quickly ran upstairs in his civilian clothes, and soon came down in his dress blues, then quickly left the residence.
 
@@ -1018,23 +1060,16 @@ During this period. Georgeanne tried to rationalize the bits and pieces of infor
 
 On the theoretical basis that crash/retrievals may have been a factor or even played a major role in the peregrinations of patriarch Malone. Georgeanne was advised by friends in research to contact me to help find correlative evidence. After phoning me to present the salient facts she agreed to send me her cumulative notes on the case which I received December 16. The Malone report. representing a lot of hard work, is long; the case, complex. but Georgeanne is convinced that the testimony she heard and the documents she saw (and coopies sent to me) is a macabre story that must be told.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- ![image-48](images/image-48.png) -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>KECKSBURG UFO CRASH SITE</h3>
 
-# KECKSBURG UFO CRASH SITE
 
-F. • Nrtj-
-
-1 44-r ikArAks--.10.,
-
-## diodes M,
-
-### Fire Hall
-
-I
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- ![image-49](images/image-49.png) -->
-
 <!-- ![image-50](images/image-50.png) -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 According to the 34 page report. the central figure in the case is the father, Robert Malone, who was a "blood and guts" military career-type whose alleged undercover work in the murky labyrinths of intelligence may have led to his strange death in a navy hospital in 1964. Since that hushed-up event, his wife (married in 1948 in Germany) has lived in isolation in a state of grief and fear; and, the daughter. Nancy, incensed by the injustices to her parents, now seeks the truth and, unlike her mother, has spared nothing, good or bad, about her family affairs to Georgeanne. Mrs. Malone, however, with a change of name, prefers to remain unidentified.
 
@@ -1054,8 +1089,9 @@ Ordering a special telephone for a master sergeant who played a trombone would h
 
 Georgeanne, in summing up his military records she reviewed after her interview with Mrs. Malone, comments: "The wife says her husband. Robert. served for 30 years in the military.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- ![image-51](images/image-51.png) -->
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 enlisting in 1924. The military says he served 35 years. a little ridiculous since they have him retiring in 1945 and again in 1947 for reasons that are not true. Is only paying her benefits for 19 years. claiming that Robert according to their records."
 
 To be considered, in all the confusion over records and the The wife says Social Security was only in for 19 years, nature of his work, is the possibility, although remote. that Master Sergeant or Warrant Officer Malone later served in a covert UFO-connected intelligence capacity as a civilian. But, obviously, records of secret transfer are unaccountably missing. Thus, no pension for Mrs. Malone. To speculate further. the records may have been simply lost (not unusual). Or, they may have been maliciously destroyed by some individual in the same deep-throat service as a personal vendetta for reasons we will never know. Or. because he may have been under suspicion as a security risk for some serious indiscretion. This, too. may explain his strange death in a naval hospital and the denial of allowing his family to see his body -- even at his funeral. Surely, something is amiss in this case, but it is known that such Draconian measures have been used by covert agencies that dealt with Russian espionage and the UFO problem in the 1960s.
@@ -1072,37 +1108,12 @@ Although other records may be withheld or were destroyed coincidental with the d
 
 1948: I was ill for 11 months. I met Bob.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- ![image-52](images/image-52.png) -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+Lit
 
-# Lit
 
-# c
-
-\
-
-## e/P/ViCe
-
-### ,ce/x44 Wun(
-
-ROBLRT L. VALUE, W2112851
-
-## kalzor-aav Aczo4;e
-
-Qhuted Yea:3i 4-4 Ili (law
-
-Qualifio Mount Expert Mi ialt,yt
-
-ibtostarr of Variptcnt
-
-# fiegt Jae
-
-EA, 78111 !TM & SAACC, San Antonio, Tax., 8 Jan 1945.
-
-- 31142
-
--WV, ?de
-
-```
         8 January 19 5.
 
        stol, Expert,
@@ -1115,9 +1126,6 @@ EA, 78111 !TM & SAACC, San Antonio, Tax., 8 Jan 1945.
 
          Rec
 
-                ,
-```
-
 4- • 4 / 4-.
 
 itatpuiturt a Commanbing !Mart
@@ -1126,377 +1134,36 @@ E. SULLIVIJI, Colonel, Air Corps,
 
 Deputy for Administration, for: MICRAIL F. DAVIS, Brig ban, 115 Commending.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- ![image-53](images/image-53.png) -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 E.:s4 L:a12-7171::: RE.CMRC AiNC t;CEPORT7CF
 
-### HONORABLE DISCHARGE
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>HONORABLE DISCHARGE</h3>
 
-| 1. | LAl? MAUL. FIRST | null |  | ., NICOLA illiTitu. |  | 1. | 401117 | SAWAL | NO. ,. - _.: | 3. | *NADI | 4. .A1111 oil | sarv.ct |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | ,1aus Itobart 10 |  |  |  |  |  |  | 6279911 |  |  | IfilitOr | Air Corps |  |
-|  | •.,041111.4•37.11/041 . |  | $_$ | $. _$ | , | 7 | OATS |  | OP varmunctor |  |  | 1on |  |
-
-### 527th LSI 3 , &tour Pal].., So. Dat 24 Cat 194g ALB Sic= Falls, South t
-
-1. P111*0(01 £0011.13 POW SAILIN• P1/111171111 10. DATE op *MTN It. PUICR CO Om.
-
-### 2743 it 25th si.s. Los Amelas. Californi* • gathriet tr.
-
-*1. *000811 P00*1141C1 PLOIIVIIIIT V1U. II 110171INT 13. COLD' NTISI44: 031011 MAUI II. 111160T L , 0 ot,IP ,  
-• •' -. ION - . _ _ dray - - a -1* . 195  
-ReCirn . / 3.1  
-11. RAMA II. •ARITAL STATUS 20. 0.1. 0711111 21. CIVILIAN OCCUPATION AND NO.  
-ofTII 111113.1141140.111111(1/10CIFF SINNUCI DAVIEDI OT1111 (11310F77) . [ill I NO . -lissiitsIsirt * -
-
-MILITARY HISTORY 11. DATE OP INDUCTION IL DATI OP INUAITMENT 34. Dana, IrreflitToAcrnoSsinnes IS. PIACI OP INTRT INTO SERVICZ _ .
-
-|  | AM . 2119h5 Ave 211916 | -. - Lou irldelt CalifOrniil |
-| --- | --- | --- |
-| sgs.,,,,,, 00. 2 4 . asistrywo 27. LacAL 11.10M NC | 20. COUNTY AND IITAT1 | 211. 110118 £000111 AT Tyra OP 801111. 1071 SCIPP.ZI |
-| 1 11 m et rts I No |  |  |
-| DATA |  |  |
-| 20. MUTANT OCCDPATIOIMA SPICIALTY AND NO. | 31. | sitiarun INSAUPWATIoN me Am (1.4a.,12staa07, arlarion =a |
-| --'111nrieillin tilho) |  |  |
-| 31. &ATTLEE AND C.UIPA1111111 |  |  |
-
-SS. DICIARATIONIN AND CITATIONS
-
-0 .
-
-$$24. VOUNINI RIC-LTV= II AC110111$$
-
-### N.
-
-| 31. | LATLIT IMIONFLJITION | DATES |  |  |  | $11. | 11111111ICI | 01111101 | CONTINENTAL | 8.1. AID ElTcNi |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 141111/01 | 1111:110 TETANUS | OMER |  | (1/IPOCU7) |  | DATE OP | DEPARTURE | DIATIILITION |  | 0418 | Of |
-| 6/7/45 | 24 Apr 45 214 A2145 |  |  |  |  |  |  |  |  |  |  |
-| 37 | TOTAL /.2110111 OP ILEIIVICII | 30. |  | RIONEJIT | ARAD* NILO |  |  |  |  |  |  |
-
-$$14331711111TAL. SENVICE FOREIGN SEIM=$$
-
-TEARS 110111711 111M TZARS 11101111(1 OATS o 6 21 0 0 0 ifst
-
-30. PRIOR SERVICE 7th Cav (Bud) 3.0 w2.4 - 1.7 itay 2/i. Ilith Car. (13and.) Id ilay a
-
-### UT 31. 4 Garr (Bard) 12 limr 31- 18 Mgr 31. 11;th CL Bm1 28 liar 38 - 1$ oat i
-
-### 335tb. AIM 28 Mr Li- IS. Octia. AAP' TEL 16 Oot 42 -1 Jim 15
-
-40. MASON AND AUTDORITE PON REPARAT1011
-
-### C GC G per ND tar 3113 dtd 6 oat 19145 Ressalistaant
-
-Al. 11111vICE 111311001.11 ATVS:ND= 1-r - ri AI. 2ZOLA ,- T71341. 1.0O41111T40orTu1POO PAT11P11100611 atmo3 MOE'44. 111111110 Mr PIP 44.14101141IonaPAY7 DATA44. PRAM. PIT AT. TOTAL POMO.? 4•1•11 OF OISOU•S..., •
-
-|  |  | INSURANCE NOTICE |  |  |
-| --- | --- | --- | --- | --- |
-| ImpoRwir | 17 P43:711:71105 Afar PALO 0701111 WIat | IMMIX 1112311T.0041 DAVIS ,7711111114711113. 13111170MICE |  | IOU. LOOM MAIM Cluirsa A llikowCT |
-|  |  | To TTIC TAIL•100ll7 OP TICS 0. IL AND IRIOIP&OD TO 0044ACROP411 107111177111111013. 711111111001 | ADICOONTRATION. | WAAND10701. 41. Z. C. |
-| OS. SUMO OP | toNSINNANNID 4o. NOW MIR | 110. 1111.4000 Pao Ao allot. al. ONANA•06*0110*440 OA. | AIL P00100111 WWI | us. IINTIOrnmAta7 |
-| sm.: Om, le | Owl.. I MAMA foams i Demo Is | ^lOuOt 011Natolloilime (Ono swath32. Nor | ,2.0.22LOON sown' | jr.... c........m. g |
-|  | ,^V. A.^SIMS |  |  | ,. |
-
-If
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- ![image-54](images/image-54.png) -->
-
-### ENLISTED RECORD AND REPORT OF SEPARATION
-
-### HONORABLE DISCHARGE
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>ENLISTED RECORD AND REPORT OF SEPARATION</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>HONORABLE DISCHARGE</h3>
 
 1. LAST NAME • FIRST NAME - MIDDLE INITIAL 2. ARMY SERIAL NO. •. ARA, OR SERVICE S. COMP. a TERN
 
-$$Orad i=$$
-
-| Malone, Hobert L, | F 6 279 931 | M/Sgt | USAF ,i,F - 3 yrs. |
-| --- | --- | --- | --- |
-| 6. ORGANIZATIONUSAF Bandsman School | 125 Oct 48i 7. DATE OF SEPARATION |  | ' Balline Air Faroe Base, Waeh.,DCI. PLACE OF SEPARATION |
-| II. PERMANENT ADDRESS FOR MAILING PURPOSES | 10. DATE OF | CISTrt | II. PLACE OF 11106Tr4 - |
-| 237 Sunrise Ave., Rt. 1, Hinsdale, I11. 31 Jan 97 |  |  | Guthrie, Kentucky |
-| ,1„ AGORCEB FROM woo H EMPLOYAIENT %PILL IME SOUGHT | if Gasp* crag | i 14 tOLZ.P MAIN | TE HEIGHT 16 NEIG HT 117. .4, DC/v.ca |
-| Armed Services | Brown | ,1Grey | 61 14" 1.95 Les ; ; 1 |
-| uil RACE I 19 MARITAL STATUS | 20. U. S. crTIZEN i 21. CIVILIAN OCCUPATION AND NO. |  |  |
-| wooTE 1 Wlaas) I armor i ,fr) SINGLE' HANsno;31 OTHER isosayS0 YES | NO |  |  |
-| I I 1 1 I i | I | Soldier - 010 |  |
-
-|  |  |  |  |  | MILITARY | HISTORY |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 22. DATE OF INDUCTION |  |  | 23. DATE OP ENLISTMENT |  | a. oars as Gm., arra AcrIvir Sams" |  | 2S. PLACE OF ENTRY INTO SERVICE |
-|  |  |  | 25 Oct 45 |  | 25 Oct 45 |  | LAB Sioux Falls, S. Dakota |
-| SELECTive | 1 74 | mows-rump | 27. I.M.I. s. swans mo. I | XI. | COUNTY AND STATE |  | zo. HOME ADDRESS AT TIME OF ENTRY INTO SERVICE |
-| wows=oAT• |  | Ix | , |  |  |  | 237 Sunrise Ave., Ill. |
-
-XL MILITARY OCCUPATIONAL SPECIALTY AND NO. I 31.61m.sTasrr 01.14.USICATIOn ANO DATE (1. P., infantry, aviation and markasogaddp IMIS6Vm, WT..)
-
-Bandsman (Trombone) - 440 1i Hone
-
-Si BATTLES AND CAMPAIGNS
-
-Warm
-
 33. DECORATIONS AND CITATIONS European Occupation Nodal
 
-### W.7, . II Victory Medal
-
 Goad Conduct Medal
-
-C ON
-
-| None |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-| ts | LATEST IMMUNIZATION OATES |  |  | 36. SERVICE OUTSIDE CONTINENTAL U. S | AND RETURN |
-| SMALLPDX | TYPHOID 1 'TETANUS | , oTmen (soecity) | DATE OF DEPARTURE | ; D TI NATION | DATE OF ARRIVAL |
-| Aug 48 | !Aug 48 Nay 46 | ! Flu - Jan 48 | 24 June 46 | Bremerhaven, Cer^' 6 Jul 4 6 |  |
-| 37. | TOTAL LENGTH Of SERVICE | I Xt. HIGHEST GRADE HELD |  |  |  |
-|  | CONTINENTAL SERVICE FOREIGN SERVICE |  | 30 Aug 48 | New York, N'.Y. | ,31^I Aug 48 |
-
-yRAFts IMONTHS' DAYS TEAMS 'MONTHS; DAYS ,
-
-0 1 8 23 i 2 1 3 I7 N'ester Sergeant
-
-36. PRIOR SERVICE
-
-8 yrs 6 M04. 5 day/ Cay. 8 yrs - Army Air Forces
-
-3 yrs 1 mos. Coa Artillery
-
-### Boiling or _
-
-60.$AR^{REMINS65TIgIgY}$ !-411;:rtARalaTerN Yore* Base, Ttash., D.L'..  
-0 .5, USAF,  
-.11. sERviCE. SCHOOLS ATTEND= - ; 42. EDUCATION (riar!)
-
-mug Bandsman school, Boll4ng Air Force Bass, Wash., D.C. - 6 mks. !I 0 era' adigti1....,4%."1"./ 4. 1 ce ll.'
-
-PAY DATA  
-LI Lassevrry war PAT PurrvOSILS I U. muwrep,N4 Guy Pay In. mt. TRAVEL PAY TOTAAMOUNTNAME OF DISIOuRSING OFFICER  
-YEARS II MONTHS9 DA19 ,LDO.00TOTAL 18100.00THIS PAYMENT1! iar s , ;  
-n , I '•••-- •
 
 INSURANCE NOTICE
 
 IMPORTANT TF PREMIUM IS NOT PAID WHEN DEE OR WITHIN THIRTY•ONE DAYS THEREAFTER- INSURANCE WILL LAPSE MAKE CHECKS OR M0'vE1 ORDER., P'* ABLE TO THE TREASURER OF THE U S. AND FORWARD TO COLLECTIONS SUBDIVISION. VETERANS ADMINISTRATION. WASHINGTO,py. L. D C
 
-46. KIND or issww•ct I eie. maw PAID S.C. EPA/WM Owe of ARA*. 1 Pt. Dow gii now e..........3 ,._ 0... 62. PIReimum DUE SI INTENTION or VETERAN TO  
-Nat. Bury. I ti. S.Govt. Naar Allyn% 1Dean to moat emoontinotan. 1, oftr SO) EACH MONTH 1 Craws I 'Contalve Oat); Dwronunwer  
-i V. A. Oct kilt  
-V 31. 20 3 1
-
-14. 36. REMAPNES (71,a swat for atinpitthon of ado,* MIMI or worry of other MIMS SPKailla PI W. O. Donparves)
-
-```
-Blood Group "A"
-AGCT - /I (114)
-No time lost under AW 107_ _ _
-```
-
-es. sooftirmurai OP mini:W. sirip-ia-siomitivr PERSONNEL OFFICER (IMO MOWS, grade and orgasuattort- -signaturs)
-
-### i ELJ B.,AkalaS,
-
-•-4.4 " t 55•IT 11 I61:4 lark .4L, MU. ! , ••••-•  
-WD GO FORt JUL OM 53 SERVICE RECORD COPY 9  
-PortYPOVII 17OrTIOMI Roam ARE 011M3LITC. (Affixed to Service Record in accordance with instructions in TM 12-239A1
-
-<!-- ![image-55](images/image-55.png) -->
-
-| CNALEACTIER OF SEPARATION | ''-- | REPORT OF SEPARATION FROM THE | "---• otp.tymprr .-^,,-- |
-| --- | --- | --- | --- |
-| IIDNONAPIX |  | ARMED FORCES OF- THE UNITED STATES | ARM! |
-| ..-^I. LAST NAmE-flIIST NAME-RIDDLE RAWLkbaCill• 'llobert Lee |  | ^It,At 6 279 931^SONIC/^Nuritt | ifrge^I 1. GAACETRATE--itANK AND DATE OF1 Jul 42^:PAX (int)^A^CONIPONENT^AND IRA%Cm ON |
-| G- 5. QUALIFICATIONS |  | , A | ETTECT1vE DATE Or SEP444110211 7 TYRE Of STPAAATIoN |
-| zo $441T. NUNISIER OR ST Neal I *ta | li 5'Ittii i 0 | 011egt.124:.• 40lumlIEIt 1',1% | 'Min s /56 I Discharge |
-| ;.: c Ausai ARO KUTMORITY TON 104181100 (Par | 1 AA | 5_3 6 5) * s PLACE Of SCPARATtoN |  |
-| ^ISI-fComvmaiemse of Government |  |  | 71tss1aons Cener".2. Rost--------Dearer-, - _-8 Colo |
-| II, DA E OF ISIRTH 11 | PLACE OF &MTN ,Cay sod Slur, | 12. DESCTIIPTiON | - eviii I"it i |
-| Ia.^'^ONE^. rTEAF$97^{1}$' Guthrie | Lents:017 | Hale^11.1 ithite^0^,icz _ | ^cw,o.tire'^.447 a,^OR ETESVII |
-| az |  |  | : ,- - : |
-| IE. ElraISTERED 'iyerim. | II. | SELECTIVE SERviCE | LOCAL !WARD NUIIIIER {City, Colutly, Slaitt) • 7-•.-745. INDUCTED |
-| f .4 l ie° - • 0; applicablestamti p!torm, | Tot | applicable.- -', ... | ..q |
-|  |  | . '7'777: | 1: : -: -.7'.1:.:. t *'": -1;:n241:7-'" Ii i? |
-
-14. ENLISTED IN OR TRANSFERRED TO A RESERVE CEIFIVOINENT
-
-TEl lir IEDICENT1 t applicableAND IllANCI4 OR,ELVS reV AM.....pir"" p" t igaiii"-AND._ .... _1•-_. .1.;.:..- -..!  
-17 MEANS Of ENTRY OTNtit TWIN NY INDUCTION • .-. -• • • - - - VS GRA0E-EATI OR NANA AT TIN(  
-— (MUSIC() - I . ELENLISTEDUnevecified .--— CONHISSIONED .— CALLED PROM INACTIVE DUTY INTO AC/M SgtYE SERVICE  
-is. DATE AND PLACE OF ENTRY INTO ACTIVESHH)SERVICE A 1414167AD IS AT TI1141 3ENTIPtiq. Actut l ir fit/I t g,...tiety rt a 546;  
-17 peeDAY iron... I Tii ltill i l ADCIE (City RAM
-
-'Carson Col sdale 111
-
-STATEMENT OF SERVICE FOR PAY PURPOSES IA. YEARS' S MONTHSIC. DAYS'2S ENLISTMENT ALLOWANCE PAID ON EXTENS.OA or
-
-)ot applic4$ble^{ENLISTIAENTIFANT}$  
-2i. in t ) sumac comrinta FOR par PURPOSES (RESUMING timS PERM DAY IRENR, " YEAR •mouNT  
-12. ACT SERVICE CONFUTED FOR PAY FultroSIS TINS K110111 1 0 i 8 . 1.3T'7 P .Onit  
-< 22 OTHER StavICE (Act .1II Jos. 1)41 At •.....ird) COMPLETED TON PAY PURPOSES 1 2023 i 101 ! o i124. FOREIGNYEttes0 AND OR,NoNSEA26 SERVICE i.ty  
-24 TOTAL NET SERVICE COMPUTED EON PAY PuOPOSIS i  
-,... 21 DECORATIONS. MEDALS. SEDGES. COMMENDATIONS. CITATIONS AND CAMPAIGN 11111055 AwARDED OR Mg MORIZIED  
-'5, None
-
-,.,7
-
-w v. 22 MOST SIGNIFICANT DUTY •SSIGNINENT 11 WOUNDS RECEIVED USA RESULT OF ACTION RUM ENEMY FORCES (PIA.. mad Ave, 1 11•,•,.,, ,
-
-179th Army Band
-
-| Op Carson Colorado | None |  |  |  |
-| --- | --- | --- | --- | --- |
-| if, SERVICE SCHOOLS OR COLLEGES, COLLEGE TRAINING COURSES AND-OR | DATES |  | IT | SERVICE TRAINING COURSES SOC SSI.LLY |
-| PosT•GRAD COURSES SUCCESITuLLY CONFUTED | h.... T. | IAA ICII, COURSE |  | COMPLETED |
-| None | Nona | None |  | bone |
-
-.5I.,..v,r,mummies
-
-MPOILII1TIOM: If TUMOR! ISNOT PAIR VILA DMZ Of WITNIN TIIIRTTOIVE OATS tRIIIATTIR. MIRA ANTI WILL LATIL MAXI (NICKS Of ONTT 0*0W 'Amu TO TIT TILLS.
-
-MLR Of TNT Min TUTU. fOlIff4RO PITORWTS TOR 1114.4. TO TIE COLLITTIONI UNIT 74 &SANTO OITICZ NATIWG IVIUSDICTION Of 4114 IN OMEN TOY MAINWI TIRO •IttNT ItESINACI. Mil , AID PI01IT471FOR U.S.G.L.A. 70 COLLICnOMS IWVISION. TITILLIOS ARIFINLZTO1110w. WASIBICTON Si, D.C. WICK 141.11(5 INSI/ILMCS 'MUMS al JIM TO CM TULL NAIL AA) Still fla T ADARES.1 POI IRMILINC TURPOSILtIllTta SUM WHIM AND TOL= IIIMISZILS, If KNOW*.
-
-| P. RIND OF INSURANCE '••••••E ••4 | plynoww Awe ARRA reek` |  | 11. MONTH ALLOTMENT DISCONTINUED 14 | MONTH NEXT FEENIUM DUE |  |
-| --- | --- | --- | --- | --- | --- |
-| ^N$1^S. Lo^7,ocx) $31.20 | ! U. S. Gi i i ; zie |  |  |  |  |
-| bAIt TOTAL PAYMENT UPON SEPARATION70 6 • 00 | IIIC TOTAL PAYMENTTRAVEL OR MILEAGE ALLOWANCE INCLUDED | IT | DISIURSING OFFICER'S NAME AND SY MOM /WHITER | $V 0 CH-1-. / L.f. *$ | 7 |
-| 27-/J | 30 |  | J R VIATTS Major li'D 215-2410.2, /..,5-,, |  |  |
-| 4 | '1At - 1 . / |  |  |  |  |
-| 14. REN•RIES t Epsom/. ..• Iffmrse) |  |  |  | 17 SIGNATURE DEOfTI 0 SIGN |  |
-
-## 2 No daTs lost under AY 107 (For purpoee of retirement "--
-
-| Fe |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-| ,., | 111 - | 105 |  | as *arrant Officer per |  |
-| .-:z |  | Mood. Group 'LTM |  | 73, DASD 157, dated |  |
-| ... |  |  | i | lit8. | E. 124 AND TITLE ( Typeet |
-
-tu P PILTJ31 CartXNI P Total astive Federal serving ce c ted for retirement On 20 liars 2.0 maths 0 days (nro.r.-inrIta _on R — AO of Mil Pars Branch
-
-) PV1311.195PIEFITS PREVIOUSLY APPPLIED FOR tSpecilp trim CCERIRERSATION. Kirwan INSURANCE REMITS. ETC YEESTWer [CLAIN smolt, II DATES Igat CIVILIAN EMPLOYMENT 42. MAIN CIVILIAN OCCUPATION 41. *Ala AND ADDRESS Of LAST CIPIU&N IMPLOTER von* .. TOON ITO .t........5oca_c. ' ____L-21asa. ..-Ione _Sr*'.29-99, ' —Sam_ ___ . __ ._ __ m. matt)To STATES CITIZEN: : oft::, M.juirriedMARITAL STATUS AM NOM.SERVICE EDUCATION Sr.... foccessislif offaolrIal
-
--I 4--,  
-/ DRAM- KIANGIA 40,Li IDIOM:Lilt . TWAA011 COURSE OR FIELD  
-Z . _ r ,.. . seot T  
-_a ...Cv. ..._ . . ..___:-....i._-.1.—t. _ IQ_ 'I ione_. _ .--(.2.-__...i.Aqad.•144;- I . . _ _
-
-- IT
-
-PRON•WINT ADDRESS FOR NAILING PURPOSES AFTER SITARATION ISA., R.F.D.. C.a.,. City tafI £144.1 Al, SIGNATUEE PERSON REINC SiPARArip  
-S.iima;#_• .....20 , I T: *L..I . -. 4..• . -7/1 .  
-... 1 T ;• -1' 7 (....,' , I, N I? ;• . .. i. ecti, , . I V L " • . . .T, IT .  
-DD FORM 214 HEADQUARTERS COPT'T. - - (ARMY & AIR FORCE. ATTACH TO SERVICE RECORD
-
-NAVY: TO SUREAU OF NAVAL PERSONNEL. WASHINGTON, D.0 MARINE CORPS. AFFIXED TO SERVICE RECORD 8001 COAST GUARD. TO KO. COAST GUARD. WASHINGTON. DC
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- ![image-56](images/image-56.png) -->
-
-```
-               PROCEEDINGS OF DISPOSITION BOARD
-                 Army Air Forces Regional Hospital
-                 San Antonio Aviation Cadet Center
-                       San Antonio, Texas
-
-   Proceedings of a Board of Medical Officers convened at Army Air Forces
-Regional Hospital , San Antonio Aviation Cadet Center, San Antonio, Texas,
-pursuant to paragraph 30, Special Orders No. 285, Headquarters. San Antonio
-Aviation Cadet Center, San Antonio, Texas, dated 29 November 1943.
-
-                     DETAIL FOR THE BOARD
-
-               Chief of Surgical Service (or alternate)
-               Chief of Medical Service (or alternate)
-               Ward officer concerned
-
-   The Board met at the above named hospital 12 October 2. L.L.
-   Present: All ::embers
-
-   The Board then proceeded with the examination of:
-```
-
-77777.7 7 CT'. Sect 1,, 7500th
-
-```
-   7,ndo1ph F'el', Texas. (not Rated,
-    After a thorough examination of this patient and the clinical record
-pertaining to his case, the Board finds that the diagnosis is as follows:
-
-            Duodenum, ulcer of, chronic, recurrent, active;
-            cause undetermined. 177Z.
-
-    Service 15 Irrs (2 as ::arrarlt Officer) LOD 777A7.
-
-    The Board is of the opinion: That the chronic, recurrent nat=e of th.s
- Cfficer's illness with reheated hospitalizations and ineffective rea s
-    The Board recommends: That CC Robert 1. :alone be ordered to a7.77:eaz
- before an Army Retirinr 3oard.
-
-  ..1cEC:11cYr 7.1:. TA Colonel
-        Medical Corps Medical Corps
-
-APPROVED:
-                                          '--11.1/114:e.A4
-```
-
-### s.01 nel 7:tT Medical Corps Medical Corps
-
-Surgenn
-
-<!-- ![image-57](images/image-57.png) -->
-
-AsmnommrLyvor COVALA04114 GDACIIIAL. ARMY AU* FTIACIA
-
-ArLIMAMOTOri AL
-
-#### HEADQUARTERS, ARMY AIR FORCES WASHINGTON
-
-```
-                                                        FJ1,/m1c
-                                                        AFPMP-4
-                                                 27 October 1944
-
-SUBJECT: Army Retiring Board
-
-TFSIU: Commanding Officer, AAF Regional Hospital, San Antonio
-          Aviation Cadet Center, Texas
-
-TO: Chief Warrant Officer, Robert L Malone, W2112851, USA.
-
-          DP and in accordance with the provisions of Section 5
-
- of the Act of Congress approved 3 April 1939, as amended by the Act
-
-of Congress approved 25 July 1939, you will report in person to the
-
- President of the Army Retiring Board at LAP
-     San Antonio Aviation Cadet Center, Texas
-
- for examination by the Board at such time as the President thereof
-
- may designate. Authority: Letter AG 210.85 (23 Nov 43) PO-S-A,
-
- 1 Dec 1943, Subject "Authority for ordering AAP Personnel betpre
-
- Retiring Boards", to CG, AAF.
-
-           By command of General ARNOLD:
-                C7"
-                                     F. J. LORENZ, Ma or, Air Corps
-                                     Chief, Orders Sec., Off1c6rs Br.,
-                                        Mil. Pers. Div., AC/AS, Personnel
-
-DISTRIBUTION
-  3 TAG
-  1 Records
-  1 Orders
-  1 201 File
-  1 Air Surgeon
-  2 OG CFTC
-  2 CG AAFTC
-                                                                    5-2312,AF'
-```
-
 <!-- ![image-58](images/image-58.png) -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 1947: Bob came to live at our house to help me and my family survive after the war. Sob and I were all alone talking and he asked me if I'd ever seen anything unusual with andeies lights and he told me about his experience on the ocean with a strange object over the WNW. He was on the aft of the boat with others near Greenland and all of a sudden, the water lit up from beneath with an orange glow and they saw something emerge so quickly that It was hart to follow.
 
@@ -1510,7 +1177,9 @@ In the US, Bob was ordered to a mission -- fast -- to Fort Ord and within 24 hou
 
 Then, we went to Texas and, on the way, more lights in the sky. More "pursuing", but no contact. We heard so much about mutilations, animals missing, people missing. Everywhere Bob went he'd start conversations about strange phenomena and people would tell him of their experiences. The authorities would tell him to "get lost" often and he'd say he was with the military and they'd get even more agitated. There was a lot of repression going on. On our way to Denver. we made really out-of-the-way detours going up to Phillips. South Dakota to see friends. One day, we were totally engulfed in a light on the highway -- that only my daughter. Nancy, could see. She was adamant and squinting and I thought she was fevered but we couldn't see this light she talked about. A little later toward evening. Bob saw something in the road all curled up and he grabbed a blanket, covered it up and tried to lift it but as he did it uncurled and got up and staggered. It was ugly. It had a big head and eyes like empty sockets -- black with no pupils. Long, thin legs and arms, and it looked like an emaciated old man. It looked odd, but had gentle movements. Bob talked to it and it responded like it understood somewhat and made some responsive movements. There was no resistance to Bob. It was leaking a clear fluid from the arm and Bob put a piece of cloth over it and it didn't resist again. Then. Bob carried it off the road and it looked to the sky. Then, someone else came running over from the desert side with a gun and said he'd been following it and would take charge and for us to get out of there. So we did. Two days later, we were leaving and went by the area and stopped to look around and we found it dead with gunshot wounds where we'd left it. We left it there. but Bob took a sample (that disappeared later).
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- ![image-59](images/image-59.png) -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ### 1955:. Finally, one day Bob mentioned to me that he was going to a "crash-site" by a town
 
@@ -1520,7 +1189,9 @@ outside of Alamagordo, Texas. Later that night, he came home and told me he'd ne
 
 1961: We had to go to the Presidio for an examination and it was here he reiterated not to let the army do surgery on him and never let him out of my sight. He was very concerned that if he went in. he'd never come out and be able to leave. "I know too much", he said, "and we're getting much too close." It was a very hard life being under all these pressures. Three months later at Bridge Motel on Lombard Street, it was here an enlisted man approached us and asked for Colonel Malone. I asked who wanted to know and he was evasive, officious and unpleasant. After this, we moved to El Cajon briefly and, then, to Ocean Beach, California. Once in San Diego. the rails became more frequent and Bob started to feel ill until one day in 1964 after several years of relative quiet. Bob hemorrhaged and had to go into the hospital. They decided at Balboa Naval Hospital to do surgery. After surgery, Bob did well until orderlies dropped him in the bath and ripped open his stitches. During his stay. I had occasion to talk with the military wives of high ranking officers in the Naval Ward. The strange thing was that each one, one by one, and even though all were in the hospital for minor problems -- all were dead or passed off as dead within a week. I ranted and raved to get adequate care for my husband while he was there. I spent every waking hour with Bob and took Nancy out of school while Bob was hospitalized. After the fall, they said Bob developed pneumonia and needed a tracheotomy. Bob was very apprehensive and constantly worrying about us and what the outcome of this stay would be. I didn't understand any of it but his desperate state of mind kept me fighting to protect him in every way I could, especially after watching the other wives lose their husbands for such trivial and routine procedures.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- <!-- ![image-60](images/image-60.png) -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Then. on July 26, we got to the hospital in the morning and spoke with Bob in the Critical Care Unit and he seemed different, somehow, talking about seeing lights. I sent Nancy out to wait for me and I could see Bob needed his trachea tube cleaned but the "bird" wasn't there. So. I called the nurses to get one there and I called to the doctor to get one there. There was no hurry on the part of any of the responses to my husband's needs. It just blew my mind. There were few patients and no real care going on. Boy, did those guys hate me and my questions and complaining. They were all very negligent at that hospital. The next thing I knew, I was being told to wait in the waiting room and there was a flurry of activity -- almost calculated. A short time later, a doctor came in and told Nancy and I that Bob had "expired". I told the doctor I wanted to see my husband and he refused. I never did get to see him to say good-bye -- neither did Nancy and that's when I starting wondering about what happened -- you know when you later reflect over circumstances that don't seem quite right. Then, I tried to see Bob at the morgue -- couldn't get in. Then. I tried to have an open casket ceremony for his burial -- no deal. Nobody would let me see my husband's remains and that alone was clearly fishy, especially after all of his concerns and pleading with me to never to allow him to be taken to the hospital or be left alone. Afterwards. I was in shock and now for whatever reason, he was gone and I had to think of surviving and Nancy. I contacted Frank who knew Bob and his background. He said he'd keep his promise to Bob to help Nancy and me. One day when I went home to look for papers I needed to get Bob's pension from the army, I couldn't find them. I had this suitcase full of Bob's papers and important documents and it was gone. I know it had been there before because I had seen it recently and now it was not here. I turned that apartment upside down looking for it. Then. when I tried to get Bob's proper ranking after all his years in the military, they denied his rank and the pay I was entitled to. Then, when I complained about the treatment the hospital gave Bob. I was told "You can't sue the military". I was lost. I was 36 years old and already out of the labor market back then and dependent on Bob's pension. The whole life we had looking back was so strange to begin with and then to have such a vague and nebulous ending was really bizarre and upsetting.
 
@@ -1534,7 +1205,9 @@ My dad was the consummate military man -- John Wayne -a all the way. His life an
 
 Then, one day, when I was 5 or 6. Dad came home late after one of his responses to a call. He told mom and me about the reality of "other life than ours", creatures with big heads, big eyes and frail bodies and long, thin fingers. He said he wanted us to know they existed but we couldn't tell anyone. I keep thinking this is when my dad said he hit one and took it to the army guys. but my mother says we were with him when he hit one and she saw it -- and, yes, he took it to the authorities.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- ![image-61](images/image-61.png) --> -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 We saw the lights in the sky frequently. I grew up knowing "life...not like ours existed" and it made me question religion all my life. It was hard keeping that secret when everywhere people said UFOs and creatures didn't exist.
 
@@ -1548,7 +1221,9 @@ Also in 1960-61, we lived in Gardena. California for a year until I graduated. I
 
 Then, in 1962, we moved to a new apartment and moved again to a different apartment in the same complex that was nicer. He started easing off being away as much. But he got more worried as his health deteriorated a bit more than the military would "do something to him if he went into a hospital for any reason!" He warned mom about what to do if there were any problems and to stay with him, again just like the Presidio. Well, his ulcer I guess started bleeding and he went and fell in the bathroom one day and had to go into the hospital for tests and surgery. Mom was frantic, she'd yell at orderlies and nurses to get him things he needed and asked questions endlessly. The people at the hospital hated my mother and her insistence on staying there at all hours. Me -- they wouldn't allow much in the area. Dad went through the operation and was doing fine when one day we were told an orderly had dropped in the bath and ripped open his stitches. This was about a week after his surgery. He was put in intensive care. But within a week, one day when my mom and I came to see dad in the morning -- my dad told my mom that he had seen lights.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- ![image-62](images/image-62.png) --> -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 She came in to me in the
 
@@ -1564,9 +1239,10 @@ UFOs are redundant in the lives of the Malones as is the case among abductees, b
 
 To add to the mystery is a comment by Georgeanne that really makes the case macabre. She says, "The cemetery man (caretaker) and the mother do not believe there is a body in the ground. He told her, there wasn't any casket buried there in 1964."
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- ![image-63](images/image-63.png) --> -->
-
-### Epilogue: A Personal Perspective
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>Epilogue: A Personal Perspective</h3>
 
 To the average person worldwide, with an average education, regardless of cultures or religious beliefs, the contents of this monograph probably would be interpreted as pure nonsense. To them. who represent the backbone of civilization, they would probably find just as much credibility in ghosts, trolls, dragons or a pig with wings or maybe a cow jumping over the moon.
 
@@ -1582,7 +1258,9 @@ If this should be my last monograph on UFO crash/retrievals, I feel a warmth of 
 
 While the bulk of the work in the Roswell case has been accomplished by others since the Jesse Marcel revelations. I feel privileged being among the first to hear his disclosures (April 7, 1978) and the first, to my knowledge. to publish them in my paper. Retrievals of the Third Kind. July, 1978, presented at the MUFON Symposium in Dayton. Ohio. I am also proud of the fact that I have contributed other sources to the Roswell treasury of witnesses, having been first to publish the names of Mrs. Sappho Henderson. wife of the late "Pappy" 0. W. Henderson, who saw the retrieved bodies and flew some of the crashed UFO wreckage to Wright Field (thanks to John August): Beverly Bean, English daughter of Sergeant Brown of the 509th, who was involved in the retrieval operation (thanks to Timothy Good); Staff Sergeant Robert Slusher, crew member on B-29 flight which transported a top secret crate (bodies?) from Roswell to Ft. Worth. His name and others I got from a fellow crew member "Tim", my key informant, who still prefers anonymity.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- ![image-64](images/image-64.png) -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 All of the above, except the late Marcel. have since signed affidavits for the Fund for UFO Research.
 
@@ -1632,13 +1310,14 @@ many promising but inconclusive
 
 ventures into the UFO Hall of Mirrors --- the abode of the surreal.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- <!-- ![image-65](images/image-65.png) --> -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>UFO RESEARCH BIOGRAPHY: L. H. STRINGFLELD</h3>
 
-### UFO RESEARCH BIOGRAPHY: L. H. STRINGFLELD
+1) Formerly Director of international UFO research network, known as CRIFO (Civilian Research, Interplanetary Objects), 1953-1957. Was publisher and editor of monthly newsletter, Orbit. CRIFO was one of the world's largest groups In the mid-1950's.
 
-    1) Formerly Director of international UFO research network, known as CRIFO (Civilian Research, Interplanetary Objects), 1953-1957. Was publisher and editor of monthly newsletter, Orbit. CRIFO was one of the world's largest groups In the mid-1950's.
-
-    2) Worked cooperatively with the Air Defense Command of the USAF. 1954-1957. On their request. I screened and reported UFO activity occurring, real time, in the tri-state area of southwestern Ohio, northern Kentucky and southeastern Indiana. At that time, many UFO sighting reports came to my home from police departments. sheriffs offices, state police, the media and citizenry. I was assigned a code number -- Fox Trot Kilo 3 Zero Blue -- which would identify me at the telephone exchange to report, by phone, to the Air Defense Command Air Filter Center at Lockbourne AFB. in Columbus. Ohio. If my screened UFO report was confirmed by radar, or other means, Air Force interceptors were scrambled. At this point. I was told that the resultant actions were classified. The Air Force paid my phone bills. Published book. InsiOP Saucer Post 3-0 Blue in 1957 which reviewed, in part, my cooperation with the Air Force.
+2) Worked cooperatively with the Air Defense Command of the USAF. 1954-1957. On their request. I screened and reported UFO activity occurring, real time, in the tri-state area of southwestern Ohio, northern Kentucky and southeastern Indiana. At that time, many UFO sighting reports came to my home from police departments. sheriffs offices, state police, the media and citizenry. I was assigned a code number -- Fox Trot Kilo 3 Zero Blue -- which would identify me at the telephone exchange to report, by phone, to the Air Defense Command Air Filter Center at Lockbourne AFB. in Columbus. Ohio. If my screened UFO report was confirmed by radar, or other means, Air Force interceptors were scrambled. At this point. I was told that the resultant actions were classified. The Air Force paid my phone bills. Published book. InsiOP Saucer Post 3-0 Blue in 1957 which reviewed, in part, my cooperation with the Air Force.
 
 3) Assigned as Early Warning Coordinator for the Colorado Project. headed by Dr. Edward Condon, 1967-1969. This was a government- sponsored scientific group, headquartered in Boulder. Colorado. I screened and reported UFO activity in southwestern Ohio to the project's headquarters.
 
@@ -1654,7 +1333,7 @@ ventures into the UFO Hall of Mirrors --- the abode of the surreal.
 
 10) Formerly Director of Public Relations and Marketing Services for DuBois Chemicals, Division of Chemed Corporation, headquartered in Cincinnati. Ohio. Retired January 1981 after 31 years of service.
 
-
-## Repeated content (headers / footers / watermarks)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>Repeated content (headers / footers / watermarks)</h3>
 
 Page-edge and repeated content was moved out of the body to keep reading order clean — kept here, not deleted.
