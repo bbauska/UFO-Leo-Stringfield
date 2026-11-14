@@ -1021,6 +1021,7 @@ incidents."
 <h3>Part 5 - UFO Crash/Retrievals, Status Report VII</h3>
 by Len Stringfield
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Geriatrician Diagnoses Ailing Alien</h3>
 A well-spoken lady called me September 25, 1993, using "Beth," her
 made-up name. This introduction had been arranged, on my suggestion,
@@ -1052,6 +1053,7 @@ voice box which leaves a long trail of questions. Of course, if it had teeth
 (Beth did not know), it probably also had a digestive and alimentary
 system. Also, was it a crash victim or a guest?
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>An Anecdotal Classic</h3>
 
 There is something extraordinary about this Hall of Mirrors case which
@@ -1066,12 +1068,778 @@ find that some fit into the scheme of events occurring in 1947 as I know
 them, and others that suggest foul play and harassment that are either
 imaginative or contrived by outside manipulators.
 
+Potentially, the Simpson story is a breakthrough - mainly because it
+involved her alleged association with a person who can be rated as one of
+the world's greatest scientists. Professor Simpson also claims that she has
+various kinds of material evidence to back up her claims, including
+photographs of her and the scientist together and still others that show the
+alien craft and the entities. But after a long wait, the evidence never came.
+Despite excuses, there are pluses in her testimony about her experiences
+and maybe there are some plausible explanations for these shortcomings.
+
+The story began for me with a phone call from a long-trusted researcher in
+Florida, Sheila Franklin. She confided that she had learned some basic
+details from an associate who got Simpson's story from one of her
+students. The rest of it she got on tape when she, accompanied by two
+friends, were privileged to interview her in a restaurant near her college in
+another city. A copy of the confidential tape, dated July 10, was sent to
+me so that I could join in on the investigation.
+
+Because of the impact of the retrieved evidence on the scientific
+community and the craft's high-tech military potential, scientists and
+others on a need-to-know-basis were invited by the authorities to see the
+craft and crew members - some still alive - at a secret location somewhere
+in a southwestern state.
+
+Listening to the tape, it contained basically general information in
+response to Sheila's questions. Apart from Simpson's claim to have seen
+"nine bodies," her most stunning disclosure was that she had 48 photos
+showing the aliens and some were close-ups. But her story became vague
+when she explained that she had most of them in a briefcase in her car
+which had been stolen. The photographs were missing. She also spoke of
+being under surveillance and complained of many kinds of harassments,
+house break-ins, muggings, and many other strange happenings - all a
+apropos to having been in the proverbial Hall of Mirrors. Sheila Franklin's
+in-depth observations in her role of the case appears at the close of my
+investigations.
+
+According to bits and pieces of information gleaned from 15 phone calls,
+starting September 4, with Professor Simpson, here is a chronicle of her 9-
+day adventures.
+
+As a top science student in competition with many nominees, Sheila won
+the honor of being selected as a summertime trainee under the wing of one
+of the world's greatest scientists. It was during this summertime course in
+1947 that she got a fortuitous invitation to join her mentor on a scientific
+mission at a secret location in southwestern USA.
+
+Boarding a commercial airliner with a stopover in Chicago, she was
+among the scientist's entourage landing at a small airport. When I probed
+for clues as to the airport location, at first she thought it was at Edwards
+AFB because it was a well-known base in a desert area. However, when I
+informed her that the base in 1947 was not named Edwards, she then
+admitted that she was unsure of the name and just assumed that it was
+Edwards. I then asked if she was familiar with the name Muroc, the base's
+name in 1947. "Maybe," she said. "I've heard that name, but I'm not sure."
+
+In later talks, I again tried to locate her landing field or airport. "I'm sure
+it was not Los Angeles," she said, "but I remember it was a small airport -
+maybe in New Mexico or even Phoenix. No one told me anything. After
+all, I was just a peon."
+
+Still hoping for clues, allowing for the passing years when memory fails, I
+checked with Tim Cooper - a research authority on military bases, nuclear
+installations and rocket test sites in the late 1940s. In response, he sent me
+a raft of material on Muroc, which he considered as a possible storage
+area. But his guess for the rendezvous was either Albuquerque, Los
+Alamos or near White Sands Proving Grounds, all locations where need-
+to-know dignitaries had allegedly convened to see the evidence. This
+included viewing the crash victims reportedly flown to Ft. Worth from
+Roswell and on to a secret location. But, back to Muroc, he referred me to
+his source, a former Air Force operations officer, reminding me that I had
+quoted him answering questions in my book, Status Report VI as follows:
+
+<blockquote>
+"Cooper: Did the Air Force recover flying discs?
+Answer: Yes. Some were found in 1946 and 1947. Some in the
+Mojave Desert and some in New Mexico.
+Cooper: Where were these discs taken to?
+Answer: Some to Muroc and others to Langley. They wanted to
+know what they were made of and how they worked.
+Cooper: What were these things that were taken to Muroc?
+Answer: They were 'lifting bodies.' They looked like inverted
+bathtubs."
+</blockquote>
+
+Wherever Simpson's group landed, they were greeted in rainy weather by
+an officer of high rank. She believed he was a colonel because she could
+see what looked like a silver eagle on his shirt collar, hardly visible under
+his raincoat with an attached hood. In a military vehicle, she said, they
+drove 50 to 75 miles across desert to a base with scattered buildings.
+Unlike the others in her group, who probably stayed at the base, she was
+escorted to a small motel.
+
+During her stay at this location, Professor Simpson recalls visits to a well-
+guarded old hangar. Inside, she got her first glimpse of the aliens on
+display for all to see. "Some of the specialists," she said, "were allowed
+closer looks, including my boss. To me, they all looked alike - all five of
+them. They were about five feet all, without hair, with big heads and
+enormous dark eyes. And yes, their skin was grey with a slight greenish
+tinge, but for the most part, their bodies were not exposed since they were
+dressed in tight-fitting suits. But I heard they had no navels or genitalia."
+
+After a brief pause, Simpson went on. "One of the aliens stood out above
+the rest. It had a bilious green fluid oozing from its nostrils. But it was
+strange. After exposure to the air, the ooze gradually became bluish and
+suggested perhaps a copper or cobalt base. I'm guessing, but it might have
+seeped from a gall bladder-like organ. In fact, I wondered if it was still
+alive, but I wasn't close enough to see any body movement or hear any
+comments from the medics."
+
+In the same hangar at its far end was the alien craft. "It was disc-shaped,
+sort of concaved," she said, and then added in a piteous moan: "I'm a
+terrible judge of size and distances, but I'd say its size took up about one-
+fourth of the hangar floor."
+
+Sounding a little disappointed, Professor Simpson said she could not see
+much of the craft's features as she was not allowed to get up close for a
+good look. Besides, there were too many technicians and military people
+standing around it. But she did observe that one side of the craft was
+severely damaged. Notably, she was told, that some of the privileged
+onlookers were pilots. But there, before Professor Simpson's eyes, was the
+proof of an alien mission and its failure. "My reaction," she said, "was
+wonderment, half curiosity and maybe half fear."
+
+After pinning down the time-frame of her trip with the eminent scientist to
+the early part of July in 1947, I asked the key question: Was the saucer
+you saw the one that crashed near Roswell? Her non-committal response:
+"No one said that it was from the Roswell crash, but I did hear that name
+pop up during my trip. Now, remember, I told you that they didn't tell me
+anything of importance. No secrets and no details. My boss who had the
+right clearance made a report, which I didn't see. I was just told to keep
+my mouth shut."
+
+One day during her stay over at the base, something unexplained happened
+that caused a change in her schedule. She and her team were boarded into
+a troop carrier "with a canvas top" and driven about 50 miles across desert
+terrain, escorted by jeeps to an isolated building with a number of vehicles
+parked outside. In the distance, she could see many one-floor buildings
+and a bustle of activity.
+
+Once ushered into the lone building with guards at the door, her group
+was greeted by an officer and directed to an area where medical and
+uniformed people were concentrated around a gurney on which was a
+patient struggling in pain. At times, it was prone and then it sat up trying
+to free itself, making strange groans. But it never spoke. Although she
+was kept at a distance, she said she could readily recognize that it, too,
+was a grey alien biped that looked more human than the other five she had
+seen. At one instant, according to Professor Simpson, its whole torso
+incredibly expanded, looking grotesque, and gave the attendants a hard
+time keeping it restrained. "It must have been a fresh case," she said. "But
+I was told nothing and before long, all of us were dismissed from the
+premises." She learned later that the injured alien survived.
+
+For the sake of posterity and edification, I asked Professor Simpson -
+based on her observation- for the reaction and/or any comments by her
+esteemed scientist who had more access to privileged information.
+Without hesitation, she said, "He was not disturbed at all by seeing the
+actual evidence. I didn't record in my notes is initial comments, but he
+said something to the effect that he was not surprised that they came to
+Earth and that it gave him hope that we could learn more about the
+universe. Contact, he said, should be a benefit for both of our worlds."
+
+Later, I tried again to get more about his reaction, hoping to learn what
+might have interested him the most. Her response: propulsion and more
+about the universe.
+
+"On the sensitive subject of secrecy, Simpson commented: "We were
+reminded daily of our pledges of course, but I signed no papers. However,
+I was surprised to see photographers who were free to take photos, even
+movies of everything in view. Thanks to a trusting member of our group,
+I managed to get a set of photos. I kept these hidden for years until I made
+a mistake and showed one to a student and the word got out."
+Photos of real aliens? Photos are not proof of anything. Most, in
+UFOlogy, are fakes. But the thought that having a number of shots
+showing bodies in various positions and close-ups of a face, a hand or
+even atrophied genitals, as I told Simpson, would be a "godsend." At
+least, it would substantiate her claims and would, undoubtedly, open the
+eyes of medical specialists.
+
+The original plan was for Simpson to show Sheila Franklin the photos and
+other pertinent evidence such as dated letters, postmarked envelopes,
+school momentos, or any other materials, to lend credence to her case
+which I would accept in trust. Nothing materialized. Finally, on October
+27, I called Simpson to explain that I had reached a deadline. I needed the
+promised evidence if her story were to be published credibly in my new
+Status Report. In the interim, I said a FAX or photocopy of the original
+would do. Then I advised that she should call Sheila to visit her to see its
+original. To my surprise, she said that she had already started searching
+her office files where she knew she had hidden a photo in a folder with
+other notes about her secret trip. "So far, no luck," she said, "but I'm sure
+I'll find it." Then came the shocker. "I've already decided to send the
+photo to you with my permission to publish it in your report."
+
+As she suggested, I called her the following day,. She had finished her
+search and added glumly, "I found the right folder, but the photo and
+some of the notes were missing." Needless to say, I was disappointed.
 
 
+Did she, or did she not, at any time have photos? If so, were those kept
+hidden in her home taken during a house break-in which happened several
+times. Was the photo in her office also rifled? And what of the other
+photos of a total of 48 she mentioned on tape? If her collection of photos
+were as revealing as she claimed, then it can be assumed that she would
+have been a victim of surveillance, search and seizure.
 
+According to Simpson's mathematics, the live alien on the gurney - plus
+the five supposedly deceased in the hangar with the craft - total six. What
+of the other three of the nine she claimed were in custody on her tape
+interview? When I questioned the discrepancy, she was quick to point out
+that the others were in reference to aliens she heard about taken from
+crashed UFOs in Russia.
 
+How does Simpson's adjusted figures relate to Roswell? Frankly, we can
+only guess. According to her vague testimony about Roswell, we cannot
+conclude that any of the bodies were retrieved from that sector. To further
+complicate the issue of a body count, there were three other crashes in
+New Mexico during the same time-frame in 1947. Tim Cooper in his
+research named three locations.
+
+Researchers, Don Schmitt and Kevin Randle - authors of UFO Crash at
+Roswell, in their in-depth investigations into Roswell - suggested initially
+that four bodies were retrieved. However, despite the early version,
+Simpson remained adamant about her observation of five bodies which
+she believed came from the crash site. For an update, I called Mark
+Rodeghier, Scientific Director of CUFOS, at his office on November 6,
+1994, for his latest assessment of the Roswell retrieval figure. He said that
+two new independent sources that had surfaced in 1993 claimed they had
+witnessed five bodies and that there were a few other claimants who had
+earlier used the same number. While it is beyond the scope of this paper
+to analyze the Roswell retrieval operation, this one correlative detail not
+only gives credence to the two new informants, but also to Simpson and
+the probability that her "five" were from Roswell.
+
+<!-- page 515 / 590 -->
+
+<h3>Addendum</h3>
+
+I called Professor Simpson on November 11, making an urgent appeal for
+the photos she claimed she had hidden somewhere in her home or any
+other evidence that we had discussed in the past two months. Her response
+brought me to the edge of my seat: "I sent two photos to you about four
+days ago," she said. "I thought you were calling me to say you received
+them. One was a good close-up. I packed them carefully with cardboard
+between each photo."
+
+Later that day, I had a gut feeling that something was amiss. I remember I
+had instructed her if she found the mislaid photos that she should first
+make a photocopy to send to me by mail. Then, I suggested she call
+Sheila as had been rearranged to show her the originals and let her deliver
+them to me the safest way. As an alternative, I suggested that once I
+received the photocopy or even a FAX, she could send the originals to me
+by registered mail or Federal Express.
+
+The photos never arrived.
+
+Following is a profile of Professor Simpson by researcher Sheila Franklin
+based on her keen observation of her behaviorisms and revelations during
+a personal interview on July 10, 1993:
+
+<blockquote>
+<h4>"The Professor and the Professor</h4>
+
+Edith Simpson is one of those special teachers that we remember.
+She knows how to stimulate an often-difficult subject matter and
+make it palatable and digestible. That is why I heard about her.
+Simpson is a professor at a southern college in the department of
+Earth Sciences. My friend Wanda's son is one of her students,
+probably one of her more favored students, since Wanda also has a
+social relationship with Simpson. When Wanda heard about my
+interest in UFO research, she suggested that I meet Edith Simpson.
+She said that Simpson, in an attempt to keep students' minds open to
+the infinite possibilities in the cosmos, told an incredible account of
+her personal experience with the unknown. Simpson said that in
+1947, she had seen with her own eyes the bodies of non-human
+occupants of a spacecraft and the remnants of the craft in which they
+had crashed. Of course, I asked Wanda to set up a meeting with
+Edith and to do that as soon as possible. It took over 3 months until
+we met.
+
+We met at a restaurant that Professor Simpson favored. It was across
+the street from her home. She had been going there for many years
+and knew everyone. Simpson brought along her long-time friend,
+Marge. My friends Susan, Wanda and I completed the dining group.
+Professor Simpson is a tall, sturdy woman, 64-years-old. She has a
+commanding, pedagogical presence. She is definitely not a wimp.
+She uses language very precisely. Accustomed to the paranoia of
+UFOlogy and witnesses' fears of being seen or heard in public, I was
+amazed at Simpson's lack of paranoia. I had my tape recorder and
+microphone out and asked if there was a more private space to hold
+our conversation, but she insisted that it was perfectly fine to
+interview her right in the center of the dining room, while we were
+being served. She made no attempt to lower her voice or mince her
+words. It was her ball game and ballpark. Waiters and other diners
+must have overheard our conversations. Apparently, Simpson did
+not seem to care and she had quite a bit to say.
+
+Edith Simpson was a very bright student, probably brilliant. Her
+interest was in the sciences. In the summer of 1947, she was one of
+the university students chosen to study advanced physics with a
+world famous scientist at an eastern university. It was a dram come
+true for her. The time spent with him that summer was more of an
+experience than she had expected. The Professor, as she called him,
+was very warm and friendly to all he met. He especially took a
+liking to her.
+
+While she was with The Professor that summer, he was summoned
+by the U. S. government to come to an emergency meeting, a
+gathering of the elite in many areas of sciences and military, to a
+place in the southwestern or western United States. Edith Simpson,
+18-year-old student, was asked by The Professor to go with him to
+his special meeting. Since all of the students that were studying with
+him that summer needed a security clearance, she already had one
+and was allowed to attend the meeting with him, as part of his
+entourage. She had no idea, at the beginning of the trip, what would
+ensue.
+
+The details of her experience of the meeting are examined in the
+foregoing section of Stringfield's monograph, but how Professor
+Simpson related the details to me, I believe, is more than interesting.
+She did not expect such an intense inquisition on my part. At first,
+her responses were somewhat limited, at times cryptic. Often, she
+would return to a past vague statement and embellish the details as if
+some kind of veil was being lifted away. Sometimes she would say,
+'I haven't really thought about this in a long time,' or 'I don't
+understand why I don't remember this now. I should know this!' The
+more I prodded her and returned to past questions, the more she
+seemed to have definite responses. Her eyes reflected brightly with
+every newly remembered data bite. I wondered whether she was
+really remembering or just giving me what I wanted to hear.
+Probably, the answer to my own internal query came in further
+questioning.
+
+I asked Simpson if after she returned to academic life she ever had
+any follow-up hone calls or contacts with any government agencies.
+At first, she replied that she didn't think that she had, although soon
+after she returned, she had a feeling that someone was listening in on
+her phone calls. But it was just a vague feeling and nothing came of
+it. Then, Simpson recalled an experience she said she had forgotten,
+but upon my questioning just remembered. She said that she was
+called out of her college class by the Dean.
+
+He introduced her to a woman that he called a 'psychologist.' He said
+that the 'psychologist' wanted to ask her some questions and that she
+should go with her. Edith followed her to a cleared out utility closet.
+There were just two chairs in it. They sat down and the
+'psychologist' proceeded to ask her one question: 'As a child, did you
+walk or talk first?' The next thing Edith could remember was that she
+looked at her watch and it was an hour and a half later! She couldn't
+recall anything that had transpired in that hour and a half. Professor
+Edith Simpson said, 'It was just as if she had hypnotized me,
+although I had nothing to hide. But I just didn't know what the probe
+went to.'
+
+I thought that off-handed statement about the 'psychologist' could be
+important. It might prove the beginning of a mind control scenario,
+one way or another. I asked whether she had ever had any buzzing or
+ringing in her ears currently. or in the near past had any strange
+phone calls come at regular intervals? Simpson looked across the
+table at her friend Marge and they shared a knowing glance. 'Oh,
+yes, I often have had phone calls where no one was responding.' At
+first, Simpson said that she thought that they were just 'wackoos'
+who were interested possibly in breaking into her home. But then
+she continued, 'I thought for several years that maybe the
+government wanted to know whether I was telling anybody about
+what happened and they'd listen in and I sensed that. But that was
+just my own perception and has no basis in fact whatsoever.'
+
+Professor Simpson has a penchant for ambivalence on the matter of
+government concern about what she knows. At first, she denies that
+there is any interest in her and then she indicates the polar opposite
+of that position. On one hand, she feels she is nobody important and
+in the next statement she states an experience of feeling watched.
+She stated another incident while she was working at her current
+college where a 'couple of Federal men came by one day and asked a
+lot of general questions about me to different people. I wondered
+what they were asking those kind of questions for?'
+
+Professor Simpson revealed that she has been having continual
+problems with the IRS since 1975 that have not been resolved yet,
+even though she has affidavits from many witnesses regarding the
+existing problems. Then there is the unending scenario of disputes
+she has with her local municipal government-related to her home
+property. She is currently in court over these. In the last few years,
+her home phone service has been regularly interrupted. For the last
+three months, there has been a constant busy signal on her line. She
+has not been able to use her phone. The phone company says it is a
+problem within the home lines and Simpson maintains that it is the
+Bell System. No matter, she is incommunicado by phone and is only
+reachable at her school's office.
+
+Most bizarre is Professor Simpson's being the one woman victim of
+a major crime wave. In the last seven years, she states that she has
+been subjected to six home invasion burglaries, fifteen muggins (we
+were shown scars to corroborate this fact), and numerous car thefts
+and break-ins. Professor Simpson's friend, Marge, shook her head in
+agreement to all of this terror. I asked Marge, who is older and more
+fragile-looking than Simpson, if she has encountered the same
+problems. She replied that she just had one mugging only! Showing
+my incredulous reaction at the large number of criminal events in
+Edith Simpson's last few years, I said, 'Don't you think that is an
+outrageous amount of crime directed at you?' Professor Simpson
+shrugged off her response with, 'This neighborhood isn't what it used
+to be.' My friends and I looked at each other and knew that there
+must be more to this than just a neighborhood in transition.
+
+There certainly was. Perhaps the reason for all of this crime was the
+fact that Professor Simpson said she had in her possession forty-
+eight 35mm photos of what she saw with The Professor in 1947. She
+said that the 'scientific group' that was there had access to them. The
+spaceship and the dead aliens, in both full figures and parts of
+bodies, appear in them. I asked her if I could see the photos and
+Professor Simpson replied that most of them are no longer in her
+possession. She said that her car was stolen from a large shopping
+mall and that the briefcase in which she carried most of the photos
+was in the stolen car. Simpson said that the car and the photos have
+been found and retrieved, but that the police refuse to release them.
+She says that the police told her that they had the photos even
+though she did not list the contents of her briefcase on the police
+report. She was afraid to say what the photos were, due to her
+position at the college and in the community. Although when the
+police told her that her car had been found, they also mentioned they
+found the photos and made sarcastic remarks about the subject
+matter. She said that she was afraid to make an issue about the
+photos since she was having so many problems with the local
+municipal government, but would take up the issue of their return
+once her problems have been resolved.
+
+The level of high strangeness in the every day life of Professor Edith
+Simpson seems to be more than the average person can tolerate or
+endure. There was a period of missing time in Simpson's life that
+occurred about 5 years ago. One Friday night, she went to sleep and
+was awakened the following Monday morning by her friend Marge
+and Marge's husband, Allan. The couple had tried to phone Simpson
+the entire weekend, but with no response. They feared that she was
+dead, since her car was in the driveway and she was expected to be
+at home. Allan had to break a window and enter her home. They
+found her asleep in her bed. Professor Simpson said that she could
+not remember anything about that weekend, including getting up to
+go to the bathroom. She said it was a total blank in her mind. She
+supposed that she might have had the 'flu or something.'
+
+In my attempt to corroborate Professor Simpson's statements, I had a
+number of dead ends. She was vague on specific dates and having a
+very common first and last name, the computer lists of incidents of
+crime are difficult to penetrate. I know for sure that she is, indeed, a
+professor of long time standing at the college. She is also well-
+known and has resided in the same community for 50 years. She
+showed no anxiety about discussing the issues of 1947 and The
+Professor she adored. If she did experience the viewing of the aliens
+and the craft with The Professor, it is very possible that she might
+be under mind control and surveillance by governmental agencies
+and has been since the viewing first occurred. This would explain the
+session with the 'psychologist,' the 'lost weekend,' and the vagueness
+about dates that things occurred. It also might relate to the
+municipal, IRS and telephone problems. But if she truly was under
+mind control and pressure, why would she even mention her
+experience - let alone say that she has photographic evidence to
+substantiate this?
+
+If Professor Edith Simpson is not telling the truth, what would be
+her motivation? She has a lot more to lose than to gain. She is an
+esteemed member of the community and has a job where being a
+weirdo is not well-tolerated. She carries herself with dignity and is
+very articulate. If she is nothing but a nut, she could easily fool a lot
+of people into believing that she is telling the truth. But then there is
+also the chance that the 'powers that be[' want us to THINK that she
+isn't playing with a full deck and WANT us to feel that she lacks
+credulity! Simpson knows some details about a 1947 crash case that
+has not been published, although, there are still many missing pieces
+in that puzzle that she created for us."
+</blockquote>
+
+Len Stringfield: There was one last effort to procure the photo. After I
+had expressed my dismay that I had not received the two photos she
+claimed she sent by First Class mail, I told her on November 18, that I
+would ask Sheila to call her to make an appointment to visit her college or
+her home to obtain the duplicate copy. Sheila called and Professor
+Simpson, busy, agreed to call back Monday, November 22. She did not
+call. On November 23, Sheila called again offering to visit her at her
+earliest convenience, but her response was a story of woe.
+Following is Sheila's brief account that describes our failure to produce
+what could have been a pictorial breakthrough. But, the Simpson scenario
+might have had other arcane ties. Sheila explains in this, her final report
+dated December 9, 1994, a sudden shift from Simpson to her own sinister
+happenings which follows.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>Part 6 - UFO Crash/Retrievals, Status Report VII</h3
+
+by Len Stringfield
+
+<h3>Words on a Window Frame: A Whimsy or a Warning?</h3>
+
+<b>Investigator Sheila Franklin:</b> "On November 23, 1993, I had my last
+phone conversation with Professor Simpson. It was not satisfactory to me.
+She had a litany of problems that led to excuses as to why she could not
+provide 'copies' of the photos we requested. The problems she enumerated
+were so many and so burdensome that it seemed more than one sixtyish
+woman alone could bear. At the end of our lengthy conversations, she did
+what she always had done. She promised our satisfaction, but sometime
+way down the line. After all of the months of dealing with her, I did not
+expect anything more of her.
+
+Little did I anticipate that I had a surprise on the way. On November 24,
+1993, after I had completed an early morning tennis match, I went to
+answer the phone in my den. As I was seated at my desk, I turned to the
+windows that faced directly out at the ocean. The windows are modern
+awning-type that have metal frames. They encompass three windows
+together each with four panes that open in an awning-type fashion. In the
+center window on the center metal frame, I thought I saw some kind of
+writing. I went to the window and could not believe my eyes. There,
+deeply etched into the metal, were the words - COME HOME MY LOVE
+- and what looked like the initials O. H. I was shocked. I tried to rub the
+words out, but they wouldn't erase. They were engraved into the metal. I
+look out of the window every day that I am home. It is my favorite
+window to stand in front of, since it has the best view. I have lived in the
+apartment for thirteen years and never saw this writing before and it
+would be hard to miss! I check out the weather there every day, especially
+the days that I am playing tennis. Why and who would do this? How and
+when did they get into my home?
+
+My first thought was to check with the cleaning person, Yvonne, who
+worked for my condo and also cleaned my apartment and windows every
+two weeks. She has been doing that for eight years and is absolutely
+trustworthy. I wanted to know if she had ever seen this before. She had
+just washed the windows five days prior. She said that she had never seen
+the writing before. I then beeped my friend, Don, who had remodeled my
+apartment nine months prior and knew every inch of the place. I had him
+inspect the engraving and he, too, said that he had never seen that before
+and would have noticed!
+
+The fact that there was no evidence of a breaking or entering really
+bothered me. There also was nothing missing or out of place. That meant
+to me that the intention was not criminal, even though the act was. How
+did the person or persons get into my apartment? The only people who
+had keys besides myself are my mother and Yvonne. I live in a building
+that has 24-hour security guards at the main entrance, but for the days
+from November 22-24, 1993, the service entrance was fully open and
+unlocked, due to the laying of hallway carpeting in the building. It would
+be quite easy for someone/s to slip into the building and ride the elevator
+to my 10th floor apartment completely unnoticed.
+
+What I found most ominous was the message engraved into the window
+frame - COME HOME MY LOVE. It certainly sounded chummy, kind of
+like an unrequited lover or a languishing one. To my knowledge, there is
+no one in my life that fits that stereotype. Romance has not been my
+focus, since I got involved in UFOlogy.
+
+The logical progression then is to assume that this is linked to the case of
+Professor Simpson. I am sure that the verbiage used in the message was
+meant to be construed by the non-cognoscenti as innocuous, nebulous and
+shoulder-shrugging. If it was threatening, it would be more damning to
+the agent/s involved and lend credence to the illegal entering of my home.
+I decided to make a police report on this, even though I knew that it
+would be considered a non-event to them, as there was no real evidence of
+a crime, other than my say-so. The police officer took the information and
+it was stated on the police report as a 'Miscellaneous Incident.' The officer
+said that in over 22 years of his time on the force in the area, it was the
+first time he had ever been to my building for any kind of an incident. I
+agreed with him that in the 13 years that I lived in the building, there had
+never been a burglary by an unknown individual.
+
+An important postscript to this relates to possible phone surveillance on
+others who are connected to me. After this event, I decided to phone my
+good friend, confidante and private investigator, Andy. When I told Andy
+what had transpired, he thought it quite bizarre, even for agents. He also
+mentioned that he had been having anomalous drops on his phone lines.
+He would lose phone calls in mid-conversation. His contact within the
+phone company could not understand where this draw on the line was
+coming from, even though it appeared that the phone computer room tap
+was off his line. Now, two weeks have passed. Andy states that he and his
+wife have tried to phone me from their home and cannot get my phone.
+He said that a recorded phone message comes on saying that my phone
+does not accept incoming messages, or there is a continual busy signal,
+despite the fact that I have call-waiting. No other people have indicated
+the same problem with my phone.
+
+Concurrently with Andy's phone problems, my friend, Don, who I had
+beeped initially about the engraving, also had immediate problems with
+his phone. He could not get any calls out and only one call in on his
+phone. He was very upset since it included Thanksgiving Day, when he
+wanted to phone his family. When he checked with the phone company,
+no reason for the problem was given. The service interruption disappeared
+after two days.
+
+My conclusion to this event of very high strangeness is that there is no
+doubt someone/s unknown illegally entered my home and defaced my
+property with the intent to intimidate me. The synchronicity time-wise, it
+appears, relates to the completed case of Professor Simpson. Why 'they'
+waited for completion is questionable. Perhaps, it is meant to be a
+permanent reminder of the eternal vigilance of the agents."
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>An Alleged 1952 UFO Crash The Media and The Censors</h3>
+
+My source for this story is Robert Oliveri, an electronic technician, reaching
+him at his lab in August 1993. Robert is a cousin of Joe from whom he learned
+of the New York newspaper's headline story of a UFO crash in 1952 and of the
+events that followed at his parents' apartment in the Bronx. According to
+Robert, Joe's father overheard a brisk discussion between two government
+agents and his neighbor, an occupant below him on the third floor. The gist of
+their inquiry was to ascertain whether a copy of the newspaper was purchased at
+the nearby newsstand. Robert is not sure whether or not the neighbor
+surrendered his paper, but his uncle reasoned that he would be next to face the
+inquisition. Acting on an impulse, he hid the newspaper under the kitchen
+linoleum.
+
+Commented Robert, "In those days before air-conditioning, occupants in hot
+weather depended on screen doors and rarely closed doors to allow for
+ventilation. Everybody knew everybody else's business."
+
+When the inquisitors came, Joe's dad explained that he had not yet bought the
+evening paper and out of curiosity asked simply, "Why all the concern?" The
+frank response: "A flying saucer story got into the paper which was not true
+and the government feared that it would upset the public."
+
+Like a dreaded curse, the newspaper was left to rest in its tomb under the
+linoleum until the early 1960s. Knowing of his son's blossoming interest in
+UFOs, he finally opted to uncover and show him the newspaper, now yellow
+with age, and to admit his feelings of guilt when he misinformed the agents.
+Stunned, Joe shared his secret with cousin, Robert. Regrettably, the fate of the
+newspaper is unknown. Joe believes that his dad returned it to its grave under
+the linoleum. Three years later, Joe and family moved to Florida, minus the
+newspaper.
+
+According to Robert, the photo in the newspaper first caught his eye. Taken by
+a flash camera at night, the disc-shaped craft had crashed head-on, submerging
+tilt-wise into a sandy terrain. No windows were visible, he said, but he recalls
+seeing an opening on the underside of the craft's tilted rear. Around the disc
+were many footprints apparently made by retrieval personnel, but no one
+appeared in the picture.
+
+Looking back into the early years of UFO activity, starting with the Roswell
+incident in 1947, most of its low-level sorties were concentrated over military
+bases, nuclear, rocket and missile test facilities and high-tech industrial sites.
+
+Indeed for the U. S., these were perilous times. Geopolitically, a war of
+aggression raged in Korea. Communist China menaced all of Asia and of even
+greater consequence, was the threat of nuclear war with a hostile Soviet Union.
+
+Equal to these terrestrial problems were the unpredictables of a UFO incursion.
+Boasting strategists, however, believed that the U. S. could cope with the
+world's tensions, having confidence in their early H-bomb and missile
+superiority. But the non-terrestrial UFO was anathema; a scientific
+embarrassment and a potential trouble-maker for mankind's philosophies,
+religions and eventually the economy. Despite the evidence of UFO crashes,
+losing aircraft during intercept missions, and some frightening encounters with
+nondescript entities, the strategists devised a plan to hide the real facts and in
+many clever ways, manipulated the public into thinking that the interloper and
+its little green men were a fantasy.
+
+In spite of secrecy and censorship, there is leakage of sensitive information.
+But, without official confirmation, it fades into the rumor mills and if the name
+of the source is not revealed, the media is not interested.
+
+<h3>Media Censorship and UFO Cover-Up</h3>
+
+Now for a look into the early role of the media in the UFO cover-up and its
+submission to censorship.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!-- page 526 / 590 -->
+<h3>Part 7 - UFO Crash/Retrievals, Status Report VII</h3>
+
+by Len Stringfield
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>FBI Confiscates Newspapers and Magazines About UFOs</h3>
+
+According to several sources, there were instances when news of a UFO crash
+broke through the censors and reached the newsroom of a TV or radio station or
+a newspaper['s city desk. With firsthand facts and photos, the big story was
+released and then, presto! squashed.
+
+In one case in 1952, a New York daily newspaper headlined a crash story in its
+"bulldog" or 9 PM edition. Copies were delivered as usual to newsstands, the
+first loads going to a neighborhood in the Bronx. Official reaction was swift.
+Agents, thought to be the FBI, took the remaining copies at the newsstands and
+made a door-to-door sweep in all the nearby apartments to round-up any of the
+bulldog strays.
+
+"Most of the copy about the crash, I've forgotten," lamented Robert. "I do
+remember that three bodies were recovered: two were dead, one injured, still
+alive. The crash site, too, is not clear. I believe it occurred in New Mexico or
+Arizona because the terrain was sandy like a desert."
+
+Also, the name of the newspaper is disputed. Joe thought it was The Daily
+News. Robert thought it was The Daily Mirror. "Both formats were similar,"
+said Robert. But most of the key questions might never be answered. Probably
+all the copies of the bulldog edition were confiscated, either on arrival at the
+newsstands or earlier at the newspaper offices and distribution center. I also
+wonder if the source of the story was UPI or AP news wire services and if so,
+what happened at the various other media nationally? Or, was it an independent
+scoop? Whatever the case, it was a matter of national security to squash a UFO
+crash/retrieval incident.
+
+Other early examples of a submissive media to UFO censorship were published
+in my Status Report III, UFO Crash/Retrievals: Amassing the Evidence. One,
+occurring the same year, 1952, as in the Oliveri case, was reported by Richard
+Hall, then editor of the MUFON UFO Journal at the Fifth Annual Mufon
+Conference in 1981. Said Hall, "I personally heard a radio news report about a
+crashed saucer and occupants - one said to be still alive - about 1952, while I
+was working in a general store. Being young and naive in those days, I made
+little effort to document the story beyond listening for additional news on
+following newscasts, which of course, never came. I should have called the
+radio station, talked with the wire service persons, checked newspapers in a
+library and so on. Since I didn't, the story remains only an interesting anecdote."
+
+In 1980, George Fawcett, veteran researcher in Lincolnton, North Carolina,
+gave me the name of Leon Crice to call who distinctly remembers TV Station
+WDEL-N, Wilmington, Delaware, being cut off the air when showing a
+newsreel about a crashed UFO. I called Crice in April 1980 and quote part of
+his story here that was published in Status Report III: "It was about 1948," he
+said, "when my wife and I were watching the news on our new TV set that a
+disc-shaped object was shown stuck, slightly tilted, in a sand dune. It had a
+dome at the top and no windows," adding, "I recall that the narrator said that it
+crashed on the Mexican border near the Rio Grande (river)." As the film rolled,
+Crice said, it clearly showed soldiers moving around the object and in the
+background were jeeps, a low-boy rig and crane and some Mexicans watching."
+He also remembers that when the narrator mentioned bodies being recovered
+and that the craft had been shipped to an air base in California, his voice was
+cut off and the TV screen went black. There was no station apology and
+seconds later, the news continued on another subject.
+
+Then there remains the unsolved mystery about an issue of a popular magazine
+in 1948 that published an exclusive story about a crash incident - with photo -
+and, lo and behold, it vanished. Well, almost vanished, except for a few copies
+that slipped into the hands of researchers. At first, claimants said they had
+"seen" the ill-fated story in the Coronet. But none was able to furnish a copy.
+Unfortunately, this story of confiscation was published in Status Report III
+which evoked a lot of interest. As a result, many dedicated researchers spent
+considerable time in libraries hoping to find the prodigal issue. Their search
+was futile.
+
+Then from out of the woodwork, other deep-throaters surfaced with a new
+twist. They contended that the expose was not in Coronet, but in Pageant. Of
+course, it is possible that Coronet and Pageant did actually publish the taboo
+UFO crash story and were forced to make a hasty replacement. In that event, all
+the public and academic libraries would have the corrected issue. But to balance
+out all the claims that postulate censorship and confiscation, I question the
+Coronet or Pageant case.
+
+Probably the most brazen incident of censorship happened in January 1957
+when the voice of NICAP's Donald Keyhoe, appearing live on CBS-TV's
+Armstrong Circle Theater was cut off the air before a large national audience.
+Pitted against the Air Force's Spencer Whedon, Chief of the Air Technical
+Intelligence Command's Information Services, Keyhoe had deviated from the
+prepared script advocating a Congressional investigation to look into the UFO
+cover-up.
+
+I watched the TV program and the unbelievable sight of Keyhoe's lips moving
+without sound. For the record, I had interviewed Whedon in August 1957, at
+his ATIC office in Wright-Patterson AFB. He was a tough, unbending anti-
+UFO spokesman with a booming voice. My interview was published in Inside
+Saucer Post 3-0 Blue.
+
+In spite of all the negativism, Keyhoe stood his ground, undaunted until his
+death, maintaining that UFOs were "interplanetary" - the word used in the early
+days - and that the public was being deceived by officialdom's "silence group."
+
+<h3>The Clovis Crash Conundrum</h3>
+
+A large "something" crashed near Clovis, New Mexico in 1957, a year when
+UFO activity nationally was moderate to heavy depending on geography. It was
+also the year of Sputnik and feverish U. S. experiments to catch up with the
+Russian space exploits. For me, it was the last of a three-year stint of working
+in cooperation with the Air Defense Command screening and reporting to them
+through a coded phone system the UFO activity that I received "live" from
+police departments, sheriff's offices, the media and public percipients. In this
+capacity - and in spite of being advised that any Air Force counteraction once a
+UFO was confirmed became "classified" - I still got "privileged" or off-the-cuff
+information of intercept missions. UFOs were serious business in 1957.
+
+
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
