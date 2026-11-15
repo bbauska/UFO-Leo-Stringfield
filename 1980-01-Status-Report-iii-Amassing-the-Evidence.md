@@ -1,10 +1,11 @@
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~ 1980-01-Status-Report-III-Amassing-the-Evidence.md ~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ in UFO-Leo-Stringfield ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-# STATUS REPORT III - UFO CRASH RETRIEVALS - AMASSING THE EVIDENCE
+<h2>STATUS REPORT III - UFO CRASH RETRIEVALS - AMASSING THE EVIDENCE</h2>
 By Leonard H. Stringfield 
 
-## PROLOGUE: THE BIGGEST STORY EVER, NEVER TOLD 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>PROLOGUE: THE BIGGEST STORY EVER, NEVER TOLD</h3>
 
 Ever since World War H when the first UFOs, dubbed "foo fighters", became officially recognized, the mystery of their origin and intent, has haunted the minds of man. Most ponder the puzzlement skeptically amused; others want to believe and straddle a philosophic fence guessing for answers. As we head into the decade of the 1980's, serious research has not found the answer either, or the proof to qualify an answer, and, officially, the mystery remains ostensibly irresolvable. To those wary and who have taken the time to probe, the official position is as mysterious as the UFO itself. 
 
@@ -54,7 +55,7 @@ I am returning your papers because I know they are of value to you.
 Goldwater's reference to a "blue room" at Wright-Patterson suggests a more in-depth operation concealed behind the small front office of Project Bluebook. Curiously, the color blue brings to mind the "blue berets" (See Case A-3, Status Report II) and "blue boys", described in Case A-9 of this paper. 
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-### THE WITNESS MODEL 
+<h3>THE WITNESS MODEL</h3>
 
 The first person witness, in crash/retrieval research, may suddenly surface from out of anywhere, U.S.A. Such a person, if his credentials are good, plays a crucial role, for what he or she tells may provide a clue, or a corroborative link, to lend credibility to the greatest story ever, never told. 
 
@@ -81,7 +82,7 @@ There is obvious journalistic precedent for this practice. Journalists are, and 
 I do not think that the criticisms by Stanton Friedman and William Moore have merit. Their criticisms of Stringfield's desire to protect the anonymity and safety of this sources stands outside the bounds of all resonableness for a variety of reasons. Let me be clear that I respect their work. Still, I have personally talked to a UFO witness, a CE-Ill subject, and several military types, and most seek to guard their privacy. It is quite clear that our first responsibility is to consider these people as "patients" who first of all need our assistance and support, and who second of all need our guarantee that their privacy and good faith will not be abused. 
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-### THE FIRST PERSON REPORT: CLASSIFIED "A" 
+<h3>THE FIRST PERSON REPORT: CLASSIFIED "A"</h3>
 
 This paper follows the reportorial pattern established in The UFO Crash/Retrieval Syndrome, Status Report II, published by MUFON, January 1980. As before, case history reports are divided into two parts. Reports from first person witnesses are classified as "A", while "B" reports concern secondhand or intermediary information, and other relative data submitted by researchers. 
 
@@ -204,7 +205,7 @@ The Colonel interrupted and said, "You are dismissedl"
 We saluted, and that was the end of my Air Force career — but not the end of my torment. 
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-### Schaefer comments on KA's aftermath as follows: 
+<h3>Schaefer comments on KA's aftermath as follows: 
 
 Since 1954, when this incident allegedly occurred, KA has been having intermittent nightmares about his experience in the desert. During the year 1981, these nightmares have grown in intensity and frequency, causing KA much anguish. During the lecture at Edmund Scientific Company in March, KA saw his opportunity to reveal details of his UFO retrieval experience to someone who would lend an understanding ear, thereby helping to alleviate his mental torment. 
 
@@ -271,13 +272,12 @@ Through RC, my intermediary, and formerly a U.S. Narcotics agent, I reached RI b
 As a trainer in the Canine Corps at his base, he and his dogs, and other marines as a team, were flown in a light cargo transport for 2-1/2 hours to the site, landing on a makeshift strip carved out by a road grader. The windows of the transport were blacked out, he said. At the site, among the cactus and tumbleweed, were tents, a small quonset hut and what appeared to be a small pre-fab hangar. Busy were men in military fatigues without insignia. Told nothing about the status of the operation, he was assigned to a post for guard duty, given orders, and told to use only one designated path to the mess tent and latrine. 
 
 Curious, said RI, he decided on his fourth day to see what was so hush-hush and took a different route to the mess tent near the hangar. When the guard had his back turned he peeked inside the hangar and to his shock he saw a metallic disc, or saucer, about 30 ft. in diameter. On top was a dome; there were no windows. Around the craft were men at work and tables on which were technical instruments. He also saw a large walk-in refrigerator unit on skids and several empty body bags. "If there were bodies," he said, " they 
-
 had already been shipped out or maybe they were in the freezer." 
 
 RT's one good glimpse into the hangar was also his undoing. The guard nearby nabbed him and he was escorted to the headquarter's tent where he faced the officer in command, Colonel "P" (name on file), U.S.A.F. Medical Corps. Reminded of his Security Oath, he was confined to quarters and sent back to 
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-### Pendleton for punishment. 
+Pendleton for punishment. 
 
 Thirteen years later, RT decided to tell his story. He admitted to seeing the movie, "Hangar 18", knew it was fiction, but he said, its emotional impact on him conjured up in his mind the hangar in the desert which he knew was not fiction. He first told his story to Wendelle Stevens and RC in Las Vegas and called AFRO. Then, like the day he went down the wrong path at the retrieval site, he got into a new hornet's nest of trouble. 
 
@@ -491,10 +491,10 @@ According to EL, the Black Box was the subject of great interest to the OSS and 
 
 EL, of course, signed an oath of secrecy, and was threatened, he said, by one of the plain-clothes agents who 'looked like President Johnson". If he talked about the incident, he was told he could be charged with murder of the ship's crew member. He had been framed, he said. 
 
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 COMMENT: EL's complete story, which includes voluminous CE III data, is beyond the scope of this paper. My notes cover several pages, however, before my investigation, Don Worley of APRO in 1974, had made extensive efforts by mail to get the facts, but gave up when many of his questions went unanswered. The story is difficult to believe, especially the phase when EL does battle in medieval style with an alien. Such an anachronism, on the other hand, may have been staged using hypnotic techniques, for reasons that will remain inexplicable. 
 
-### THE INTERMEDIARY REPORT: CLASSIFIED "B" 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>THE INTERMEDIARY REPORT: CLASSIFIED "B"</h3>
 
 In this section of "B" material is support information from various sources, mainly intermediaries<sup>who,</sup> in most instances, have been advised by their first person source of a preference for anonymity. In most of these cases, I have been privileged to know the name of the informant, however, a few, because of<sup>alleged</sup> deep fears, will not allow biographical clues go beyond their trusted go-between. Section "B" also<sup>includes</sup> other general C/R information that I consider useful in helping the reader understand the scope of this research and its seeming sensitivities. 
 
@@ -930,7 +930,7 @@ Of course, I asked him to send me his half of the stubs bearing my name and addr
 COMMENT: The letter he was to send a "sure way" never arrived. The AF case, if not a ploy, bears semblance in some respects to Case A-5 in this paper. If such conspiracies are real, then it suggests that the perpetrators will resort to any means to ferret out —or snuff out —the informant with vital UFO information. 
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-### THE INTERMINABLE CASES 
+<h3>THE INTERMINABLE CASES</h3>
 
 Behind the assortment of intermediary reports are all kinds of people. Some in all sincerity, claim to know a potential source but fail in their effort to get results for reasons beyond their control. Of this kind, one may have an "Uncle" in-the-know, but when approached, "Uncle" won't talk. Or, it may be, simply, that their source had second thoughts. Some others, when their source encounters interference, soon get bogged down themselves in a chilling drama of high intrigue. They range from phone threats, a visit by a stranger, or, when their information sent by mail, never arrives. Then, of course, there are a few intermediaries that are borderline themselves. 
 
@@ -978,7 +978,8 @@ McClelland later learned from Cora, by phone, that she was assigned to Robinson 
 
 COMMENT: There are many other interminable cases on file; less dramatic perhaps, which cumulatively suggest that many people involved in crash/retrieval operations, even indirectly, are fearful to talk, or as Shakespeare might have reminded them, "Mend your speech a little, lest it may mar your fortunes." 
 
-### SUPERSECRETS, ET CETERA 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>SUPERSECRETS, ET CETERA</h3>
 
 Official documents or letters that show up mysteriously in the hands of researchers revealing matters of obvious security are always suspect. Probably most have been dreamed up by hoaxers or are the product of disinformers to muddy the waters. 
 
@@ -1077,7 +1078,7 @@ This greatly strengthens Scully's claims and certainly lends support to the "con
 Also of note, Bray in his book relates that Smith was provided, for research purposes, a fragment allegedly obtained from an alien craft which had been shot off by USAF interceptors near Washington, D.C., July, 1952. 
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-### THE OMNIPRESENT 1.1. 1. 
+<h3>THE OMNIPRESENT 1.1.1.</h3>
 
 Always present in my work is the I.I.I., or less cryptically, the "Invisible Inside Informant". New ones surface from time to time as old ones fade away. Sometimes on my wish, like a storybook genie, they respond with supposedly "inside" UFO information ostensibly to help my cause in research. Usually, known by only a first name or as in one case, just as"Uncle", their backgrounds, as UFO savants, vary. Some allegedly serve, or have served, in the Intelligence community, one is a medical doctor, and some are too shifty to be pinned down. The I.I.I. are always polite, are not always readibly reachable and are evasive when I ask for a one-to-one meeting. As to their motives I can only guess. Maybe some are just tired of secrecy and genuinely want to help, but others I can see as plants who are a part of a plan to either spoon feed information as a test of public reaction, or to set up a disinformative trap. And, of course, in the far end of the spectrum is the KGB who is interested in the progress of a duplication of a saucer-like craft by the U.S. military. 
 
@@ -1102,7 +1103,7 @@ Many things have been said about UFOs by the Collective I.I.I. which are beyond 
 ing to official rationale, a good reason for silence. The medical or the journalistic model will not help in dealing with the I.I.I. They are covert, and most, I believe, are legitimate insiders. Again, I don't know their respective motives and probably never will. 
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-### POSTSCRIPT ON TWO KEY CASES 
+<h3>POSTSCRIPT ON TWO KEY CASES</h3>
 
 Most case histories cited in my two previous Status Reports remain essentially unchanged as most sources 
 are no longer accessible for questioning. In two key cases, however, new data have surfaced as follows: 
@@ -1197,7 +1198,7 @@ the<sup>notion that</sup> he (officer) probably got his "hands spanked" by a sup
 made up his UFO encounter as an excuse to bow out. My informant agreed. 
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-### THE HYPOTHETICAL ALIEN 
+<h3>THE HYPOTHETICAL ALIEN</h3>
 
 My medical informants, on staff of a major hospital, who in 1979, provided extraordinary information 
 for Status Report II (See Case A-7 of that paper) have since late 1980, been silenced. One a<sup>pathologist, 
@@ -1273,7 +1274,7 @@ This organism, if it is just that, is quite peculiar and one that I can not clas
 During the spell when many of my sources went silent, many researchers pledged their moral support; others offered professional help. Al Reed, artist in Sunnyvale, California, offered both. On the hope that I could get more physiological details from my medical sources, he rendered an elaborate set of illustrations of the hand and wrist showing hypothetical bone structure with flesh overlays in color. But, at this point in time, my medical informant had dried up and without his expertise the project was aborted. Some of Reed's renderings are shown on page 48. 
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-### THE ALIEN HAND 
+<h3>THE ALIEN HAND</h3>
 
 Information about the hand of the alleged alien, as sparse as it is from firsthand witnesses, may provide some biological clues. The webbing, for instance, suggests that the creature is amphibian which may further find plausibility in that the epidermis is so often described as scaly or repitilian. This brings to mind a creature dubbed "dinosaur man", imagined by Dr. Dale Russell, Chief of Paleontology at the National Museum of Natural History in Ottawa, Canada. Before Russell's hypothetical dinosaur made news in 1981, I had received from the scientist in July, 1980, two scholarly papers, The Evolution of Intelligence on Earth and Reflections of the Dinosaurian World, both of which were useful to me in understanding the biology of early Earth. Of note, during a 1981 interview, Russell expounded that UFO aliens from outer space may have descended from a super smart dinosaur like the kind that roamed our Earth eons ago. He was also quoted as saying, "It is quite legitimate to assume that on other planets dinosaurs lived on to become humanoid beings with the high intelligence necessary for interplanetary travel." 
 
@@ -1295,7 +1296,7 @@ Upper left (1) is a sketch of the hand I drew for the critical view of a former 
 Two renditions by artist Al Reed showing hand structure; hoping for further guidelines by my medical source who allegedly performed an autopsy on an alien body in early 1950's. Note to the left (2), his textured conception of the hand based on my sketch, and to the right (3), its hypothetical bone structure. 
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-# EPILOGUE: THE CREDENTIALS FACTOR: NARROWING<sup>THE GAP</sup> 
+<h3>EPILOGUE: THE CREDENTIALS FACTOR: NARROWING<sup>THE GAP</sup></h3>
 
 On this day, June 1, 1982, as I write the<sup>Epilogue for this Report, I must retrogress to say that at times</sup> when new, substantive information emerged, I felt I was on the brink of<sup>breakthrough. But, deep inside,I</sup> knew that to even hint of a breakthrough in this Report, no matter<sup>how great the source or the testimony,</sup> would be too brash of an assumption. Testimony is<sup>subject to human interpretive error to say the least and,</sup> of course, testimony alone is not proof. Rest<sup>assured, however, I do have my opinions on the subject of UFO</sup> Crash/Retrievals and, gut feelings about each of my sources, but to borrow a page<sup>from scientific rationale,</sup> I offer no conclusion. 
 
@@ -1317,78 +1318,110 @@ Dear Len.. .We want to thank you and Dell for your<sup>hospitalityduringthe Marc
 
 (6) Some researchers who criticize you underestimate the<sup>complexity, time-consuming nature and costliness of trying to</sup> elicit information from reluctant and fearful witnesses, many of whom fear<sup>reprisals.These critics show alackofap-</sup> preciation for the sensitive nature of your investigations and the possible<sup>consequences for some ofthe informants.</sup> 
 
-(7) Finally, we both respect and commend your firmness in refusing to<sup>release witnesses names. This appears to us to be</sup> the correct, ethical, and humane approach under difficult<sup>circumstances, and the one most likely to yield significant in-</sup> formation. 
+(7) Finally, we both respect and commend your firmness in refusing to<sup>release witnesses names. 
+This appears to us to be the correct, ethical, and humane approach under difficult circumstances, and 
+the one most likely to yield significant in-</sup> formation.
 
-Peter Rank, M.D. Chief of Radiology Methodist Hospital Madison, Wisconsin 
+Peter Rank, M.D. Chief of Radiology Methodist Hospital Madison, Wisconsin
 
-Richard H. Hall Former Assistant Director NICAF 1958-1967 Editor, MUFON UFO Journal 
-
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-# CHRONOLOGY OF CASES REPORTED IN THE UFO CRASH/RETRIEVAL SYNDROME, STATUS REPORT II 
-
-World War II: England. Crashed craft. Source: military officer. (Case A-1, Comment) 
-
-1947: Near Roswell, New Mexico. Fragments of apparent crashed craft observed by Air Force officer. (Case A-10) 
-
-1948: Crashed craft plus body, reported by newspaper columnist. (Item B-14) 
-
-1948 or 1950: Mexico, near Del Rio, Texas. Air Force officer observed crashed craft and one body. (Item 8-7) 
-
-1950: California. Air crewman observed craft in Navy hangar. (Item 8-5) 
-
-1952: New Mexico. Former Air Force radar specialist learned of crashed craft and bodies. (Case A-9) 
-
-1952: Wright-Patterson AFB, Ohio. Military officer, now retired, saw one body. Saw movie film of craft (see Case A-9), UFO files at NORAD, Colorado Springs, Colorado (see also Item 8-3). (Case A-4) 
-
-1953: Johannesburg, S. Africa, retrieval. (C as A-6) 
-
-1953: Arizona. Military officer saw three bodies, one female, at Wright-Patterson AFB, Ohio, learned of crashed craft in Arizona. (Case A-1) 
-
-1953: Wright-Patterson AFB, Ohio. Technician reported presence of 13 bodies, saw written report confirming it. Learned two craft were at Langley AFB, Virginia. (Item 8-6) 
-
-1953: Desert area. Movie film of crashed craft and three bodies seen by former Air Force officer (see Case A-4), a former Air Force radar specialist, a former Army radar specialist, and (about 1956) by a former Air Force officer. (Cage A-9) 
-
-1957: Southwest United States. Former Air Force Sergeant learned from General about crashed craft and four bodies, craft shipped by rail to Wright-Patterson AFB, Ohio. (Case A-5) 
-
-1962: New Mexico. Crashed craft, two bodies, head band "communicator" (see Case A-7, Comment). Source: Bob Barry, allegedly from CIA contact. (Case A-6) 
-
-1964: Ft. Riley, Kansas, Crashed craft reported by enlisted man on guard duty, confirmed by separate source. (Case A-8) 
-
-1965: Near Kecksburg, Pennsylvania. Crashed craft. Source: Clark McClelland, NASA employee. (Item B-1) 
-
-1966: Wright-Patterson AFB, Ohio. Nine bodies observed by former Army Intelligence officer, now a businessman. Learned there were 30 bodies plus crashed craft. Cited five crashes during 1960's and secret computer files on UFOs (Case A-3) 
-
-1968: Nellie AFB, Nevada. Former Air Force Sergeant described Top Se.iet report on a UFO landing and encounter with humanoids during which Colonel was paralyzed and weapons were "jammed," learned from Air Force General. (Case A-5) 
-
-1973: Location not stated. Air Policeman observed three bodies. (Case A-2) 
-
-1975: Michigan. Crashed craft. (Item 8-4) 
-
-1977: Ohio. Violent encounter reported between UFO humanoids and U.S. Military forces. (Item 13-13) 
-
-1978: Argentina. Object crashed in mountains, report of U.S. Air Force retrieval. (Item 8-8) 
-
-1979: Pennsylvania. Body retrieved along roadside. Apparent hoax. (Item 8-14) 
+Richard H. Hall Former Assistant Director NICAF 1958-1967 Editor, MUFON UFO Journal
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-# UFO RESEARCH BIOGRAPHY: L. H. STRINGFIELD 
+<h3>CHRONOLOGY OF CASES REPORTED IN THE UFO CRASH/RETRIEVAL SYNDROME, STATUS REPORT II</h3>
 
-1. Author of Situation Red, The UFO Seige, published by Doubleday & Company, May 1977 (Hard Cover book). Paperback Edition, Published by Fawcett, 1978. Paperback Edition, published by Spheres Ltd., London, England, 1978. Other foreign hard cover and paperback editions published in France, Spain, Italy, Greece, Argentina, Brazil. 
+World War II: England. Crashed craft. Source: military officer. (Case A-1, Comment)
 
-2. Serve on the Board of Directors for Public Relations for Mutual UFO Network (MUFON), headquarters in Seguin, Texas. This international group, directed by Walter Andrus, is composed of technically oriented field investigators, specialists and consultants throughout the world. Also serve as Associate Editor of the MUFON UFO Journal, their monthly magazine. 
+1947: Near Roswell, New Mexico. Fragments of apparent crashed craft observed by Air Force officer. 
+(Case A-10)
 
-3. Associate for Center for UFO Studies (CUFOS). This is a scientific endeavor established to investigate and evaluate UFO reports, having cooperation of law enforcement agencies. Investigator for a dozen counties in Southwestern Ohio. 
+1948: Crashed craft plus body, reported by newspaper columnist. (Item B-14)
 
-4. Presented a 63-page paper, Retrievals of the Third Kind, subtitled, A Case Study of Alleged UFOs and Occupants in Military Custody, at the ninth annual MUFON Symposium, held in Dayton, Ohio, July 29, 1978. The paper concerned alleged recovery or storage of crashed alien craft and the recovery and/or medical study of deceased alien humanoids. 
+1948 or 1950: Mexico, near Del Rio, Texas. Air Force officer observed crashed craft and one body. (Item 
+8-7)
 
-5. Author of monograph, The UFO Crash/Retrieval Syndrome, Status Report II, published and distributed by MUFON, January 1980. 
+1950: California. Air crewman observed craft in Navy hangar. (Item 8-5)
 
-6. Formerly, Director of International UFO research group, known as C.R.I.F.O. (Civilian Research, Interplanetary Flying Objects) in 1953-57. Was publisher and editor of a monthly newsletter, ORBIT, during this period. C.R.I.F.O. was one of the world's largest research groups during the mid-1950's. 
+1952: New Mexico. Former Air Force radar specialist learned of crashed craft and bodies. (Case A-9)
 
-7. Formerly worked in cooperation with the Air Defense Command of U.S.A.F., 1953-57, screening and reporting UFO activity. Was assigned a special code number—Fox Trot Kilo 3-0 Blue—to report by phone to the Air Defense Command Filter Center in Columbus, Ohio. 
+1952: Wright-Patterson AFB, Ohio. Military officer, now retired, saw one body. Saw movie film of craft 
+(see Case A-9), UFO files at NORAD, Colorado Springs, Colorado (see also Item 8-3). (Case A-4)
 
-8. Published book, 1957, entitled, Inside Saucer Post, 3-0 Blue, which reviewed, in part, my work with the 
-Air Force. The "3-0 Blue" was part of my code number. 
+1953: Johannesburg, S. Africa, retrieval. (C as A-6)
+
+1953: Arizona. Military officer saw three bodies, one female, at Wright-Patterson AFB, Ohio, learned 
+of crashed craft in Arizona. (Case A-1)
+
+1953: Wright-Patterson AFB, Ohio. Technician reported presence of 13 bodies, saw written report confirming 
+it. Learned two craft were at Langley AFB, Virginia. (Item 8-6)
+
+1953: Desert area. Movie film of crashed craft and three bodies seen by former Air Force officer (see Case 
+A-4), a former Air Force radar specialist, a former Army radar specialist, and (about 1956) by a former Air 
+Force officer. (Cage A-9)
+
+1957: Southwest United States. Former Air Force Sergeant learned from General about crashed craft and 
+four bodies, craft shipped by rail to Wright-Patterson AFB, Ohio. (Case A-5)
+
+1962: New Mexico. Crashed craft, two bodies, head band "communicator" (see Case A-7, Comment). Source: 
+Bob Barry, allegedly from CIA contact. (Case A-6)
+
+1964: Ft. Riley, Kansas, Crashed craft reported by enlisted man on guard duty, confirmed by separate source. 
+(Case A-8)
+
+1965: Near Kecksburg, Pennsylvania. Crashed craft. Source: Clark McClelland, NASA employee. (Item B-1)
+
+1966: Wright-Patterson AFB, Ohio. Nine bodies observed by former Army Intelligence officer, now a businessman. 
+Learned there were 30 bodies plus crashed craft. Cited five crashes during 1960's and secret computer 
+files on UFOs (Case A-3)
+
+1968: Nellie AFB, Nevada. Former Air Force Sergeant described Top Se.iet report on a UFO landing and 
+encounter with humanoids during which Colonel was paralyzed and weapons were "jammed," learned from 
+Air Force General. (Case A-5)
+
+1973: Location not stated. Air Policeman observed three bodies. (Case A-2)
+
+1975: Michigan. Crashed craft. (Item 8-4)
+
+1977: Ohio. Violent encounter reported between UFO humanoids and U.S. Military forces. (Item 13-13)
+
+1978: Argentina. Object crashed in mountains, report of U.S. Air Force retrieval. (Item 8-8)
+
+1979: Pennsylvania. Body retrieved along roadside. Apparent hoax. (Item 8-14)
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>UFO RESEARCH BIOGRAPHY: L. H. STRINGFIELD</h3>
+
+1. Author of Situation Red, The UFO Seige, published by Doubleday & Company, May 1977 (Hard Cover book). 
+Paperback Edition, Published by Fawcett, 1978. Paperback Edition, published by Spheres Ltd., London, 
+England, 1978. Other foreign hard cover and paperback editions published in France, Spain, Italy, Greece, 
+Argentina, Brazil. 
+
+2. Serve on the Board of Directors for Public Relations for Mutual UFO Network (MUFON), headquarters 
+in Seguin, Texas. This international group, directed by Walter Andrus, is composed of technically oriented 
+field investigators, specialists and consultants throughout the world. Also serve as Associate Editor 
+of the MUFON UFO Journal, their monthly magazine. 
+
+3. Associate for Center for UFO Studies (CUFOS). This is a scientific endeavor established to investigate 
+and evaluate UFO reports, having cooperation of law enforcement agencies. Investigator for a dozen counties 
+in Southwestern Ohio. 
+
+4. Presented a 63-page paper, Retrievals of the Third Kind, subtitled, A Case Study of Alleged UFOs 
+and Occupants in Military Custody, at the ninth annual MUFON Symposium, held in Dayton, Ohio, July 
+29, 1978. The paper concerned alleged recovery or storage of crashed alien craft and the recovery and/or 
+medical study of deceased alien humanoids. 
+
+5. Author of monograph, The UFO Crash/Retrieval Syndrome, Status Report II, published and distributed 
+by MUFON, January 1980. 
+
+6. Formerly, Director of International UFO research group, known as C.R.I.F.O. (Civilian Research, 
+Interplanetary Flying Objects) in 1953-57. Was publisher and editor of a monthly newsletter, ORBIT, 
+during this period. C.R.I.F.O. was one of the world's largest research groups during the mid-1950's. 
+
+7. Formerly worked in cooperation with the Air Defense Command of U.S.A.F., 1953-57, screening and 
+reporting UFO activity. Was assigned a special code number—Fox Trot Kilo 3-0 Blue—to report by phone 
+to the Air Defense Command Filter Center in Columbus, Ohio. 
+
+8. Published book, 1957, entitled, Inside Saucer Post, 3-0 Blue, which reviewed, in part, my work with 
+the Air Force. The "3-0 Blue" was part of my code number. 
 
 9. Served in Public Relations capacity for NICAP (National Investigations Committee on Aerial Phenomena) 
 in Washington, D.C., under Director Major Donald E. Keyhoe from 1957 to 1970. 
@@ -1406,11 +1439,11 @@ flight near Iwo Jima, enroute to Toyko during the Japanese surrender, the aircra
 encountered three UFOs. This incident led to my interest in the subject of UFOs in 1950, at which time, 
 the "flying saucer" had already commanded world attention. 
 
-13. Received MUFON Award of year 1981, announced at MUFON Symposium in Boston. 
+13. Received MUFON Award of year 1981, announced at MUFON Symposium in Boston.
 
-14. Formerly Director of Public Relations and Marketing Services of DuBois Chemicals,<sup>Divisionof</sup> 
-Chemed Corporation, headquartered in DuBois Tower, Cincinnati, Ohio 45202. Retired<sup>January</sup> 1981 
-after 31 years of service. 
+14. Formerly Director of Public Relations and Marketing Services of DuBois Chemicals, Division of Chemed 
+Corporation, headquartered in DuBois Tower, Cincinnati, Ohio 45202. Retired January 1981 after 31 years 
+of service.
 
 Leonard H. Stringfield 4412 Grove Ave. Cincinnati, Ohio 45227 TEL: (513) 271-4248 
 
