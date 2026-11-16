@@ -461,61 +461,24 @@ According to Ray Fowler, a researcher of the highest credentials, here is Werner
 Upshot-Knothole' at the atomic proving ground, Nevada. My job involved the measuring of blast effects 
 on various types of buildings especially erected for the tests.
 
-"On May 20, 1953, I worked most of the day at Frenchman Flat. In the evening, I received a phone
-call from the test director. Dr. Ed Doll, informing
-me that I was to go on a special job the next day.
-On the following day. I reported for special duty,
-and was driven to Indian Springs Air Force Base,
-near the proving ground, where I joined about
-fifteen other. specialists. We were told to leave all
-valuables in the custody of the military police. We
-were then put on a military plane and flown to
-Phoenix, Arizona. We
-were not allowed to
-fraternize. There, we were put on a bus with other
-personnel, who were already there. The bus
-windows were blacked out so that we couldn't
-see where we were going. We rode for an estimated
-four hours. I think we were in the area of
-Kingman, Arizona, which
-is North West of
-Phoenix and not too far from the atomic proving
-ground in Nevada. During the bus trip, we were
-told by an Air Force full colonel that a super-
-secret Air Force vehicle had crashed and that,
-since we were all specialists in certain fields, we
-were to investigate the crash in terms of our own
-speciality and nothing more.
+"On May 20, 1953, I worked most of the day at Frenchman Flat. In the evening, I received a phone call 
+from the test director. Dr. Ed Doll, informing me that I was to go on a special job the next day. On 
+the following day. I reported for special duty, and was driven to Indian Springs Air Force Base, near 
+the proving ground, where I joined about fifteen other. specialists. We were told to leave all valuables 
+in the custody of the military police. We were then put on a military plane and flown to Phoenix, Arizona. 
+We were not allowed to fraternize. There, we were put on a bus with other personnel, who were already 
+there. The bus windows were blacked out so that we couldn't see where we were going. We rode for an 
+estimated four hours. I think we were in the area of Kingman, Arizona, which is North West of Phoenix 
+and not too far from the atomic proving ground in Nevada. During the bus trip, we were told by an Air 
+Force full colonel that a super-secret Air Force vehicle had crashed and that, since we were all specialists 
+in certain fields, we were to investigate the crash in terms of our own speciality and nothing more.
 
-"Finally, the bus stopped and we disembarked
-one at a time as our names were called, and were
-escorted by military police to the area that we
-were to inspect. Two spotlights were centered on
-the crashed object, which was ringed with guards.
-The lights were so bright that it was impossible to
-see the surrounding area. The object was oval and
-looked like two deep saucers, one inverted upon
-the other. It was about 30 feet in diameter, with
-convex surfaces, top and bottom. These surfaces
-were about twenty feet in diameter. It was con-
-structed of a dull silver metal, like brushed alumin-
-ium. The metal was darker where the saucer
-'lips' formed a rim, around which were what
-looked like 'slots.' A curved open hatch door was
-located on the leading end and was vertically
-lowered. There was a light coming from inside
-but it could have been installed by the Air Force.
+"Finally, the bus stopped and we disembarked one at a time as our names were called, and were escorted 
+by military police to the area that we were to inspect. Two spotlights were centered on the crashed 
+object, which was ringed with guards. The lights were so bright that it was impossible to see the surrounding area. The object was oval and
+looked like two deep saucers, one inverted upon the other. It was about 30 feet in diameter, with convex surfaces, top and bottom. These surfaces were about twenty feet in diameter. It was constructed of a dull silver metal, like brushed aluminium. The metal was darker where the saucer 'lips' formed a rim, around which were what looked like 'slots.' A curved open hatch door was located on the leading end and was vertically lowered. There was a light coming from inside but it could have been installed by the Air Force.
 
-"My particular job was to determine, from the
-angle and depth of impact into the sand, how
-fast the vehicle's forward and vertical velocities
-were at the time of impact. The impact had forced
-the vehicle approximately twenty inches into the
-sand. There was no landing gear. There were also
-no marks or dents, that I can remember, on the
-surface — not even scratches. Questions having
-nothing to do with our own special areas were not
-answered.
+"My particular job was to determine, from the angle and depth of impact into the sand, how fast the vehicle's forward and vertical velocities were at the time of impact. The impact had forced the vehicle approximately twenty inches into the sand. There was no landing gear. There were also no marks or dents, that I can remember, on the surface — not even scratches. Questions having nothing to do with our own special areas were not answered.
 
 "An armed military policeman guarded a tent pitched nearby. I managed to glance inside at one point, 
 and saw the dead body of a four-foot, human-like creature in a silver metallic-looking suit. The skin 
@@ -537,66 +500,41 @@ I called the number, and an airman picked up the report.
 Ray Fowler states that Werner held several engineering and management positions at Wright-Patterson AFB 
 between June 1949, and January, 1960.
 
-During that period, he worked in the Office of
-Special Studies of what was then the Air Material
-Command Installations Division. Later, he designed
-aircraft landing gear, and became Chief 3f alighting
-devices within the Aircraft Laboratory at Wright Air
-Development Center. At the time of the alleged
-incident, he was on assignment to the Atomic Energy
-Commission at the Atomic Proving Ground in
-Nevada.
+During that period, he worked in the Office of Special Studies of what was then the Air Material Command 
+Installations Division. Later, he designed aircraft landing gear, and became Chief 3f alighting devices 
+within the Aircraft Laboratory at Wright Air Development Center. At the time of the alleged incident, 
+he was on assignment to the Atomic Energy Commission at the Atomic Proving Ground in Nevada.
 
-Fowler also states that Werner told him that he
-sympathized with the Air Force's secret handling of
-the UFO problem and added that the Air Force did
-not know where UFOs originated. Werner also said
-that the Air Force believed that the UFOs were
-interplanetary vehicles but that they did not know
-how to handle the situation. They did not want to
-create panic.
+Fowler also states that Werner told him that he sympathized with the Air Force's secret handling of 
+the UFO problem and added that the Air Force did not know where UFOs originated. Werner also said that 
+the Air Force believed that the UFOs were interplanetary vehicles but that they did not know how to 
+handle the situation. They did not want to create panic.
 
-Comments Fowler: There were some inconsisten-
-cies in Werner's story, but most of them appeared to
-be in the realm of memory lapses and exaggerations
-by the witness. Former employers that were checked
-held him in high esteem, and all described him as a
-highly competent and moral individual. Having
-published a number of technical papers, Werner also
-holds membership in the American Association for
+Comments Fowler: There were some inconsistencies in Werner's story, but most of them appeared to be 
+in the realm of memory lapses and exaggerations by the witness. Former employers that were checked 
+held him in high esteem, and all described him as a highly competent and moral individual. Having 
+published a number of technical papers, Werner also holds membership in the American Association for 
 the Advancement of Science.
 
-In Fowler's continuing evaluation he cites one
-piece of evidence which seems to give a strong
-element of truth to Werner's account. In an attempt
-to pin down the exact date of the alleged incident,
-Werner agreed to show his diary he kept in those
-days. On its aging pages, for May 20, 1953, it read in
-part: "Well, pen's out of ink. Spent most of day on
-Frenchman's Flat surveying cubicles and supervising
-welding of a (one word illegible) bridge which
-cracked after last shot. Got funny call from Dr. Doll
-at 1000. I'm going on a special job tomorrow."
-On May 21st, the diary read: "Up at 7.00. Worked
-most of day on Frenchman with cubicles. Letter
-from Bet. She's feeling better now — thank goodness.
-Got picked up at Indian Springs AFB at 4.30 p.m.
-for a job I can't write or talk about."
+In Fowler's continuing evaluation he cites one piece of evidence which seems to give a strong element 
+of truth to Werner's account. In an attempt to pin down the exact date of the alleged incident, Werner 
+agreed to show his diary he kept in those days. On its aging pages, for May 20, 1953, it read in part: 
+"Well, pen's out of ink. Spent most of day on Frenchman's Flat surveying cubicles and supervising 
+welding of a (one word illegible) bridge which cracked after last shot. Got funny call from Dr. Doll 
+at 1000. I'm going on a special job tomorrow." On May 21st, the diary read: "Up at 7.00. Worked most 
+of day on Frenchman with cubicles. Letter from Bet. She's feeling better now — thank goodness. Got 
+picked up at Indian Springs AFB at 4.30 p.m. for a job I can't write or talk about." 
 
 <!-- page 13 -->
 **Comment:**
-In my book Situation Red, I cover the Werner
-story in full, based on my conversations with Ray
-Fowler. Said Fowler, "With more substantiation, it
-could blow the lid off secrecy." I agree. One final
-note: the name Fritz Werner is fictitious, but I feel
-that his story, although enbellished, is basically
-true. One Intelligence source commented: "A lot
-of it is story."
+In my book Situation Red, I cover the Werner story in full, based on my conversations with Ray Fowler. 
+Said Fowler, "With more substantiation, it could blow the lid off secrecy." I agree. One final note: 
+the name Fritz Werner is fictitious, but I feel that his story, although enbellished, is basically true. 
+One Intelligence source commented: "A lot of it is story."
 
-**ABSTRACT VII: Air Force metallurgist analysed metal of crashed UFO**
-Finally a name of a witness surfaces — an Air Force Major named Daly, who was a metallurgist stationed 
-at Wright-Patterson AFB in 1953 — who relates his adventures with a crashed UFO. 
+**ABSTRACT VII: Air Force metallurgist analysed metal of crashed UFO** Finally a name of a witness 
+surfaces — an Air Force Major named Daly, who was a metallurgist stationed  at Wright-Patterson AFB 
+in 1953 — who relates his adventures with a crashed UFO. 
 
 <!-- page 14 -->
 The source for this information comes from fellow Cincinnati-based researcher, Charles Wilhelm. He 
@@ -722,31 +660,72 @@ by an Air Force full colonel that a supersecret Air Force vehicle hadcrashed and
 specialists in certain fields, we were to investigate the crash in terms of our own speciality and nothing 
 more.
 
-"Finally, the bus stopped and wedisembarked one at a time as our names were called, and were escorted by military police to the area that we were to inspect. Two spotlights were centered on the crashed object, which was ringed with guards. The lights were so bright that it was impossible to see the surrounding area. The object was oval and looked like two deep saucers, one inverted upon the other. It was about 30 feetin diameter,with convex surfaces, top and bottom.These surfaces were about twenty feet in diameter. It was constructed of a dull silver metal, like brushed aluminium. The metal was darkerwhere the saucer Tips' formed a rim, around which were what looked like'slots.'A curved open hatch door was located on the leading end and was vertically lowered. There was a light coming from inside but it could have been installed by the Air Force.
+"Finally, the bus stopped and wedisembarked one at a time as our names were called, and were escorted 
+by military police to the area that we were to inspect. Two spotlights were centered on the crashed 
+object, which was ringed with guards. The lights were so bright that it was impossible to see the surrounding 
+area. The object was oval and looked like two deep saucers, one inverted upon the other. It was about 30 
+feetin diameter,with convex surfaces, top and bottom.These surfaces were about twenty feet in diameter. It 
+was constructed of a dull silver metal, like brushed aluminium. The metal was darkerwhere the saucer Tips' 
+formed a rim, around which were what looked like'slots.'A curved open hatch door was located on the leading 
+end and was vertically lowered. There was a light coming from inside but it could have been installed by the 
+Air Force.
 
-"My particularjob was to determine, from the angle and depth of impact into the sand, how fast the vehicle's forward and vertical velocities were at the time of impact. The impact had forced the vehicle approximately twenty inches into the sand. There was no landing gear. There were also no marks or dents, that I can remember, on the surface — not even scratches.Questions having nothing to do with our own special areas were not answered.
+"My particularjob was to determine, from the angle and depth of impact into the sand, how fast the vehicle's 
+forward and vertical velocities were at the time of impact. The impact had forced the vehicle approximately 
+twenty inches into the sand. There was no landing gear. There were also no marks or dents, that I can remember, 
+on the surface — not even scratches.Questions having nothing to do with our own special areas were not answered.
 
-"An armed military policeman guarded a tent pitched nearby. I managed to glance inside at one point, and saw the dead body of a four-foot, human-like creaturein a silvermetallic-looking suit. The skin on its face was dark brown. This may have been caused by exposure to our atmosphere. The face was not covered but it had a metallic skull-cap device on its head.
+"An armed military policeman guarded a tent pitched nearby. I managed to glance inside at one point, 
+and saw the dead body of a four-foot, human-like creaturein a silvermetallic-looking suit. The skin on 
+its face was dark brown. This may have been caused by exposure to our atmosphere. The face was not 
+covered but it had a metallic skull-cap device on its head.
 
-"As soon as each person finished his task, he was interviewed over a tape recorderandescorted back to the bus. On the way back to the bus,I managed to talk briefly with someone else going back to it at the same time. He told me that
+"As soon as each person finished his task, he was interviewed over a tape recorderandescorted back to 
+the bus. On the way back to the bus,I managed to talk briefly with someone else going back to it at 
+the same time. He told me that
 
-he had glanced inside theobject and saw two swivel-likeseats, as well as instrumentsand displays. An airman who noticed we were talking separated us and warned us not to talkwith each other.
+he had glanced inside theobject and saw two swivel-likeseats, as well as instrumentsand displays. An 
+airman who noticed we were talking separated us and warned us not to talkwith each other.
 
-"After we all returned to the bus, the Air Force colonel who was in charge had us raise our right hands and take an oath not to reveal what we had experienced. I was instructed to write my report in longhand and not to type or reproduce it. A telephone number was given me to call when the report was complete. I called the number, and an airman picked up the report.
+"After we all returned to the bus, the Air Force colonel who was in charge had us raise our right hands 
+and take an oath not to reveal what we had experienced. I was instructed to write my report in longhand 
+and not to type or reproduce it. A telephone number was given me to call when the report was complete. 
+I called the number, and an airman picked up the report.
 
-Ray Fowler states that Werner held several engineering and management positions at Wright-Patterson AFBbetweenJune1949,andJanuary,1960. Duringthatperiod, he worked in the Office of Special Studies of what was then the Air Material Command Installations Division. Later, he designed aircraft landing gear, and became Chief of alighting devices within the Aircraft Laboratory at Wright Air Development Center. At the time of thealleged incident, he was on assignment to the Atomic Energy
+Ray Fowler states that Werner held several engineering and management positions at Wright-Patterson 
+AFB betweenJune1949,andJanuary,1960. Duringthatperiod, he worked in the Office of Special Studies of 
+what was then the Air Material Command Installations Division. Later, he designed aircraft landing gear, 
+and became Chief of alighting devices within the Aircraft Laboratory at Wright Air Development Center. 
+At the time of thealleged incident, he was on assignment to the Atomic Energy Commission at the Atomic 
+ProvingGroundin Nevada.
 
-Commission at the Atomic ProvingGroundin Nevada.
+Fowler also states that Werner told him that he sympathized with the Air Force's secret handling of 
+the UFOproblem and added that the Air Force did not know where UFOs originated. Werner also said that 
+the Air Force believed thatthe UFOs were interplanetary vehicles but that they did not know how to handle 
+the situation. They did not want to create panic.
 
-Fowler also states that Werner told him that he sympathized with the Air Force's secret handling of the UFOproblem and added that the Air Force did not know where UFOs originated. Werner also said that the Air Force believed thatthe UFOs were interplanetary vehicles but that they did not know how to handle the situation. They did not want to create panic.
+Comments Fowler:There were some inconsistencies in Werner's story, but most of them appeared to bein 
+the realm of memory lapses and exaggerations by the witness. Former employers that were checked held 
+him in high esteem, and all described him as a highly competent and moral individual. Having published 
+a number of technical papers, Werner also holds membership in the American Association for the Advancement 
+of Science.
 
-Comments Fowler:There were some inconsistencies in Werner's story, but most of them appeared to bein the realm of memory lapses and exaggerations by the witness. Former employers that were checked held him in high esteem, and all described him as a highly competent and moral individual. Having published a number of technical papers, Werner also holds membership in the American Association for the Advancement of Science.
-
-In Fowler's continuing evaluation he cites one piece of evidence which seems togive a strong element of truth to Werner's account.In an attempt to pin down the exact date of the alleged incident, Werner agreed to show his diary he kept in those days. On its aging pages, forMay 20,1953,itread in part:"Well, pen's out of ink. Spent most of day on Frenchman's Flat surveying cubicles and supervising weldingof a (one word illegible) bridge which cracked after last shot. Got funny call from Dr. Doll at1000.I'm going on a special job tomorrow.' On May 21st,the diary read:"Up at 7.00.Worked most of dayon Frenchman with cubicles. Letter from Bet. She's feeling better now — thank goodness. Got picked up at Indian Springs AFB at 4.30 p.m. for a job I can't write or talk about."
+/* edit this */
+In Fowler's continuing evaluation he cites one piece of evidence which seems togive a strong element 
+of truth to Werner's account.In an attempt to pin down the exact date of the alleged incident, Werner 
+agreed to show his diary he kept in those days. On its aging pages, for May 20,1953,itread in part:"Well, 
+pen's out of ink. Spent most of day on Frenchman's Flat surveying cubicles and supervising weldingof 
+a (one word illegible) bridge which cracked after last shot. Got funny call from Dr. Doll at1000.I'm 
+going on a special job tomorrow.' On May 21st,the diary read:"Up at 7.00.Worked most of dayon Frenchman 
+with cubicles. Letter from Bet. She's feeling better now — thank goodness. Got picked up at Indian 
+Springs AFB at 4.30 p.m. for a job I can't write or talk about."
 
 Comment:
 
-In my book Situation Red, I cover the Werner story in full, based on my conversations with Ray Fowler. Said Fowler, "With more substantiation,it could blow the lid off secrecy."I agree. One final note: the name Fritz Werner is fictitious, but I feel thathisstory, although enbellished, is basically true. One Intelligence source commented: "A lot of it is story."
+In my book Situation Red, I cover the Werner story in full, based on my conversations with Ray Fowler. 
+Said Fowler, "With more substantiation,it could blow the lid off secrecy."I agree. One final note: 
+the name Fritz Werner is fictitious, but I feel thathisstory, although enbellished, is basically true. 
+One Intelligence source commented: "A lot of it is story."
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 **ABSTRACT VII: Air Force metallurgist analysed metal of crashed UFO**
@@ -994,13 +973,35 @@ SOPAN $AFS^{XCLANGLEYAFB.}$
 
 .
 
-the retrievals of craft and their occupants. Barry, a regarding his knowledge either of retrieved UFOs, or dedicated researcher since 1957, is director of the of the preserved alien bodies maintained in secret 20th Century UFO Bureau. When I told him that I storage at Wright-Patterson AFB. This person, who could use his help in supplying some data for a paper has read my book, Situation Red, is aware of my 1 was preparing for the MUFON Symposium,he position in research, but refuses to discuss what he requested me to submit a letter to further identify knows with me by telephone or in person. My firstmyself and my objectives in this sensitive area. I did hand informant is his son, with whom he had shared so.promptly, and it produced positive results. some general information about UFOs a couple of Barry's first letter, dated March14 1978, years earlier. To elaborate further, the young man's concerns a UFO crash, with occupants, occurring in father got his UFO input from his own cousin, an
-
-1962. I here quote an extract from his letter: Air Force Major who was specifically assigned to a ..My sources of information on the subject UFO project for about 5 years at Wright-Patterson. of crashed UFOs involve quite a few [people] The major was formerly a pilot, and had also served
-
-at a missile site overseas, and presently is assigned to
-but my major sources number four, including one a new technical duty. I do have these latter details,
-within intelligence circles as well as a scientist. but was asked not to be specific. "As regards the crashed UFO of 1962, it So significant was the information received by the occurred in the state of New Mexico. The craft father from his cousin, the Air Force Major, that he experienced flight difficulty at a time it was being felt compelled to write down some specific details tracked on military radar. It was tracked across about the retrieved UFOs and the humanoids, which two southwestern states before coming in over he sealed in an envelope and placed in his safety New Mexico. Military jets were sent up for inter- deposit box. His instructions were that the envelope cept. was not to be opened until after his death. "As the craft moved in over the state of New Mexico it lost altitude and continued to exper- Some ofthe general information known to my ience flight difficulty. It impacted on desert sands informant concerns Wright-Patterson's storage of an at an estimated 90 m.p.h. Its underside hit the intact UFO, and parts of damaged UFOs, and the sand as a plane does when coming in for a landing. preservation of dead alien bodies underglass in "Its landing gear was not dowmn and its flight special refrigerated conditions. The Major also repattern at impact gave the indication that the two portedly said: "We have the proof that UFOs are occupants in the craft were evidently dead at the extraterrestrial." time of the crash..hence the flight difficulty experienced by the craft.
+the retrievals of craft and their occupants. Barry, a regarding his knowledge either of retrieved UFOs, 
+or dedicated researcher since 1957, is director of the of the preserved alien bodies maintained in secret 
+20th Century UFO Bureau. When I told him that I storage at Wright-Patterson AFB. This person, who could 
+use his help in supplying some data for a paper has read my book, Situation Red, is aware of my 1 was 
+preparing for the MUFON Symposium,he position in research, but refuses to discuss what he requested me 
+to submit a letter to further identify knows with me by telephone or in person. My firstmyself and my 
+objectives in this sensitive area. I did hand informant is his son, with whom he had shared so, promptly, 
+and it produced positive results. some general information about UFOs a couple of Barry's first letter, 
+dated March14 1978, years earlier. To elaborate further, the young man's concerns a UFO crash, with 
+occupants, occurring in father got his UFO input from his own cousin, an 1962. I here quote an extract 
+from his letter: Air Force Major who was specifically assigned to a ..My sources of information on the 
+subject UFO project for about 5 years at Wright-Patterson. of crashed UFOs involve quite a few [people] 
+The major was formerly a pilot, and had also served at a missile site overseas, and presently is assigned 
+to but my major sources number four, including one a new technical duty. I do have these latter details, 
+within intelligence circles as well as a scientist. but was asked not to be specific. "As regards the 
+crashed UFO of 1962, it So significant was the information received by the occurred in the state of New 
+Mexico. The craft father from his cousin, the Air Force Major, that he experienced flight difficulty at 
+a time it was being felt compelled to write down some specific details tracked on military radar. It 
+was tracked across about the retrieved UFOs and the humanoids, which two southwestern states before 
+coming in over he sealed in an envelope and placed in his safety New Mexico. Military jets were sent 
+up for inter- deposit box. His instructions were that the envelope cept. was not to be opened until 
+after his death. "As the craft moved in over the state of New Mexico it lost altitude and continued 
+to exper- Some ofthe general information known to my ience flight difficulty. It impacted on desert 
+sands informant concerns Wright-Patterson's storage of an at an estimated 90 m.p.h. Its underside hit 
+the intact UFO, and parts of damaged UFOs, and the sand as a plane does when coming in for a landing. 
+preservation of dead alien bodies underglass in "Its landing gear was not dowmn and its flight special 
+refrigerated conditions. The Major also repattern at impact gave the indication that the two portedly 
+said: "We have the proof that UFOs are occupants in the craft were evidently dead at the extraterrestrial." 
+time of the crash..hence the flight difficulty experienced by the craft.
 
 "The craft was 68 feet in diameter and 13 feet Comment in height.typically circular. The two beings dis- My informant is not kidding about his father's covered inside the craft were 42 inches cach in height. Each being was dressed in a one-piece UFO notes being stored in a safety deposit box. space suit with no buttons or zippers. Neither is hekidding abouthis father's staunch "The occupants were removed the following refusal to discuss with me the contents of his notes. day to a major medical university hospital in the Personally, I must agree with the father's position of U.S., where skin tests and other scientific analyses keeping a trust when it concerns the status and were performed. Skin colour was grey/grey pink. welfare of a close relative. Head [was] slightly large for the size of the body; eyes somewhat larger than norm[al], but the nose Abstract XVI: Man who stood guard over dead alicns was small with little protrusions..no ear lobes, Mrs. S.I. called me on August 3, 1977, to relate but a hole at each side of the head where we have her growing interest in the UFO mystery. She had
 read my book, Situation Red, and expressed a desire
@@ -1116,27 +1117,83 @@ ABSTRACT XVIII: Recovery of unusual metallic fragments of remarkable strength On
 
 with me.He had also served in the 5th Air Force in the Pacific Theatre during World War II, and had been in several combat areas such as Leyte, Phillipine Islands, where I had been assigned. The purpose of our call was to obtain at first hand, an account of the major's role in the retrieval of an alleged crashed UFO northwest of Roswell, New Mexico,in the summer of 1947.
 
-The debris of an apparent metallic aerial device, or craft, that had exploded in the air, or crashed, was first located by a sheep rancher who found fragments of metal and other materials on his 8000 acre property. When he informed the Air Force base in Roswell of his discovery, Major J. M. and aides were dispatched to the area for investigation. There MajorJ. M. found many metal fragments and what appeared to be"parchment'strewn over a one-mile-square area.The metal fragments,'' said the Major, "'varied in size up to six inches inlength,but were of che thickness oftin foil. The fragments were unusual,"' he continued,'"because they were ofgreat strength. They could not be bent or broken, no matter what pressure we applied by hand.'"'
+The debris of an apparent metallic aerial device, or craft, that had exploded in the air, or crashed, 
+was first located by a sheep rancher who found fragments of metal and other materials on his 8000 acre 
+property. When he informed the Air Force base in Roswell of his discovery, Major J. M. and aides were 
+dispatched to the area for investigation. There MajorJ. M. found many metal fragments and what appeared 
+to be"parchment'strewn over a one-mile-square area.The metal fragments,'' said the Major, "'varied in 
+size up to six inches inlength,but were of che thickness oftin foil. The fragments were unusual,"' he 
+continued,'"because they were ofgreat strength. They could not be bent or broken, no matter what pressure 
+we applied by hand.'"'
 
-The area was thoroughly checked, he said, but no fresh impact depressions in the sand were found. The area was not radioactive. The fragments, he added,were transported by a militarycarry-all to the air base in Roswell and from that point he was instructed by General Ramey to deliver the'hardware'to Fort Worth, to be forwarded to Wright-Patterson Field for analysis.
+The area was thoroughly checked, he said, but no fresh impact depressions in the sand were found. The 
+area was not radioactive. The fragments, he added,were transported by a militarycarry-all to the air 
+base in Roswell and from that point he was instructed by General Ramey to deliver the'hardware'to Fort 
+Worth, to be forwarded to Wright-Patterson Field for analysis.
 
-When the press learned of this retrieval operation, and wanted a story, MajorJ. M. stated,"To get the off my back I told them we were recovering a downed weather balloon."' When the major was asked for his opinion as to the identification of the fragments he was certain they were not from a balloon, aircraft or rocket. He said that, because of his technical background, he was certain that the metal and "parchment' were not a part of any military aerial device known at that time.
+When the press learned of this retrieval operation, and wanted a story, MajorJ. M. stated,"To get the 
+off my back I told them we were recovering a downed weather balloon."' When the major was asked for 
+his opinion as to the identification of the fragments he was certain they were not from a balloon, 
+aircraft or rocket. He said that, because of his technical background, he was certain that the metal 
+and "parchment' were not a part of any military aerial device known at that time.
 
-Comment Theretrieval of"unusual' fragments in secrecy suggests they were part of an unknown aerial device or craft. Manned, or not, the major did not know. If there were entities aboard no evidence was found. Had there been anybodies aboard they would have been destroyed in what appeared to have been an aerial explosion.
+Comment Theretrieval of"unusual' fragments in secrecy suggests they were part of an unknown aerial 
+device or craft. Manned, or not, the major did not know. If there were entities aboard no evidence 
+was found. Had there been anybodies aboard they would have been destroyed in what appeared to have 
+been an aerial explosion.
 
-It is significant to note in this instance, the year 1947, which was the year of the first great wave of UFO reports. Also the area of this retrieval was in the path of some of the"green fire-ball phenomena'observed from 1947 to 1948.
+It is significant to note in this instance, the year 1947, which was the year of the first great wave 
+of UFO reports. Also the area of this retrieval was in the path of some of the"green fire-ball phenomena 
+observed from 1947 to 1948.
 
-ABSTRACT XIX: Crashing object said to have been tracked on radar: occupants badly burned Following my lecture on April6.1978. before the Cincinnati Chapter of World Wings Association-—a gathering of 50 or more pilots —I was approached by a highly reputable member of the Association who knew of "a person at work" who, in turn, knew about crashed UFOs and occupants. Ipromptly got in touch.
+ABSTRACT XIX: Crashing object said to have been tracked on radar: occupants badly burned Following my 
+lecture on April6.1978. before the Cincinnati Chapter of World Wings Association-—a gathering of 50 
+or more pilots —I was approached by a highly reputable member of the Association who knew of "a person 
+at work" who, in turn, knew about crashed UFOs and occupants. Ipromptly got in touch.
 
-On April 18,1978,I talked with former Air Force Sergeant M.S. of the 97th Bomber Wing. He was prepared to relate the data from a high intelligence source relative to the retrieval of an alien craft and humanoid occupants maintained at Wright-Patterson AFB. He also related a sobering story about a landing on an air force base, also from the same high source.
+On April 18,1978,I talked with former Air Force Sergeant M.S. of the 97th Bomber Wing. He was prepared 
+to relate the data from a high intelligence source relative to the retrieval of an alien craft and 
+humanoid occupants maintained at Wright-Patterson AFB. He also related a sobering story about a landing 
+on an air force base, also from the same high source.
 
-M.S., while serving at Wright-Patterson in 1977, made close acquaintance with a Major General whose last name begins with the letterT'', and who was assigned to Wright-Patterson for top security work in the Logistics Command. His rank and the nature of his work entitled him to a airplane at his disposal at all times.
+M.S., while serving at Wright-Patterson in 1977, made close acquaintance with a Major General whose 
+last name begins with the letterT'', and who was assigned to Wright-Patterson for top security work 
+in the Logistics Command. His rank and the nature of his work entitled him to a airplane at his disposal 
+at all times.
 
-The General's daughter, (name known to me) and them in a deep freeze morgue, kept at approximately 120 degrees below zero for preservation.The only other atomical features described by General "'T'' were the heads of the aliens which, by human standards, were larger proportionately than the bodies. Facial features had been obliterated by the heat. The craft? The General related that scientists assigned M.S. were seriously lovelorn, and on that basis were to the task of dismantling it ran into difficulty. To get frequently together.This allowed M.S. to be the guest at the General's home, where he and the General had private chats. Both being endowedwith the highest security ratings, they discussed UFOs.
+The General's daughter, (name known to me) and them in a deep freeze morgue, kept at approximately 120 
+degrees below zero for preservation.The only other atomical features described by General "'T'' were the 
+heads of the aliens which, by human standards, were larger proportionately than the bodies. Facial features 
+had been obliterated by the heat. The craft? The General related that scientists assigned M.S. were 
+seriously lovelorn, and on that basis were to the task of dismantling it ran into difficulty. To get 
+frequently together.This allowed M.S. to be the guest at the General's home, where he and the General 
+had private chats. Both being endowedwith the highest security ratings, they discussed UFOs.
 
-From GeneralT'',my informant related, details were disclosed concerning a UFO that had crashed in the inside they concentrated in an area where a fissure or crack had resulted, probably from impact. Shipment to Wright-Patterson, said the General, was by rail, properly camouflaged and classified as'rockets', and using two military rocket conveyance cars. On another occasion, M.S., while a guest of General southwest region of the United States in 1957. At that "T"' at his home, and while they were alone, was shown a time, General "Twas Lt. ColonelT"'.According to the General, radar had confirmed that an alien craft had crossed the skies over the United States at great speed. It was tracked to the point of its crash. The area, as in most cases, was roped off' and the NationalGuard summoned (with dogs) for maximum security. Toip Secret document concerning a landed UFO. The incident had occurred at Nellis AFB, Nevada, in 1968, and M.S. expressed disbelief when he read the report. Stamped TOP SECRET, it read, in part: Large UFO hovered over Nellis AFB for three days. Three small alien craft were observed separating (or being ejected) from From the damaged craft,four humanoid bodies were parent craft. One landed on the air base grounds. Sent to recovered with great dificulty because of the inability to greet the landed craft was a Colonel escorted by a security penetrate the craft's metal structure. The deceased bodies detachment properly armed. There was no mention of were found badly burned, some parts so severely that certain features were indistinguishable. However, the suits they wore — appearing silver were not damaged by the obviously intense heat endured inside the craft. Said the General: "The suits were fused to the flesh."" M. S. said that, according to the General, the four bodies, approximately 5 feet in height, were sent to Wright-Patterson AFB, where General "T"' had scen any attempt to assault the craft. While waiting for a sign of intent, a humanoid was observed to disembark from the craft. He was described as"'short and stocky."' Then a beam of light was directed at the Colonel. The Colonel was instantly paralyzed, according to the report. Orders then came from the officer next in command for his troops of the security detachment to fire, but their weapons were mysteriously jammed.The Colonel was recovered and
+From GeneralT'',my informant related, details were disclosed concerning a UFO that had crashed in the 
+inside they concentrated in an area where a fissure or crack had resulted, probably from impact. Shipment 
+to Wright-Patterson, said the General, was by rail, properly camouflaged and classified as'rockets', and 
+using two military rocket conveyance cars. On another occasion, M.S., while a guest of General southwest 
+region of the United States in 1957. At that "T"' at his home, and while they were alone, was shown a 
+time, General "Twas Lt. ColonelT"'.According to the General, radar had confirmed that an alien craft 
+had crossed the skies over the United States at great speed. It was tracked to the point of its crash. 
+The area, as in most cases, was roped off' and the NationalGuard summoned (with dogs) for maximum security. 
+Top Secret document concerning a landed UFO. The incident had occurred at Nellis AFB, Nevada, in 1968, and 
+M.S. expressed disbelief when he read the report. Stamped TOP SECRET, it read, in part: Large UFO hovered 
+over Nellis AFB for three days. Three small alien craft were observed separating (or being ejected) from 
+From the damaged craft,four humanoid bodies were parent craft. One landed on the air base grounds. Sent 
+to recovered with great dificulty because of the inability to greet the landed craft was a Colonel escorted 
+by a security penetrate the craft's metal structure. The deceased bodies detachment properly armed. There 
+was no mention of were found badly burned, some parts so severely that certain features were indistinguishable. 
+However, the suits they wore — appearing silver were not damaged by the obviously intense heat endured inside 
+the craft. Said the General: "The suits were fused to the flesh."" M. S. said that, according to the General, 
+the four bodies, approximately 5 feet in height, were sent to Wright-Patterson AFB, where General "T"' had 
+seen any attempt to assault the craft. While waiting for a sign of intent, a humanoid was observed to 
+disembark from the craft. He was described as"'short and stocky."' Then a beam of light was directed 
+at the Colonel. The Colonel was instantly paralyzed, according to the report. Orders then came from 
+the officer next in command for his troops of the security detachment to fire, but their weapons were 
+mysteriously jammed.The Colonel was recovered and
 
-NEW YORK. UNITEPSTATESOF AMERICA. NEVAPA. NELUS AFE FORT MONMOUTH. CHICAGQ PHILAUPERUPHIR XOHIO SWRSHINGTON PC. SAY FRANCISCO. PORT RUEYWRGMFPATERSON AFBLANCLE INDIANR YIREINIA.VORFOLK.
+NEW YORK. UNITEP STATESOF AMERICA. NEVAPA. NELUS AFE FORT MONMOUTH. CHICAGQ PHILAUPERUPHIR XOHIO SWRSHINGTON PC. SAY FRANCISCO. PORT RUEYWRGMFPATERSON AFBLANCLE INDIANR YIREINIA.VORFOLK.
 
 KINGMAN. KANSAS GOPMAN ARSX 20
 
@@ -1268,28 +1325,38 @@ Stringfield and based on witness descriptions.
 
 10. Arms are described as long and thin and reaching down to the knees.
 
-11. Hands: Four fingers, no thumb. Two fingers longer than others. Some observers have seen finger nails while others said no nails. A webbed effect berween fingers was noted by three authoritative observers (See figure 4).
+11. Hands: Four fingers, no thumb. Two fingers longer than others. Some observers have seen finger nails 
+while others said no nails. A webbed effect berween fingers was noted by three authoritative observers (See 
+figure 4).
 
 12. No description available of legs or feet.
 
-13. Skin description is not green, thank you! It is grey, according to most observers. Some claim beige, tan, brown,tannish or pinkish grey, and one said it looked almost"bluish grey" under deep freeze lights. In one instance, the bodies were charred to a dark brown.
+13. Skin description is not green, thank you! It is grey, according to most observers. Some claim beige, 
+tan, brown,tannish or pinkish grey, and one said it looked almost"bluish grey" under deep freeze lights. 
+In one instance, the bodies were charred to a dark brown.
 
 14.Teeth unknown. No data from dental authorities.
 
-15. Reproductive organs. This biological region is 'sensitive'or, to qualify a point, "secret.One observer claims no male or female organs were identified. No phallus, no womb. In my non-professional judgement, the absence of sexual organs suggests that some of the aliens, and perhaps all, do not reproduce as does Homo Sapiens or, that some of the bodies studied are produced perhaps by a system of cloning, or other unknown means.
+15. Reproductive organs. This biological region is 'sensitive'or, to qualify a point, "secret.One observer 
+claims no male or female organs were identified. No phallus, no womb. In my non-professional judgement, the 
+absence of sexual organs suggests that some of the aliens, and perhaps all, do not reproduce as does Homo 
+Sapiens or, that some of the bodies studied are produced perhaps by a system of cloning, or other unknown 
+means.
 
-16. In some incidents of retrieval, the humanoids appear to be"formed out of a mould,''or sharing identical biological characteristics.
+16. In some incidents of retrieval, the humanoids appear to be"formed out of a mould,''or sharing identical 
+biological characteristics.
 
 17. Brain capacity.Unknown.
 
 18. Blood. Liquid is prevalent, but not blood as we know it.
 
-19. Sustenance for existence. No food or water intakeis known. No food found on craft in one known retrieval. No alimentary canel or rectal area described.
+19. Sustenance for existence. No food or water intakeis known. No food found on craft in one known 
+retrieval. No alimentary canel or rectal area described.
 
-20. Humanoid types. Unknown. Descriptive variations of anatomy may be no more diverse than those known amongEarth 
-Homo Sapiens. Other alien types,reportedly varying in range from human to more grotesque configurations are unknown 
-to me. Speculatively, if these types exist, they may have their origins in other solar systems or have roots on 
-different planets within one solar system.
+20. Humanoid types. Unknown. Descriptive variations of anatomy may be no more diverse than those known 
+amongEarth Homo Sapiens. Other alien types,reportedly varying in range from human to more grotesque 
+configurations are unknown to me. Speculatively, if these types exist, they may have their origins in 
+other solar systems or have roots on different planets within one solar system.
 
 Stringfield and based on witness descriptions.
 
@@ -1305,12 +1372,15 @@ Figure 4: Alien humanoid hand, drawn by L.
 
 
 21. 1 know of the names of two major medical centres in
-the Eastern United States where continuing specialized intensive research is conducted on deceased alien bodies. Other 
-hospitals, where research reportedly has been conducted, are in Indiana, Illinois, Texas, Southeastern and Western USA.
+the Eastern United States where continuing specialized intensive research is conducted on deceased 
+alien bodies. Other hospitals, where research reportedly has been conducted, are in Indiana, Illinois, 
+Texas, Southeastern and Western USA.
 
 case; I recently had it confirmed from an Intelligence source.
 
-Perhaps the most significant of the reported foreign UFO crashes are those in the Communist World. My informant, Robert Barry, has learned from a reliable Intelligence source that Red China has two "downed" UFOs, one of which landed in water without occupants;
+Perhaps the most significant of the reported foreign UFO crashes are those in the Communist World. My 
+informant, Robert Barry, has learned from a reliable Intelligence source that Red China has two "downed" 
+UFOs, one of which landed in water without occupants;
 and Western USA.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
