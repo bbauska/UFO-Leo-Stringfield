@@ -1,8 +1,8 @@
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~ 1978-07-Status-Report-I-Analysis-of-the-Third-Kind.md ~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ in UFO-Leo-Stringfield ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-# STATUS REPORT I - RETRIEVALS OF THE THIRD KIND - Part 1
-## A Case Study of Alleged UFOs and Occupants in Military Custody
+<h2>STATUS REPORT I - RETRIEVALS OF THE THIRD KIND - Part 1</h2>
+<h3>A Case Study of Alleged UFOs and Occupants in Military Custody</h3>
 Leonard H. Stringfield
 
 This contribution to FSR is based on a paper delivered by the author at the MUFON 
@@ -165,7 +165,7 @@ will now proceed with the testimony of my informants conceming Retrievals of the
 following abstracts: 
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-**ABSTRACT I: UFO down in Mexico, near Laredo, Texas**
+<h3>ABSTRACT I: UFO down in Mexico, near Laredo, Texas</h3>
 
 In 1948, according to reports from hazy sources, a UFO with occupants numbering anywhere from one to 
 sixteen, had crashed in a desert region of the South Western United States, or Mexico, and was retrieved 
@@ -220,7 +220,7 @@ Zechel also traced a U.S. naval intelligence officer who was in Mexico City at t
 He was rushed to the spot, but got there just as the craft was being loaded on to military trucks.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-**Comment:**
+<h3>Comment:</h3>
 Todd Zechel related to me by phone on March 15, 1978, that additional details pertinent to this 
 1948 incident will be made known in his forthcoming book, Under Intelligent Control, to be published 
 in 1978.
@@ -229,7 +229,7 @@ Zechel also related that he has a signed affidavit by the retired Air Force Colo
 in the cordoning-off operations.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-**ABSTRACT II: Retricval of burned-out craft with small dead bodies**
+<h3>ABSTRACT II: Retricval of burned-out craft with small dead bodies</h3>
 1952, the year of a great wave of UFO sightings throughout the U.S.A., can also share in the history 
 of retrieval data.
 
@@ -1286,96 +1286,194 @@ Stringfield and based on witness descriptions.
 
 19. Sustenance for existence. No food or water intakeis known. No food found on craft in one known retrieval. No alimentary canel or rectal area described.
 
-20. Humanoid types. Unknown. Descriptive variations of anatomy may be no more diverse than those known amongEarth Homo Sapiens. Other alien types,reportedly varying in range from human to more grotesque configurations are unknown to me. Speculatively, if these types exist, they may have their origins in other solar sys- Figure 4: Alien humanoid hand, drawn by L.
+20. Humanoid types. Unknown. Descriptive variations of anatomy may be no more diverse than those known amongEarth 
+Homo Sapiens. Other alien types,reportedly varying in range from human to more grotesque configurations are unknown 
+to me. Speculatively, if these types exist, they may have their origins in other solar systems or have roots on 
+different planets within one solar system.
 
 Stringfield and based on witness descriptions.
 
-<!-- ![image-1](images/image-1.png) -->
 
-tems or have roots on different planets within one solar system.
+<!-- ![image-1](images/image-1.png) -->
+Figure 3: Allen humanoid head, drawn by L.
+Stringfield and based on witness
+descriptions.
+
+<!-- ![image-1](images/image-1.png) -->
+Figure 4: Alien humanoid hand, drawn by L.
+
+
 
 21. 1 know of the names of two major medical centres in
-the Eastern United States where continuing specialized intensive research is conducted on deceased alien bodies. Other hospitals, where research reportedly has been conducted, are in Indiana, Illinois, Texas, Southeastern
+the Eastern United States where continuing specialized intensive research is conducted on deceased alien bodies. Other 
+hospitals, where research reportedly has been conducted, are in Indiana, Illinois, Texas, Southeastern and Western USA.
+
 case; I recently had it confirmed from an Intelligence source.
 
 Perhaps the most significant of the reported foreign UFO crashes are those in the Communist World. My informant, Robert Barry, has learned from a reliable Intelligence source that Red China has two "downed" UFOs, one of which landed in water without occupants;
 and Western USA.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-**SUMMARY**
+<h3>SUMMARY</h3>
 
-It is beyond the scope of this paper to deal with all the stories and rumours of stories — each alleging the occurrence of a UFO crash, with or without occupants, and its subsequent hush-hush military retrieval — which find their way to me.
+It is beyond the scope of this paper to deal with all the stories and rumours of stories — each alleging 
+the occurrence of a UFO crash, with or without occupants, and its subsequent hush-hush military retrieval 
+— which find their way to me.
 
-As of July 20, 1978, for the record, I am aware of more than 50 sources who bear information relative to the subject of retrievals or storage of alien craft, and/or the deceased alien humanoids recovered from the craft. From this number I have selected 22 of these sources whose testimony is reviewed in this paper. Most others lack sufficient data and a few have "dried up," so to speak, out of fear of military reprisal or public ridicule.
+As of July 20, 1978, for the record, I am aware of more than 50 sources who bear information relative to 
+the subject of retrievals or storage of alien craft, and/or the deceased alien humanoids recovered from 
+the craft. From this number I have selected 22 of these sources whose testimony is reviewed in this paper. 
+Most others lack sufficient data and a few have "dried up," so to speak, out of fear of military reprisal 
+or public ridicule.
 
-Stories of long ago and as recently as 1977 clearly show that the USA is not the only territory in the world where UFOs and crews err in their tactical mission and crash to their doom.
+Stories of long ago and as recently as 1977 clearly show that the USA is not the only territory in the 
+world where UFOs and crews err in their tactical mission and crash to their doom.
 
-On foreign soil we have a number of reported crashes. One allegedly occurred on the island of Spitzbergen in 1952 with the craft said to have been recovered secretly by Norwegian military authorities.
+On foreign soil we have a number of reported crashes. One allegedly occurred on the island of Spitzbergen 
+in 1952 with the craft said to have been recovered secretly by Norwegian military authorities.
 
-Another report of a UFO crash and retrieval, was contained in a special dispatch from the late columnist Dorothy Kilgallan (datelined May 23, 1955, London, England, INS) as follows: "British scientists and airmen, after examining the wreckage of one mysterious flying ship, are convinced that these strange aerial objects are flying saucers from another planet. The source of my information is a British official of Cabinet rank. He told me: 'We believe, on the basis of our inquiries thus far, that the saucers were staffed by small men — probably under Ibur feet. It's frightening, but there's no denying that flying saucers are from another planet.' This official quoted scientists as saying a flying ship of this type could not have been constructed on Earth. The British government, I learned, is withholding an official report on the flying saucer examination at this time, possibly because it does not want to frighten the public."
+Another report of a UFO crash and retrieval, was contained in a special dispatch from the late columnist 
+Dorothy Kilgallan (datelined May 23, 1955, London, England, INS) as follows: "British scientists and airmen, 
+after examining the wreckage of one mysterious flying ship, are convinced that these strange aerial objects 
+are flying saucers from another planet. The source of my information is a British official of Cabinet rank. 
+He told me: 'We believe, on the basis of our inquiries thus far, that the saucers were staffed by small men 
+— probably under Ibur feet. It's frightening, but there's no denying that flying saucers are from another 
+planet.' This official quoted scientists as saying a flying ship of this type could not have been constructed 
+on Earth. The British government, I learned, is withholding an official report on the flying saucer examination 
+at this time, possibly because it does not want to frighten the public."
 
-Still other foreign reports in the past and of recent times tell of objects falling to Earth looking like fireballs, of objects exploding on impact. Many crashes have conventional explanations, but others do not, such as the
+Still other foreign reports in the past and of recent times tell of objects falling to Earth looking 
+like fireballs, of objects exploding on impact. Many crashes have conventional explanations, but others 
+do not, such as the circular craft that allegedly crashed in Nauta, Peru on November 11, 1975. This 
+object, according to Robert Barry, measured 12' 8" in diameter, and featured a strange metallic coating. 
+Other reported crashes have occured in Australia, May, 1976, in Mexico, August, 1977, and in Bolivia, 
+May, 1978. One report of a UFO crash, with recovered humanoid occupants, stands out above the others. 
+Occurring in 1953, a hundred miles outside of Johannesburg, South Africa, the incident prompted investigation 
+by a US Air Force General. Larry Moyers, MUFON State Director of Ohio, uncovered the case; I recently had 
+it confirmed from an Intelligence source.
 
-and that there were two, possibly three crashes and retrievals in Russia.
+Perhaps the most significant of the reported foreign UFO crashes are those in the Communist World. My 
+informant, Robert Barry, has learned from a reliable Intelligence source that Red China has two "downed" 
+UFOs, one of which landed in water without occupants; and that there were two, possibly three crashes 
+and retrievals in Russia.
 
 In the USA, reports of UFO crash and retrievals continue through the 1970's.
 
-One recent incident, for example, not yet substantiated, came to light from reliable sources not to be named at this time as our search for data continues. This incident, allegedly occurring in the Spring of 1977 in a rural area of Southwestern Ohio, involves a landed craft, perhaps disabled, and a number of its occupants who engaged a military unit dispatched to the scene. Whatever happened during this Encounter of The Third Kind, the sketchy data we have thus far, suggests violence. Reportedly, eleven members of the US military detachment were either injured or killed. There was no word of alien casualties. The story is traceable through a handful of qualified researchers, then it stops at a dead end. Out of reach is a medical specialist who was supposedly called in by the military authorities to perform his expertise.
+One recent incident, for example, not yet substantiated, came to light from reliable sources not to 
+be named at this time as our search for data continues. This incident, allegedly occurring in the Spring 
+of 1977 in a rural area of Southwestern Ohio, involves a landed craft, perhaps disabled, and a number of 
+its occupants who engaged a military unit dispatched to the scene. Whatever happened during this Encounter 
+of The Third Kind, the sketchy data we have thus far, suggests violence. Reportedly, eleven members of 
+the US military detachment were either injured or killed. There was no word of alien casualties. The 
+story is traceable through a handful of qualified researchers, then it stops at a dead end. Out of reach 
+is a medical specialist who was supposedly called in by the military authorities to perform his expertise.
 
-In the fall of 1977, I was approached by a Cincinnati researcher and told that he had learned from a source who worked at Wright-Patterson AFB that in the spring of 1977 military personnel had carried into a certain area on the base, several litters with alien bodies from an undisclosed location.
+In the fall of 1977, I was approached by a Cincinnati researcher and told that he had learned from a source 
+who worked at Wright-Patterson AFB that in the spring of 1977 military personnel had carried into a certain 
+area on the base, several litters with alien bodies from an undisclosed location.
 
-Perhaps in time, new data may turn up to give credence to one or both of these possibly connected stories. Indeed, a pitched land battle between US military and alien forces seems more like fantasy, but if true, then it would be reasonable to assume that the secrecy lid would come down hard on it! The effects from such a disclosure would certainly create more than a "cultural shock."
+Perhaps in time, new data may turn up to give credence to one or both of these possibly connected stories. 
+Indeed, a pitched land battle between US military and alien forces seems more like fantasy, but if true, 
+then it would be reasonable to assume that the secrecy lid would come down hard on it! The effects from 
+such a disclosure would certainly create more than a "cultural shock."
 
-Still another factor that has raised some questions concerns the geographical location of UFO crashes. In the USA, especially in the 1950's, they have mainly occurred in the Western or Southwestern desert regions, where military experimental installations abound. Logically, one may ask, is the flying saucer a super secret US weapon? But the negative answers are overwhelming. As pointed out earlier, UFO crashes have occurred on foreign soil beyond the range of the US experimental aircraft. And, as known to all research, UFOs have repeatedly reconnoitered US and foreign military installations and other sensitive areas where they sometimes act in a menacing manner. On the premise that humanoid aliens have been
-circular craft that allegedly crashed in Nauta, Peru on November 11, 1975. This object, according to Robert Barry, measured 12' 8" in diameter, and featured a strange metallic coating. Other reported crashes have occured in Australia, May, 1976, in Mexico, August, 1977, and in Bolivia, May, 1978. One report of a UFO crash, with recovered humanoid occupants, stands out above the others. Occurring in 1953, a hundred miles outside of Johannesburg, South Africa, the incident prompted investigation by a US Air Force General. Larry Moyers, MUFON State Director of Ohio, uncovered the
-preserved in deep freeze conditions at Wright-Patterson AFB and at several medical centers for research, I believe it is safe to postulate that these entities associated with the UFO are physical and are not an apparition from another dimension. My point here is not to derogate the theory of extradimensional entities, for there is much evidence to
-suggest that it, too, plays a part in the UFO mystery. It is
-beyond the scope of this paper to rationalize each and
-every kind of alien intruder during a live encounter. That subject belongs to my colleague, Ted Bloecher, who has made a scholarly study of that phase of research.
+Still another factor that has raised some questions concerns the geographical location of UFO crashes. 
+In the USA, especially in the 1950's, they have mainly occurred in the Western or Southwestern desert 
+regions, where military experimental installations abound. Logically, one may ask, is the flying saucer 
+a super secret US weapon? But the negative answers are overwhelming. As pointed out earlier, UFO crashes 
+have occurred on foreign soil beyond the range of the US experimental aircraft. And, as known to all 
+research, UFOs have repeatedly reconnoitered US and foreign military installations and other sensitive 
+areas where they sometimes act in a menacing manner. 
+
+On the premise that humanoid aliens have been 
+circular craft that allegedly crashed in Nauta, Peru on November 11, 1975. This object, according to 
+Robert Barry, measured 12' 8" in diameter, and featured a strange metallic coating. Other reported crashes 
+have occured in Australia, May, 1976, in Mexico, August, 1977, and in Bolivia, May, 1978. One report of 
+a UFO crash, with recovered humanoid occupants, stands out above the others. Occurring in 1953, a hundred 
+miles outside of Johannesburg, South Africa, the incident prompted investigation by a US Air Force General. 
+Larry Moyers, MUFON State Director of Ohio, uncovered the preserved in deep freeze conditions at Wright-
+Patterson AFB and at several medical centers for research, I believe it is safe to postulate that these 
+entities associated with the UFO are physical and are not an apparition from another dimension. My point 
+here is not to derogate the theory of extradimensional entities, for there is much evidence to suggest that 
+it, too, plays a part in the UFO mystery. It is beyond the scope of this paper to rationalize each and
+every kind of alien intruder during a live encounter. That subject belongs to my colleague, Ted Bloecher, 
+who has made a scholarly study of that phase of research.
 
 <!-- ![image-2](images/image-2.png) -->
 
-In summary, the information treated in this paper, while it may seem provocative to the media and to the average researcher, admittedly does not constitute the final proof that UFOs are of extraterrestrial origin. But, indeed, if my data from reliable and diverse sources are received with an objective and unbiased mind, then the extra-terrestrial hypothesis surely is strengthened.
+In summary, the information treated in this paper, while it may seem provocative to the media and to 
+the average researcher, admittedly does not constitute the final proof that UFOs are of extraterrestrial 
+origin. But, indeed, if my data from reliable and diverse sources are received with an objective and 
+unbiased mind, then the extra-terrestrial hypothesis surely is strengthened.
 
-It seems that, no matter how much some of us may want to disbelieve the data presented in the foregoing abstracts, it will be difficult to explain away the correlative physical similarities of the recovered humanoids.
+It seems that, no matter how much some of us may want to disbelieve the data presented in the foregoing 
+abstracts, it will be difficult to explain away the correlative physical similarities of the recovered 
+humanoids.
 
-Despite my long experience in UFO research, I must admit that I feel a sense of human uneasiness as vital data continues to reach me from responsible sources. As the pieces of the puzzle suddenly fall into place for me, each a corroborative clue, I realize — like a smack in the face — that our giant Intelligence community, both military and covert agencies, have — with very good reason — been sitting atop a real Pandora's Box.
+Despite my long experience in UFO research, I must admit that I feel a sense of human uneasiness as vital 
+data continues to reach me from responsible sources. As the pieces of the puzzle suddenly fall into place 
+for me, each a corroborative clue, I realize — like a smack in the face — that our giant Intelligence 
+community, both military and covert agencies, have — with very good reason — been sitting atop a real 
+Pandora's Box.
 
-I am not condoning the attitudes of our Intelligence forces, with their harsh and tricky actions, or their methods of suppressing the hidden facts for so many years, but I can now appreciate the problem they may have had in trying to find a reasonable way out of a real dilemma, to relate all the sobering data to a benighted world public. How, for instance, would the public react to a sudden official disclosure of even the scantiest details about the humanoids which I have released in this paper? And, the humanoid factor is just a small segment in the overall sobering UFO data.
+I am not condoning the attitudes of our Intelligence forces, with their harsh and tricky actions, or their 
+methods of suppressing the hidden facts for so many years, but I can now appreciate the problem they may 
+have had in trying to find a reasonable way out of a real dilemma, to relate all the sobering data to a 
+benighted world public. How, for instance, would the public react to a sudden official disclosure of even 
+the scantiest details about the humanoids which I have released in this paper? And, the humanoid factor 
+is just a small segment in the overall sobering UFO data.
 
-And, there is still another sensitive aspect to consider:
+And, there is still another sensitive aspect to consider: The intent of the UFOs! It is my belief that 
+our Intelligence community does not know the intent of the UFOs. For our government to suddenly make a 
+major pronouncement releasing only the known data could pose some serious new risks for our society. In 
+my opinion, to release part of the UFO story, while being unable to define the UFO's intent, could create 
+an even greater concern in the unpredictable public mind.
 
-The intent of the UFOs! It is my belief that our Intelligence community does not know the intent of the UFOs. For our government to suddenly make a major pronouncement releasing only the known data could pose some serious new risks for our society. In my opinion, to release part of the UFO story, while being unable to define the UFO's intent, could create an even greater concern in the unpredictable public mind.
+Perhaps the human mind is ready to hear the truth. Our minds have survived in many hot wars, and a long 
+cold war with the threat of nuclear destruction, plus all the social upheavals of the '60s and '70s. I 
+believe we are ready for the truth.
 
-Perhaps the human mind is ready to hear the truth. Our minds have survived in many hot wars, and a long cold war with the threat of nuclear destruction, plus all the social upheavals of the '60s and '70s. I believe we are ready for the truth.
+Who are these other mortals whose imperfect craft have crashed onto the alien soil of Earth? From what 
+other star system do they come where evolutionary life is not too different from our Earth's? Is there 
+a missing link in our primaeval past, or lost in our archeological wonders, which may reveal a human 
+kinship between us and them? I do not profess to know what secrets are locked away, nor the final answer 
+to the UFO mystery, nor do I know what other great secrets may be hidden with the retrieved craft and 
+deceased aliens.
 
-Who are these other mortals whose imperfect craft have crashed onto the alien soil of Earth? From what other star system do they come where evolutionary life is not too different from our Earth's? Is there a missing link in our primaeval past, or lost in our archeological wonders, which may reveal a human kinship between us and them? I do not profess to know what secrets are locked away, nor the final answer to the UFO mystery, nor do I know what other great secrets may be hidden with the retrieved craft and deceased aliens.
+Perhaps President Jimmy Carter knows these secrets, or some of them. Thus, my plea, here and now, is 
+addressed to the President of the United States to give serious consideration to the testimony I have 
+recorded in this paper. With his conscience as his guide, I trust that the President of the United States 
+will tell this great nation, and the world, the truth about the greatest story of our time.
 
-Perhaps President Jimmy Carter knows these secrets, or some of them. Thus, my plea, here and now, is addressed to the President of the United States to give serious consideration to the testimony I have recorded in this paper. With his conscience as his guide, I trust that the President of the United States will tell this great nation, and the world, the truth about the greatest story of our time.
-
-<!-- ![image-3](images/image-3.png) -->
-
-APPENDIX
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>APPENDIX</h3>
 
 <!-- ![image-4](images/image-4.png) -->
-
-CLOSE ENCOUNTERS OF AN UNTHINKABLE ANDINADMISSIBLE KIND
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>CLOSE ENCOUNTERS OF AN UNTHINKABLE ANDINADMISSIBLE KIND</h3>
 
 Gordon Creighton
 
-THE very first issue of FSR (Spring 1955, Vol. 1, No. 1) carried on its third page an extraordinary report that had come from a man who today is well known in the world of broadcasting and television on both sides of the Atlantic. Because few readers today possess or have access to FSR No. 1, I am here reproducing the report, which appeared under the heading "Star Puzzled" in full:
+THE very first issue of FSR (Spring 1955, Vol. 1, No. 1) carried on its third page an extraordinary 
+report that had come from a man who today is well known in the world of broadcasting and television 
+on both sides of the Atlantic. Because few readers today possess or have access to FSR No. 1, I am 
+here reproducing the report, which appeared under the heading "Star Puzzled" in full:
 
-"Broadcasts reporting a flying saucer crash picked up on his car radio as he drove across America have baffled stage and radio star Hughie Green since June 1947.
+"Broadcasts reporting a flying saucer crash picked up on his car radio as he drove across America have 
+baffled stage and radio star Hughie Green since June 1947.
 
-"He was driving alone from Hollywood to Philadelphia for a business appointment and was tuned in to broadcasting stations most of the time ... 'because it's a long and boring trip.'
+"He was driving alone from Hollywood to Philadelphia for a business appointment and was tuned in to 
+broadcasting stations most of the time ... 'because it's a long and boring trip.'
 
 "But let Mr. Green take up the story.
 
-" 'About 250 miles out of Philadelphia,' he said, 'a commentator interrupted the programme to announce that a flying saucer had crashed in New Mexico, and that the Army were moving in to investigate.
+" 'About 250 miles out of Philadelphia,' he said, 'a commentator interrupted the programme to announce 
+that a flying saucer had crashed in New Mexico, and that the Army were moving in to investigate.
 
 " 'Later the programme was interrupted again, and quite a few details were given.
 
-" 'Several newsflashes about the incident, from various radio stations, followed. The last I heard was just before reaching Philadelphia. The announcer promised further bulletins. None followed.
+" 'Several newsflashes about the incident, from various radio stations, followed. The last I heard was 
+just before reaching Philadelphia. The announcer promised further bulletins. None followed.
 
 " 'When I got to Philadelphia I bought all the  
 newspapers I could lay my hands on. But not one  
@@ -1385,162 +1483,340 @@ just drew a blank. It's mystified me ever since.'
 
 listened in to the transmissions has been interviewed.
 
-"The question arising from Hughie Green's account is: 'Do the Americans have a flying saucer in their possession?'
+"The question arising from Hughie Green's account is: 'Do the Americans have a flying saucer in their 
+possession?'
 
-"Reports from America suggest that the U.S.A.F. has more than one! One — or parts of one — at Wright Patterson Field, the American Farnborough, and another at Edwards Air Force Base, the U.S. equivalent of the Ministry of Supply's experimental station at Boscombe Down.
+"Reports from America suggest that the U.S.A.F. has more than one! One — or parts of one — at Wright 
+Patterson Field, the American Farnborough, and another at Edwards Air Force Base, the U.S. equivalent 
+of the Ministry of Supply's experimental station at Boscombe Down.
 
-"Flying Saucer enthusiasts all over the world believe there is some truth in the story, but that it is being as carefully guarded as any atomic or military
+"Flying Saucer enthusiasts all over the world believe there is some truth in the story, but that it 
+is being as carefully guarded as any atomic or military
 secret for fear of causing public panic.
 
-"In London the Air Ministry persists in not having a clue about flying saucers. And the indications are that they would give a lot to know what they really are."
+"In London the Air Ministry persists in not having a clue about flying saucers. And the indications 
+are that they would give a lot to know what they really are."
 
-Such, then, was the intriguing Hughie Green story. It only remains for me to add that, if my memory is not at fault, Mr. Green had himself been an officer in the Royal Air Force, and so may well have been especially intrigued by the UFOs because either he or some of his friends in the Service had "seen things" themselves during World War II, or had heard rumours about other colleagues who had done so.
+Such, then, was the intriguing Hughie Green story. It only remains for me to add that, if my memory 
+is not at fault, Mr. Green had himself been an officer in the Royal Air Force, and so may well have 
+been especially intrigued by the UFOs because either he or some of his friends in the Service had "seen 
+things" themselves during World War II, or had heard rumours about other colleagues who had done so.
 
 (FSR's first Editor, who was responsible for the
 
-selection of this extraordinarily interesting report, was of course Derek Dempster, himself also a former pilot in the Royal Air Force.) * * * *
+selection of this extraordinarily interesting report, was of course Derek Dempster, himself also a 
+former pilot in the Royal Air Force.) * * * *
 
-Let us move on now to the third issue of FSR (July/August 1955) where we find, on page 6, another fascinating story, which I also reproduce in full. This account appeared under the heading "UFO crash in Britain?"
+Let us move on now to the third issue of FSR (July/August 1955) where we find, on page 6, another fascinating 
+story, which I also reproduce in full. This account appeared under the heading "UFO crash in Britain?"
 
-"Has a flying -saucer crashed in Britain? This story cabled to America through the International News Service's London office by Dorothy Kilgallen, a staffcorrespondent on the New York Journal-American, indicates that one has, and that it has been examined by British scientists and airmen. Here is the account, reproduced from the Los Angeles Examiner:
+"Has a flying -saucer crashed in Britain? This story cabled to America through the International News 
+Service's London office by Dorothy Kilgallen, a staffcorrespondent on the New York Journal-American, 
+indicates that one has, and that it has been examined by British scientists and airmen. Here is the 
+account, reproduced from the Los Angeles Examiner:
 
-" `London, May 22: I can report today on a story which is positively spooky, not to mention chilling. British scientists and airmen, after examining the wreckage of one mysterious flying ship, are convinced these strange aerial objects are not optical illusions or Soviet inventions, but are flying saucers which originate on another planet.
+" `London, May 22: I can report today on a story which is positively spooky, not to mention chilling. 
+British scientists and airmen, after examining the wreckage of one mysterious flying ship, are convinced 
+these strange aerial objects are not optical illusions or Soviet inventions, but are flying saucers which 
+originate on another planet.
 
-" 'The source of my information is a British official of Cabinet rank who prefers to remain unidentified. "We believe," he said "on the basis of our enquiry thus far, that the saucers are staffed by small men — probably under four feet tall. It's frightening, but there is no denying that the flying saucers come from another planet."
+" 'The source of my information is a British official of Cabinet rank who prefers to remain unidentified. 
+"We believe," he said "on the basis of our enquiry thus far, that the saucers are staffed by small men — 
+probably under four feet tall. It's frightening, but there is no denying that the flying saucers come 
+from another planet."
 
-" 'This official quoted scientists as saying a flying ship of this type could not have possibly been constructed on earth. The British Government, I learned, is withholding an official report on the "flying saucer" examined at this time, possibly because it does not wish to frighten the public.
+" 'This official quoted scientists as saying a flying ship of this type could not have possibly been 
+constructed on earth. The British Government, I learned, is withholding an official report on the "flying 
+saucer" examined at this time, possibly because it does not wish to frighten the public.
 
 <!-- ![image-5](images/image-5.png) -->
 
-" 'When my husband (Richard Kollmer, Broadway producer and radio commentator) and I arrived here in Britain for a brief vacation, I had no premonition that I would be catapaulting myself into the controversy over whether flying saucers are real or imaginary. In the United States all kinds of explanations have been advanced.
+" 'When my husband (Richard Kollmer, Broadway producer and radio commentator) and I arrived here in 
+Britain for a brief vacation, I had no premonition that I would be catapaulting myself into the controversy 
+over whether flying saucers are real or imaginary. In the United States all kinds of explanations have 
+been advanced.
 
-'But no responsible official of the United States Air Force has yet intimated that the mysterious flying ships had actually vaulted from outer space.'
+'But no responsible official of the United States Air Force has yet intimated that the mysterious flying 
+ships had actually vaulted from outer space.'
 
 - Flying Saucer Review has made big efforts to get
 
-to the bottom of this account, but without success. Said the London news editor of the International News Service: 'We tried hard to get the source of this story, but drew a blank.'
+to the bottom of this account, but without success. Said the London news editor of the International News 
+Service: 'We tried hard to get the source of this story, but drew a blank.'
 
-"Was this a party hoax, an attempt by the official concerned to sound out world reaction, or is it true? The question remains unanswered for the time being."
+"Was this a party hoax, an attempt by the official concerned to sound out world reaction, or is it true? 
+The question remains unanswered for the time being."
 
-So much, then for the second intriguing little story which I have culled from the very earliest pages of FSR, pages printed a quarter of a century ago. But I can add a few further details which will not be thought devoid of interest. Firstly, as regards the indentity of the very famous Englishman from whom Dorothy Kilgallen said she had got this story, I learnt later that, as indicated in the closing paragraph of her report, the conversation took place among a gathering of very distinguished guests at a cocktail party in London. As regards the identity of the titled Englishman, I had no doubt at the time as to who he was - a great leader and servant of our country who has represented us well both in one of the highest of our military posts in World War If and in the political sphere during the early post-war era. He is a man who, as Editors of FSR have always known, has taken a deep interest in the UFO problem since the beginning. A year of two later I saw a fuller account, received from a correspondent of mine in the USA, of what precisely Dorothy Kilgallen had said in her very widely synidcated newspaper column. She had described her British host as an Englishman of Cabinet rank - a man whose name is ("household word to every American.
+So much, then for the second intriguing little story which I have culled from the very earliest pages of 
+FSR, pages printed a quarter of a century ago. But I can add a few further details which will not be 
+thought devoid of interest. Firstly, as regards the indentity of the very famous Englishman from whom 
+Dorothy Kilgallen said she had got this story, I learnt later that, as indicated in the closing paragraph 
+of her report, the conversation took place among a gathering of very distinguished guests at a cocktail 
+party in London. As regards the identity of the titled Englishman, I had no doubt at the time as to who 
+he was - a great leader and servant of our country who has represented us well both in one of the highest 
+of our military posts in World War If and in the political sphere during the early post-war era. He is 
+a man who, as Editors of FSR have always known, has taken a deep interest in the UFO problem since the 
+beginning. A year of two later I saw a fuller account, received from a correspondent of mine in the USA, 
+of what precisely Dorothy Kilgallen had said in her very widely synidcated newspaper column. She had 
+described her British host as an Englishman of Cabinet rank - a man whose name is ("household word to 
+every American.
 
-Dorothy Kilgallen herself, whose regular syndicated reports appeared, as I recall, in a large chain of America's regional newspapers, died a few years or so afterwards. However, as soon as I saw her UFO story I at once wrote to her, through the International News Service, in the hope that I might be able to winkle out of her some further scraps of intriguing information. But I never got an answer. Once again, as has happened so often, an individual who yesterday spoke out loudly and clearly today falls inexplicably silent. I never heard of any further utterances given by Dorothy Kilgallen about UFOs. I imagine that she was effectively silenced, as so many others have been over the past thirty years.
+Dorothy Kilgallen herself, whose regular syndicated reports appeared, as I recall, in a large chain 
+of America's regional newspapers, died a few years or so afterwards. However, as soon as I saw her 
+UFO story I at once wrote to her, through the International News Service, in the hope that I might 
+be able to winkle out of her some further scraps of intriguing information. But I never got an answer. 
+Once again, as has happened so often, an individual who yesterday spoke out loudly and clearly today 
+falls inexplicably silent. I never heard of any further utterances given by Dorothy Kilgallen about 
+UFOs. I imagine that she was effectively silenced, as so many others have been over the past thirty 
+years.
 
-The Kilgallen report of May 22, 1955, was reproduced, as I have indicated above, in FSR, issue No. 3 duly/August 1955.) But be it noted that already, in his Editorial leader in Issue No. 2 (May/ June 1955) Derek Dempster had opened with the following significant paragraphs!:-
+The Kilgallen report of May 22, 1955, was reproduced, as I have indicated above, in FSR, issue No. 3 
+duly/August 1955.) But be it noted that already, in his Editorial leader in Issue No. 2 (May/ June 
+1955) Derek Dempster had opened with the following significant paragraphs!:-
 
-"Government statements on Flying Saucers have always been confusing, and the general consensus of opinion has been that officialdom was just as anxious to know the answer to the riddle as anyone else.
+"Government statements on Flying Saucers have always been confusing, and the general consensus of opinion 
+has been that officialdom was just as anxious to know the answer to the riddle as anyone else.
 
-"But last month something happened which gave rise to the belief that Whitehall did in fact have the UFO answer.
+"But last month something happened which gave rise to the belief that Whitehall did in fact have the UFO 
+answer.
 
-"The Air Ministry announced that the results of a five-year probe into Flying Saucers by the Royal Air Force had been submitted to high-ranking officers, but that, for security reasons, it was never to be revealed to the public.1
+"The Air Ministry announced that the results of a five-year probe into Flying Saucers by the Royal Air 
+Force had been submitted to high-ranking officers, but that, for security reasons, it was never to be 
+revealed to the public.1
 
-I find it remarkably strange that nobody today ever seems to remember this Editorial in FSR, or quotes from it. Clearly it has been generally forgotten - a fact for which the faceless bureaucrats in Whitehall have surely had reason, many, many times in the past quarter of a century, to be more than ordinarily grateful.
+I find it remarkably strange that nobody today ever seems to remember this Editorial in FSR, or quotes 
+from it. Clearly it has been generally forgotten - a fact for which the faceless bureaucrats in Whitehall 
+have surely had reason, many, many times in the past quarter of a century, to be more than ordinarily 
+grateful.
 
-We come now to FSR Vol.1, No. 4 (September/ October 1955), where we find, on page 5, a report under the heading "Landed dile entered in Argentine." The report ran as follows:-
+We come now to FSR Vol.1, No. 4 (September/ October 1955), where we find, on page 5, a report under the 
+heading "Landed dile entered in Argentine." The report ran as follows:-
 
-"On May 7, the Caracas, Venezuela, daily El Universal carried a story of an engineer's encounter with a saucer and its dead occupants in 1950.
+"On May 7, the Caracas, Venezuela, daily El Universal carried a story of an engineer's encounter with a 
+saucer and its dead occupants in 1950.
 
-"The engineer was driving along a road in the Bahia Blanca district of the Argentine, when he saw a metallic disc-shaped object on the ground. He stopped his car, got out, and went to investigate.
+"The engineer was driving along a road in the Bahia Blanca district of the Argentine, when he saw a 
+metallic disc-shaped object on the ground. He stopped his car, got out, and went to investigate.
 
-"He watched for a few moments to see what would happen, but, as all was quiet, he approached it and found a sort of curved divan with three seats, two of which were occupied by small beings covered from head to foot, except for an opening for the face, in tight-fitting overalls.
+"He watched for a few moments to see what would happen, but, as all was quiet, he approached it and 
+found a sort of curved divan with three seats, two of which were occupied by small beings covered from 
+head to foot, except for an opening for the face, in tight-fitting overalls.
 
-"He estimated their height to be about four feet. Their faces seemed charred and burnt. Another little creature was sprawled in a seat situated in approximately the centre of the cabin.
+"He estimated their height to be about four feet. Their faces seemed charred and burnt. Another little 
+creature was sprawled in a seat situated in approximately the centre of the cabin.
 
-"In front of them was a screen with rays playing on it, and on the top of the screen was a rotating glass-like globe.
+"In front of them was a screen with rays playing on it, and on the top of the screen was a rotating 
+glass-like globe.
 
-"An ungovernable impulse urged the engineer to touch one of the creatures. It felt stiff and rigid. It was then, he said, that some inner voice warned him to get out as soon as possible, as he was in the presence of 'strange life.'
+"An ungovernable impulse urged the engineer to touch one of the creatures. It felt stiff and rigid. 
+It was then, he said, that some inner voice warned him to get out as soon as possible, as he was in 
+the presence of 'strange life.'
 
-"He rushed to his car, and returned to his hotel at high speed to relate his story to a few intimate friends, who returned to the scene with him on the following day.
+"He rushed to his car, and returned to his hotel at high speed to relate his story to a few intimate 
+friends, who returned to the scene with him on the following day.
 
 <!-- ![image-6](images/image-6.png) -->
 
-"On reaching the spot, however, all they found was a heap of ashes2 and, in the sky above them, a cigar-shaped object and two discs.
+"On reaching the spot, however, all they found was a heap of ashes2 and, in the sky above them, a cigar-
+shaped object and two discs.
 
-"One of the discs was hovering at an estimated height of 2,000 feet. It was about 30 ft. in diameter. The engineer took pictures of it, but of the six exposures, only two showed the craft with any degree of clarity.
+"One of the discs was hovering at an estimated height of 2,000 feet. It was about 30 ft. in diameter. 
+The engineer took pictures of it, but of the six exposures, only two showed the craft with any degree 
+of clarity.
 
-"The group felt that they had been observed during their visit, for the two discs shot up, merged with the 'cigar', which, after travelling horizontally for a short distance, disappeared into space at a colossal speed."
+"The group felt that they had been observed during their visit, for the two discs shot up, merged with 
+the 'cigar', which, after travelling horizontally for a short distance, disappeared into space at a 
+colossal speed."
 
 (This report was also published by APRO in their Bulletin.)
 
-Three years later, in the summer of 1958, FSR reader Peter Roe of Nottingham was good enough to send me a slightly fuller version of this same report, which gave the name of the man who had had this experience in Argentina with a crashed disc. He was, it seems, Signor Eorice Bessa, aged 44, and Italian architect, formerly a pilot in the Italian Air Force in World War II, who had since become a citizen of Argentina.
+Three years later, in the summer of 1958, FSR reader Peter Roe of Nottingham was good enough to send 
+me a slightly fuller version of this same report, which gave the name of the man who had had this experience 
+in Argentina with a crashed disc. He was, it seems, Signor Eorice Bessa, aged 44, and Italian architect, 
+formerly a pilot in the Italian Air Force in World War II, who had since become a citizen of Argentina.
 
-My next selection from the past comes from FSR Vol. 2, No. 1 (January/February 1956) where we find, on page six, under the title Let's Talk Space. Flying Saucers Are Real, a highly interesting report from a Special Correspondent of FSR visiting Mexico.
+My next selection from the past comes from FSR Vol. 2, No. 1 (January/February 1956) where we find, 
+on page six, under the title Let's Talk Space. Flying Saucers Are Real, a highly interesting report 
+from a Special Correspondent of FSR visiting Mexico.
 
-The first part of the article runs as follows: — "The United States Authorities have established that flying saucers are manned by visitors from outer space. They are trying to work out a method of breathing and staying alive in our atmosphere before landing and establishing contact.
+The first part of the article runs as follows: — "The United States Authorities have established that 
+flying saucers are manned by visitors from outer space. They are trying to work out a method of breathing 
+and staying alive in our atmosphere before landing and establishing contact.
 
-"This statement was given to a Flying Saucer Review special correspondent by a top ranking American V.I.P. — a man whose name would ring millions of bells throughout the world. Here is the report.
+"This statement was given to a Flying Saucer Review special correspondent by a top ranking American 
+V.I.P. — a man whose name would ring millions of bells throughout the world. Here is the report.
 
-'One morning during the summer of 1951, news reporters, news photographers and movie camera men moved into the airport at Mexico City to meet a V.I.P. from the United States. The group was gathered together, and waiting for the visitor, when somebody looked up and gave a shout. Three saucers were hovering over the airport at a height of about 5,000 feet.
+'One morning during the summer of 1951, news reporters, news photographers and movie camera men moved 
+into the airport at Mexico City to meet a V.I.P. from the United States. The group was gathered together, 
+and waiting for the visitor, when somebody looked up and gave a shout. Three saucers were hovering over 
+the airport at a height of about 5,000 feet.
 
-'Immediately the cameras went into action, and many photographs, in colour, black and white, stills, and movies, were taken. People poured out of the waiting rooms and restaurant, and several hundred had a fine view of the saucers before they darted off at high speed in a southerly direction.
+'Immediately the cameras went into action, and many photographs, in colour, black and white, stills, 
+and movies, were taken. People poured out of the waiting rooms and restaurant, and several hundred 
+had a fine view of the saucers before they darted off at high speed in a southerly direction.
 
 The day following, the newspapers of Mexico City broke the story on their front pages, but 
 there were no pictures. It was reported that the 
 pictures had all been taken by the authorities, and that, after a study had been made by the Mexican
 and United States authorities, they would be released for publication. So far3 they have not appeared.'
 
-"Later that summer, a highly placed American who was in touch with Air Force Intelligence and in a position to know the facts about fl ying saucers, admitted to Flying Saucer Review's special correspondent, after trying to shrug off the Mexico City Airport incident as 'mob hysteria,' that a camera does not become hysterical, and that dozens, perhaps hundreds, of pictures were taken that day.
+"Later that summer, a highly placed American who was in touch with Air Force Intelligence and in a 
+position to know the facts about fl ying saucers, admitted to Flying Saucer Review's special correspondent, 
+after trying to shrug off the Mexico City Airport incident as 'mob hysteria,' that a camera does not 
+become hysterical, and that dozens, perhaps hundreds, of pictures were taken that day.
 
-"Having got that far, he revealed that it had been established that these were visitors from another planet. That they were completely friendly — their hovering over defence establishments and airports being taken to mean 'We could blow you all to bits at our leisure if we had any evil intent. ' That they were undoubtedly trying to work out a method of remaining alive in our atmosphere before landing and establishing friendly communications, and that the United States authorities were completely convinced that Earth had nothing to fear from them. That the U.S. Air Force had been ordered to take no action against their craft. 4 "Asked why such emphasis had been imposed on denying their existence, and on censoring reports, the V.I.P. official — who would equal a British Cabinet Minister — said that the U.S.A. wanted her people to concentrate on the real menace, Communism; and not to be distracted by the visitors from outer space.
+"Having got that far, he revealed that it had been established that these were visitors from another 
+planet. That they were completely friendly — their hovering over defence establishments and airports 
+being taken to mean 'We could blow you all to bits at our leisure if we had any evil intent. ' That 
+they were undoubtedly trying to work out a method of remaining alive in our atmosphere before landing 
+and establishing friendly communications, and that the United States authorities were completely convinced 
+that Earth had nothing to fear from them. That the U.S. Air Force had been ordered to take no action 
+against their craft. 4 "Asked why such emphasis had been imposed on denying their existence, and on 
+censoring reports, the V.I.P. official — who would equal a British Cabinet Minister — said that the 
+U.S.A. wanted her people to concentrate on the real menace, Communism; and not to be distracted by the 
+visitors from outer space.
 
-"He went on to say that the Orson Welles broadcast some years ago had demonstrated what reaction might be expected were the true facts generally known: a welter of hysterical nonsense, and a complete disorientation from the tasks in hand. Rumours and speculation would create an atmosphere that the skilled propagandists of the Kremlin would be sure to make the most of.
+"He went on to say that the Orson Welles broadcast some years ago had demonstrated what reaction might 
+be expected were the true facts generally known: a welter of hysterical nonsense, and a complete disorientation 
+from the tasks in hand. Rumours and speculation would create an atmosphere that the skilled propagandists 
+of the Kremlin would be sure to make the most of.
 
-"Questioned about landings, the official admitted that there had actually been contact with the men in the saucers, and that on three occasions there had been landings which had proved disastrous fro the occupants. On each of these occasions breathing the heavily oxygenated atmosphere of this Earth and literally incinerated the visitors from within and had burned them to a crisp.
+"Questioned about landings, the official admitted that there had actually been contact with the men 
+in the saucers, and that on three occasions there had been landings which had proved disastrous fro 
+the occupants. On each of these occasions breathing the heavily oxygenated atmosphere of this Earth 
+and literally incinerated the visitors from within and had burned them to a crisp.
 
-"At Cuernavaco in Mexico later in the summer of 1951, flying saucers came up in a conversation between our Special Correspondent and a group of Mexican professional men. One of them, an engineer engaged in highway construction, said that he had actually helped to load a flying saucer and its dead crew into an American 'Flying Box-Car' aeroplane. The saucer, according to the engineer, had come down in an uninhabited valley in the Sierra Madre, near where his crew were working.
+"At Cuernavaco in Mexico later in the summer of 1951, flying saucers came up in a conversation between 
+our Special Correspondent and a group of Mexican professional men. One of them, an engineer engaged 
+in highway construction, said that he had actually helped to load a flying saucer and its dead crew 
+into an American 'Flying Box-Car' aeroplane. The saucer, according to the engineer, had come down in 
+an uninhabited valley in the Sierra Madre, near where his crew were working.
 
-`Ah, Selior,' he said, 'they were handsome, those little men, with fine features and beautifully formed tiny hands. But there must have been an explosion in their craft, for they were burnt black, and when I touched the face of one of them the skin came off under my finger as though it had been cooked!"
+`Ah, Selior,' he said, 'they were handsome, those little men, with fine features and beautifully formed 
+tiny hands. But there must have been an explosion in their craft, for they were burnt black, and when I 
+touched the face of one of them the skin came off under my finger as though it had been cooked!"
 
 <!-- ![image-7](images/image-7.png) -->
 
-Such, then, was the gist of the special report from FSR's correspondent who went to Mexico in 1955 and secured a personal interview with a topranking American V.I.P. regarding the reality of crashed saucers containing small dead beings. But who, you may ask, was this "top-ranking American V.I.P." anyway, and why should one attribute any value whatsoever to such a tale?
+Such, then, was the gist of the special report from FSR's correspondent who went to Mexico in 1955 and 
+secured a personal interview with a topranking American V.I.P. regarding the reality of crashed saucers 
+containing small dead beings. But who, you may ask, was this "top-ranking American V.I.P." anyway, and 
+why should one attribute any value whatsoever to such a tale?
 
-The truth as to the identity of the V.I.P. can be revealed, as he is no longer in this world. I contacted FSR's Editor, Derek Dempster, immediately after reading this article in our Journal early in 1956. I asked whether he would kindly tell me, in strict confidence, who the American V.I.P. was?
+The truth as to the identity of the V.I.P. can be revealed, as he is no longer in this world. I contacted 
+FSR's Editor, Derek Dempster, immediately after reading this article in our Journal early in 1956. I 
+asked whether he would kindly tell me, in strict confidence, who the American V.I.P. was?
 
-He replied that it was General George C. Marshall, America's impressive Army Chief of Staff in World War II and, subsequently, the equally brilliant Secretary of State whose name is for ever enshrined in that of the famous Marshall Plan, the unique and unparalleled act of vision and idealism whereby America was able rapidly to see the free nations of Europe on their feet once more, put them firmly on the road to L economic recovery.
+He replied that it was General George C. Marshall, America's impressive Army Chief of Staff in World 
+War II and, subsequently, the equally brilliant Secretary of State whose name is for ever enshrined 
+in that of the famous Marshall Plan, the unique and unparalleled act of vision and idealism whereby 
+America was able rapidly to see the free nations of Europe on their feet once more, put them firmly 
+on the road to L economic recovery.
 
-My recapitulation of events and reports as given in FSR of almost a quarter of a century ago has been long enough, and I am anxious to keep it down to a manageable length. But there is still one more piece of evidence to which I must refer if this extraordinary business of the early FSR reports of crashed UFOs and little dead men is to be grasped in its proper perspective.
+My recapitulation of events and reports as given in FSR of almost a quarter of a century ago has been 
+long enough, and I am anxious to keep it down to a manageable length. But there is still one more piece 
+of evidence to which I must refer if this extraordinary business of the early FSR reports of crashed 
+UFOs and little dead men is to be grasped in its proper perspective.
 
-This final piece of evidence is not merely a report, but a whole book, Behind the Flying Saucers by Frank Scully, an American journalist. Frank Scully was a veteran newspaperman, and his book, first published in the United States in 1950, is, so far as I
-am aware, probably only the second or maybe the third of all the many hundreds of books that have now been written on the UFO Phenomenon. Victor Gollancz of London produced a British edition of it in that same year, which sold out very rapidly. Gollancz had difficulty in finding a single copy when
-they decided they would like to re-issue the book in 1955, and this edition too was soon exhausted.
+This final piece of evidence is not merely a report, but a whole book, Behind the Flying Saucers by 
+Frank Scully, an American journalist. Frank Scully was a veteran newspaperman, and his book, first 
+published in the United States in 1950, is, so far as I am aware, probably only the second or maybe 
+the third of all the many hundreds of books that have now been written on the UFO Phenomenon. Victor 
+Gollancz of London produced a British edition of it in that same year, which sold out very rapidly. 
+Gollancz had difficulty in finding a single copy when they decided they would like to re-issue the 
+book in 1955, and this edition too was soon exhausted.
 
-Scully's story was about an electrifying lecture, which he said had been delivered at 12.30 p.m. on March 8, 1950, before a small audience (350 students) at the University of Denver, Colorado.
+Scully's story was about an electrifying lecture, which he said had been delivered at 12.30 p.m. on 
+March 8, 1950, before a small audience (350 students) at the University of Denver, Colorado.
 
-There was no advance publicity for the talk, which was described simply as "confidential and scientific." It was given during the lunch break, so that the
-students had to skip lunch to hear it. The lecturer was brought to the auditorium by a Mr. George T.
+There was no advance publicity for the talk, which was described simply as "confidential and scientific." 
+It was given during the lunch break, so that the students had to skip lunch to hear it. The lecturer was 
+brought to the auditorium by a Mr. George T.
 
-Kohler of Denver, a staff member of a local independent Rocky Mountain radio station with the call letters KMYR. As to the identity of the lecturer himself, it does not seem that anyone was overanxious to divulge it at the time, and only after he had gone was it discovered that nobody at the University could say who he was. The local press, when reporting the lecture, simply described him as "an unidentified middle-aged lecturer." Only later, when Scully's book came out in the same year (1950) was it revealed that the lecturer was a famous businessman and personality, Silas M. Newton, a graduate of Yale, a Texan by birth, and one of the great geophysicists of the American oil industry, with a record of successful oil exploration second to none (and a millionaire as a result).
+Kohler of Denver, a staff member of a local independent Rocky Mountain radio station with the call letters 
+KMYR. As to the identity of the lecturer himself, it does not seem that anyone was overanxious to divulge 
+it at the time, and only after he had gone was it discovered that nobody at the University could say who 
+he was. The local press, when reporting the lecture, simply described him as "an unidentified middle-aged 
+lecturer." Only later, when Scully's book came out in the same year (1950) was it revealed that the 
+lecturer was a famous businessman and personality, Silas M. Newton, a graduate of Yale, a Texan by birth, 
+and one of the great geophysicists of the American oil industry, with a record of successful oil 
+exploration second to none (and a millionaire as a result).
 
-The subject of Newton's astonishing talk to the students was crashed saucers and little dead crews. Newton told his listeners that there had been, up till that date (March 1950), three of these wrecked craft found in the USA, with their dead crews, and that all three machines and the crews had been inspected by scientists with whom he himself was currently associated in geophysical research. He said that the three machines had contained a total of 34 little men measuring between 36 inches and 40 inches in height. The first saucer, said Newton, was found, "less than a year ago," at a place "within 500 miles of Denver."5 It was 99.99 feet in diameter and its cabin was 18 feet wide and 6 feet high. The second machine, 72 feet wide, also contained, like the first one, 16 little dead men who, however, had seemingly not suffered from burns like the crew of the first disc, because they had fair complexions. They had no beard, apart from a fine facial down "resembling peach fuzz."
+The subject of Newton's astonishing talk to the students was crashed saucers and little dead crews. Newton 
+told his listeners that there had been, up till that date (March 1950), three of these wrecked craft 
+found in the USA, with their dead crews, and that all three machines and the crews had been inspected 
+by scientists with whom he himself was currently associated in geophysical research. He said that the 
+three machines had contained a total of 34 little men measuring between 36 inches and 40 inches in 
+height. The first saucer, said Newton, was found, "less than a year ago," at a place "within 500 miles 
+of Denver."5 It was 99.99 feet in diameter and its cabin was 18 feet wide and 6 feet high. The second 
+machine, 72 feet wide, also contained, like the first one, 16 little dead men who, however, had seemingly 
+not suffered from burns like the crew of the first disc, because they had fair complexions. They had no 
+beard, apart from a fine facial down "resembling peach fuzz."
 
-The third disc, said Newton, measured 36 feet in diameter, and contained only two little corpses. The little men had apparently been alive when it landed, but had died as they tried to emerge from the cabin.
+The third disc, said Newton, measured 36 feet in diameter, and contained only two little corpses. The 
+little men had apparently been alive when it landed, but had died as they tried to emerge from the 
+cabin.
 
-Newton gave a vast amount of detail about the craft and the little men — far too much for me to reproduce here. He described the current theories of the American scientists, namely that the discs were operated magnetically, and he also related how American service personnel had succeeded in looting a great many of the smaller instruments and fittings before the authorities could put a stop to this souvenir-gathering. Those who want to see the story in detail must try to get Scully's book and read it. And that may not be easy, for, unless somebody has the sense to republish it, I predict that it will remain a rare and much-sought item. Indeed, in the light of the material already winkled out of the Pentagon by Ground Saucer Watch under the terms of the American Freedom of Information Act, and in the light of the revelations now made by Mr. Leonard H. Stringfield in the article Retrievals of a Third Kind which follows this, there may be a mad rush soon to get Scully's book — poorly written though it rrfay be, like so much of the UFO literature.
+Newton gave a vast amount of detail about the craft and the little men — far too much for me to reproduce 
+here. He described the current theories of the American scientists, namely that the discs were operated 
+magnetically, and he also related how American service personnel had succeeded in looting a great many 
+of the smaller instruments and fittings before the authorities could put a stop to this souvenir-gathering. 
+Those who want to see the story in detail must try to get Scully's book and read it. And that may not be 
+easy, for, unless somebody has the sense to republish it, I predict that it will remain a rare and much-
+sought item. Indeed, in the light of the material already winkled out of the Pentagon by Ground Saucer 
+Watch under the terms of the American Freedom of Information Act, and in the light of the revelations 
+now made by Mr. Leonard H. Stringfield in the article Retrievals of a Third Kind which follows this, 
+there may be a mad rush soon to get Scully's book — poorly written though it rrfay be, like so much of 
+the UFO literature.
 
-The Scully book was dynamite, and it naturally created a sensation. It was therefore imperative that Scully be stopped in his tracks, and a feverish and powerful campaign was at once launched to damn and discredit him utterly. That campaign was 100% successful. Today I wager that you will not find a soul anywhere who has a good word to say for Scully. An unscrupulous hoaxer, they all tell us. They know.
+The Scully book was dynamite, and it naturally created a sensation. It was therefore imperative that 
+Scully be stopped in his tracks, and a feverish and powerful campaign was at once launched to damn and 
+discredit him utterly. That campaign was 100% successful. Today I wager that you will not find a soul 
+anywhere who has a good word to say for Scully. An unscrupulous hoaxer, they all tell us. They know.
 
 <!-- ![image-8](images/image-8.png) -->
 
-But, as Stringfield remarks, the job is now seen to have misfired somehow. For, "so completely was Scully 's UFO retrieval story 'put down', that some researchers today have begun to wonder, in retrospect, whether the 'exposure' was not contrived." (Leonard Stringfield, address to MUFON Symposium, July 29, 1978).
+But, as Stringfield remarks, the job is now seen to have misfired somehow. For, "so completely was Scully's 
+UFO retrieval story 'put down', that some researchers today have begun to wonder, in retrospect, whether 
+the 'exposure' was not contrived." (Leonard Stringfield, address to MUFON Symposium, July 29, 1978).
 
-I have been in correspondence with Mr. Stringfield and we are extremely grateful to him for his permission to use in our Journal the whole of his material published thus far. In a letter dated March 13, 1979, he has informed me moreover that he has now gathered a considerable amount of further evidence since he wrote the paper which he read before the MUFON Symposium last year. lie has at present statements supplied by more than fifty witnesses.
+I have been in correspondence with Mr. Stringfield and we are extremely grateful to him for his permission 
+to use in our Journal the whole of his material published thus far. In a letter dated March 13, 1979, he 
+has informed me moreover that he has now gathered a considerable amount of further evidence since he wrote 
+the paper which he read before the MUFON Symposium last year. lie has at present statements supplied by 
+more than fifty witnesses.
 
-Well, they say "there's no smoke without fire." I suggest that fifty such statements must mean a powerful lot of smoke, and I suggest that the time has come for us to weigh most carefully these extraordinary claims now being made by Leonard Stringfield. It looks as though there may be a real likelihood at last that the whole cover-up will be blown sky-high. If this happens, UFO researchers everywhere will owe a great debt to Leonard Stringfield.
+Well, they say "there's no smoke without fire." I suggest that fifty such statements must mean a powerful 
+lot of smoke, and I suggest that the time has come for us to weigh most carefully these extraordinary 
+claims now being made by Leonard Stringfield. It looks as though there may be a real likelihood at 
+last that the whole cover-up will be blown sky-high. If this happens, UFO researchers everywhere will 
+owe a great debt to Leonard Stringfield.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-**NOTES AND COMMENTS**
+<h3>NOTES AND COMMENTS</h3>
 
 1. My italics.
 
 2. One may deduce that the corpses had been cremated at the site, and the disc retrieved.
 
-3. The Mexican report from FSR's Special Correspondent presumably dates from some time in 1955, four years after the alleged taking of the numerous photgraphs. Is it necessary for us to add that today, in 1979, there still appears to be no evidence that those pictures have ever been released for publication?
+3. The Mexican report from FSR's Special Correspondent presumably dates from some time in 1955, four 
+years after the alleged taking of the numerous photgraphs. Is it necessary for us to add that today, 
+in 1979, there still appears to be no evidence that those pictures have ever been released for publication?
 
-4. From what we know now about the over-all UFO situation, this idea that all UFO occupants are harmless to mankind would seem to be an extremely dangerous one to embrace. As to the suggestion that Air Force pilots had, or have, been ordered to take no action against UFOs, we now know that there is a mass of evidence to refute this and that airmen have lost their lives when going after UFOs. Perhaps we may conclude that in 1955 somebody in high office still thought that all UFOs were "friendly," but that today they know far too much to fall any more for such a naive idea.
+4. From what we know now about the over-all UFO situation, this idea that all UFO occupants are harmless 
+to mankind would seem to be an extremely dangerous one to embrace. As to the suggestion that Air Force 
+pilots had, or have, been ordered to take no action against UFOs, we now know that there is a mass of 
+evidence to refute this and that airmen have lost their lives when going after UFOs. Perhaps we may 
+conclude that in 1955 somebody in high office still thought that all UFOs were "friendly," but that 
+today they know far too much to fall any more for such a naive idea.
 
-5. This is the UFO which Leonard Stringfield says came down in 1948 at Aztec, New Mexico (Lat. 360 49 N. Long. 1080 59 W.). Stringfield takes it to he the first of the crashed hardware, but I would point out that if Hughic Green's story is true then it cannot be the first, since Green says he heard his radio newsflashes about a crashed saucer in June 1947. the same month as Kenneth Arnold's famous sighting which began it all.
+5. This is the UFO which Leonard Stringfield says came down in 1948 at Aztec, New Mexico (Lat. 360 49 
+N. Long. 1080 59 W.). Stringfield takes it to he the first of the crashed hardware, but I would point 
+out that if Hughic Green's story is true then it cannot be the first, since Green says he heard his 
+radio newsflashes about a crashed saucer in June 1947. the same month as Kenneth Arnold's famous sighting 
+which began it all.
 
 Repeated content (headers / footers / watermarks)
 
-Page-edge and repeated content was moved out of the body to keep reading order clean — kept here, not deleted.
+Page-edge and repeated content was moved out of the body to keep reading order clean — kept here, not 
+deleted.
