@@ -1,5 +1,5 @@
 <!-- ![image-1](images/image-1.png) -->
-<h2>UFO CRASH RETRIEVALS STATUS REPORT VII</h2>
+<h2>STATUS REPORT VII - UFO CRASH RETRIEVALS</h2>
 <h3>SEARCH FOR PROOF IN A HALL OF MIRRORS</h3>
 By Leonard H. Stringfield
 
