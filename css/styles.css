@@ -172,7 +172,7 @@ article {
   text-transform: uppercase;
 }
 .intro {
-  background-image: url(../images/Leo-Stringfield-Status-Report.jpg);
+  background-image: url(../images/1978-1994-Status-Reports-i-vii.jpg);
   background-size: cover;
   background-position: center;
   height: 100vh;
@@ -180,7 +180,7 @@ article {
 
 @media (min-width: 768px) {
   .intro {
-    background-image: url(../images/Leo-Stringfield-Status-Report.jpg);
+    background-image: url(../images/1978-1994-Status-Reports-i-vii.jpg);
     background-position: center 20%;
   }
 }
