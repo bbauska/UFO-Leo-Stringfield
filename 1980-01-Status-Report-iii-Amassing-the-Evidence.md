@@ -2,10 +2,12 @@
 <!--~~~~~~~~~~~~~~~~~~~~ 1980-01-Status-Report-III-Amassing-the-Evidence.md ~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ in UFO-Leo-Stringfield ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>STATUS REPORT III - UFO CRASH RETRIEVALS - AMASSING THE EVIDENCE</h2>
-By Leonard H. Stringfield 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<cite>By Leonard H. Stringfield</cite>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>PROLOGUE: THE BIGGEST STORY EVER, NEVER TOLD</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Ever since World War H when the first UFOs, dubbed "foo fighters", became officially recognized, the mystery of their origin and intent, has haunted the minds of man. Most ponder the puzzlement skeptically amused; others want to believe and straddle a philosophic fence guessing for answers. As we head into the decade of the 1980's, serious research has not found the answer either, or the proof to qualify an answer, and, officially, the mystery remains ostensibly irresolvable. To those wary and who have taken the time to probe, the official position is as mysterious as the UFO itself. 
 
@@ -56,6 +58,7 @@ Goldwater's reference to a "blue room" at Wright-Patterson suggests a more in-de
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>THE WITNESS MODEL</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 The first person witness, in crash/retrieval research, may suddenly surface from out of anywhere, U.S.A. Such a person, if his credentials are good, plays a crucial role, for what he or she tells may provide a clue, or a corroborative link, to lend credibility to the greatest story ever, never told. 
 
@@ -83,6 +86,7 @@ I do not think that the criticisms by Stanton Friedman and William Moore have me
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>THE FIRST PERSON REPORT: CLASSIFIED "A"</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 This paper follows the reportorial pattern established in The UFO Crash/Retrieval Syndrome, Status Report II, published by MUFON, January 1980. As before, case history reports are divided into two parts. Reports from first person witnesses are classified as "A", while "B" reports concern secondhand or intermediary information, and other relative data submitted by researchers. 
 
@@ -130,12 +134,18 @@ Mr. J. is a relatively unsophisticated and uneducated man. It is my judgement th
 All the details provided to me by him have a close corroboration with other similar UFO incidents. Mr. J has also indicated that he has never read anything on UFO's. Indeed I doubt whether he can read very well at all. 
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMMENT: During our many phone calls, HJ mentioned that he had the names and addresses of other Company B personnel "tucked away" with other army-day papers, which he could not readily find. Eventually, he found them and on my request, he sent them to Dr. Rank, who, in turn, sent them to me for follow up. I also requested during phone calls in September and October, 1981, that he consider sending me a signed statement highlighting his retrieval experience. He consented, wrote three pages, and signed his name. His wife mailed the letter at the local Post Office on October 3rd or 4th. It never arrived. On February 3, 1982, I called HI to inquire about his health and to advise him to send another statement by registered mail. His phone had been disconnected. 
+<h4>COMMENT:</h4>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
-CASE A-2: KA is married, retired and resides in New York City. Served in U.S. Air Force, 1954-1955, member of local astronomy group; won achievement award. 
+During our many phone calls, HJ mentioned that he had the names and addresses of other Company B personnel "tucked away" with other army-day papers, which he could not readily find. Eventually, he found them and on my request, he sent them to Dr. Rank, who, in turn, sent them to me for follow up. I also requested during phone calls in September and October, 1981, that he consider sending me a signed statement highlighting his retrieval experience. He consented, wrote three pages, and signed his name. His wife mailed the letter at the local Post Office on October 3rd or 4th. It never arrived. On February 3, 1982, I called HI to inquire about his health and to advise him to send another statement by registered mail. His phone had been disconnected. 
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>CASE A-2:</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+
+KA is married, retired and resides in New York City. Served in U.S. Air Force, 1954-1955, member of local astronomy group; won achievement award. 
 
 Initial investigation into this case was commendably conducted by researchers Fred Schaefer, Gerald Miskar and Linda Robinson, all in New Jersey. Included in a 34-page report prepared by the Schaefer Group is a first person account of KA's mission in a military retrieval operation of a crashed UFO in New Mexico, 1954, a state map showing the approximate crash site, and a drawing by KA showing the position of the 
-
 crashed craft in relation to four alien fatalities strewn outside the craft, and, attempts by Schaefer to obtain verification of certain data and his group's evaluation of the case. 
 
 The Schaefer Group first learned of the incident on February 28, 1981 while<sup>attending a lecture given by</sup> James Mullaney at the Edmund Scientific Co., in Barrington, New Jersey. 
@@ -189,7 +199,6 @@ After an undetermined period of time elapsed, we were sent back to<sup>Sampson A
 After a brief period of this unwarranted discipline,<sup>I</sup> could take<sup>no more. I finally broke down and told the sergeant where</sup> I had been and what I had done during my<sup>abscence. But he didn't believe me. At that point, my mind snapped and I had</sup> a nervous breakdown. I was immediately placed in<sup>the base hospital where Iremained for at leastthree months.</sup> 
 
 During my stay in the hospital, I<sup>remember a doctor injecting me with alarge needle, which made me feel as thoughI</sup> were in a drunken stupor. I was then led to a<sup>room where four or five people were seated around a table. On the table was</sup> a large microphone (similar to the<sup>microphone usedduring my interrogationinBuilding #5 atRoswell). These people</sup> 
-
 then began to ask me questions about the UFO retrieval incident in the desert in New Mexico. Because of<sup>the effect of the</sup> injection, God only know how I answered the questions. The shot also affected my vision, as I could<sup>not clearly see the</sup> faces of the individuals who were interrogating me. 
 
 On the day I was released from the base hospital (approximately three months later),<sup>I</sup> was told<sup>to report in uniform to</sup> the base commander's office. Under escort, I entered a room, and was faced by a<sup>colonel, seated behind a desk. After I</sup> saluted him, he returned the salute, rose to his feet, handed me a manila envelope, and said,<sup>'Thisisyourgeneral</sup> discharge. As of the date stamped thereon (March 7, 1955), you are no longer a member of the<sup>United States Air Force."</sup> 
@@ -206,6 +215,7 @@ We saluted, and that was the end of my Air Force career — but not the end of m
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Schaefer comments on KA's aftermath as follows: 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Since 1954, when this incident allegedly occurred, KA has been having intermittent nightmares about his experience in the desert. During the year 1981, these nightmares have grown in intensity and frequency, causing KA much anguish. During the lecture at Edmund Scientific Company in March, KA saw his opportunity to reveal details of his UFO retrieval experience to someone who would lend an understanding ear, thereby helping to alleviate his mental torment. 
 
@@ -226,7 +236,9 @@ During a long chat on December 10, 1981, KA told me with intonative vocal sincer
 - 7) KA would not disclose the names of the fellow members of Rescue Team 4. Following our talks in December, KA told me, with concern, that he had been reminded by phone, and more surprisingly, by a stranger he encountered in his neighborhood drugstore, that he should not talk about his part in the retrieval operation. Again, he was called and warned of consequences following a phone call I made in January, 1982. 
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMMENT: KA's torment over his long-ago experience is obvious and so is his fear of reprisal, which is shared by his wife. Although vague on certain issues such as his hospitalization after the incident, I believe that his reticence (or blackout) may be a result of experimental drugs or other methods known to have been used by military Intelligence in the post World War II years to confuse the mind or program it to forget. KA does admit, backed by his wife's testimony, that he experiences recurring nightmares recalling phases of the incident and of people involved. 
+<h4>COMMENT:</h4>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+KA's torment over his long-ago experience is obvious and so is his fear of reprisal, which is shared by his wife. Although vague on certain issues such as his hospitalization after the incident, I believe that his reticence (or blackout) may be a result of experimental drugs or other methods known to have been used by military Intelligence in the post World War II years to confuse the mind or program it to forget. KA does admit, backed by his wife's testimony, that he experiences recurring nightmares recalling phases of the incident and of people involved. 
 
 CASE A-3: Mail irregularities in my special research have a high incidence rate. Not so with routine UFO matters or the monthly bills. The fa/owing case, one of possible great significance, if true, is exemplary of mysterious postal handling. Because of the obvious non-delivery of follow-up letters to and from the principal involved, the case remains incomplete. 
 
@@ -261,7 +273,9 @@ Reaching Posty I found his credentials good and so was the information<sup>he sh
 Posty said the full story beyond what he had heard at the base, was published<sup>in an article appearing in</sup> a 1948 issue of Coronet magazine. When the issue was released, he heard that<sup>authorities had confiscated all</sup> copiei at the Coronet office and most that reached the newstands. A few<sup>survived, a copy of which he had</sup> seen years ago. 
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMMENT: Needed is a copy of Coronet, month unknown, 1948. Significant is Postlethwait granting<sup>me</sup> permission to use his name in this report. 
+<h4>COMMENT:</h4>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+Needed is a copy of Coronet, month unknown, 1948. Significant is Postlethwait granting<sup>me</sup> permission to use his name in this report. 
 
 CASE A-5: RI married, a former Marine, rank PFC, assigned to Canine Corps at Camp Pendleton, San Diego, California, with Alpha Red TS Crypto Clearance. Served 6 years in Vietnam. Resident of Las Vegas, Nevada. 
 
@@ -274,10 +288,7 @@ As a trainer in the Canine Corps at his base, he and his dogs, and other marines
 Curious, said RI, he decided on his fourth day to see what was so hush-hush and took a different route to the mess tent near the hangar. When the guard had his back turned he peeked inside the hangar and to his shock he saw a metallic disc, or saucer, about 30 ft. in diameter. On top was a dome; there were no windows. Around the craft were men at work and tables on which were technical instruments. He also saw a large walk-in refrigerator unit on skids and several empty body bags. "If there were bodies," he said, " they 
 had already been shipped out or maybe they were in the freezer." 
 
-RT's one good glimpse into the hangar was also his undoing. The guard nearby nabbed him and he was escorted to the headquarter's tent where he faced the officer in command, Colonel "P" (name on file), U.S.A.F. Medical Corps. Reminded of his Security Oath, he was confined to quarters and sent back to 
-
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Pendleton for punishment. 
+RT's one good glimpse into the hangar was also his undoing. The guard nearby nabbed him and he was escorted to the headquarter's tent where he faced the officer in command, Colonel "P" (name on file), U.S.A.F. Medical Corps. Reminded of his Security Oath, he was confined to quarters and sent back to Pendleton for punishment. 
 
 Thirteen years later, RT decided to tell his story. He admitted to seeing the movie, "Hangar 18", knew it was fiction, but he said, its emotional impact on him conjured up in his mind the hangar in the desert which he knew was not fiction. He first told his story to Wendelle Stevens and RC in Las Vegas and called AFRO. Then, like the day he went down the wrong path at the retrieval site, he got into a new hornet's nest of trouble. 
 
@@ -334,9 +345,14 @@ The incident caused me to research fully the object we had seen. Having a TOP SE
 One thing that has always puzzled me was the lack of security. It wasn't even located in the test facility of WrightPatterson AFB. It was near the flight line having just arrived or awaiting deployment. That is just my guess. 
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMMENT: Names of the officers involved in this case are withheld on Prs request, for obvious reasons. If the craft observed by the witness was freshly retrieved, the year 1962 is significant, considering we have crash/retrievals reported in Cases A-6 in Status Report H and in B-4, in this paper. 
+<h4>COMMENT:</h4>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+Names of the officers involved in this case are withheld on Prs request, for obvious reasons. If the craft observed by the witness was freshly retrieved, the year 1962 is significant, considering we have crash/retrievals reported in Cases A-6 in Status Report H and in B-4, in this paper. 
 
-CASE A-7: RK of Columbus, Ohio was an instructor in Gunnery School with E-4 Grade, Great Lakes Naval Base, March 1973-September 1974, and was being groomed, he said, for Intelligence School. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>CASE A-7:</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+RK of Columbus, Ohio was an instructor in Gunnery School with E-4 Grade, Great Lakes Naval Base, March 1973-September 1974, and was being groomed, he said, for Intelligence School. 
 
 At first glance, the UFO in this case seems to be a military device, perhaps one of U.S. manufacturer or by some foreign power. Whatever it was, according to RK, the UFO caused enough concern to the U.S. Navy to shoot it down with a surface-to-air missile, retrieve it from the ocean and ship it secretly by rail to the Great Lakes Naval base where it was put under heavy guard. 
 
@@ -349,9 +365,14 @@ At one point while on duty he was approached by an officer in a jeep who handed 
 "It was light silvery blue and shimmering," said RK, adding, "It tapered like a tear-drop with a flange running along its topside from one end to the other and there were no windows." With guards watching, he said, he could not linger for a better look. Delivering the sealed envelop, he got the Commandant's signature of receipt, saluted and returned to his post, feeling puzzled. Immediately coming to mind was a story he had heard from a sailor he met in San Diego, just weeks earlier while on special assignment there. Said RK, "The object was strikingly similar to one he was guarding, according to the sailor (name not recalled by RK), that was shot down by a missile between Hawaii and the mainland in June, 1973. The UFO was picked up by his destroyer's radar and came into view making three close passes, and one directly over the vessel. It was a lucky hit said the sailor, causing the UFO to crash into waters that were about 350 feet deep. According to RK's informant, the object was retrieved by a Glomar Explorer, shipped to Hawaii and then sent Stateside and finally to Chicago. A sketch of the craft was drawn by the sailor, and, according to RK, there was "little doubt" that it was the same object he had seen in the quonset hut. 
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMMENT: Viewing RK's sketch of the object, it certainly was not the typical discoidal or illipsoidal UFO. If true that the UFO passed menacingly over a U.S. warship, it seems to rule out a secret U.S. aircraft. And if it were a robot device, used for missile practice, why the retrieval operation and subsequent secrecy? Russian? Hardly. It would be extremely risky for a surveillance device to fly so close to a U.S. warship in waters near the U.S.A. When I mentioned this incident to a person who claimed to be an -Insider" (at one time at Wright-Patterson) I was told that he knew of no incident where a UFO had been shot down by U.S. warships at sea. RK described his sailor source as being a credible person. Perhaps his source was actually performing in an Intelligence role as a test for RK's later position in Navy Intelligence. 
+<h4>COMMENT:</h4>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+Viewing RK's sketch of the object, it certainly was not the typical discoidal or illipsoidal UFO. If true that the UFO passed menacingly over a U.S. warship, it seems to rule out a secret U.S. aircraft. And if it were a robot device, used for missile practice, why the retrieval operation and subsequent secrecy? Russian? Hardly. It would be extremely risky for a surveillance device to fly so close to a U.S. warship in waters near the U.S.A. When I mentioned this incident to a person who claimed to be an -Insider" (at one time at Wright-Patterson) I was told that he knew of no incident where a UFO had been shot down by U.S. warships at sea. RK described his sailor source as being a credible person. Perhaps his source was actually performing in an Intelligence role as a test for RK's later position in Navy Intelligence. 
 
-CASE A-8: This case, occurring in Hillsdale and Dexter, Michigan, 1966, is better remembered in UFO research lore for its cover-up explanation — "Swamp Gas". The alleged UFO landings there had many ramifications: Embarrasment for Dr. J. Allen Hynek, then Air Force consultant, for the mix-up over his references to "swamp gas" at a press conference and Gerald Ford's dissatisfaction with the official explanation and his request for a Congressional inquiry. This, in turn, so say UFO analysts, helped bring into being the Colorado Project (headed by Dr. Condon) which led to the demise of Project Bluebook. Although this case is well known to research, only a few may know some of the behind-scenes operations. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>CASE A-8:</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+This case, occurring in Hillsdale and Dexter, Michigan, 1966, is better remembered in UFO research lore for its cover-up explanation — "Swamp Gas". The alleged UFO landings there had many ramifications: Embarrasment for Dr. J. Allen Hynek, then Air Force consultant, for the mix-up over his references to "swamp gas" at a press conference and Gerald Ford's dissatisfaction with the official explanation and his request for a Congressional inquiry. This, in turn, so say UFO analysts, helped bring into being the Colorado Project (headed by Dr. Condon) which led to the demise of Project Bluebook. Although this case is well known to research, only a few may know some of the behind-scenes operations. 
 
 My informant who knew firsthand the behind scenes story of the landed craft in Dexter, and the methods employed in its cover-up is FB, a former law enforcement officer (name withheld on request). Arrangements for me to discuss his first person role, March 12, 1980, were made by James Minton, a pharmacist in Norris City, Illinois. 
 
@@ -368,9 +389,14 @@ The UFO was not disabled, as far as FB knew, although there was a suspicion that
 "Swamp gas doesn't do that," said FB. 
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMMENT: No crashed UFO; no retrieval in Dexter. If the craft was disabled to account for its long stay, it was not seriously impaired. This case points out, however, the extenuating security measures taken by the Air Force at a landing or crash site. 
+<h4>COMMENT:</h4>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+No crashed UFO; no retrieval in Dexter. If the craft was disabled to account for its long stay, it was not seriously impaired. This case points out, however, the extenuating security measures taken by the Air Force at a landing or crash site. 
 
-CASE A-9: The complexity of the UFO mystery is well illustrated in this report by veteran researcher, Tommy Blann of Lewisville, Texas. His ability to dig deeper, beyond top soil, for facts is self-evident in the following report, dated March 30, 1982, which sheds new light on joint UFO and helicopter activity observed in Texas. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>CASE A-9:</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+The complexity of the UFO mystery is well illustrated in this report by veteran researcher, Tommy Blann of Lewisville, Texas. His ability to dig deeper, beyond top soil, for facts is self-evident in the following report, dated March 30, 1982, which sheds new light on joint UFO and helicopter activity observed in Texas. 
 
 There have been a number of incredible stories surfacing over the years by active military personnel on duty<sup>at Fort Hood</sup> and by civilians employed at the base or their immediate family members about a huge underground complex built in the side of a small hill in which a camaflouged section of land opens up like "sliding doors" to reveal an entrance to this<sup>secret</sup> installation. 
 
@@ -431,11 +457,16 @@ It appears that the highest number of UFO sightings occurred in four major areas
 There have been a number of interesting UK) cases that have taken place<sup>inandaroundLosAlamosScientific</sup> Laboratories, N.M. and Gray AAF/Fort Hood, Tx. and between these two areas. Some of these<sup>casessuchasthe</sup> Socorro, N.M. incident and the Eddie Laxton incident near Sheppard AFB, Wichita<sup>Falls, TX. and others seem to imply</sup> experimental testing of a new type of aircraft. 
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMMENT: Blann's help in my endeavor, goes beyond this report. He has opened several new C/R sources, plus providing some other off-the-record items. See Case A-6 and Case B-4. Like others who dig deep for data, Blann has experienced anonymous phone threats. Speaking of the pilot whose private plane made an emergency landing in a field near Ft. Hood's security corridor, I am reminded of the Blue Beret who told me in Florida in 1979, that he, while serving as a guard on a plane with secret cargo, was flown into a strip that went into a hillside that unfolded — trees and all. "Just like fantasy-land," he said. See Case A-3, Status Report II. 
+<h4>COMMENT:</h4>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+Blann's help in my endeavor, goes beyond this report. He has opened several new C/R sources, plus providing some other off-the-record items. See Case A-6 and Case B-4. Like others who dig deep for data, Blann has experienced anonymous phone threats. Speaking of the pilot whose private plane made an emergency landing in a field near Ft. Hood's security corridor, I am reminded of the Blue Beret who told me in Florida in 1979, that he, while serving as a guard on a plane with secret cargo, was flown into a strip that went into a hillside that unfolded — trees and all. "Just like fantasy-land," he said. See Case A-3, Status Report II. 
 
 In summary, Blann's report, like in Case B-2 of this paper, leaves open several possibilities for an answer to mysterious helicopter involvement: 1) to maintain military readiness for alien UFO incursive activity and/or crashes, 2) to maintain security escort for secret saucer-like craft developed by the U.S., 3) to maintain clandestine contact with alien forces established by agreement or by coercion. 
 
-CASE A-10 WH of Yucca Valley, California served in U.S. Navy during WW II, is married, retired after 31 years of government service. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>CASE A-10:</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+WH of Yucca Valley, California served in U.S. Navy during WW II, is married, retired after 31 years of government service. 
 
 Researcher Bill Hamilton of Phoenix, Arizona, a computor programmer, knew WH as a firsthand source and arranged for me to reach him by phone in 1980 to discuss his experience of running head-on into a full scale military retrieval operation. This incident, of January 1947, which predates Ken Arnold's famous sighting by six months, occurred on the Papagos Indian Reservation, north of the rugged Superstition Mountains west of Globe, Arizona. 
 
@@ -444,9 +475,14 @@ According to WH, he was on Navy leave (being reassigned at the time), with a fri
 "The military probably had just arrived," commented WH. 'There was no evidence of an encampment or any heavy equipment, at least in view from the trail." 
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMMENT: WH's description of the object seems to rule out an experimental missile and if it were alien, one can only wonder how far back in time the military had been involved in UFO retrieval operations. 
+<h4>COMMENT:</h4>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+WH's description of the object seems to rule out an experimental missile and if it were alien, one can only wonder how far back in time the military had been involved in UFO retrieval operations. 
 
-CASE A-11: RM has been in government<sup>service for 23 years, is married with family, resides near Cincin-</sup> nati, Ohio. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>CASE A-11:</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+RM has been in government<sup>service for 23 years, is married with family, resides near Cincin-</sup> nati, Ohio. 
 
 This extraordinary case is fact, according to the witness, RM, and<sup>if</sup> what he encountered is, indeed fact, then we as appraisers can either accept it as possible, or<sup>probable, or reject it utterly</sup> as fantasy as we can do with all UFO events of high strangeness.<sup>RN!, referred to me by a Cincinnatian who can vouch for his</sup> integrity, prefers anonymity because of his long service with a government<sup>office. The story</sup> goes back to about 1965, said RM, during a Sunday visit with his<sup>wifetotheAirForce</sup> Museum<sup>in</sup> Fairborn, Ohio (suburb of Dayton). 
 
@@ -465,9 +501,14 @@ According to RM's informant, two live alien beings were in captivity. Scientists
 Said RM, 'The Colonel made it clear that he did not want his name or<sup>his disclosures made known as</sup> long as he lived. However, shortly after RM got the information about<sup>two captive aliens his source died of</sup> cancer. RM called his friend "Colonel Schmitz", which at a later time, admitted<sup>was a false name he used to</sup> protect the family of the Colonel. 
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMMENT: Live aliens! Loose in the Air Force Museum? Fantastic of course, but the Wright-Patterson complex is vast and so are its underground facilities. It is conceivable, if truly live aliens exist, that one may have slipped by the guards into the passageways and surfaced in an upper chamber of the Museum. This story recalls another of seeming fantasy, published in Situation Red, The UFO Siege, based on information related to me by Sherman Larsen of CUFOS. In that case, alien cadavers were purportedly stored in the Science and Industry Museum, Chicago, and were witnessed accidentally by a minister and son who went down a wrong corridor... 
+<h4>COMMENT:</h4>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+Live aliens! Loose in the Air Force Museum? Fantastic of course, but the Wright-Patterson complex is vast and so are its underground facilities. It is conceivable, if truly live aliens exist, that one may have slipped by the guards into the passageways and surfaced in an upper chamber of the Museum. This story recalls another of seeming fantasy, published in Situation Red, The UFO Siege, based on information related to me by Sherman Larsen of CUFOS. In that case, alien cadavers were purportedly stored in the Science and Industry Museum, Chicago, and were witnessed accidentally by a minister and son who went down a wrong corridor... 
 
-CASE A-12: EL of Los Angeles, married, has daughter, grandchild, is retired. Served as Carpenter Mate, 1st Class, Hqt. Co. 112th Construction Battalion, WW II. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>CASE A-12:</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+EL of Los Angeles, married, has daughter, grandchild, is retired. Served as Carpenter Mate, 1st Class, Hqt. Co. 112th Construction Battalion, WW II. 
 
 This case dating back to 1944, allegedly involves a landed or disabled alien craft discovered by a Seabee, EL near the beach of Kaneohe, Oahu, Hawaii. The year of the event is not only difficult to accept, but so is the story, mainly because of the fictionish anachronisms EL related during certain CE III phases of his experience. Lucius Farish, author of "In Other Words" in MUFON UFO Journal, who referred me to the source, agrees that while the story is fantastic, and probably beyond verification, it is nonetheless a case that just may have happened — or some of it — and should be recorded. 
 
@@ -478,7 +519,6 @@ EL's story begins with a stroll along the Kenoehe beaches on a Sunday morning lo
 Outside were a group of people, said EL, all dressed in tight-fitting green uniforms. A closer look to his surprise revealed they were short, or "scaled down" people, about 4-1/2 feet tall, of exceedingly slight build, with no buttocks. Their faces, he said, were human-like with heads topped with short, lush black hair, large dark eyes, heavy eyebrows. One featured large, fanged teeth. This one, he was told later, was a female. Each wore a heavy belt with a box-like apparatus attached in front. Two of the group of seven were sitting on the ship's ramp, four at regular intervals around it and one was out front, just 20 feet away from him. "All were staring at me," he said, 'The nearest one, probably the leader, acted like he was waiting for me. I still had no fear because I thought they were just small Navy people used in submarine duty." 
 
 Then the man nearest to EL spoke. It was in heavy accent, he said, but the voice was too deep for his size. While the others remained silent, one of them suddenly reached down to the apparatus on his belt, pressed a button which instantly made EL dizzy and nauseous. Then he lunged at EL with a sword-like weapon drawn from a scabbard. EL resisted, drew his knife and a battle for "life or death" ensued. But EL 
-
 managed to overcome his assailant forcing him to the ground. Then to EL's amazement, the others, jumped into the fray, and slew their own comrade. EL, who was dazed by it all, was told by the leader to return the next morning to talk by a large black rock near the water's edge. Said EL, "They didn't know it, but I took the box from the dead man's belt." 
 
 Meeting at the black rock EL was told of the wondrous world from whence the aliens came, 21 light years away. He also explained that this was the beginning of a period of world visits to check on the Earth they colonized eons ago. 
@@ -491,11 +531,14 @@ According to EL, the Black Box was the subject of great interest to the OSS and 
 
 EL, of course, signed an oath of secrecy, and was threatened, he said, by one of the plain-clothes agents who 'looked like President Johnson". If he talked about the incident, he was told he could be charged with murder of the ship's crew member. He had been framed, he said. 
 
-COMMENT: EL's complete story, which includes voluminous CE III data, is beyond the scope of this paper. My notes cover several pages, however, before my investigation, Don Worley of APRO in 1974, had made extensive efforts by mail to get the facts, but gave up when many of his questions went unanswered. The story is difficult to believe, especially the phase when EL does battle in medieval style with an alien. Such an anachronism, on the other hand, may have been staged using hypnotic techniques, for reasons that will remain inexplicable. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h4>COMMENT:</h4>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+EL's complete story, which includes voluminous CE III data, is beyond the scope of this paper. My notes cover several pages, however, before my investigation, Don Worley of APRO in 1974, had made extensive efforts by mail to get the facts, but gave up when many of his questions went unanswered. The story is difficult to believe, especially the phase when EL does battle in medieval style with an alien. Such an anachronism, on the other hand, may have been staged using hypnotic techniques, for reasons that will remain inexplicable. 
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>THE INTERMEDIARY REPORT: CLASSIFIED "B"</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 In this section of "B" material is support information from various sources, mainly intermediaries<sup>who,</sup> in most instances, have been advised by their first person source of a preference for anonymity. In most of these cases, I have been privileged to know the name of the informant, however, a few, because of<sup>alleged</sup> deep fears, will not allow biographical clues go beyond their trusted go-between. Section "B" also<sup>includes</sup> other general C/R information that I consider useful in helping the reader understand the scope of this research and its seeming sensitivities. 
 
 CASE B-1: YR is retired on medical pension, served in the U.S. Army, WWII, was chauffer<sup>for General</sup> Patton; worked as millwright at General Electric. Resides near Cincinnati. 
@@ -517,7 +560,9 @@ To his daughter's dismay, she was told that as a security measure, his lodging t
 'Dad took early retirement because of radiation sickness," said his daughter. "His health is poor despite surgery and continuous medical care." Mr. W, his black helper, she said, was also exposed, was retired early on a good pension, and died of cancer several years ago. 
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMMENT: YR uses "soda pop" phraseology, which, like body chemistry, can be convincing. Examples: "his jail", and "blindfolded and turned around several times". At this time of writing, he will not, understandably, become a first-person statistic for me, fearing loss of pension. His daughter, whose word I trust, is still trying to get answers to "our" many questions. 
+<h4>COMMENT:</h4>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+YR uses "soda pop" phraseology, which, like body chemistry, can be convincing. Examples: "his jail", and "blindfolded and turned around several times". At this time of writing, he will not, understandably, become a first-person statistic for me, fearing loss of pension. His daughter, whose word I trust, is still trying to get answers to "our" many questions. 
 
 CASE B-2: Thomas Olsen of Phoenix, Arizona, veteran UFO researcher and nuclear engineer by profession, is credited in securing this unusual report for this paper from Larry W. This report like so many others suggests that the highest degree of secrecy hides some sensational or sinister truth. Following is Larry's letter to me, dated December 14, 1980, abbreviated without alteration of text. 
 
@@ -561,11 +606,11 @@ Air Force police immediately surrounded the object at a distance of "several hun
 
 DR and his friends were careful as they crept down from the attic. After awhile, however, they all "began to whisper" among themselves about what they had just seen. They all, according to DR, agreed on one thing, i.e., they had "just witnessed a large, military force capture an object which a lot of people would call a UFO." He added that "this realization came as quite a shock to us all." He and "a majority of the others felt it was too alien to be man-made." They further agreed it would be very unwise to ever "discuss what that meant again". 
 
-The next morning before breakfast, DR observed that the Air Police had cordoned off the landing area and<sup>the craft was</sup> gone? He was sure that it had been taken "down the road to the warehouse". It was a day of<sup>"somewhat lessened restric-</sup> tions and heightened tensions." 
+The next morning before breakfast, DR observed that the Air Police had cordoned off the landing area and the craft was gone? He was sure that it had been taken "down the road to the warehouse". It was a day of<sup>"somewhat lessened restric-</sup> tions and heightened tensions." 
 
-This unsettled atmosphere continued for the next two months until class graduation. DR stressed, at this<sup>point in his</sup> story, that what happened in the next few months has troubled him a lot. He also added that it provided the impetus "for no longer keeping the whole account a secret". It began with their orders overseas; without<sup>exception,the whole class</sup> was issued orders to Viet Nam. Although DR spent 18 months in and around the Mekong Delta<sup>area, he later traced some</sup> of his friends to Cambodia. He pointed out that he was shot at several times<sup>"under rather unusual circumstances".</sup> Specifically, these "potshots" usually occurred when he was alone and "99% of the time in non-combatant"areas.<sup>Once,</sup> in a Saigon hotel, DR recalled a shot rang out which just missed his head. He had the presence of mind to dig it out of the woodwork intact and later weigh it. He told me that the number of grains "corresponded exactly to that of an American .38 caliber slug". DR was certain that it wasn't Soviet-made? He now began to suspect that his situation was really more dangerous than it should have been for "someone who rarely went out into the field". (Without going into specific details, he also mentioned that he began to "exercise due caution" when alone.) 
+This unsettled atmosphere continued for the next two months until class graduation. DR stressed, at this point in his story, that what happened in the next few months has troubled him a lot. He also added that it provided the impetus "for no longer keeping the whole account a secret". It began with their orders overseas; without<sup>exception,the whole class</sup> was issued orders to Viet Nam. Although DR spent 18 months in and around the Mekong Delta<sup>area, he later traced some</sup> of his friends to Cambodia. He pointed out that he was shot at several times<sup>"under rather unusual circumstances".</sup> Specifically, these "potshots" usually occurred when he was alone and "99% of the time in non-combatant"areas.<sup>Once,</sup> in a Saigon hotel, DR recalled a shot rang out which just missed his head. He had the presence of mind to dig it out of the woodwork intact and later weigh it. He told me that the number of grains "corresponded exactly to that of an American .38 caliber slug". DR was certain that it wasn't Soviet-made? He now began to suspect that his situation was really more dangerous than it should have been for "someone who rarely went out into the field". (Without going into specific details, he also mentioned that he began to "exercise due caution" when alone.) 
 
-His suspicions were later confirmed when he learned that almost half of his original class were officially listed as<sup>"K.I.A.</sup> or M.I.A." More distressing even than this, however, was the news that, of those who had actually witnessed<sup>the capture</sup> (or whatever) from the attic, all, except DR, and another soldier, were now either dead or missing! DR left Viet Nam after 18 months feeling extremely "lucky just to be alive". 
+His suspicions were later confirmed when he learned that almost half of his original class were officially listed as "K.I.A. or M.I.A." More distressing even than this, however, was the news that, of those who had actually witnessed<sup>the capture</sup> (or whatever) from the attic, all, except DR, and another soldier, were now either dead or missing! DR left Viet Nam after 18 months feeling extremely "lucky just to be alive". 
 
 DR returned to Texas in 1971. He told me that he was determined to "put it all behind" him by leading a normal civilian life. However, he did add that "memories of the whole incident continued to plague him". He recalled one instance that particularly upset him. Specifically, one night at dinner in a Dallas restaurant, DR's new bride introduced him to a relative who was, coincidentally, a Colonel in the Air Force. DR said that later in the evening he asked the Colonel if he had ever "heard of an Air Force facility near Big Springs?" 
 
@@ -582,9 +627,14 @@ I cannot, on the other hand, rule out that his story was an aberration resulting
 I did make some effort to locate DR and have him verify the contents of this letter. Unfortunately, I didn't have any luck. He is not listed in the telephone directory, nor does Arizona State University have any additional information on him. I have not tried to substantiate any details of his purported UFO retrieval. You should be aware that quoted phrases and words in this letter, are, however, taken directly from the notes made during and immediately after my discussion with DR. It was, of coarse, necessary for me to, at times, rely on my memory alone. This was done mainly for the sake of continuity; I endeavored to be as accurate as possible in my interpretations. 
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMMENT: Whatever the explanation for the event, mystery helicopters are involved as they have beer reported in and around other military installations researched by Tommy Blann. Notably, unmarked chop pers are often reported near cattle mutilation sites, and, of recent concern, in the well-publicized Cash Landrum case occurring near Dayton, Texas, December 29, 1980. In this incident, over 20 choppers wen allegedly observed escorting a fiery UFO which caused three people to be hospitalized for suspected radia tion effects. 
+<h4>COMMENT:</h4>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+Whatever the explanation for the event, mystery helicopters are involved as they have beer reported in and around other military installations researched by Tommy Blann. Notably, unmarked chop pers are often reported near cattle mutilation sites, and, of recent concern, in the well-publicized Cash Landrum case occurring near Dayton, Texas, December 29, 1980. In this incident, over 20 choppers wen allegedly observed escorting a fiery UFO which caused three people to be hospitalized for suspected radia tion effects. 
 
-CASE B-3: Randall Clement, Truckee, California, has been a<sup>willing</sup> and able contributor to my specia research project long before publishing Status Report H. In 1981, he found a big piece to the puzzle from a new source, a sergeant in the California Highway Patrol. In 1974, the sergeant, attending classes in an Officers Survival Course at the California Specialized Training Institute at Camp San Luis Obispo, was privy to hear a former high ranking Army officer, addressing the group, make what he considered high level disclosures about the UFO. Clement's letter of March 10, 1982, covering the disclosures follows: 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>CASE B-3:</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+Randall Clement, Truckee, California, has been a<sup>willing</sup> and able contributor to my specia research project long before publishing Status Report H. In 1981, he found a big piece to the puzzle from a new source, a sergeant in the California Highway Patrol. In 1974, the sergeant, attending classes in an Officers Survival Course at the California Specialized Training Institute at Camp San Luis Obispo, was privy to hear a former high ranking Army officer, addressing the group, make what he considered high level disclosures about the UFO. Clement's letter of March 10, 1982, covering the disclosures follows: 
 
 I am a dispatcher for the California Highway Patrol and have been<sup>for</sup> almost 2 years. Prior to that I was a dispatcher for the Shasta County Sheriff's office in Northern California. For the past 5 years I have primarily focused my attentions toward those undocumented sightings made by law enforcement officers. That is to say, policemen who would rather not have a police report made of their sightings, for fear of being deemed mentally incompetent of their job. 
 
@@ -605,11 +655,16 @@ At this time I am attempting to locate other officers who might have attended<su
 As some people know, 1974 was the year that it was rumored the U.S. Government<sup>was going to make a press announce-</sup> ment regarding a recovered UFO to the public. It has been a long, long wait. 
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMMENT: The officer's disclosure, according to the CHP sergeant, is significant. His reference to an imminent 1974 government announcement declaring UFOs were of extraterrestrial origin, is extraordinary, indeed, as I knew that a report was quietly circulating among responsible researchers in late 1974 anticipating such an announcement, perhaps jointly by the U.S. and France. According to notes in my UFOlog, December 3, 1974, I was alerted by Walter Andrus, Director of MUFON, to be prepared as Public Relations Director, to rush to Chicago, joining he and Dr. Hynek of CUFOS in a press conference if official word was released. "Straws in the wind," I noted, "were rife that the announcement would be made December 15, by President Gerald Ford." 
+<h4>COMMENT:</h4>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+The officer's disclosure, according to the CHP sergeant, is significant. His reference to an imminent 1974 government announcement declaring UFOs were of extraterrestrial origin, is extraordinary, indeed, as I knew that a report was quietly circulating among responsible researchers in late 1974 anticipating such an announcement, perhaps jointly by the U.S. and France. According to notes in my UFOlog, December 3, 1974, I was alerted by Walter Andrus, Director of MUFON, to be prepared as Public Relations Director, to rush to Chicago, joining he and Dr. Hynek of CUFOS in a press conference if official word was released. "Straws in the wind," I noted, "were rife that the announcement would be made December 15, by President Gerald Ford." 
 
 On the suggestion of Andrus, I prepared a tentative press release, got both his and Hynek's approval, and we waited. In my UFOlog entry for December 16, 1974 I noted, 'Wonder what President Ford and Giscard de 'Estaing, President of France, are discussing in Martinique beside the oil problem?" If UFOs were on the agenda we can only guess. The Martinique meeting ended with nothing said about UFOs. The biggest story ever, was never told. 
 
-CASE B-4: Researcher Tommy Blann met Lt. Colonel X through a friend of another military officer stationed at Carswell AFB. 'There were many exchanges of communications between myself, my friend and the other officer before the Colonel decided to meet me in person," commented Blann in his personal summary of the tete tete, recorded March 14, 1975 which he obliged to send me in November, 1981. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>CASE B-4:</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+Researcher Tommy Blann met Lt. Colonel X through a friend of another military officer stationed at Carswell AFB. 'There were many exchanges of communications between myself, my friend and the other officer before the Colonel decided to meet me in person," commented Blann in his personal summary of the tete tete, recorded March 14, 1975 which he obliged to send me in November, 1981. 
 
 Although sensitive portions of Blartn's notes have been omitted here on his request, in deference to his informant, an excerpt, pertinent to crashlanded UFOs. follows: 
 
@@ -626,11 +681,16 @@ There were two bodies recovered from the craft and they were put in a large unma
 He would not give me any further details, and stated he had said enough.. .1 don't know if he is telling me the complete truth, but I do know that some things he said coincided with what I already knew from other sources. 
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMMENT: Above all else, the Colonel's alleged presence at a crash site in New Mexico, 1962, ties in with the report, same place, same year, described by researcher Robert Barry involving his C.I.A. source. See Case A-6 in Status Report II. Also of note in both reports was the recovery of two small occupants wearing tight-fitting suits. Unfortunately, there is one glaring discrepancy; each report describes the size of the craft differently. In the case of Colonel X, it was 30 feet in diameter and 12 feet high; the C.I.A. investigator's was 68 feet diameter and 13 feet high. Both heights were close enough, but the diameters are off by 38 feet. Is one report, or both miscalculations? Did two crashes occur, accounting for diametrical differences? Is one or both reports fake? Also of note is the variance in size of the craft seen in a hangar at Wright-Patterson, 1962, perhaps "freshly" retrieved, cited in Case A-6 in this paper. 
+<h4>COMMENT:</h4>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+Above all else, the Colonel's alleged presence at a crash site in New Mexico, 1962, ties in with the report, same place, same year, described by researcher Robert Barry involving his C.I.A. source. See Case A-6 in Status Report II. Also of note in both reports was the recovery of two small occupants wearing tight-fitting suits. Unfortunately, there is one glaring discrepancy; each report describes the size of the craft differently. In the case of Colonel X, it was 30 feet in diameter and 12 feet high; the C.I.A. investigator's was 68 feet diameter and 13 feet high. Both heights were close enough, but the diameters are off by 38 feet. Is one report, or both miscalculations? Did two crashes occur, accounting for diametrical differences? Is one or both reports fake? Also of note is the variance in size of the craft seen in a hangar at Wright-Patterson, 1962, perhaps "freshly" retrieved, cited in Case A-6 in this paper. 
 
 Significant is the Colonel's remark that retrieved craft and occupants have not all been sent to WrightPatterson. Much ado has been made by some researchers unwilling to believe that during the 1950's most captured craft, because of size, could have been shipped by rail or over inadequate highways from faraway places to Wright-Patterson AFB. Agreed, reported craft sizes, over 30 feet diameter, would have been a monumental task to transport from great distances however, I have not claimed that all craft have been shipped to that base. I suppose if human purpose or the priority were strong enough, anything can be done. Notably, experts are still baffled by the feat of the ancient Egyptians who transported more than 2 million stone blocks, some weighing 15 tons, to build the great pyramids almost 5000 years ago. It seems they had a purpose; maybe the U.S. Air Force had a purpose and the priority. 
 
-CASE B-5: In this case, Lt. Colonel RAB becomes a first person witness for Richard Hall, veteran researcher and Editor of the MUFON UFO Journal. It begins with a letter addressed to NICAP, April 8, 1964 from HC, a student at the Bob Jones University, Greenville, S.C., a copy of which was sent to me by Hall, quoted in part, as follows: 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>CASE B-5:</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+In this case, Lt. Colonel RAB becomes a first person witness for Richard Hall, veteran researcher and Editor of the MUFON UFO Journal. It begins with a letter addressed to NICAP, April 8, 1964 from HC, a student at the Bob Jones University, Greenville, S.C., a copy of which was sent to me by Hall, quoted in part, as follows: 
 
 Here at school there is an instructor, who<sup>during the Korean conflict was an adjutant to an Army Air Corps General at</sup> one of our New Mexico proving grounds. I got the<sup>following story from him.</sup> 
 
@@ -647,7 +707,9 @@ RAB was a Lt. Colonel in Army Reserves, former helicopter pilot in<sup>Vietnam, 
 RAB is very religious; he was in Washington as a representative at a<sup>religious conference. I have sent him Status Report II</sup> with a note suggesting that after he has a chance to appraise your discreet<sup>handling of sensitive information, he may be</sup> willing to talk to you. As I recall, he is not convinced the<sup>information should be made public...</sup> 
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMMENT: In follow-up, I wrote to RAB (xerox copy to Hall), but never<sup>received a reply. According to</sup> RAB, four bodies were found outside of the crashed craft in New Mexico, 1953.<sup>Significantly, his testimony</sup> 
+<h4>COMMENT:</h4>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+In follow-up, I wrote to RAB (xerox copy to Hall), but never<sup>received a reply. According to</sup> RAB, four bodies were found outside of the crashed craft in New Mexico, 1953.<sup>Significantly, his testimony</sup> 
 
 parallels that of KA in Case A-2, in this paper, who photographed, from a helicopter, four bodies outside the craft, New Mexico, 1954. The difference of one year! KA stands firmly on the time of his incident and unfortunately, RAB cannot be reached to verify his memory of the date. 
 
@@ -671,7 +733,10 @@ I am sure that if I had not been introduced by Lorraine Duchesne and had not fir
 
 Following the conclusion of this statement were the signatures of four people, John Meloney, Lorraine Duchesne, a Notary Public and the witness WW, with the statement "I swear that the above is a true and accurate report of the gist of our discussion." 
 
-CASE B-7: On a tip from Bill Hamilton of Phoenix, Arizona, at the MUFON Symposium in Houston, June, 1980, I was soon in communication with Ms. CM of Los Angeles, a successful free lance writer who knew about a secret movie allegedly showing a freshly recovered alien craft with occupants, filmed inside an Air Force hangar. The movie, in color with sound, and of 17 minutes duration, said CM, was in the possession of a person formerly in government service, whom she did not identify. According to CM, the film showed various aspects of high ranking personnel around the craft inside the hangar; one phase, or scene, showing the removal of five alien dead bodies. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>CASE B-7:</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+On a tip from Bill Hamilton of Phoenix, Arizona, at the MUFON Symposium in Houston, June, 1980, I was soon in communication with Ms. CM of Los Angeles, a successful free lance writer who knew about a secret movie allegedly showing a freshly recovered alien craft with occupants, filmed inside an Air Force hangar. The movie, in color with sound, and of 17 minutes duration, said CM, was in the possession of a person formerly in government service, whom she did not identify. According to CM, the film showed various aspects of high ranking personnel around the craft inside the hangar; one phase, or scene, showing the removal of five alien dead bodies. 
 
 "It would be the proof," emphasized CM, who claimed to be in a pivotal bargaining position to discuss the matter with me. Knowing of my UFO work and my public relations experience, she asked for my recommendations for a plan to release the film to the media. Recognized, we agreed, was the need for scientific 
 
@@ -683,7 +748,10 @@ Weeks went by. Nothing. When I called again, I was told only that her source was
 
 In 1981, I heard from another person who knew about the film. "They moved in on him," he said ominously. He did not identify the "they". 
 
-CASE B-8: Allegedly, UFO affairs involving the United States and many world governments are of the highest degree of secrecy. If my "insiders", both here and abroad are correct, there is a high level international exchange of UFO data and a cooperative contingency plan for alien craft retrieval. I have been told on good authority that countries in NATO have close Intelligence ties as does the U.S. with Australia and New Zealand, and some countries in Latin America, Asia and Africa. Some insiders even believe that Russia, and more recently, the Peoples Republic of China, share a close detente on UFO matters. But, except for the sensational "stuff" which gets top billing in some tabloids, precious little of the real tactical or scientific data leak out to trickle down to the researcher. Although stories of crashed alien craft surface from distant lands from time to time, the stories of recovered occupants are rare. Thanks to a new French connection, maybe there is light in the end of the international tunnel. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>CASE B-8:</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+Allegedly, UFO affairs involving the United States and many world governments are of the highest degree of secrecy. If my "insiders", both here and abroad are correct, there is a high level international exchange of UFO data and a cooperative contingency plan for alien craft retrieval. I have been told on good authority that countries in NATO have close Intelligence ties as does the U.S. with Australia and New Zealand, and some countries in Latin America, Asia and Africa. Some insiders even believe that Russia, and more recently, the Peoples Republic of China, share a close detente on UFO matters. But, except for the sensational "stuff" which gets top billing in some tabloids, precious little of the real tactical or scientific data leak out to trickle down to the researcher. Although stories of crashed alien craft surface from distant lands from time to time, the stories of recovered occupants are rare. Thanks to a new French connection, maybe there is light in the end of the international tunnel. 
 
 Word about an alleged French medical consultation, involving a post mortum evalution of two cadavers in the United States, came by letter from Jean Sider of Clichy, France, April 17, 1980. In this letter he referred me to Dr. John Gille, of Paris, with credentials in the Centre National De Richerche Scientific (National Scientific Research Center), an equivalent to NASA. 
 
@@ -822,11 +890,16 @@ What makes the testimony of Fumoux really important is that he delivered it to m
 P.S. About the French UFO crash, Fumoux, at the time I met him (June, 1978) told me another "unbelievable" story: a UFO supposedly crashed in 1975 (7) at Roissy (Charles DeGaulle Airport ,about 10 miles north of Paris). I heard (this) from another source than Fumoux —(broadcasted) about this incident. It's by no way a proof of its genuineness. I think that the French are pretty eager to not lag behind the United States, even in this matter of UFO Crash/Retrievalsl It could be true. It's like for Visse —I would bet 50%-50%. 
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMMENT: During my correspondence with Dr. Gille, I was led to believe by an "inside" source that the "basketball player size" alien entity had been in a mortuary of a medical center in Chicago. Attempts, circuitously, to get verification failed as expected. At this time of writing the case rests on square one. Dr. Gille reminds me, however, there's a 50-50 chance that Prof. Visse or Fumoux, or both, know the truth, and may be playing masquerade. Late word from Dr. Gille, datelined April 16, 1982, Marseilles, France, relates: "I was able to verify that the Fumoux story about the tall humanoids was told independently to Jean Sider by a young French researcher, Thierry Pinvidic, who assured me he had read the story during a tour in the United States in late 1979. He was unfortunately unable to recall where.. .Exhibiting an independent source for the Fumoux story would be an important step forward." 
+<h4>COMMENT:</h4>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+During my correspondence with Dr. Gille, I was led to believe by an "inside" source that the "basketball player size" alien entity had been in a mortuary of a medical center in Chicago. Attempts, circuitously, to get verification failed as expected. At this time of writing the case rests on square one. Dr. Gille reminds me, however, there's a 50-50 chance that Prof. Visse or Fumoux, or both, know the truth, and may be playing masquerade. Late word from Dr. Gille, datelined April 16, 1982, Marseilles, France, relates: "I was able to verify that the Fumoux story about the tall humanoids was told independently to Jean Sider by a young French researcher, Thierry Pinvidic, who assured me he had read the story during a tour in the United States in late 1979. He was unfortunately unable to recall where.. .Exhibiting an independent source for the Fumoux story would be an important step forward." 
 
 Feel assured, despite our difficulty with communications, Dr. Gille and I will pursue the Visse-Fumoux affair to greater depths. 
 
-CASE B-9: Considering the seeming scarcity of Crash/Retrieval reports surfacing from Europe, researchers there, like in the U.S., following the Scully affair, had for years avoided probing the issue. Since the release of my first two papers and, later, the book, The Roswell Incident by Berlitz and Moore, there is a new and strong interest. Among those making serious probes is Michael Heseman of Neues, West Germany. His research, in this pivotal country between the geopolitical East and West, has already provided ample evidence that two aging "little men" photographs of wide circulation, are bogus, and above that good deed, has uncovered some new data of possible significance. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>CASE B-9:</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+Considering the seeming scarcity of Crash/Retrieval reports surfacing from Europe, researchers there, like in the U.S., following the Scully affair, had for years avoided probing the issue. Since the release of my first two papers and, later, the book, The Roswell Incident by Berlitz and Moore, there is a new and strong interest. Among those making serious probes is Michael Heseman of Neues, West Germany. His research, in this pivotal country between the geopolitical East and West, has already provided ample evidence that two aging "little men" photographs of wide circulation, are bogus, and above that good deed, has uncovered some new data of possible significance. 
 
 Concerning one controversial photo which shows a "little man" escorted by two men clothed in trench coats, Heseman states in his letter to me, June 27, 1980: "...It was published first in the Cologne newspaper, the Kolner Stadtanzeiger, April 1, 1950. In Germany we have a custom of the April Hoax. On April 1st, everybody tells lies, even the newspapers." Thus, as his investigation proves, the photo, as we say, was an April Fool's joke. 
 
@@ -841,9 +914,14 @@ Some researchers speculate that the crash site may have been Helgeland, near Osl
 In the following excerpt from his letter of March 20, 1982, Heseman brings a recent development into focus: "There are many rumors here in Germany regarding an alleged crashed flying disc in the Russian occupied sector of Germany in 1981. One witness, living in Berlin claims to have seen little aliens removed by the GDR secret agents. In fact, there was a crash of something at the alleged time, in October, 1981. Newspapers wrote about a green bright object seen in the sky. Scientists believe it was a meteor. It wouldn't be the first recovered saucer in communist countries." 
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMMENT: The alleged crash incident in East Germany, October, 1981, brings to mind another report of UFO activity over Moscow, October 1981. If there is a tie-in, we will not know for secrecy around UFOs abound, whether it is in the Eastern or Western spheres of influence. In England, UFO secrecy is well known. In a letter received from Gordon Creighton, of the British Flying Saucer Review, March 14, 1982, he states in part; "...Here in Britain, one of our top Defense men, Admiral Lord Hill-Newton, stated flatly on BBC television last week that there is a cover-up, and that, when he held Britain's top defense job, he still was prevented from knowing anything about UFOs. He said this at 10:15 p.m. on BBC, 2 Television Channel, in a programe called, "Out of Court". 
+<h4>COMMENT:</h4>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+The alleged crash incident in East Germany, October, 1981, brings to mind another report of UFO activity over Moscow, October 1981. If there is a tie-in, we will not know for secrecy around UFOs abound, whether it is in the Eastern or Western spheres of influence. In England, UFO secrecy is well known. In a letter received from Gordon Creighton, of the British Flying Saucer Review, March 14, 1982, he states in part; "...Here in Britain, one of our top Defense men, Admiral Lord Hill-Newton, stated flatly on BBC television last week that there is a cover-up, and that, when he held Britain's top defense job, he still was prevented from knowing anything about UFOs. He said this at 10:15 p.m. on BBC, 2 Television Channel, in a programe called, "Out of Court". 
 
-CASE B-10: Military movie film on the subject of UFOs, classified, Secret (or above), has been allegedly witnessed by credible informants. See Cases, A-4 and A-9 in Status Report II, and Case B-7 in this paper. In November 1981, a researcher, BR, in Catlettsburg, Kentucky emerged, by letter, to relate that he had read in Situation Red, The UFO Seige, a reference to crashed UFOs and offered a new source, a former GI, who claimed to have witnessed a military movie on UFOs in 1968. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>CASE B-10:</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+Military movie film on the subject of UFOs, classified, Secret (or above), has been allegedly witnessed by credible informants. See Cases, A-4 and A-9 in Status Report II, and Case B-7 in this paper. In November 1981, a researcher, BR, in Catlettsburg, Kentucky emerged, by letter, to relate that he had read in Situation Red, The UFO Seige, a reference to crashed UFOs and offered a new source, a former GI, who claimed to have witnessed a military movie on UFOs in 1968. 
 
 I reached BR by phone, and learned that his career in UFO research was dramatic but brief. Not only had he talked with the ex-GI in 1968, but he also claimed to have had information about a possible UFO crash in Kentucky a couple years earlier. Whatever he had, he believes, it brought strangers of devious behaviour to his home who caused such stress to he and his wife, that he destroyed all of his UFO records and got out of research. That was 12 years ago. 
 
@@ -856,9 +934,14 @@ In 1968 I was introduced to (name confidential) who had just been discharged fro
 weed. and manner of sudden disappearance. He could not recall seeing UFO occupants. They were briefed after the movie and instructed to be on alert for UFO sightings State-side and report same to the Army.. .He gave me the impreson that he did not want to talk to me about it, or to anyone else, and I had to assure him I would not use his name. He also said that the narrator of the movie believed that some UFOs had crashed —and with that, my source dried up. 
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMMENT: I believe that BR's movie source knew more than he said about its content. Under no condition would he talk to me, fearing consequences. Also of note is that BR's concern over one of his visitors gave cause to consider getting his police revolver and making a house arrest, a tactic which was employed by RT in Case A-5. Who were BR's visitors? Because of their nondescript appearance and behavior they can be dubbed "M.I.B.s", but from wherever they came—the C.I.A., F.B.I., the K.G.B. or from space, they certainly intimidated BR and accomplished their purpose. 
+<h4>COMMENT:</h4>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+I believe that BR's movie source knew more than he said about its content. Under no condition would he talk to me, fearing consequences. Also of note is that BR's concern over one of his visitors gave cause to consider getting his police revolver and making a house arrest, a tactic which was employed by RT in Case A-5. Who were BR's visitors? Because of their nondescript appearance and behavior they can be dubbed "M.I.B.s", but from wherever they came—the C.I.A., F.B.I., the K.G.B. or from space, they certainly intimidated BR and accomplished their purpose. 
 
-CASE B-11: Much like the alleged enforcement of censorship cited in Case A-4, which prevented the distribution of Coronet magazine in 1948 to stifle its story on a crash/retrieval in New Mexico of that year, another case reportedly happened during the same year to television. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>CASE B-11:</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+Much like the alleged enforcement of censorship cited in Case A-4, which prevented the distribution of Coronet magazine in 1948 to stifle its story on a crash/retrieval in New Mexico of that year, another case reportedly happened during the same year to television. 
 
 George Fawcett, veteran UFO researcher, author, lecturer of Lincolnton, North Carolina gave me the name, Leon Crice to call who distinctly remembers station WDEL-N, Wilmington, Delaware, being cut off the air when attempting to show a newsreel about a crashed UFO. When I called Crice, in April, 1980, he said, "It was about 1948, maybe later, when my wife and I were watching the news on our new TV set, that a disc-shaped object was shown stuck, slightly tilted, in a sand dune. It had a dome at the top and no windows, he added, and he recalls that the narrator said that it crashed on the Mexican border, near the Rio Grande. 
 
@@ -870,7 +953,10 @@ Going back to another early year, Richard Hall, Editor of MUFON UFO Journal reca
 
 I personally heard a radio news report about a crashed saucer and occupants, one said to be still alive, about 1952 while working in a general store. Being young and naive in those days, I made little effort to document the story beyond listening for additional news on following newscasts (which, of course, never came). I could have, and should have, called the radio station, talked with wire service persons, checked newspapers in a library, etc. Since I didn't, the story remains only an interesting anecdote rather than a documented report. 
 
-CASE B-12: Perhaps the most exotic, if not the most macabre case in my first person report files, was received by phone from Mrs. C.K., January 8, 1980, during a local radio interview. The setting is WrightPatterson AFB, July, 1964, in the Children's Ward of the base hospital. According to Mrs. C. K., her husband, an Air Force serviceman, stationed at Wright-Patterson, was away on duty when she admitted her 18 month old son to the hospital for a pediatric examination. While waiting in the lounge, her figiting child suddenly streaked off down the corridor and managed to squeeze through a swinging door into a room marked, "Isolation. Keep Out!" Mrs C. K. went after him, opened the door to behold a sight she will never forget. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>CASE B-12:</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+Perhaps the most exotic, if not the most macabre case in my first person report files, was received by phone from Mrs. C.K., January 8, 1980, during a local radio interview. The setting is WrightPatterson AFB, July, 1964, in the Children's Ward of the base hospital. According to Mrs. C. K., her husband, an Air Force serviceman, stationed at Wright-Patterson, was away on duty when she admitted her 18 month old son to the hospital for a pediatric examination. While waiting in the lounge, her figiting child suddenly streaked off down the corridor and managed to squeeze through a swinging door into a room marked, "Isolation. Keep Out!" Mrs C. K. went after him, opened the door to behold a sight she will never forget. 
 
 On the bed, without sheets or pillows, was a torso-like hulk of flesh which CK described as looking like an uncooked pot roast. Without arms or legs, she said it had a crease down the middle and inserted at each end was a tube running from an intravenous apparatus holding a bottle of clear fluid. The windows were shut, she said, and there were no chairs and only a dim light coming from a wall. 
 
@@ -878,9 +964,15 @@ On the bed, without sheets or pillows, was a torso-like hulk of flesh which CK d
 
 The next day Mrs.C. K. returned to the Children's Ward, by appointment, and when she chose to apologize again for the "fuss" her child had caused the day before, she was surprised to find the nurse in a friendlier mood and even more surprised when she ushered her to the room, now without the "Isolation" sign, which unoccupied, had the appearance of being quite normal —with the sheets and pillows on the bed, chairs, and the blinds wide open. The nurse however, did not volunteer a comment on the room's "occupant" and Mrs. C. K. was too scared to ask. 
 
-COMMENT: While Mrs. CK's mysterious "whatzit" may provoke only a good laugh, the point here is that she, understandably, was shocked by the sight of something seemingly out of place. Her guess was that it might have been the limbless body of an alien put there where it would cause the least suspicion. Whatever the case, "The Thing" will remain a mystery unless the doctor in charge should someday confess that he and cohorts were intravenously feeding Worchestershire sauce to a pot roast for a clandestine feast. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h4>COMMENT:</h4>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+While Mrs. CK's mysterious "whatzit" may provoke only a good laugh, the point here is that she, understandably, was shocked by the sight of something seemingly out of place. Her guess was that it might have been the limbless body of an alien put there where it would cause the least suspicion. Whatever the case, "The Thing" will remain a mystery unless the doctor in charge should someday confess that he and cohorts were intravenously feeding Worchestershire sauce to a pot roast for a clandestine feast. 
 
-CASE B-13: When Prof. John Spencer Carr, of Clearwater, Florida, hit the newswires in 1974 with his "little men" story, his was a voice in the wilderness. He stood quite alone, undaunted in a world of disbelief —which included, I dare say, ufologists who had not forgotten Scully. (See Item B-12, Status Report II.) His disclosure, like Scully's, dealt with the 1948 Aztec, New Mexico crash/retrieval incident. Speaking in Palm Beach, Florida, Carr claimed he had strong testimonial backup from five sources, including a nurse and high ranking Air Force officer. He declined to name his sources. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>CASE B-13:</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+When Prof. John Spencer Carr, of Clearwater, Florida, hit the newswires in 1974 with his "little men" story, his was a voice in the wilderness. He stood quite alone, undaunted in a world of disbelief —which included, I dare say, ufologists who had not forgotten Scully. (See Item B-12, Status Report II.) His disclosure, like Scully's, dealt with the 1948 Aztec, New Mexico crash/retrieval incident. Speaking in Palm Beach, Florida, Carr claimed he had strong testimonial backup from five sources, including a nurse and high ranking Air Force officer. He declined to name his sources. 
 
 Since 1974, I have discussed the Aztec event several times with Prof. Carr, always hoping he would share a name or two, but he would not budge. 
 
@@ -890,9 +982,15 @@ When Prof. Carr named his source, I sat back dumbfounded. I knew his name well i
 
 Added Prof. Carr: "My key witness participated in the 1948 retrieval and saw the alien bodies on location." 
 
-COMMENT: Of course, I must uphold Prof. Carr's request and, as promised, protect the officer who allegedly went to the Aztec retrieval site. Personally, I had never placed much credence in the Aztec case as I understood its particulars from Scully to Carr, however, since the private disclosure of the identity of the key witness I find that I must, again, re-evaluate the whole affair. It seems that no matter how hard one tries to dismiss one event or another, a new affirmative clue always seems to surface. Still another provocative disclosure possibly skin to the Aztec case is in the foiftwing item, B-14. Also of note is that Prof. Carr's disclosure about the Aztec case coincides with the year 1974, when allegedly the U.S. Government was to announce that UFOs were extraterrestrial (see Case B-3, in this paper). Was Carr's revelation a trial balloon? 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h4>COMMENT:</h4>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+Of course, I must uphold Prof. Carr's request and, as promised, protect the officer who allegedly went to the Aztec retrieval site. Personally, I had never placed much credence in the Aztec case as I understood its particulars from Scully to Carr, however, since the private disclosure of the identity of the key witness I find that I must, again, re-evaluate the whole affair. It seems that no matter how hard one tries to dismiss one event or another, a new affirmative clue always seems to surface. Still another provocative disclosure possibly skin to the Aztec case is in the foiftwing item, B-14. Also of note is that Prof. Carr's disclosure about the Aztec case coincides with the year 1974, when allegedly the U.S. Government was to announce that UFOs were extraterrestrial (see Case B-3, in this paper). Was Carr's revelation a trial balloon? 
 
-CASE B-14: The 1948 Aztec, New Mexico case, long disputed, keeps coming back to life as new bits and pieces circuitously surface. Among Tommy Blann's research acquaintances is Ronald West, Dallas, Texas, who offered the following comment by letter dated April 15, 1982: 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>CASE B-14:</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+The 1948 Aztec, New Mexico case, long disputed, keeps coming back to life as new bits and pieces circuitously surface. Among Tommy Blann's research acquaintances is Ronald West, Dallas, Texas, who offered the following comment by letter dated April 15, 1982: 
 
 As you asked in our phone conversation last week, I am relating some incidents pertaining to UFOs given me by a friend that I consider to be completely reliable and of sound mind. The incidents were related during a private group meeting, which was taped and referred to before the writing of this letter. The tape was made February 13, 1976. 
 
@@ -902,16 +1000,26 @@ this gathering. The craft had come to a bad end, apparently crashed, although ph
 The speaker before our assembled group described a personal relationship between Silas Newton and himself, plus a third party who had access to certain records contained within Project Blue Book. Certain of these records revealed data concerning twenty-seven separate craft that had come to a bad end, presumably crashed at different times and locations around the globe. Of those craft that were downed within the United States, names of clergymen and chaplains, who administered burial rites, under requirement of law, were recorded. The burial rites were performed in various centers in the United States for 'little people", "normal-sized people" and "big people". 
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMMENT: West's informant, who claims to know the identities of some of the clergymen involved in the administration of burial rites, has held a key position with a well-known industrialist. Questionable in the eyes of research is Silas Newton, the wealthy oil mogul, whose role in the case (described by Frank Scully) had been subsequently discredited. Of course, my UFO files show others like Newton,with sensitive information who have emerged to tell the truth, have also been discredited. 
+<h4>COMMENT:</h4>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+West's informant, who claims to know the identities of some of the clergymen involved in the administration of burial rites, has held a key position with a well-known industrialist. Questionable in the eyes of research is Silas Newton, the wealthy oil mogul, whose role in the case (described by Frank Scully) had been subsequently discredited. Of course, my UFO files show others like Newton,with sensitive information who have emerged to tell the truth, have also been discredited. 
 
-ADDENDUM: Also of interest in respect to the Aztec case is information sent to me by letter May 4, 1982, from Richard W. Heiden, MUFON, Milwaukee, Wisconsin. With extensive correspondence with researchers in Spanish-speaking countries, his letter from Antonio Ribera of Barcelona, Spain, states: 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>ADDENDUM:</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+Also of interest in respect to the Aztec case is information sent to me by letter May 4, 1982, from Richard W. Heiden, MUFON, Milwaukee, Wisconsin. With extensive correspondence with researchers in Spanish-speaking countries, his letter from Antonio Ribera of Barcelona, Spain, states: 
 
 In Mexico in 1970, my friend, publisher Guillermo Mendizabal Fizalde, told me that he attended a gathering where Licenciado (a title given to someone holding a Master's Degree—RWH), Miguel Aleman, who had been president of Mexico, was present. The subject of conversation was flying saucers and Miguel Aleman was listening in silence. One of those present asked him what his opinion of the subject was, and then Aleman said that when he was President, General Eisenhower—at that time president of the United States—visited Mexico, and president-to-president, told him that he once visited an air base in the Southwest United States, where they showed him a flying disc and the cadavers of several of its crew members. This information seems very interesting to me, as it confirms everything that Stringfield has uncovered... 
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-COMMENT: As Prof. Robert S. Carr and others have related, President Eisenhower was called to the Muroc airbase (later Edwards AFB) in 1948 to see firsthand the captive craft from Aztec, and it was on his command that the secrecy lid was clamped on UFOs and rigidly enforced. In 1979, Carr gave me a luridly detailed account of the Eisenhower visit to the air base according to one of his firsthand witnesses. Heiden commenting on the Ribera story, points out that Aleman left the presidency of Mexico on December 1, 1952, one and a half months before Ike became President of the United States. "Maybe," states Heiden, "the meeting was really president-to-ex-president." 
+<h4>COMMENT:</h4>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+As Prof. Robert S. Carr and others have related, President Eisenhower was called to the Muroc airbase (later Edwards AFB) in 1948 to see firsthand the captive craft from Aztec, and it was on his command that the secrecy lid was clamped on UFOs and rigidly enforced. In 1979, Carr gave me a luridly detailed account of the Eisenhower visit to the air base according to one of his firsthand witnesses. Heiden commenting on the Ribera story, points out that Aleman left the presidency of Mexico on December 1, 1952, one and a half months before Ike became President of the United States. "Maybe," states Heiden, "the meeting was really president-to-ex-president." 
 
-CASE B-15: What seemed to be a case of great potential, including the emergence of photographs of a "saucer" in military custody, became less so with the passing of time. Following a series of alleged interferences, my sources, fearing even greater consequences, backed off into oblivion. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>CASE B-15:</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+What seemed to be a case of great potential, including the emergence of photographs of a "saucer" in military custody, became less so with the passing of time. Following a series of alleged interferences, my sources, fearing even greater consequences, backed off into oblivion. 
 
 My source, AF, acting as intermediary for his brother, Pete, a former marine who surreptitiously snapped the photographs, first called me from Kingston, New York early in December 1981. According to AF, his brother who resided "somewhere" in Florida, would soon visit Kingston and, together if necessary, they would be willing to fly to Cincinnati to see me in person with photographs and other back-up material. Of prime interest were six photographs, said AF, two of which were taken by Pete with help from a buddy, TO, of a saucer-like craft in a hangar at a Naval Air base in Yuma, Arizona in 1967. Pete, he added, who got into trouble over the photos, went AWOL and fled to Mexico, but was safe now "out of reach of the authorities" aboard a shrimp boat. 
 
@@ -927,20 +1035,23 @@ Then, after a long pause, he asked, "Did you get my registered letters?" When I 
 
 Of course, I asked him to send me his half of the stubs bearing my name and address so that I could follow-up on tracing the letters from this end, but he confessed to mislaying them. Feeling a mixture of chagrin and pu77Iement, I switched my subject to inquire about the "agency" who caught up with Pete. AF's response was quick, 'They got to him through my father who works at a veterans hospital in Florida. The agent told Dad he was with the IRS, but that was just a front to reach Pete." When I asked him to be more specific, he declined to answer. Something had happened to scare the"F" family, something not being told over the phone. AF's last words were that he would make one more attempt to send me the two photos. "Give me a month", he said, "I think I have a sure way." 
 
-COMMENT: The letter he was to send a "sure way" never arrived. The AF case, if not a ploy, bears semblance in some respects to Case A-5 in this paper. If such conspiracies are real, then it suggests that the perpetrators will resort to any means to ferret out —or snuff out —the informant with vital UFO information. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h4>COMMENT:</h4>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+The letter he was to send a "sure way" never arrived. The AF case, if not a ploy, bears semblance in some respects to Case A-5 in this paper. If such conspiracies are real, then it suggests that the perpetrators will resort to any means to ferret out —or snuff out —the informant with vital UFO information. 
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>THE INTERMINABLE CASES</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 Behind the assortment of intermediary reports are all kinds of people. Some in all sincerity, claim to know a potential source but fail in their effort to get results for reasons beyond their control. Of this kind, one may have an "Uncle" in-the-know, but when approached, "Uncle" won't talk. Or, it may be, simply, that their source had second thoughts. Some others, when their source encounters interference, soon get bogged down themselves in a chilling drama of high intrigue. They range from phone threats, a visit by a stranger, or, when their information sent by mail, never arrives. Then, of course, there are a few intermediaries that are borderline themselves. 
 
 The interminable case, for whatever reason, surfaces too often in my work, especially since the release of my Status Report II. For the record, following are examples of reports of all kinds reaching me that belong to history: 
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ITEM A: Mrs. B of Cincinnati, claimed friendship through church affairs with Mr. D., an engineer whose work frequently took him to Wright-Patterson for his expertise. According to Mrs. B, her friend had "worked on the alien craft" at the base, so I tried to arrange an interview. In the beginning it was a likely prospect, but after more than a dozen phone calls over a span of time, Mr. D was never available and during that period never attended church. Finally, she said, he got married and had no time to discuss the subject. 
 
-ITEM B: SB, employed in a responsible position at P&G, Cincinnati, watched my interview on crashed UFOs on WCPO-TV, February, 1980. Interested, he called and visited my home, relating that he recalled in-. 
-
-formation told to him by his father, an officer in the Air Force, before his death in 1969. According to SB, his father had worked on the alien craft at Wright-Patterson in 1952 and knew about retrieval operations, but the details were vague. Hopefully, he said, his uncle, who also worked at Wright-Patterson with high security clearance, and who shared information with his father, might be willing to talk. Also, he said, his mother should remember some details. He assured me that he would make arrangements, but after several follow-up calls, nothing developed. His uncle, he said, could not be reached, and his mother, preferred to be respectfully silent. 
+ITEM B: SB, employed in a responsible position at P&G, Cincinnati, watched my interview on crashed UFOs on WCPO-TV, February, 1980. Interested, he called and visited my home, relating that he recalled information told to him by his father, an officer in the Air Force, before his death in 1969. According to SB, his father had worked on the alien craft at Wright-Patterson in 1952 and knew about retrieval operations, but the details were vague. Hopefully, he said, his uncle, who also worked at Wright-Patterson with high security clearance, and who shared information with his father, might be willing to talk. Also, he said, his mother should remember some details. He assured me that he would make arrangements, but after several follow-up calls, nothing developed. His uncle, he said, could not be reached, and his mother, preferred to be respectfully silent. 
 
 ITEM C: Researcher Carl McMillan, during the MUFON Symposium in Houston, 1980, gave me the name of G. d'A, a French-born American citizen whose uncle, a R & D physicist working at the Pentagon knew about crashed UFOs and occupants. When I called Gee, I was told to present my credentials by letter and that it would be "forwarded for consideration" to his uncle in Washington, D. C. According to Gee, his uncle worked on a non-metal section of an alien craft, and, he did see the deceased occupants which he described as being similar to those in my monographs. Later, when I called, he said my letter, and enclosed monograph, of June 27, 1980, had been forwarded as promised, but he got no reply. Several weeks later I tried to reach Gee by phone and learned from the landlady of his apartment that he had returned to France. 
 
@@ -951,7 +1062,6 @@ ITEM E: Dr. X, a medical doctor, works at Wright-Patterson. Richard Hoffman, res
 ITEM F: Danny Perkins, UFO and radionics researcher, Las Vegas, Nevada, gave me a source name, Mr. E, an engineer in California who, allegedly, had worked on the alien craft in the military. As good friends and reciprocal in business practices, Mr. E had told Perkins about some of the details of the craft. When I called Mr. E, however, he was surprised by my call and said that Perkins must have meant his brother in another California city. When I called to speak to the other Mr. E, he replied that I had the wrong brother. In fact, neither Mr. E could recall any past relationship with Perkins. Perkins, when told this, was totally flabbergasted. 
 
 ITEM G: When Dick Hall and I were preparing to leave with Tom Deuley in his van from the MUFON Symposium in Houston, June, 1980, Norma Lindblad, RN, asked for a ride to Texarkana, her home. As soon as we got underway, the subject of alien craft and the recovered bodies was brought up and to our surprise, she said she had a close friend, Evelyn McCormack, who had known a source in the Air Force who had seen both. 
-
 In short time, Norma was in touch with Evelyn who, in turn, sent me a letter recalling her talk with the source she knew as Hank. According to Evelyn, she met Hank, a radar specialist assigned to the local base in Texarkana, at a NCO club. One evening she asked him if he ever had seen a UFO. To her surprise, he said that he had seen one close-up, not in Texarkana, but while in service at another airbase, which he did not name. At this base, said Evelyn, he claimed that he had seen one under heavy guard that had been retrieved—and also the bodies. She said Hank described them as 3-1/2 to 4-1/2 feet tall with large round heads and wearing metallic suits. Evelyn said she lost track of her friend, but knew that he lived in Pratt, Kansas. Norma and I tried to trace him but were unsuccessful. 
 
 ITEM H: Barbara Schutte, researcher, Weyer, Iowa, is acquainted with a family, a member of which (name on file), as a professional photographer with a studio in Chicago, was assigned in 1974 to take pictures of live aliens recovered from a crashlanded craft somewhere in Texas. When Barbara first reached him by phone at his studio she said he was friendly, until she asked about the retrieval in Texas. He abruptly hung up, she said. She called again later, on my request and to assure him of anonymity. His phone had been disconnected. Later, she learned from the photographer's mother that to her surprise, her son had moved to Texas, address unknown. 
