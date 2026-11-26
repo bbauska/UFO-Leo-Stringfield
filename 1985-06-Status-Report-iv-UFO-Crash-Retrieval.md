@@ -1,14 +1,16 @@
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 1985-06-Status-Report-IV-UFO-Crash-Retrieval.md ~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ in UFO-Leo-Stringfield ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h1>STATUS REPORT IV - UFO CRASH/RETRIEVALS</h1
+<h1>STATUS REPORT IV - UFO CRASH/RETRIEVALS</h1>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>Part 1: UFO Crash/Retrievals: Status Report IV - Fatal Encounter At Ft. Dix-McGuire</h2>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Pages 41-65 of the MUFON 1985 UFO Symposium Proceedings are entitled,
 "The Fatal Encounter At Ft. Dix-McGuire: A Case Study: Status Report IV" © 1985 by Leonard H. Stringfield.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>ABSTRACT</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Leonard H. Stringfield: New testimonial evidence and a document are bared in Status Report IV, following 
 the re-emergence in 1983 of the informant whose experience, as a witness, was first disclosed three 
 years earlier and published as Case A3 in Status Report III, 1982. The source, a sergeant in the U. 
@@ -21,7 +23,8 @@ with the source since 1980 and an arranged meeting between the source and a coll
 credibility to the case. Investigation continues.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3>PROLOGUE: THE BURDEN OF PROOF</h3
+<h3>PROLOGUE: THE BURDEN OF PROOF</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Proof! The burden of this one word, and perhaps its ambiguity, has haunted and frustrated UFO research 
 since businessman-pilot, Ken Arnold, sighted nine saucer-like things over Mt. Rainier in 1947. Proof! 
 Its implications burden all of us who try to convince the skeptic that unidentified objects, flying 
@@ -85,6 +88,7 @@ published in Status Report III, UFO Crash Retrievals: Amassing The Evidence
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>THE EVIDENCE AND ITS BURDEN OF PROOF</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 September 23, 1980, was to become more than just a typically busy day for me in
 UFO matters. According to my UFOLOG, I note that I had communications by
 phone and mail with Joe Brill, Michael Dougan, Bob Gribble, Diane Saghe, and a
@@ -216,9 +220,9 @@ from one of the intelligence agencies? Whatever the method used to silence Jeffr
 Morse, I reasoned, it was effective. All communications ceased. Like so many other
 informants in 1980, Morse became a phantom."
 
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3>Part 2: UFO Crash/Retrievals: Status Report IV - Fatal Encounter At Ft. Dix-McGuire</h3>
+<h2>Part 2: UFO Crash/Retrievals: Status Report IV - Fatal Encounter At Ft. Dix-McGuire</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 © January 1985 by Leonard H. Stringfield
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- image -->
@@ -356,17 +360,15 @@ Morse had opaqued out the social security numbers opposite each name in the repo
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Part 3: UFO Crash/Retrievals: Status Report IV - Fatal Encounter At Ft. Dix-McGuire</h3>
-© January 1985 by Leonard H. Stringfield
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<cite>© January 1985 by Leonard H. Stringfield</cite>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- image 7 -->
 McGuire AFB and Fort Dix Military Reservation near Wrightstown, New Jersey, are near the U. S. Naval Air
-Station
-in Lakehurst, New Jersey. The bases are about 45 miles east of Philadelphia, 50 miles south of New York
-City,
-60 miles north of Atlantic City and 10 miles west of the Atlantic ocean. The Fort Dix / McGuire
-Air Force Base / Lakehurst Naval Air Station complex covers 42,000 acres.
+Station in Lakehurst, New Jersey. The bases are about 45 miles east of Philadelphia, 50 miles south 
+of New York City, 60 miles north of Atlantic City and 10 miles west of the Atlantic ocean. The Fort 
+Dix / McGuire Air Force Base / Lakehurst Naval Air Station complex covers 42,000 acres.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
 <b>Leonard H. Stringfield:</b> "The document is avowedly not proof. For it to be established
 as bona fide would, in turn, require additional irretrievable reports, memoranda, tapes, ad
 infinitum. In this regard, however, Morse said on several occasions that he had attempted
@@ -550,6 +552,7 @@ apparently further away from the patrolman than that,' Stringfield said.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Up Close.</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 'But the girl is another story. She apparently saw it up close - it was just above her.'
 Jones says the flight of the UFO was erratic. He said on the face of a clock, it
 plotted a course from 3 o'clock to 9, up to 12, down to 6 - roughly making the
@@ -571,6 +574,7 @@ newspaper article) feet above her and was the size of a car.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>'Nothing to gain.'</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Melody said the object appeared to land somewhere in the vicinity of the Florence
 Drive-in, which is closed for the season.
 
@@ -590,6 +594,7 @@ to gain.' Jones has aid he has been ridiculed and laughed at since his sighting.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Wants Corroboration</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Stringfield also finds it encouraging that neither Jones nor Melody Harris have seen
 the movie, Close En counters of the Third Kind. [Editor's Note: Feature film by
 Director Steven Spielberg.] He says that helps their credibility. Although
@@ -627,7 +632,8 @@ Continued in Part 4 - Alien Retrieval Operation at Ft. Dix-McGuire
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>FINAL Part 4: UFO Crash/Retrievals: Status Report IV - Fatal Encounter At Ft. Dix-McGuire</h3>
-© January 1985 by Leonard H. Stringfield
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<cite>© January 1985 by Leonard H. Stringfield</cite>
 
 <blockquote>
 "[After the shooting of the non-human entity], taking command was a new and
@@ -746,6 +752,7 @@ identification of a social security or military serial number.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>4. Surveillance?</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Morse believes that his problem of living under the burden of surveillance began with his
 first letter to me from overseas. If we can assume for a moment that Morse's story is true,
 then we can also assume that such UFO-related military incidents are safeguarded by any
@@ -799,6 +806,7 @@ things are related.'
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>5. Analogy: The Ellsworth Case.</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 In a James Bond movie, we all can recognize James Bond. But in UFO research we
 cannot always identify the real Bond from a bogus Bond. For certain, however, intrigue
 is highly visible in Bond of fiction and in some areas of UFO research, especially in the
@@ -849,6 +857,7 @@ In short, what Morse was saying was, 'Where's the source?'
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>6. Jeffrey Morse: The Person.</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 In the Ellsworth case, the informant who never surfaced was remiss with facts in his
 Incident/Complaint Report. In the Ft. Dix-McGuire case, however, its bedrock of
 strength is not wholly reliant on the report, which was obtained for him by another source
@@ -901,6 +910,7 @@ his image, style or demeanor.'
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>SUMMARY COMMENTS</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <b>Leonard Stringfield:</b> In bringing my report to a close, I recognize the need for more
 information about the shooting episode at Ft. Dix and the nature of the body retrieved
 from McGuire. But for the moment, the testimony of the one and only available witness
